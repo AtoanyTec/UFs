@@ -11,4 +11,4 @@
 ## 🛠️ ¿Cómo usar estos códigos?  
 1. **Descarga o clona** este repositorio:  
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/AtoanyTec/UFs/tree/main/MR2022/FJ2025/Arduino
