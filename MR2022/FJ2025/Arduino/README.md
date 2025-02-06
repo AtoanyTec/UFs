@@ -32,3 +32,9 @@ void setup() {
 void loop() {
   // Código principal que se ejecuta repetidamente
 }
+
+## 📞 Contacto
+
+Si tienes dudas o necesitas ayuda, abre un issue en el repositorio o consulta con el equipo docente.
+
+📢 ¡Explora, aprende y experimenta con Arduino! ⚡🤖
