@@ -1,5 +1,5 @@
 
-# 🚀 MR2022 - Unidad de Formación  
+# 🚀 MR2022 - Análisis de elementos de la mecatrónica  
 
 ¡Bienvenido al repositorio de **MR2022**! 🎯 Aquí encontrarás todos los recursos necesarios para la unidad de formación, incluyendo prácticas de laboratorio, documentos clave y la definición de la situación problema que enfrentarás en este curso.  
 
