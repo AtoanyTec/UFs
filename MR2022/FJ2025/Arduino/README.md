@@ -36,6 +36,6 @@ void loop() {
 
 ## 📞 Contacto
 
-Si tienes dudas o necesitas ayuda, abre un issue en el repositorio o consulta con el equipo docente.
+Si tienes dudas o necesitas ayuda, abre un issue en el repositorio o consulta a tu profesor al correo afierror@tec.mx
 
 📢 ¡Explora, aprende y experimenta con Arduino! ⚡🤖
