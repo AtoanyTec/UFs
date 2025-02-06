@@ -7,7 +7,6 @@ int LED = 8;
 void setup() {
   //Configuración del pin como salida
   pinMode(LED, OUTPUT);
-
 }
 
 void loop() {
