@@ -13,4 +13,22 @@
    ```bash
    git clone https://github.com/AtoanyTec/UFs/tree/main/MR2022/FJ2025/Arduino
 
-2. **Descarga o clona** este repositorio:  
+2. Abre el archivo con extensión .ino en el IDE de Arduino.
+3. Conecta tu placa Arduino a la computadora mediante USB.
+4. Selecciona la placa y el puerto correcto en el IDE de Arduino.
+5. Sube el código a la placa haciendo clic en el botón de "Cargar" 🚀.
+
+## 📜 Estructura del código
+Cada programa de Arduino sigue una estructura estándar:
+   ```bash
+// 📌 Descripción breve del código
+// Autor: [Nombre]
+// Fecha: [DD/MM/AAAA]
+
+void setup() {
+  // Configuración inicial: pines, velocidad de comunicación, etc.
+}
+
+void loop() {
+  // Código principal que se ejecuta repetidamente
+}
