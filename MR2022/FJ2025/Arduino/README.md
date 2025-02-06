@@ -32,6 +32,7 @@ void setup() {
 void loop() {
   // Código principal que se ejecuta repetidamente
 }
+```
 
 ## 📞 Contacto
 
