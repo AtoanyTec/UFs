@@ -40,7 +40,7 @@ Implementa un controlador **PID** en Simulink para que el robot se detenga exact
 
 ### **1.4. Control PID en Robots Móviles** 🎛️
 - **Controlador PID (Proporcional-Integral-Derivativo)**: Es un sistema de control que ajusta la velocidad del robot en función del error entre la posición deseada y la posición actual.
-  - **Controlador Proporcional (P)**: $\( P = k_p \times e(t) \)
+  - **Controlador Proporcional (P)**: $\( P = k_p \times e(t) \)$
   - **Controlador Integral (I)**: \( I = k_i \int e(t) \, dt \)
   - **Controlador Derivativo (D)**: \( D = k_d \frac{de(t)}{dt} \)
   - **Controlador PID**: \( PID = k_p e(t) + k_i \int e(t) \, dt + k_d \frac{de(t)}{dt} \)
