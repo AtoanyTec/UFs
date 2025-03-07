@@ -1,4 +1,4 @@
-### Guía de Estudio para Mecatrónica (MR2022) 📚
+# Guía de Estudio para Mecatrónica (MR2022) 📚
 
 Esta guía de estudio está diseñada para ayudarte a prepararte para los exámenes y prácticas de la materia de Mecatrónica. Cubre los conceptos clave, prácticas, y preguntas frecuentes que podrías encontrar en los quizzes y exámenes. Asegúrate de revisar cada sección detalladamente y practicar con los ejemplos proporcionados.
 
