@@ -87,7 +87,7 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para los exáme
   - ¿Cómo se configura un pin como salida en Arduino? 💻
 
 #### **Práctica 2: Sensores y Actuadores** 📡🔧
-- **Objetivo:** Aprender a usar sensores (como el LM35) y actuadores (como motores).
+- **Objetivo:** Aprender a usar sensores (como el DHT11) y actuadores (como motores).
 - **Conceptos clave:** Lectura de sensores, control de actuadores, uso del monitor serie.
 - **Preguntas frecuentes:**
   - ¿Qué rango de voltaje necesita el sensor DHT11 para operar? 🔋
