@@ -53,7 +53,7 @@ Implementa un controlador **PID** en Simulink para que el robot se detenga exact
   3. Analizar el desempeño del sistema y optimizar los parámetros para mejorar la estabilidad y precisión. 📊
 
 #### **Ejercicio 3**:
-Implementa un controlador **PI** con una ganancia \( k_p = 5 \) y \( k_i = 1 \). Analiza las ventajas y desventajas del sistema. 📈📉
+Implementa un controlador **PI** con una ganancia $\( k_p = 5 \)$ y $\( k_i = 1 \)$. Analiza las ventajas y desventajas del sistema. 📈📉
 
 ---
 
