@@ -33,19 +33,19 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 #### **Conceptos Clave:**
 - **Álgebra Booleana:** Es un marco matemático para realizar operaciones lógicas y analizar sistemas binarios. 🔍
 - **Leyes Básicas:**
-  - **Ley de Identidad:** \( A \bullet 1 = A \) y \( A + 0 = A \). 🆔
-  - **Ley de Complemento:** \( A + \overline{A} = 1 \) y \( A \bullet \overline{A} = 0 \). 🔄
-  - **Ley Distributiva:** \( A \bullet (B + C) = (A \bullet B) + (A \bullet C) \). ➗
-  - **Ley de Morgan:** \( \overline{A + B} = \overline{A} \bullet \overline{B} \) y \( \overline{A \bullet B} = \overline{A} + \overline{B} \). 🧙‍♂️
+  - **Ley de Identidad:** $\( A \bullet 1 = A \)$ y $\( A + 0 = A \)$. 🆔
+  - **Ley de Complemento:** $\( A + \overline{A} = 1 \$) y $\( A \bullet \overline{A} = 0 \)$. 🔄
+  - **Ley Distributiva:** $\( A \bullet (B + C) = (A \bullet B) + (A \bullet C) \)$. ➗
+  - **Ley de Morgan:** $\( \overline{A + B} = \overline{A} \bullet \overline{B} \)$ y $\( \overline{A \bullet B} = \overline{A} + \overline{B} \)$. 🧙‍♂️
 
 #### **Simplificación de Expresiones Booleanas:**
 - **Propósito:** Reducir el costo, el consumo de energía y las redundancias en el circuito. 💡
 - **Herramientas:** Tablas de verdad, mapas de Karnaugh y leyes booleanas. 🛠️
 
 #### **Ejercicios de Práctica:**
-1. Simplifica la expresión booleana \( Y = A \bullet B + \overline{C} \). 🧮
+1. Simplifica la expresión booleana $\( Y = A \bullet B + \overline{C} \)$. 🧮
 2. Demuestra la propiedad distributiva utilizando tablas de verdad. 📊
-3. Simplifica la expresión \( Y = A \bullet (B + \overline{A}) \). 🧮
+3. Simplifica la expresión $\( Y = A \bullet (B + \overline{A}) \)$. 🧮
 
 ---
 
@@ -66,8 +66,8 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 
 #### **Ejercicios de Práctica:**
 1. Dibuja la tabla de verdad para una compuerta XOR de dos entradas. 📊
-2. Implementa la expresión \( Y = A \bullet B + \overline{C} \) utilizando compuertas lógicas. 🛠️
-3. ¿Qué compuerta lógica se necesita para implementar la expresión \( Y = \overline{A + B} \)? 🤔
+2. Implementa la expresión $\( Y = A \bullet B + \overline{C} \)$ utilizando compuertas lógicas. 🛠️
+3. ¿Qué compuerta lógica se necesita para implementar la expresión $\( Y = \overline{A + B} \)$? 🤔
 
 ---
 
@@ -83,7 +83,7 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 - **Validación de Circuitos:** Se realiza comparando los resultados de las salidas con la tabla de verdad. 📊
 
 #### **Ejercicios de Práctica:**
-1. Diseña un circuito que implemente la expresión \( Y = A \bullet B + \overline{C} \). 🛠️
+1. Diseña un circuito que implemente la expresión $\( Y = A \bullet B + \overline{C} \)$. 🛠️
 2. ¿Qué sucede si no se conecta correctamente el pin GND de un circuito integrado? 🤔
 3. ¿Qué pasa si se conecta un LED sin una resistencia en el circuito? 💡
 
@@ -97,10 +97,10 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 
 #### **Ejercicios de Práctica:**
 1. Simplifica la siguiente función utilizando un mapa de Karnaugh:
-   \[
+   $'\[
    F(A, B, C) = \sum (0, 1, 2, 4, 5, 6)
-   \]
-2. Obtén la tabla de verdad y simplifica la función \( F(x, y, z) \) utilizando un mapa de Karnaugh. 📊
+   \]'$
+2. Obtén la tabla de verdad y simplifica la función $\( F(x, y, z) \)$ utilizando un mapa de Karnaugh. 📊
 
 ---
 
@@ -108,7 +108,7 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 
 #### **Problemas Complejos:**
 1. Diseña un circuito de control para una alarma que se active cuando al menos tres de cuatro detectores estén activados. Si solo dos detectores están activados, la alarma puede activarse o no. La alarma nunca debe activarse si solo un detector o ninguno está activado. 🚨
-2. Simplifica la expresión booleana \( Y = A \bullet B + \overline{A} \bullet C + A \bullet \overline{B} \) utilizando mapas de Karnaugh. 🧮
+2. Simplifica la expresión booleana $\( Y = A \bullet B + \overline{A} \bullet C + A \bullet \overline{B} \)$ utilizando mapas de Karnaugh. 🧮
 
 ---
 
