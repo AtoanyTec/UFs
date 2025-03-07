@@ -112,12 +112,6 @@ Implementa un filtro de Sobel en MATLAB para detectar bordes en una imagen en es
   - **Introducción a la Visión Artificial**, COGNEX. 📖
   - **Visión Computacional.pptx**. 📄
 
----
-
-## **4. Evaluación** 📝
-- **Simulaciones en Simulink**: Se evaluará la implementación de los controladores PID y la simulación de navegación autónoma. 🧪
-- **Procesamiento de Imágenes**: Se evaluará la aplicación de filtros y técnicas de detección de bordes en MATLAB. 🖼️
-- **Reportes y Análisis**: Se espera que los estudiantes presenten reportes detallados con análisis de resultados y conclusiones. 📊
 
 ---
 
