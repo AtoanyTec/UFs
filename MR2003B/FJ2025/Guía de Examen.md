@@ -67,7 +67,7 @@ Esta guía de estudio está diseñada para ayudarte a prepararte para el examen 
 #### **Ejercicios de Práctica:**
 1. Dibuja la tabla de verdad para una compuerta XOR de dos entradas. 📊
 2. Implementa la expresión $\( Y = A \bullet B + \overline{C} \)$ utilizando compuertas lógicas. 🛠️
-3. ¿Qué compuerta lógica se necesita para implementar la expresión $\( Y = \overline{A + B} \)$? 🤔
+3. ¿Qué compuerta lógica se necesita para implementar la expresión $\( Y = \overline{(A + B)} \)$? 🤔
 
 ---
 
