@@ -20,11 +20,11 @@ Calcula la distancia entre el centro instantáneo de rotación y la llanta trase
 ### **1.3. Navegación Autónoma** 🧭
 - **Dead Reckoning**: Es un método de estimación de posición basado en la dirección y distancia recorrida desde un punto inicial. Se utiliza información de los **encoders** de las ruedas para calcular la distancia recorrida.
   - **Fórmula de Distancia Recorrida**:
-  ´´´math
+  
     \[
     \text{Distancia recorrida} = k \times 2\pi R
     \]
-    ´´´
+    
     Donde \( k \) es el número de vueltas de la rueda y \( R \) es el radio de la rueda. 📏
 
 #### **Experimento 7: Dead Reckoning** 🧪
