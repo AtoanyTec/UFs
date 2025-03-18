@@ -60,6 +60,17 @@ Diseñar y construir un prototipo a escala de un **rack** que permita clasificar
 | **Aplicación de las 5S**    | El prototipo aplica de manera excelente los principios de las 5S.                    | El prototipo aplica los principios de las 5S, pero con algunas omisiones.         | El prototipo aplica parcialmente los principios de las 5S.                        | El prototipo no aplica los principios de las 5S.                                  |
 | **Documentación técnica**   | La documentación es completa, clara y bien organizada.                               | La documentación es adecuada, pero falta claridad u organización en algunas partes.| La documentación es incompleta o poco clara.                                      | No se entrega documentación o esta es irrelevante.                                |
 
+---
+
+## **Puntuación** 📝
+
+- **Nivel 4**: 95 - 100 puntos  
+- **Nivel 3**: 85 - 94 puntos  
+- **Nivel 2**: 75 - 84 puntos  
+- **Nivel 1**: 0 - 74 puntos  
+
+**Total máximo**: 100 puntos.  
+
 
 ---
 
