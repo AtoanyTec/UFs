@@ -11,7 +11,7 @@ Diseñar y construir un prototipo a escala de un **rack** que permita clasificar
 
 1. **Formato**:  
    - El prototipo debe ser una representación a escala del rack que se implementará en el laboratorio.  
-   - Puede ser construido con materiales reciclados, cartón, madera, plástico, o cualquier material que permita simular su funcionalidad.  
+   - Debe ser construido por manufactura aditiva.
    - Debe incluir etiquetas, códigos de colores o cualquier sistema de identificación que facilite la clasificación y acceso a los materiales.  
 
 2. **Requisitos del Prototipo**:  
@@ -23,10 +23,6 @@ Diseñar y construir un prototipo a escala de un **rack** que permita clasificar
 
 3. **Entregables**:  
    - **Prototipo físico**: El modelo a escala del rack.  
-   - **Documentación técnica**: Un reporte breve que incluya:  
-     - Descripción del diseño (dimensiones, materiales, funcionalidad).  
-     - Planos o bocetos del prototipo.  
-     - Explicación de cómo el rack aplica los principios de las 5S.  
 
 ---
 
@@ -64,21 +60,6 @@ Diseñar y construir un prototipo a escala de un **rack** que permita clasificar
 | **Aplicación de las 5S**    | El prototipo aplica de manera excelente los principios de las 5S.                    | El prototipo aplica los principios de las 5S, pero con algunas omisiones.         | El prototipo aplica parcialmente los principios de las 5S.                        | El prototipo no aplica los principios de las 5S.                                  |
 | **Documentación técnica**   | La documentación es completa, clara y bien organizada.                               | La documentación es adecuada, pero falta claridad u organización en algunas partes.| La documentación es incompleta o poco clara.                                      | No se entrega documentación o esta es irrelevante.                                |
 
----
-
-## **Puntuación** 📝
-
-- **Nivel 4**: 5 puntos  
-- **Nivel 3**: 4 puntos  
-- **Nivel 2**: 3 puntos  
-- **Nivel 1**: 2 puntos  
-
-**Total máximo**: 25 puntos.  
-
----
-
-## **Fecha de Entrega** 📅  
-[Indica aquí la fecha límite para la entrega del prototipo].  
 
 ---
 
@@ -88,5 +69,3 @@ Diseñar y construir un prototipo a escala de un **rack** que permita clasificar
 - ¡Éxito en el desarrollo de su prototipo! 🚀  
 
 ---
-
-Con esta actividad, tus estudiantes podrán aplicar sus conocimientos de diseño y organización para crear un prototipo funcional y práctico. 😊  
