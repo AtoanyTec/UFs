@@ -58,6 +58,17 @@ Demostrar, a través de una presentación oral, cómo se implementó la metodolo
 
 ---
 
+## **Puntuación** 📝
+
+- **Nivel 4**: 95 - 100 puntos  
+- **Nivel 3**: 85 - 94 puntos  
+- **Nivel 2**: 75 - 84 puntos  
+- **Nivel 1**: 0 - 74 puntos  
+
+**Total máximo**: 100 puntos.  
+
+---
+
 ## **Notas Finales** 📌  
 - La presentación será evaluada en base a la rúbrica proporcionada.  
 - Se valorará la creatividad, claridad y trabajo en equipo.  
