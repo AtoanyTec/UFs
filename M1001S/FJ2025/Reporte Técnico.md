@@ -10,7 +10,7 @@ Elaborar un **reporte técnico** en formato de artículo científico IEEE que do
 ## **Instrucciones Generales** 📋
 
 1. **Formato**:  
-   - El reporte debe seguir el formato de un artículo científico IEEE.  
+   - El reporte debe seguir el formato de un artículo científico [IEEE](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/conference-template-letter.docx). 
    - Extensión: Entre **4 y 6 páginas** (sin incluir portada ni referencias).  
 
 2. **Estructura del Reporte**:  
