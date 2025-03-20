@@ -47,7 +47,7 @@ Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (d
 
 ---
 
-## 🕒 **Pasos Sugerido**
+## 🕒 **Pasos Sugeridos**
 1. Búsqueda y selección de aplicaciones móviles en Google Play Store y Apple App Store. 🔍📱
 2. Análisis detallado de las funcionalidades y tecnologías de cada aplicación. 🛠️📑
 3. Revisión de valoraciones y reseñas de usuarios. 🌟📊
