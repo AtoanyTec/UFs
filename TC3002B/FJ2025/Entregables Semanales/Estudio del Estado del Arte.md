@@ -1,62 +1,57 @@
-# 📚 **Entregable Semanal 1: Estudio del Estado del Arte** 🧠🔍
+# 📚 **Entregable Semanal 1: Estudio del Estado del Arte sobre Aplicaciones Móviles para Clasificación de Lesiones en la Piel** 📱🧠
 
 ## 🎯 **Objetivo**
-Realizar un estudio del estado del arte sobre sistemas que utilicen **machine learning** y **deep learning** para la clasificación de lesiones en la piel. Este estudio permitirá identificar las técnicas, arquitecturas y enfoques más efectivos utilizados en la literatura, así como los desafíos y oportunidades de mejora en este campo. 🖥️📊
+Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (disponibles para smartphones) que utilicen **machine learning** y **deep learning** para la clasificación de lesiones en la piel. Este estudio permitirá identificar las aplicaciones existentes, sus funcionalidades, tecnologías utilizadas y su impacto en el campo de la dermatología. 🖥️📊
 
 ---
 
 ## 📋 **Instrucciones**
 
-### 1. **Búsqueda de Literatura** 🔍📄
-   - Utilizar el portal de la Biblioteca y revisar artículos científicos, conferencias y publicaciones recientes en bases de datos como:
-     - **PubMed** 🏥
-     - **IEEE Xplore** 🔌
-     - **Google Scholar** 🎓
-     - **Springer** 📚
+### 1. **Búsqueda de Aplicaciones Móviles** 🔍📱
+   - Explorar tiendas de aplicaciones como:
+     - **Google Play Store** (Android) 🤖
+     - **Apple App Store** (iOS) 🍎
    - Utilizar palabras clave como:
      - "Skin lesion classification"
-     - "Dermatology machine learning"
-     - "Deep learning for dermatology"
-     - "Convolutional Neural Networks (CNN) for skin lesions"
-     - "Transfer learning in dermatology"
+     - "Dermatology AI"
+     - "Skin cancer detection"
+     - "AI dermatology assistant"
+   - Identificar al menos **5 aplicaciones** relevantes.
 
-### 2. **Análisis de Trabajos Previos** 📑🧩
-   - Identificar los enfoques más comunes utilizados en la clasificación de lesiones cutáneas.
-   - Analizar las arquitecturas de redes neuronales más utilizadas (por ejemplo, **VGG16**, **ResNet**, **EfficientNet**, etc.).
-   - Revisar las técnicas de preprocesamiento de imágenes y aumento de datos (data augmentation) aplicadas.
-   - Evaluar los conjuntos de datos utilizados en los estudios (por ejemplo, **ISIC Archive**, **DermNet**, **DermIS**).
+### 2. **Análisis de Funcionalidades** 🛠️📑
+   - Para cada aplicación, analizar:
+     - **Funcionalidades principales:** ¿Qué ofrece la aplicación? (por ejemplo, clasificación de lesiones, detección de cáncer de piel, recomendaciones, etc.).
+     - **Tecnologías utilizadas:** ¿Mencionan el uso de machine learning, deep learning o redes neuronales convolucionales (CNN)?
+     - **Interfaz de usuario:** ¿Es intuitiva y fácil de usar?
+     - **Precisión y confiabilidad:** ¿Incluyen información sobre la precisión del modelo o validaciones clínicas?
+     - **Requisitos técnicos:** ¿Es compatible con diferentes dispositivos y versiones de sistemas operativos?
 
-### 3. **Identificación de Métricas de Evaluación** 📊🎯
-   - Revisar las métricas utilizadas para evaluar el rendimiento de los modelos, como:
-     - **Precisión (Accuracy)**
-     - **Recall (Sensibilidad)**
-     - **F1-Score**
-     - **Matriz de Confusión**
-   - Analizar los resultados obtenidos en los estudios y compararlos con los objetivos de este proyecto.
+### 3. **Evaluación de Impacto y Usabilidad** 🌟📊
+   - Revisar las **valoraciones y reseñas** de los usuarios en las tiendas de aplicaciones.
+   - Identificar los **puntos fuertes y débiles** de cada aplicación según la retroalimentación de los usuarios.
+   - Analizar si las aplicaciones están dirigidas a profesionales de la salud, pacientes o ambos.
 
-### 4. **Identificación de Desafíos y Oportunidades** 🚧💡
-   - Identificar los principales desafíos encontrados en los estudios previos, como:
-     - Limitaciones en los conjuntos de datos (por ejemplo, falta de diversidad en tonos de piel).
-     - Dificultades en la clasificación de lesiones similares.
-     - Necesidad de grandes cantidades de datos etiquetados.
-   - Proponer oportunidades de mejora o innovación basadas en los hallazgos.
+### 4. **Comparativa y Conclusiones** ⚖️📝
+   - Crear una tabla comparativa que resuma las características clave de cada aplicación.
+   - Identificar **tendencias comunes** en las aplicaciones analizadas (por ejemplo, uso de transfer learning, integración con expertos dermatológicos, etc.).
+   - Proponer **oportunidades de mejora** o innovación basadas en los hallazgos.
 
-### 5. **Elaboración del Informe** 📝📑
+### 5. **Elaboración del Informe** 📑📤
    - Redactar un informe detallado que incluya:
      - **Introducción:** Contexto del problema y objetivos del estudio.
-     - **Metodología:** Descripción de la estrategia de búsqueda y selección de estudios.
-     - **Resultados:** Resumen de los hallazgos más relevantes, incluyendo tablas o gráficos comparativos.
-     - **Discusión:** Análisis de los desafíos y oportunidades identificadas.
-     - **Conclusiones:** Reflexiones finales y posibles direcciones futuras.
-   - Incluir referencias bibliográficas en formato APA o IEEE.
+     - **Metodología:** Descripción de la estrategia de búsqueda y selección de aplicaciones.
+     - **Resultados:** Resumen de las aplicaciones analizadas, incluyendo la tabla comparativa.
+     - **Discusión:** Análisis de las tendencias, puntos fuertes, débiles y oportunidades de mejora.
+     - **Conclusiones:** Reflexiones finales y posibles direcciones futuras para el desarrollo de una aplicación propia.
+   - Incluir capturas de pantalla de las aplicaciones analizadas (opcional).
 
 ---
 
 ## 🕒 **Cronograma Sugerido**
-- **Día 1-2:** Búsqueda inicial de literatura y selección de estudios relevantes. 🔍📄
-- **Día 3-4:** Análisis detallado de los estudios seleccionados. 🧩📑
-- **Día 5:** Identificación de métricas, desafíos y oportunidades. 📊🚧
-- **Día 6:** Redacción del informe. 📝📑
+- **Día 1-2:** Búsqueda y selección de aplicaciones móviles en Google Play Store y Apple App Store. 🔍📱
+- **Día 3-4:** Análisis detallado de las funcionalidades y tecnologías de cada aplicación. 🛠️📑
+- **Día 5:** Revisión de valoraciones y reseñas de usuarios. 🌟📊
+- **Día 6:** Elaboración de la tabla comparativa y redacción del informe. ⚖️📝
 - **Día 7:** Revisión final y entrega del informe. ✅📤
 
 ---
@@ -65,18 +60,18 @@ Realizar un estudio del estado del arte sobre sistemas que utilicen **machine le
 - **Documento:** Informe en formato PDF.
 - **Extensión:** Mínimo 5 páginas, máximo 10 páginas (sin incluir portada y referencias).
 - **Estructura:** Portada, introducción, metodología, resultados, discusión, conclusiones y referencias.
-- **Referencias:** Mínimo 10 referencias bibliográficas.
+- **Capturas de pantalla:** Opcional, pero recomendado para enriquecer el informe.
 
 ---
 
 ## 🌟 **Evaluación**
 El entregable será evaluado en base a:
-- **Calidad de la investigación:** Profundidad y relevancia de los estudios analizados. 🔍📚
+- **Calidad de la investigación:** Profundidad y relevancia de las aplicaciones analizadas. 🔍📱
+- **Análisis crítico:** Identificación de tendencias, puntos fuertes, débiles y oportunidades de mejora. 🧠💡
 - **Claridad del informe:** Organización, redacción y presentación de los resultados. 📝📑
-- **Análisis crítico:** Identificación de desafíos y oportunidades de manera reflexiva. 🧠💡
 - **Cumplimiento de plazos:** Entrega puntual del informe. ⏰✅
 
 ---
 
 ## 🚀 **¡Manos a la obra!**
-Este estudio del estado del arte es el primer paso para construir un sistema de clasificación de lesiones cutáneas robusto y efectivo. ¡A investigar y a innovar! 💪🔬
+Este estudio del estado del arte enfocado en aplicaciones móviles es el primer paso para entender cómo la tecnología está transformando la dermatología y cómo podemos innovar en este campo. ¡A investigar y a explorar! 💪🔬
