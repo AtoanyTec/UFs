@@ -8,7 +8,7 @@ Realizar un estudio del estado del arte sobre sistemas que utilicen **machine le
 ## 📋 **Instrucciones**
 
 ### 1. **Búsqueda de Literatura** 🔍📄
-   - Revisar artículos científicos, conferencias y publicaciones recientes en bases de datos como:
+   - Utilizar el portal de la Biblioteca y revisar artículos científicos, conferencias y publicaciones recientes en bases de datos como:
      - **PubMed** 🏥
      - **IEEE Xplore** 🔌
      - **Google Scholar** 🎓
