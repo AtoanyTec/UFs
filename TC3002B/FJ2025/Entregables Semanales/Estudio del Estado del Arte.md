@@ -47,12 +47,12 @@ Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (d
 
 ---
 
-## 🕒 **Cronograma Sugerido**
-- **Día 1-2:** Búsqueda y selección de aplicaciones móviles en Google Play Store y Apple App Store. 🔍📱
-- **Día 3-4:** Análisis detallado de las funcionalidades y tecnologías de cada aplicación. 🛠️📑
-- **Día 5:** Revisión de valoraciones y reseñas de usuarios. 🌟📊
-- **Día 6:** Elaboración de la tabla comparativa y redacción del informe. ⚖️📝
-- **Día 7:** Revisión final y entrega del informe. ✅📤
+## 🕒 **Pasos Sugerido**
+1. Búsqueda y selección de aplicaciones móviles en Google Play Store y Apple App Store. 🔍📱
+2. Análisis detallado de las funcionalidades y tecnologías de cada aplicación. 🛠️📑
+3. Revisión de valoraciones y reseñas de usuarios. 🌟📊
+4. Elaboración de la tabla comparativa y redacción del informe. ⚖️📝
+5. Revisión final y entrega del informe. ✅📤
 
 ---
 
@@ -65,11 +65,17 @@ Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (d
 ---
 
 ## 🌟 **Evaluación**
-El entregable será evaluado en base a:
-- **Calidad de la investigación:** Profundidad y relevancia de las aplicaciones analizadas. 🔍📱
-- **Análisis crítico:** Identificación de tendencias, puntos fuertes, débiles y oportunidades de mejora. 🧠💡
-- **Claridad del informe:** Organización, redacción y presentación de los resultados. 📝📑
-- **Cumplimiento de plazos:** Entrega puntual del informe. ⏰✅
+# 📊 **Rúbrica de Evaluación del Informe**
+
+| **Criterio**               | **Nivel 4: Sobresaliente** 🏆                                                                 | **Nivel 3: Competente** 👍                           | **Nivel 2: En Desarrollo** 📈                       | **Nivel 1: Básico** ⚠️                           |
+|----------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
+| **Calidad de la Investigación** 🔍 | Identifica y analiza **más de 5 aplicaciones** con profundidad, incluyendo tecnologías y funcionalidades avanzadas. | Analiza **5 aplicaciones** con detalles claros sobre funcionalidades y tecnologías. | Analiza **menos de 5 aplicaciones** con descripciones superficiales. | Analiza **1-2 aplicaciones** con información limitada o poco clara. |
+| **Análisis Crítico** 🧠💡       | Identifica claramente **tendencias, puntos fuertes, débiles y oportunidades de mejora** con reflexiones profundas. | Identifica **tendencias y puntos clave** con un análisis adecuado. | Identifica algunos aspectos relevantes, pero el análisis es **poco profundo**. | No identifica tendencias o aspectos clave, el análisis es **muy superficial**. |
+| **Claridad y Organización** 📝 | El informe está **muy bien estructurado**, con secciones claras, redacción fluida y uso de tablas o gráficos. | El informe está **bien organizado**, con secciones claras y redacción adecuada. | El informe tiene **algunos problemas de organización** y redacción poco clara. | El informe está **poco organizado**, con redacción confusa y falta de estructura. |
+| **Cumplimiento de Requisitos** 📑 | Cumple **todos los requisitos** (mínimo 5 páginas, 10 referencias, tabla comparativa, etc.) de manera excepcional. | Cumple **la mayoría de los requisitos** con algunos detalles menores omitidos. | Cumple **solo algunos requisitos**, con omisiones importantes. | **No cumple** con los requisitos mínimos del informe. |
+| **Creatividad y Originalidad** 🎨 | Presenta ideas **innovadoras y originales** para mejorar las aplicaciones existentes. | Propone algunas ideas **interesantes** para mejorar las aplicaciones. | Propone ideas **poco originales** o repetitivas. | No propone ideas o las sugerencias son **poco relevantes**. |
+| **Uso de Recursos Visuales** 🖼️ | Incluye **capturas de pantalla, tablas y gráficos** que enriquecen el informe y facilitan la comprensión. | Incluye **algunos recursos visuales** que apoyan el contenido del informe. | Incluye **pocos recursos visuales** o estos no están bien integrados. | **No incluye recursos visuales** o estos son irrelevantes. |
+| **Cumplimiento de Plazos** ⏰ | Entrega el informe **antes de la fecha límite** y en el formato solicitado. | Entrega el informe **en la fecha límite** y en el formato solicitado. | Entrega el informe **con retraso menor a 24 horas**. | Entrega el informe **con retraso mayor a 24 horas** o incompleto. |
 
 ---
 
