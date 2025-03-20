@@ -74,7 +74,7 @@ Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (d
 | **Cumplimiento de Requisitos** 📑 | Cumple **todos los requisitos** (mínimo 5 páginas, 10 referencias, tabla comparativa, etc.) de manera excepcional. | Cumple **la mayoría de los requisitos** con algunos detalles menores omitidos. | Cumple **solo algunos requisitos**, con omisiones importantes. | **No cumple** con los requisitos mínimos del informe. |
 | **Creatividad y Originalidad** 🎨 | Presenta ideas **innovadoras y originales** para mejorar las aplicaciones existentes. | Propone algunas ideas **interesantes** para mejorar las aplicaciones. | Propone ideas **poco originales** o repetitivas. | No propone ideas o las sugerencias son **poco relevantes**. |
 | **Uso de Recursos Visuales** 🖼️ | Incluye **capturas de pantalla, tablas y gráficos** que enriquecen el informe y facilitan la comprensión. | Incluye **algunos recursos visuales** que apoyan el contenido del informe. | Incluye **pocos recursos visuales** o estos no están bien integrados. | **No incluye recursos visuales** o estos son irrelevantes. |
-| **Cumplimiento de Plazos** ⏰ | Entrega el informe **antes de la fecha límite** y en el formato solicitado. | Entrega el informe **en la fecha límite** y en el formato solicitado. | Entrega el informe **con retraso menor a 24 horas**. | Entrega el informe **con retraso mayor a 24 horas** o incompleto. |
+
 
 ---
 
