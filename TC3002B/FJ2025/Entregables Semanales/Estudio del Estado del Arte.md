@@ -64,8 +64,7 @@ Realizar un estudio del estado del arte enfocado en **aplicaciones móviles** (d
 
 ---
 
-## 🌟 **Evaluación**
-# 📊 **Rúbrica de Evaluación del Informe**
+## 📊 **Rúbrica de Evaluación del Informe**
 
 | **Criterio**               | **Nivel 4: Sobresaliente** 🏆                                                                 | **Nivel 3: Competente** 👍                           | **Nivel 2: En Desarrollo** 📈                       | **Nivel 1: Básico** ⚠️                           |
 |----------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------------------|
