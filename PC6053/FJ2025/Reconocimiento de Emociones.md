@@ -12,7 +12,7 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
 - **Entregables**:
   - Un modelo entrenado.
   - Una demostración funcional (en Teachable Machine o integrada en una página web).
-  - Un informe o presentación que explique el proceso y los resultados.
+  - Un video en formato TikTok que explique el proceso y los resultados.
 
 ---
 
