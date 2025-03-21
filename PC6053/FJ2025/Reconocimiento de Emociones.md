@@ -83,7 +83,7 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
 - **Criterios de evaluación**:
   - Calidad del modelo (precisión en la clasificación).
   - Creatividad en la recopilación de datos o presentación.
-  - Claridad y organización del informe o presentación.
+  - Claridad y organización de la presentación.
   - Trabajo en equipo y participación de todos los miembros.
 
 ---
