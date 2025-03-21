@@ -1,10 +1,10 @@
 # Tecnológico de Monterrey  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_del_ITESM.svg/1200px-Logo_del_ITESM.svg.png" alt="Logo Tec" width="100cm" height="100cm" />  
+
 **Examen: Clasificadores, Cobots, Compuertas Lógicas y Código Hamming**  
 **Materia:** [Nombre de la materia]  
 **Profesor:** [Nombre del profesor]  
-**Fecha:** [Fecha del examen]  
-
+**Fecha:** [Fecha del examen] 
 ---
 
 ### **Instrucciones:**  
