@@ -1,103 +1,107 @@
-# Proyecto Final: Clasificación de Emociones Faciales con Teachable Machine
+# 🎓 Proyecto Final: Clasificación de Emociones Faciales con IA 🧠😄
 
-Este proyecto está diseñado para alumnos de tercer año de preparatoria. El objetivo es crear un modelo de inteligencia artificial que clasifique emociones faciales utilizando **Teachable Machine**, una herramienta accesible y fácil de usar.
-
----
-
-## **Guía paso a paso para el proyecto**
-
-### **1. Introducción al proyecto**
-- **Objetivo**: Crear un modelo de IA que clasifique emociones faciales (feliz, triste, enojado, sorprendido, etc.).
-- **Herramientas**: Teachable Machine, cámara web, y opcionalmente, un editor de texto para integración web (como Visual Studio Code).
-- **Entregables**:
-  - Un modelo entrenado.
-  - Una demostración funcional (en Teachable Machine o integrada en una página web).
-  - Un video en formato TikTok que explique el proceso y los resultados.
-  - Presentación oral
+¡Hola, equipo! 🌟 En este proyecto final, van a crear un modelo de inteligencia artificial que pueda reconocer emociones faciales, como felicidad, tristeza, enojo y sorpresa. Usaremos **Teachable Machine**, una herramienta súper fácil y divertida, para entrenar a la IA. ¿Listos para convertirse en expertos en IA? ¡Vamos! 🚀
 
 ---
 
-### **2. Planificación y organización del equipo**
-- **Asignar roles**:
-  - Estudiante 1: Recopilación de datos.
-  - Estudiante 2: Entrenamiento del modelo.
-  - Estudiante 3: Pruebas y ajustes.
-  - Estudiante 4: Video formato TikTok
-- **Calendario**: Establezcan plazos para cada fase del proyecto.
+## 📋 **¿Qué tienen que hacer?**
+
+El objetivo es crear un programa que pueda identificar emociones en rostros. Para lograrlo, seguirán estos pasos:
+
+1. **Recopilar imágenes** de rostros con diferentes emociones.
+2. **Entrenar un modelo** usando Teachable Machine.
+3. **Probar y mejorar** el modelo.
+4. **Presentar** su trabajo al final.
 
 ---
 
-### **3. Recopilación de datos**
-- **Opción 1: Usar un dataset público**:
-  - Descarguen datasets como [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013) o [CK+](https://www.kaggle.com/datasets/shawon10/ckplus).
-  - Dividan las imágenes en carpetas por emoción (ejemplo: "feliz", "triste", etc.).
-- **Opción 2: Crear su propio dataset**:
-  - Usen una cámara web para tomar fotos de rostros expresando diferentes emociones.
-  - Tomen al menos 50-100 imágenes por emoción.
-  - Recorten las imágenes para centrar el rostro y redúzcanlas a un tamaño uniforme (ejemplo: 48x48 píxeles).
+## 🚀 **Pasos detallados**
+
+### 1. 📸 **Recopilar imágenes**
+Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones. Tienen dos opciones:
+
+- **Opción 1: Usar un dataset público**  
+  Pueden descargar imágenes de internet. Algunos datasets recomendados son:
+  - [FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
+  - [CK+](https://www.kaggle.com/datasets/shawon10/ckplus)  
+  Dividan las imágenes en carpetas según la emoción (por ejemplo, una carpeta para "feliz", otra para "triste", etc.).
+
+- **Opción 2: Crear su propio dataset**  
+  Usen una cámara web para tomar fotos de ustedes o sus compañeros expresando diferentes emociones.  
+  - Tomen al menos **50-100 fotos por emoción**.  
+  - Asegúrense de que las imágenes estén bien iluminadas y centradas en el rostro.  
+  - Recórtenlas para que solo se vea la cara y redúzcanlas a un tamaño pequeño (por ejemplo, 48x48 píxeles).
 
 ---
 
-### **4. Entrenamiento del modelo con Teachable Machine**
-1. **Acceder a Teachable Machine**:
+### 2. 🧠 **Entrenar el modelo con Teachable Machine**
+1. **Entren a Teachable Machine**:
    - Visiten [Teachable Machine](https://teachablemachine.withgoogle.com/).
    - Seleccionen "Image Project".
+
 2. **Crear clases**:
-   - Agreguen una clase por cada emoción (ejemplo: "feliz", "triste", "enojado").
+   - Agreguen una clase por cada emoción (por ejemplo, "feliz", "triste", "enojado", "sorprendido").
+
 3. **Subir imágenes**:
-   - Carguen las imágenes correspondientes a cada clase.
+   - Carguen las imágenes que recopilaron en la clase correspondiente.
+
 4. **Entrenar el modelo**:
-   - Hagan clic en "Train Model".
-   - Teachable Machine entrenará automáticamente el modelo.
+   - Hagan clic en "Train Model". Teachable Machine hará el trabajo pesado por ustedes. 🎉
+
 5. **Probar el modelo**:
-   - Usen la cámara web o suban imágenes para probar el modelo.
+   - Usen la cámara web o suban imágenes para ver si el modelo clasifica correctamente las emociones.
 
 ---
 
-### **5. Exportar y probar el modelo**
-- **Integración en una página web**:
-  - Da clic en Exportar Modelo
-  - Da clic en Subir mi modelo
-  - Se te generará una liga URL la cual al abrirla en un navegador, podrás probar tu modelo
+### 3. 📤 **Exportar y probar el modelo**
+- **Exportar el modelo**:
+  - Descarguen el modelo en formato **TensorFlow.js** (es ideal para integrarlo en una página web).
+- **Integrar en una página web**:
+  - Si saben un poco de HTML/JavaScript, pueden crear una página web simple que use el modelo.
+  - Teachable Machine les dará un código de ejemplo que pueden copiar y pegar.
 
 ---
 
-### **6. Evaluación y mejora**
-- **Pruebas**:
-  - Pidan a otros compañeros o profesores que prueben el modelo.
-- **Mejoras**:
-  - Si el modelo no es preciso, agreguen más imágenes de entrenamiento o ajusten las clases.
+### 4. 🛠️ **Evaluar y mejorar el modelo**
+- **Prueben el modelo**:
+  - Pidan a sus compañeros o profesores que prueben el modelo y den su opinión.
+- **Mejoren el modelo**:
+  - Si el modelo no es muy preciso, agreguen más imágenes de entrenamiento o ajusten las clases.
 
 ---
 
-### **7. Presentación del proyecto**
+### 5. 🎤 **Presentar el proyecto**
 - **Demostración**:
   - Muestren cómo funciona el modelo en tiempo real usando la cámara web.
-- **Presentación Oral**:
-  - Expliquen el proceso, los desafíos y cómo los resolvieron.
+- **Informe o presentación**:
+  - Expliquen cómo hicieron el proyecto, los desafíos que enfrentaron y cómo los resolvieron.
   - Incluyan capturas de pantalla o fotos del proceso.
 
 ---
 
-### **8. Evaluación del proyecto**
-- **Criterios de evaluación**:
-  - Calidad del modelo (precisión en la clasificación).
-  - Creatividad en la recopilación de datos o presentación.
-  - Claridad y organización de la presentación.
-  - Trabajo en equipo y participación de todos los miembros.
+## 💡 **Consejos para el éxito**
+1. **Trabajen en equipo** 👫: Dividan las tareas para que todos participen.
+2. **Mantenganlo simple** 🧘: No se compliquen, lo importante es que el modelo funcione.
+3. **Experimenten** 🔍: Si tienen tiempo, prueben agregar más emociones o mejorar el modelo.
+4. **Documenten todo** 📚: Tomen notas y fotos del proceso para incluirlas en su presentación.
 
 ---
 
-## **Consejos para los estudiantes**
-1. **Mantenganlo simple**: No es necesario que el modelo sea perfecto. Lo importante es que funcione y que aprendan el proceso.
-2. **Divídanse el trabajo**: Trabajar en equipo hará que el proyecto sea más fácil y divertido.
-3. **Experimenten**: Si tienen tiempo, prueben agregar más emociones o mejorar el modelo con más datos.
-4. **Documenten todo**: Tomen notas y fotos del proceso para incluirlas en su informe o presentación.
-
----
-
-## **Recursos adicionales**
+## 🔗 **Recursos útiles**
 - [Tutorial de Teachable Machine](https://www.youtube.com/watch?v=DFBbSTvtpy4) (en inglés, pero muy visual).
 - [Introducción a TensorFlow.js](https://www.tensorflow.org/js) (para quienes quieran profundizar en la integración web).
 
 ---
+
+## 📝 **Criterios de evaluación**
+Su proyecto será evaluado en base a:
+- **Calidad del modelo**: ¿Clasifica bien las emociones?
+- **Creatividad**: ¿Cómo recopilaron los datos o presentaron el proyecto?
+- **Claridad**: ¿Explicaron bien el proceso en su informe o presentación?
+- **Trabajo en equipo**: ¿Todos participaron activamente?
+
+---
+
+¡Y eso es todo! 🎉 Este proyecto es una gran oportunidad para aprender sobre inteligencia artificial mientras se divierten. ¡No tengan miedo de experimentar y sorprendernos con sus ideas! 😊🚀
+
+**¡Manos a la obra!** 💪
