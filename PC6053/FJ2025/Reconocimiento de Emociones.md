@@ -13,16 +13,16 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
   - Un modelo entrenado.
   - Una demostración funcional (en Teachable Machine o integrada en una página web).
   - Un video en formato TikTok que explique el proceso y los resultados.
+  - Presentación oral
 
 ---
 
-### **2. Planificación y organización**
-- **Formar equipos**: Trabajen en equipos de 3-4 personas.
-- **Asignar roles**: Por ejemplo:
-  - Recopilación de datos.
-  - Entrenamiento del modelo.
-  - Pruebas y ajustes.
-  - Documentación y presentación.
+### **2. Planificación y organización del equipo**
+- **Asignar roles**:
+  - Estudiante 1: Recopilación de datos.
+  - Estudiante 2: Entrenamiento del modelo.
+  - Estudiante 3: Pruebas y ajustes.
+  - Estudiante 4: Video formato TikTok
 - **Calendario**: Establezcan plazos para cada fase del proyecto.
 
 ---
