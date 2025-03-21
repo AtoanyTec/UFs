@@ -101,5 +101,3 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
 - [Introducción a TensorFlow.js](https://www.tensorflow.org/js) (para quienes quieran profundizar en la integración web).
 
 ---
-
-¡Espero que este proyecto sea una experiencia divertida y educativa para todos! 😊
