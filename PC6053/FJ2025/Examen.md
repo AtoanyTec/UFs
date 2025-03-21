@@ -3,8 +3,8 @@
 
 **Examen: Segundo Parcial**  
 **Materia:** Proyecto de Ingeniería y Robótica  
-**Profesor:** [Nombre del profesor]  
-**Fecha:** [Fecha del examen] 
+**Nombre de Estudiante:** ____________________ 
+**Fecha:**  ________________________
 ---
 
 ### **Instrucciones:**  
