@@ -1,7 +1,17 @@
-# Examen: Clasificadores, Cobots, Compuertas Lógicas y Código Hamming
+# Tecnológico de Monterrey  
+![Logo Tec](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_del_ITESM.svg/1200px-Logo_del_ITESM.svg.png)  
+**Examen: Clasificadores, Cobots, Compuertas Lógicas y Código Hamming**  
+**Materia:** [Nombre de la materia]  
+**Profesor:** [Nombre del profesor]  
+**Fecha:** [Fecha del examen]  
 
-**Instrucciones:**  
-Responde las siguientes preguntas de manera clara y concisa. Cada pregunta tiene un valor de **1 punto**.
+---
+
+### **Instrucciones:**  
+1. Responde las siguientes preguntas de manera clara y concisa.  
+2. Cada pregunta tiene un valor de **1 punto**.  
+3. El examen es individual y debe ser entregado en el formato solicitado.  
+4. No se permite el uso de dispositivos electrónicos durante el examen.  
 
 ---
 
@@ -50,9 +60,14 @@ Responde las siguientes preguntas de manera clara y concisa. Cada pregunta tiene
 ---
 
 ### **Formato de entrega:**  
-- Guarda tus respuestas en un archivo PDF con el nombre: `Examen_ApellidoNombre.pdf`.
-- Envía el archivo al correo: `profesor@dominio.com` antes de la fecha límite.
+- Guarda tus respuestas en un archivo PDF con el nombre: `Examen_ApellidoNombre.pdf`.  
+- Envía el archivo al correo: `profesor@dominio.com` antes de la fecha límite.  
 
 ---
 
-¡Buena suerte! 😊
+**Honor y Ética:**  
+Recuerda que el Tecnológico de Monterrey promueve la integridad académica. Cualquier acto de deshonestidad será sancionado de acuerdo con las políticas institucionales.  
+
+---
+
+¡Éxito en tu examen! 🚀  
