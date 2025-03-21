@@ -73,7 +73,7 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
 ### **7. Presentación del proyecto**
 - **Demostración**:
   - Muestren cómo funciona el modelo en tiempo real usando la cámara web.
-- **Informe o presentación**:
+- **Presentación Oral**:
   - Expliquen el proceso, los desafíos y cómo los resolvieron.
   - Incluyan capturas de pantalla o fotos del proceso.
 
