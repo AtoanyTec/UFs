@@ -120,10 +120,8 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 
 ## Entregables 📄
 
-1. **Código fuente**: El programa que desarrollaron para el microcontrolador. 💻
-2. **Diagrama de conexiones**: Un esquema que muestre cómo conectaron los componentes. 🔌
-3. **Reporte técnico**: Un documento que explique cómo funciona el sistema, los retos que enfrentaron y cómo los resolvieron. 📝
-4. **Demostración**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
+1. **Video Formato TikTok**: Incluir en el video una explicación de cómo lo realizaron y su funcionamiento. 💻
+2. **Presentación**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
 
 ---
 
