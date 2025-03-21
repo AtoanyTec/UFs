@@ -54,11 +54,11 @@ Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones.
 ---
 
 ### 3. 📤 **Exportar y probar el modelo**
-- **Exportar el modelo**:
-  - Descarguen el modelo en formato **TensorFlow.js** (es ideal para integrarlo en una página web).
-- **Integrar en una página web**:
-  - Si saben un poco de HTML/JavaScript, pueden crear una página web simple que use el modelo.
-  - Teachable Machine les dará un código de ejemplo que pueden copiar y pegar.
+- **Demo en la Web**:
+  - Guarda tu modelo en Drive.
+  - Da clic en Exportar.
+  - Da clic en Subir mi modelo.
+  - Te generará una liga la cual podrás pegar en cualquier navegador web para probar tu modelo.
 
 ---
 
@@ -71,9 +71,9 @@ Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones.
 ---
 
 ### 5. 🎤 **Presentar el proyecto**
-- **Demostración**:
-  - Muestren cómo funciona el modelo en tiempo real usando la cámara web.
-- **Informe o presentación**:
+- **Video formato TikTok**:
+  - Realiza un video en formato TikTok en donde expliques cómo realizaste el proyecto y cómo funciona.
+- **Presentación**:
   - Expliquen cómo hicieron el proyecto, los desafíos que enfrentaron y cómo los resolvieron.
   - Incluyan capturas de pantalla o fotos del proceso.
 
