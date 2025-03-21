@@ -40,6 +40,7 @@
   
 
 5. **Dibuja la tabla de verdad para una compuerta AND de dos entradas** 🔍
+
 | Entrada A | Entrada B | Salida (A AND B) |
 |-----------|-----------|------------------|
 |     0     |     0     |                  |
@@ -48,6 +49,7 @@
 |     1     |     1     |                  | 
 
 6. **Dibuja la tabla de verdad para una compuerta OR de dos entradas** 🔍
+
 | Entrada A | Entrada B | Salida (A OR B) |
 |-----------|-----------|------------------|
 |     0     |     0     |                  |
@@ -62,6 +64,7 @@
 
 9. **Codifica la información `1100` utilizando H(7,4)** 🔢  
  
+
 |  | D7 |  D6 | D5 | D4 | D3 | D2 | D1 |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 |    Data   |       |       |       |       |       |       |       |
