@@ -44,13 +44,13 @@
 
 8. **Codifica la información 1100 utilizando H(7,4)**  
  
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 | Columna 7 | Columna 8 |
+|  | D7 |  D6 | D5 | D4 | D3 | D2 | D1 |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
-|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
-|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
-|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
-|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+|    Data   |       |       |       |       |       |       |       |
+|    P1   |       |       |       |       |       |       |       |
+|    P2   |       |       |       |       |       |       |       |
+|    P3   |       |       |       |       |       |       |       |
+|    Código   |       |       |       |       |       |       |       |
 
 9. **Código Hamming (7,4):**  
    Si recibes la palabra codificada en Hamming (7,4): `1010101`, ¿cómo determinarías si hay un error y en qué posición está?
