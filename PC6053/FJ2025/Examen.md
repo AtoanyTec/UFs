@@ -10,8 +10,8 @@
 
 ### **Instrucciones:**  
 1. Responde las siguientes preguntas de manera clara y concisa.  
-2. Cada pregunta tiene un valor de **1 punto**.  
-3. El examen es individual y debe ser entregado en el formato solicitado.  
+2. Cada pregunta tiene un valor de **10 puntos**.  
+3. El examen es individual y debe ser contestado con pluma. 
 4. No se permite el uso de dispositivos electrónicos durante el examen.  
 
 ---
