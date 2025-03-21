@@ -69,10 +69,10 @@
 
 ---
 
-## 6. **Documentación y Presentación**
+## 6. **Presentación**
 
-### Documentación
-- Documenten todo el proceso, incluyendo:
+### Video formato TikTok
+- Realiza video en formato TikTok en donde expliques:
   - El diseño del layout.
   - La programación del cobot.
   - Las pruebas realizadas.
@@ -80,6 +80,7 @@
 
 ### Presentación
 - Al final, presentarán su proyecto al grupo. Expliquen:
+  - Demostración
   - Los desafíos que enfrentaron.
   - Cómo resolvieron los problemas.
   - Qué aprendieron durante el proceso.
