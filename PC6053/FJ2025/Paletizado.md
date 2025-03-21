@@ -69,13 +69,11 @@
 
 ---
 
-## 6. **📂 Documentación y Presentación**
+## 6. **📂 Presentación**
 
-### 📄 Documentación
-- Documenten todo el proceso, incluyendo:
-  - El diseño del layout. 🎨
+### 📄 Video formato TikTok
+- Realiza un video formato TikTok en donde expliques:
   - La programación del cobot. 💻
-  - Las pruebas realizadas. 🧪
   - Los resultados finales. 📊
 
 ### 🎤 Presentación
