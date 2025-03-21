@@ -89,8 +89,6 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
        // Esta función se ejecuta cuando el valor de heartRate cambia
    }
 
-```
-
 ---
 
 
