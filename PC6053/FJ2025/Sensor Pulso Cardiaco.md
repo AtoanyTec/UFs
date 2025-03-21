@@ -88,3 +88,9 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
    void onHeartRateChange() {
        // Esta función se ejecuta cuando el valor de heartRate cambia
    }
+
+```cpp
+
+sddsdd
+
+
