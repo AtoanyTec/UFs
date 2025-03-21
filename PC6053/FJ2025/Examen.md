@@ -37,22 +37,31 @@
 |     1     |     1     |                  | 
   
 
-6. **Compuertas Lógicas:**  
-   Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.
+6. **Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.**  
+  
 
-7. **Código Hamming (7,4):**  
-   ¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?
+7. **¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?**
 
-8. **Código Hamming (7,4):**  
+8. **Codifica la información 1100 utilizando H(7,4)**  
+ 
+| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 | Columna 7 | Columna 8 |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+|    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |    Dato   |
+
+9. **Código Hamming (7,4):**  
    Si recibes la palabra codificada en Hamming (7,4): `1010101`, ¿cómo determinarías si hay un error y en qué posición está?
 
-9. **Compuertas Lógicas:**  
+10. **Compuertas Lógicas:**  
    Diseña un circuito lógico que implemente la función booleana: `F = (A AND B) OR (NOT C)`.
 
-10. **Cobots:**  
+11. **Cobots:**  
    Menciona dos ventajas de utilizar cobots en entornos industriales.
 
-11. **Clasificador de imágenes en Teachable Machine:**  
+12. **Clasificador de imágenes en Teachable Machine:**  
     ¿Qué precauciones debes tomar al recopilar datos para entrenar un clasificador de imágenes en Teachable Machine?
 
 ---
