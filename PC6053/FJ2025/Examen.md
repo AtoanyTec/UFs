@@ -35,14 +35,31 @@
 |     0     |     1     |                  |
 |     1     |     0     |                  |
 |     1     |     1     |                  | 
+
   
 
-6. **Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.**  
+5.**Dibuja la tabla de verdad para una compuerta AND de dos entradas**
+| Entrada A | Entrada B | Salida (A XOR B) |
+|-----------|-----------|------------------|
+|     0     |     0     |                  |
+|     0     |     1     |                  |
+|     1     |     0     |                  |
+|     1     |     1     |                  | 
+
+6.**Dibuja la tabla de verdad para una compuerta OR de dos entradas**
+| Entrada A | Entrada B | Salida (A XOR B) |
+|-----------|-----------|------------------|
+|     0     |     0     |                  |
+|     0     |     1     |                  |
+|     1     |     0     |                  |
+|     1     |     1     |                  | 
+
+7. **Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.**  
   
 
-7. **¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?**
+8. **¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?**
 
-8. **Codifica la información 1100 utilizando H(7,4)**  
+9. **Codifica la información `1100` utilizando H(7,4)**  
  
 |  | D7 |  D6 | D5 | D4 | D3 | D2 | D1 |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -52,33 +69,15 @@
 |    P3   |       |       |       |       |       |       |       |
 |    Código   |       |       |       |       |       |       |       |
 
-9. **Código Hamming (7,4):**  
-   Si recibes la palabra codificada en Hamming (7,4): `1010101`, ¿cómo determinarías si hay un error y en qué posición está?
+10. **Detecta y corrige el error en el código `1000110`**  
 
-10. **Compuertas Lógicas:**  
-   Diseña un circuito lógico que implemente la función booleana: `F = (A AND B) OR (NOT C)`.
-
-11. **Cobots:**  
-   Menciona dos ventajas de utilizar cobots en entornos industriales.
-
-12. **Clasificador de imágenes en Teachable Machine:**  
-    ¿Qué precauciones debes tomar al recopilar datos para entrenar un clasificador de imágenes en Teachable Machine?
 
 ---
 
 ### **Puntos adicionales (opcional):**
 
-11. **Compuertas Lógicas:**  
-    Explica cómo una compuerta NAND puede ser utilizada para construir cualquier otra compuerta lógica.
-
-12. **Código Hamming (7,4):**  
-    Codifica la palabra de datos `1101` utilizando el código Hamming (7,4).
-
----
-
-### **Formato de entrega:**  
-- Guarda tus respuestas en un archivo PDF con el nombre: `Examen_ApellidoNombre.pdf`.  
-- Envía el archivo al correo: `profesor@dominio.com` antes de la fecha límite.  
+12. **Codifica la palabra de datos `1101` utilizando el código Hamming (7,4)**  
+    
 
 ---
 
