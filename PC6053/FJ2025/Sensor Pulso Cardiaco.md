@@ -91,4 +91,57 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 
 ---
 
-sdsdsd
+
+
+3. **Subir el código**:
+   - Conecta tu microcontrolador y sube el código desde el Arduino Web Editor. ⬆️
+
+---
+
+### 4. Configurar el Dashboard en Arduino IoT Cloud 📊
+
+1. **Crear un dashboard**:
+   - En la plataforma, ve a la sección **Dashboards** y crea uno nuevo. 🛠️
+2. **Agregar un widget**:
+   - Añade un widget de tipo **Gauge** o **Value** para mostrar el pulso cardíaco. 📈
+   - Asocia el widget a la variable `heartRate` que creaste anteriormente. 🔗
+3. **Personalizar el dashboard**:
+   - Puedes agregar más widgets, como gráficos en tiempo real o alertas. 🚨
+
+---
+
+### 5. Probar el Sistema �
+
+1. Coloca el sensor en tu dedo o en la muñeca. 👆
+2. Enciende el sistema y verifica que los datos se envíen correctamente a Arduino IoT Cloud. 📶
+3. Asegúrate de que las lecturas sean precisas y estables. ✔️
+
+---
+
+## Entregables 📄
+
+1. **Código fuente**: El programa que desarrollaron para el microcontrolador. 💻
+2. **Diagrama de conexiones**: Un esquema que muestre cómo conectaron los componentes. 🔌
+3. **Reporte técnico**: Un documento que explique cómo funciona el sistema, los retos que enfrentaron y cómo los resolvieron. 📝
+4. **Demostración**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
+
+---
+
+## Criterios de Evaluación 📝
+
+1. **Funcionalidad**: El sistema debe medir y enviar el pulso correctamente. ✔️
+2. **Creatividad**: Puntos extra si añaden funcionalidades adicionales (por ejemplo, alertas o gráficos avanzados). 🎨
+3. **Documentación**: El reporte debe estar completo y bien explicado. 📄
+4. **Presentación**: Deben explicar claramente cómo funciona su proyecto. 🗣️
+
+---
+
+## Consejos Finales 💡
+
+- Trabajen en equipo y dividan las tareas (hardware, programación, documentación). 👥
+- Prueben cada parte del sistema por separado antes de integrarlo todo. 🧪
+- Si tienen dudas, ¡pregunten! Estamos aquí para ayudarlos. 🙋‍♂️🙋‍♀️
+
+---
+
+¡Manos a la obra y mucha suerte con su proyecto! 🚀❤️
