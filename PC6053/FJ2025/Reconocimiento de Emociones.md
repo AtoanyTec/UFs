@@ -55,11 +55,10 @@ Este proyecto está diseñado para alumnos de tercer año de preparatoria. El ob
 ---
 
 ### **5. Exportar y probar el modelo**
-- **Exportar el modelo**:
-  - Descarguen el modelo en formato TensorFlow.js para integrarlo en una página web.
 - **Integración en una página web**:
-  - Si tienen conocimientos básicos de HTML/JavaScript, creen una página web simple que use el modelo.
-  - Teachable Machine proporciona un código de ejemplo que pueden copiar y pegar.
+  - Da clic en Exportar Modelo
+  - Da clic en Subir mi modelo
+  - Se te generará una liga URL la cual al abrirla en un navegador, podrás probar tu modelo
 
 ---
 
