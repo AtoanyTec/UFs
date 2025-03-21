@@ -29,6 +29,7 @@
 
 4. **Dibuja la tabla de verdad para una compuerta XOR de dos entradas** 🔍
 
+
 | Entrada A | Entrada B | Salida (A XOR B) |
 |-----------|-----------|------------------|
 |     0     |     0     |                  |
