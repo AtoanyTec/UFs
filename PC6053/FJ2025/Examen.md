@@ -18,34 +18,40 @@
 
 ### **Preguntas:**
 
-1. **Clasificador de imágenes en Teachable Machine:**  
-   ¿Qué tipo de datos de entrada utiliza un clasificador de imágenes en Teachable Machine y cómo se entrena el modelo?
+1. **¿Qué tipo de datos de entrada utiliza un clasificador de imágenes en Teachable Machine y cómo se entrena el modelo?**  
+   
 
-2. **Clasificador de audio en Teachable Machine:**  
-   Menciona dos aplicaciones prácticas de un clasificador de audio creado en Teachable Machine.
+2. **Menciona dos aplicaciones prácticas de un clasificador de audio creado en Teachable Machine**  
+  
 
-3. **Cobots:**  
-   ¿Qué significa el término "Cobot" y en qué se diferencia de un robot industrial tradicional?
+3. **¿Qué significa el término "Cobot" y en qué se diferencia de un robot industrial tradicional?**  
+   
 
-4. **Compuertas Lógicas:**  
-   Dibuja la tabla de verdad para una compuerta XOR de dos entradas.
+4. **Dibuja la tabla de verdad para una compuerta XOR de dos entradas**
+   | Entrada A | Entrada B | Salida (A XOR B) |
+|-----------|-----------|------------------|
+|     0     |     0     |                  |
+|     0     |     1     |                  |
+|     1     |     0     |                  |
+|     1     |     1     |                  | 
+  
 
-5. **Compuertas Lógicas:**  
+6. **Compuertas Lógicas:**  
    Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.
 
-6. **Código Hamming (7,4):**  
+7. **Código Hamming (7,4):**  
    ¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?
 
-7. **Código Hamming (7,4):**  
+8. **Código Hamming (7,4):**  
    Si recibes la palabra codificada en Hamming (7,4): `1010101`, ¿cómo determinarías si hay un error y en qué posición está?
 
-8. **Compuertas Lógicas:**  
+9. **Compuertas Lógicas:**  
    Diseña un circuito lógico que implemente la función booleana: `F = (A AND B) OR (NOT C)`.
 
-9. **Cobots:**  
+10. **Cobots:**  
    Menciona dos ventajas de utilizar cobots en entornos industriales.
 
-10. **Clasificador de imágenes en Teachable Machine:**  
+11. **Clasificador de imágenes en Teachable Machine:**  
     ¿Qué precauciones debes tomar al recopilar datos para entrenar un clasificador de imágenes en Teachable Machine?
 
 ---
