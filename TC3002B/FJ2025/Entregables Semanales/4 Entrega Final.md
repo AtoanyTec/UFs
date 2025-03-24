@@ -40,12 +40,12 @@ Estructura requerida
 | **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-94)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
 | **Calidad del Código**     | Código modular, documentación completa, optimizado para GPU/TPU | Buenas prácticas, comentarios claros, reutilizable | Código funcional pero poco organizado | Código desestructurado o incompleto |
-| **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 74% a 85% en métricas principales | Por debajo del 85% en alguna métrica |
+| **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 75% a 84% en métricas principales | Por debajo del 85% en alguna métrica |
 
 
 ### 📄 Artículo Científico (30%)
 
-| **Criterio**               | **Excelente (4)** 💎 | **Avanzado (3)** 🔵 | **Básico (2)** 🟡 | **Insuficiente (1)** 🔴 |
+| **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-94)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
 | **Estructura y Formato**   | Perfecta adherencia al formato, gráficos profesionales | Estructura completa, algunos gráficos mejorables | Faltan 1-2 secciones clave | Estructura desorganizada |
 | **Profundidad de Análisis**| Benchmark contra 5+ papers, análisis riguroso | Comparación con 3-5 papers, análisis básico | 1-2 referencias, análisis superficial | Sin análisis comparativo |
