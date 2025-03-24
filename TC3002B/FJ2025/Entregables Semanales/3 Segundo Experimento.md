@@ -46,7 +46,7 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 
 ---
 
-# 🧪 **Rúbrica de Evaluación - Experimento 2: Prototipo VGG16 Optimizado**
+## 🧪 **Rúbrica de Evaluación - Experimento 2: Prototipo VGG16 Optimizado**
 
 ## 📊 **Criterios de Evaluación**
 
