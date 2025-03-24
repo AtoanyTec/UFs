@@ -57,7 +57,8 @@ Implementar un primer prototipo de clasificación usando la arquitectura **VGG16
   matplotlib==3.7.1  
   scikit-learn==1.2.2
 
-  # 📊 **Rúbrica de Evaluación - Entregable 2: Primer Experimento con VGG16**
+
+# 📊 **Rúbrica de Evaluación - Entregable 2: Primer Experimento con VGG16**
 
 | **Criterio**               | **Nivel 4: Sobresaliente (9-10 pts)** 🏆 | **Nivel 3: Competente (7-8 pts)** 👍 | **Nivel 2: En Desarrollo (5-6 pts)** 📉 | **Nivel 1: Básico (0-4 pts)** ⚠️ |
 |----------------------------|------------------------------------------|--------------------------------------|----------------------------------------|----------------------------------|
