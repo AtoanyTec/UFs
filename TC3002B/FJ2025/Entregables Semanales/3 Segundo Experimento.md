@@ -50,7 +50,7 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 
 ## 📊 **Criterios de Evaluación**
 
-| **Categoría**               | **Excelente (4 pts)** 🏆 | **Bueno (3 pts)** 👍 | **Regular (2 pts)** 📉 | **Insuficiente (1 pt)** ⚠️ |
+| **Categoría**               | **Excelente (95-100)** 🏆 | **Bueno (85-94)** 👍 | **Regular (75-84)** 📉 | **Insuficiente (0-74)** ⚠️ |
 |-----------------------------|-------------------------|----------------------|-----------------------|---------------------------|
 | **Precisión (Accuracy)**   | ≥85%                   | 80-84%              | 75-79%               | <75%                     |
 | **Implementación Técnica** | • Fine-tuning en ≥4 capas<br>• 3+ técnicas regularización<br>• 5+ transformaciones aumento datos | • Fine-tuning en 2-3 capas<br>• 2 técnicas regularización<br>• 3-4 transformaciones | • Fine-tuning básico<br>• 1 técnica regularización<br>• 1-2 transformaciones | • Sin optimizaciones<br>• Parámetros por defecto |
@@ -61,17 +61,10 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 
 | **Puntaje Total** | **Calificación** | **Recomendación** |
 |-------------------|------------------|-------------------|
-| 14-16 pts        | 💎 Sobresaliente | Implementación lista |
-| 11-13 pts        | 🔵 Competente    | Ajustes menores |
-| 8-10 pts         | 🟡 En desarrollo | Requiere revisiones |
-| ≤7 pts           | 🔴 No aceptable  | Repetir experimento |
+| 95-100 pts        | 💎 Sobresaliente | Implementación lista |
+| 85-94 pts        | 🔵 Competente    | Ajustes menores |
+| 75-84 pts         | 🟡 En desarrollo | Requiere revisiones |
+| ≤74 pts           | 🔴 No aceptable  | Repetir experimento |
 
-## 📌 **Ejemplo Práctico**
-```python
-# Cálculo de puntaje para:
-# - Accuracy: 83% (3 pts)
-# - Implementación: 2 técnicas regularización (3 pts)
-# - Análisis: Gráficos completos (3 pts)
-# - Documentación: Reporte estructurado (3 pts)
-# Total: 12 pts → 🔵 Competente
+
 
