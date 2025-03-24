@@ -8,7 +8,7 @@ Desarrollar una versión optimizada de VGG16 que logre **≥80% de accuracy** en
 
 ## 📂 **Qué Entregar**  
 
-### 1. **Código Optimizado** (Jupyter Notebook)  
+### 🚀 1. **Código Optimizado** (Jupyter Notebook)  
 ```python
 # Requisitos técnicos
 base_model = VGG16(weights='imagenet', include_top=False, input_shape=(224,224,3))
