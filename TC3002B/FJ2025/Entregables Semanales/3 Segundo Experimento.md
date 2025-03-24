@@ -25,11 +25,11 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 
 | Métrica               | Valor Mínimo Esperado | Resultado Obtenido | 
 |-----------------------|-----------------------|--------------------|
-| **Accuracy**          | ≥80%                  | 85.2%              | 
-| **F1-Score (macro)**  | ≥0.75                 | 0.78               |
-| **Recall**           | ≥0.70                 | 0.72               | 
-| **Precisión**        | ≥0.75                 | 0.81               | 
-| **AUC-ROC**         | ≥0.85                 | 0.87               | 
+| **Accuracy**          | ≥80%                  |                    | 
+| **F1-Score (macro)**  | ≥0.75                 |                    |
+| **Recall**           | ≥0.70                  |                    | 
+| **Precisión**        | ≥0.75                  |                    | 
+| **AUC-ROC**         | ≥0.85                  |                    | 
 
 
 
