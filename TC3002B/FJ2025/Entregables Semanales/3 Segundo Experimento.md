@@ -16,7 +16,7 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
     layer.trainable = False
 ```
 
-#### ✅  **Mejoras obligatorias**
+✅  **Mejoras obligatorias**
 * Aumento de datos avanzado (ej: `RandomBrightness`, `RandomContrast`)
 * Regularización con `Dropout(0.5)` y `L2 Regularization`
 * Optimización de hiperparámetros (lr=0.0001, batch_size=32)
@@ -33,7 +33,7 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 
 
 
-### 📊 **Detalles Adicionales:**
+📊 **Detalles Adicionales:**
 ```python
 # Ejemplo de cómo se calculan las métricas
 from sklearn.metrics import classification_report
