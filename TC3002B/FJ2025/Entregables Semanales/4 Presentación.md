@@ -1,4 +1,4 @@
-# 📝 INSTRUCCIONES PARA EL TERCER ENTREGABLE: ALGORITMO FINAL
+# 📝 PRESENTACIÓN
 
 ## 🎯 Objetivo  
 Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño excepcional (≥95% en todas las métricas) que demuestre:
