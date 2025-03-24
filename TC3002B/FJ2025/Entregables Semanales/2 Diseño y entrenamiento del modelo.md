@@ -1,4 +1,4 @@
-# 📋 **ENTREGABLE 2: PRIMER EXPERIMENTO CON VGG16**  
+# 📋 **DISEÑO Y ENTRENAMIENTO DEL MODELO**  
 *(Clasificación de Lesiones Primarias de la Piel)*  
 
 ## 🎯 **Objetivo**  
