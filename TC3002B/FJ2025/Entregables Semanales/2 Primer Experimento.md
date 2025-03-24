@@ -70,14 +70,13 @@ Implementar un primer prototipo de clasificación usando la arquitectura **VGG16
 | **Reproducibilidad** 🔄 | Código ejecutable sin errores en Google Colab. Incluye requirements.txt y datos de muestra. | Código funciona con ajustes menores. Faltan algunas dependencias. | Código requiere modificaciones extensas para funcionar. | Código no reproducible. |
 
 ### **Puntaje Total**  
-- **91-100 pts**: Excelente (💎)  
-- **71-90 pts**: Bueno (🔵)  
-- **51-70 pts**: Regular (🟡)  
-- **0-50 pts**: Insuficiente (🔴)  
+- **95-100 pts**: Excelente (💎)  
+- **84-95 pts**: Bueno (🔵)  
+- **74-85 pts**: Regular (🟡)  
+- **0-74 pts**: Insuficiente (🔴)  
 
 ### 🔍 **Criterios Adicionales**  
-- **Bonus (+5 pts)**: Uso de técnicas avanzadas (ej: visualización de feature maps, GANs para aumento de datos).  
-- **Penalización (-5 pts)**: Entrega tardía sin justificación.  
+- **Bonus (+5 pts)**: Uso de técnicas avanzadas (ej: visualización de feature maps, GANs para aumento de datos).   
 
 ---
 
