@@ -33,9 +33,9 @@ Estructura requerida
 3. Resultados
 4. Conclusiones
 
-# 📊 Rúbrica de Evaluación - Entregable 4: Algoritmo Final
+## 📊 Rúbrica de Evaluación 
 
-## 🛠️ Implementación Técnica (50%)
+### 🛠️ Implementación Técnica (50%)
 
 | **Criterio**               | **Excelente (4)** 💎 | **Avanzado (3)** 🔵 | **Básico (2)** 🟡 | **Insuficiente (1)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
@@ -43,7 +43,7 @@ Estructura requerida
 | **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 74% a 85% en métricas principales | Por debajo del 85% en alguna métrica |
 
 
-## 📄 Artículo Científico (30%)
+### 📄 Artículo Científico (30%)
 
 | **Criterio**               | **Excelente (4)** 💎 | **Avanzado (3)** 🔵 | **Básico (2)** 🟡 | **Insuficiente (1)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
@@ -52,7 +52,7 @@ Estructura requerida
 | **Originalidad**          | Contribución novedosa | Buena revisión literaria con aportes | Síntesis de información existente | Contenido genérico |
 | **Calidad de Referencias** | 15+ referencias actualizadas, formato perfecto | 10 referencias relevantes | 5 referencias básicas | Menos de 5 referencias |
 
-## 🎤 Presentación Oral (20%)
+### 🎤 Presentación Oral (20%)
 
 | **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-04)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
