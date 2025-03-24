@@ -23,18 +23,15 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 
 ### 📈 2. **Reporte de Rendimiento** (Jupyter Notebook)  
 
-| Métrica               | Valor Mínimo Esperado | Resultado Obtenido | Cumplimiento | Visualización |
-|-----------------------|-----------------------|--------------------|--------------|---------------|
-| **Accuracy**          | ≥80%                  | 85.2%              | ✅           | ![accuracy](https://via.placeholder.com/15/00ff00/000000?text=+) |
-| **F1-Score (macro)**  | ≥0.75                 | 0.78               | ✅           | ![f1](https://via.placeholder.com/15/00ff00/000000?text=+) |
-| **Recall**           | ≥0.70                 | 0.72               | ✅           | ![recall](https://via.placeholder.com/15/00ff00/000000?text=+) |
-| **Precisión**        | ≥0.75                 | 0.81               | ✅           | ![precision](https://via.placeholder.com/15/00ff00/000000?text=+) |
-| **AUC-ROC**         | ≥0.85                 | 0.87               | ✅           | ![auc](https://via.placeholder.com/15/00ff00/000000?text=+) |
+| Métrica               | Valor Mínimo Esperado | Resultado Obtenido | 
+|-----------------------|-----------------------|--------------------|
+| **Accuracy**          | ≥80%                  | 85.2%              | 
+| **F1-Score (macro)**  | ≥0.75                 | 0.78               |
+| **Recall**           | ≥0.70                 | 0.72               | 
+| **Precisión**        | ≥0.75                 | 0.81               | 
+| **AUC-ROC**         | ≥0.85                 | 0.87               | 
 
-### 🔍 **Leyenda:**
-- ✅: Cumple objetivo
-- ⚠️: Cercano al objetivo (±3%)
-- ❌: No cumple
+
 
 ### 📊 **Detalles Adicionales:**
 ```python
