@@ -37,7 +37,7 @@ Estructura requerida
 
 ### 🛠️ Implementación Técnica (50%)
 
-| **Criterio**               | **Excelente (4)** 💎 | **Avanzado (3)** 🔵 | **Básico (2)** 🟡 | **Insuficiente (1)** 🔴 |
+| **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-94)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
 | **Calidad del Código**     | Código modular, documentación completa, optimizado para GPU/TPU | Buenas prácticas, comentarios claros, reutilizable | Código funcional pero poco organizado | Código desestructurado o incompleto |
 | **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 74% a 85% en métricas principales | Por debajo del 85% en alguna métrica |
