@@ -10,4 +10,4 @@
 🔗 **Recursos adicionales** – Enlaces y materiales complementarios para profundizar en los temas.  
 
 ## 🎯 Objetivo  
-Este repositorio tiene como finalidad centralizar la información del curso **TC1003B**, permitiendo a los estudiantes acceder de manera rápida y sencilla a los materiales y actividades.  
+Este repositorio tiene como finalidad centralizar la información del curso **TC3002B**, permitiendo a los estudiantes acceder de manera rápida y sencilla a los materiales y actividades.  
