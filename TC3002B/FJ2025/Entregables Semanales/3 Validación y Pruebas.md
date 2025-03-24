@@ -1,4 +1,4 @@
-# 📋 **ENTREGABLE 3: PROTOTIPO 2 - ARQUITECTURA VGG16 OPTIMIZADA**  
+# 📋 **VALIDACIÓN Y PRUEBAS**  
 *(Clasificación de Lesiones Primarias con ≥80% de Accuracy)*  
 
 ## 🎯 **Objetivo**  
