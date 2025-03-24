@@ -16,4 +16,5 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
     layer.trainable = False
 
 
-## ✅  ** Mejoras obligatorias**
+
+##✅  ** Mejoras obligatorias**
