@@ -29,7 +29,6 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 | **F1-Score (macro)**  | ≥0.75                 |                    |
 | **Recall**           | ≥0.70                  |                    | 
 | **Precisión**        | ≥0.75                  |                    | 
-| **AUC-ROC**         | ≥0.85                  |                    | 
 
 
 
