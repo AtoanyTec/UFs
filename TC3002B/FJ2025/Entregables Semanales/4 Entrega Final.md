@@ -9,7 +9,7 @@ Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño ex
 ## 📦 Componentes Principales  
 
 ### 1. **Implementación Técnica** `(50% de calificación)`  
-# Requisitos mínimos del notebook
+#### Requisitos mínimos del notebook
 - Arquitectura VGG16 optimizada con:
   - ✅ Fine-tuning estratégico en ≥4 capas
   - ✅ Dropout(0.5) + L2 Regularization
