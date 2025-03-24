@@ -25,7 +25,6 @@ Estructura requerida:
 
 📌 **Obligatorio:**
 * 15+ referencias actualizadas (2020-2024)
-* Análisis estadístico con p-valores
 
 ### 3. **Presentación Oral** `(20% de calificación)`
 Estructura requerida
