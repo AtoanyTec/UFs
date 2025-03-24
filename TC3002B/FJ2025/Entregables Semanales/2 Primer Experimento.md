@@ -45,7 +45,6 @@ Implementar un primer prototipo de clasificación usando la arquitectura **VGG16
 ### 3. **Evidencias Adicionales**  
 - 🖼️ Capturas de:  
   - Terminal durante el entrenamiento (mostrando epochs/accuracy)  
-  - Feature maps de la primera capa convolucional (opcional)  
 - 📁 Dataset reducido usado (enlace a Google Drive/ZIP)  
 
 ---
