@@ -1,0 +1,27 @@
+# 📝 INSTRUCCIONES PARA EL TERCER ENTREGABLE: ALGORITMO FINAL
+
+## 🎯 Objetivo  
+Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño excepcional (≥95% en todas las métricas) que demuestre:
+- Dominio técnico en deep learning 🧠
+- Capacidad de comunicación científica 📄
+- Rigor metodológico 🔍
+
+## 📦 Componentes Principales  
+
+### 1. **Implementación Técnica** `(50% de calificación)`  
+```python
+# Requisitos mínimos del notebook
+- Arquitectura VGG16 optimizada con:
+  ✅ Fine-tuning estratégico en ≥4 capas  
+  ✅ Dropout(0.5) + L2 Regularization  
+  ✅ Data Augmentation avanzado (Rotación 30°, Zoom 20%)  
+- Sistema de verificación automática:
+  assert accuracy >= 0.95, "Meta no alcanzada"
+```
+
+### 2. **Artículo Científico** `(30% de calificación)` 
+Estructura requerida:
+1. Introducción (Estado del Arte)  
+2. Metodología (Diagrama de flujo del modelo)  
+3. Resultados (Tabla comparativa con SOTA)  
+4. Discusión (Limitaciones y aplicaciones clínicas)  
