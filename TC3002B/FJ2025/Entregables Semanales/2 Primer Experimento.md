@@ -21,8 +21,8 @@ Implementar un primer prototipo de clasificación usando la arquitectura **VGG16
 
 ### 2. **Reporte Técnico** (PDF, 3-5 páginas)  
 - 📊 **Sección 1: Datos**  
-  - Descripción del dataset usado (ej: "500 imágenes de ISIC Archive: 50 por cada lesión primaria")  
-  - Ejemplos visuales de cada clase (grilla de imágenes)  
+  - Descripción del dataset usado 
+  - Ejemplos visuales de cada clase (grid de imágenes)  
 
 - 🤖 **Sección 2: Modelo**  
   - Diagrama de la arquitectura modificada (usar `model.summary()`)  
