@@ -40,7 +40,7 @@ Estructura requerida
 | **Criterio**               | **Excelente (4)** 💎 | **Avanzado (3)** 🔵 | **Básico (2)** 🟡 | **Insuficiente (1)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
 | **Calidad del Código**     | Código modular, documentación completa, optimizado para GPU/TPU | Buenas prácticas, comentarios claros, reutilizable | Código funcional pero poco organizado | Código desestructurado o incompleto |
-| **Rendimiento del Modelo** | Supera el 95% en todas las métricas | Cumple exactamente el 95% en métricas clave | 85-94% en métricas principales | Por debajo del 85% en alguna métrica |
+| **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 74% a 85% en métricas principales | Por debajo del 85% en alguna métrica |
 
 
 ## 📄 Artículo Científico (30%)
