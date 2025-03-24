@@ -14,3 +14,6 @@ Desarrollar una versión optimizada de VGG16 que logre **≥80% de accuracy** en
 base_model = VGG16(weights='imagenet', include_top=False, input_shape=(224,224,3))
 for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
     layer.trainable = False
+
+
+## ✅  ** Mejoras obligatorias**
