@@ -48,7 +48,7 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 
 ## 🧪 **Rúbrica de Evaluación - Experimento 2: Prototipo VGG16 Optimizado**
 
-## 📊 **Criterios de Evaluación**
+### 📊 **Criterios de Evaluación**
 
 | **Categoría**               | **Excelente (95-100)** 🏆 | **Bueno (85-94)** 👍 | **Regular (75-84)** 📉 | **Insuficiente (0-74)** ⚠️ |
 |-----------------------------|-------------------------|----------------------|-----------------------|---------------------------|
