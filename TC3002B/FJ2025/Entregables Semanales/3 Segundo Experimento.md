@@ -66,5 +66,13 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 | 75-84 pts         | 🟡 En desarrollo | Requiere revisiones |
 | ≤74 pts           | 🔴 No aceptable  | Repetir experimento |
 
+---
 
+## 💡 **Recomendaciones para Alcanzar el 80%**
 
+1. Balanceo de datos: Usar `ImageDataGenerator` con `class_weight`
+2. Capas personalizadas: Añadir `GlobalAveragePooling2D()` + `Dense(256, activation='relu')`
+3. Transfer Learning: Reciclar pesos de VGG16 solo en primeras 10 capas
+
+---
+⚠️ **Nota: Si el accuracy es <80%, incluir plan de acción con pasos para mejorarlo en la siguiente iteración.**
