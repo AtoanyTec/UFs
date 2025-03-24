@@ -24,4 +24,15 @@ Estructura requerida:
 1. Introducción (Estado del Arte)  
 2. Metodología (Diagrama de flujo del modelo)  
 3. Resultados (Tabla comparativa con SOTA)  
-4. Discusión (Limitaciones y aplicaciones clínicas)  
+4. Discusión (Limitaciones y aplicaciones clínicas)
+
+📌 **Obligatorio:**
+* 15+ referencias actualizadas (2020-2024)
+* Análisis estadístico con p-valores
+
+### 3. **Presentación Oral** `(20% de calificación)`
+Estructura requerida
+1. Problema Clínico
+2. Descripción del Algoritmo (Diagrama a bloques)
+3. Resultados
+4. Conclusiones
