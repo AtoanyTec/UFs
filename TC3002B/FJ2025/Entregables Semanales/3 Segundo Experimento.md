@@ -17,11 +17,8 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 ```
 
 #### ✅  **Mejoras obligatorias**
-* Técnicas de Aumento de Datos Avanzado**
-```python
-from tensorflow.keras.layers import RandomBrightness, RandomContrast
+Aumento de datos avanzado (ej: `RandomBrightness`, `RandomContrast`)
+Regularización con `Dropout(0.5)` y `L2 Regularization`
+Optimización de hiperparámetros (lr=0.0001, batch_size=32)
 
-data_augmentation = tf.keras.Sequential([
-    RandomBrightness(factor=0.2),
-    RandomContrast(factor=0.3)
-])
+
