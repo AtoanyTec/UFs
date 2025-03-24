@@ -38,4 +38,40 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 # Ejemplo de cómo se calculan las métricas
 from sklearn.metrics import classification_report
 print(classification_report(y_true, y_pred, target_names=class_names))
+```
+
+### 📈 3. **Evidencias Visuales**
+* 📊 Gráficos comparativos vs. prototipo inicial (accuracy/loss)
+* 🎨 Matriz de confusión con heatmap
+
+---
+
+# 🧪 **Rúbrica de Evaluación - Experimento 2: Prototipo VGG16 Optimizado**
+
+## 📊 **Criterios de Evaluación**
+
+| **Categoría**               | **Excelente (4 pts)** 🏆 | **Bueno (3 pts)** 👍 | **Regular (2 pts)** 📉 | **Insuficiente (1 pt)** ⚠️ |
+|-----------------------------|-------------------------|----------------------|-----------------------|---------------------------|
+| **Precisión (Accuracy)**   | ≥85%                   | 80-84%              | 75-79%               | <75%                     |
+| **Implementación Técnica** | • Fine-tuning en ≥4 capas<br>• 3+ técnicas regularización<br>• 5+ transformaciones aumento datos | • Fine-tuning en 2-3 capas<br>• 2 técnicas regularización<br>• 3-4 transformaciones | • Fine-tuning básico<br>• 1 técnica regularización<br>• 1-2 transformaciones | • Sin optimizaciones<br>• Parámetros por defecto |
+| **Análisis de Resultados** | • Gráficos interactivos<br>• Análisis por clase<br>• Pruebas estadísticas | • Gráficos completos<br>• Interpretación métricas<br>• Identificación errores | • Gráficos básicos<br>• Descripción superficial | • Datos numéricos sin análisis |
+| **Documentación**          | • Reporte profesional<br>• Comentarios línea por línea<br>• Manual de usuario | • Reporte estructurado<br>• Comentarios en bloques clave | • Documentación mínima<br>• Faltan secciones | • Código sin documentar |
+
+## 🔢 **Escala de Puntuación**
+
+| **Puntaje Total** | **Calificación** | **Recomendación** |
+|-------------------|------------------|-------------------|
+| 14-16 pts        | 💎 Sobresaliente | Implementación lista |
+| 11-13 pts        | 🔵 Competente    | Ajustes menores |
+| 8-10 pts         | 🟡 En desarrollo | Requiere revisiones |
+| ≤7 pts           | 🔴 No aceptable  | Repetir experimento |
+
+## 📌 **Ejemplo Práctico**
+```python
+# Cálculo de puntaje para:
+# - Accuracy: 83% (3 pts)
+# - Implementación: 2 técnicas regularización (3 pts)
+# - Análisis: Gráficos completos (3 pts)
+# - Documentación: Reporte estructurado (3 pts)
+# Total: 12 pts → 🔵 Competente
 
