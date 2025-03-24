@@ -11,11 +11,9 @@ Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño ex
 ### 1. **Implementación Técnica** `(50% de calificación)`  
 # Requisitos mínimos del notebook
 - Arquitectura VGG16 optimizada con:
-  ✅ Fine-tuning estratégico en ≥4 capas  
-  ✅ Dropout(0.5) + L2 Regularization  
-  ✅ Data Augmentation avanzado (Rotación 30°, Zoom 20%)  
-- Sistema de verificación automática:
-  assert accuracy >= 0.95, "Meta no alcanzada"
+  - ✅ Fine-tuning estratégico en ≥4 capas
+  - ✅ Dropout(0.5) + L2 Regularization
+  - ✅ Data Augmentation avanzado (Rotación 30°, Zoom 20%)  
 
 
 ### 2. **Artículo Científico** `(30% de calificación)` 
