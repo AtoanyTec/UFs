@@ -79,13 +79,3 @@ Implementar un primer prototipo de clasificación usando la arquitectura **VGG16
 - **Bonus (+5 pts)**: Uso de técnicas avanzadas (ej: visualización de feature maps, GANs para aumento de datos).   
 
 ---
-
-**Instrucciones para evaluadores**:  
-1. Asignar puntaje en cada categoría según el nivel alcanzado.  
-2. Sumar puntos y aplicar bonus/penalizaciones.  
-3. Proporcionar retroalimentación específica por cada criterio.  
-
-📌 **Ejemplo de feedback para Nivel 4**:  
-_"Excelente implementación de VGG16 con fine-tuning en capas específicas. Los gráficos de pérdida muestran un entrenamiento estable, y tu propuesta de usar SMOTE para balanceo de datos es innovadora. Considera añadir más visualizaciones de activaciones en la próxima iteración."_  
-
-¿Necesitas ajustar algún criterio o agregar más detalles? 😊
