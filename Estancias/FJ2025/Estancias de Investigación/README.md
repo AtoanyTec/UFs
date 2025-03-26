@@ -8,7 +8,7 @@ Bienvenido/a al repositorio de estancias de investigación en IA. Aquí encontra
 **Descripción:** Desarrollo de algoritmos para identificación facial en tiempo real desde plataformas aéreas no tripuladas.  
 **Tecnologías:** Python, OpenCV, YOLO, TensorFlow  
 **Duración:** 6 meses  
-📌 [Ver detalles](EI-AD25-320_Reconocimiento de Rostros Utilizando Drones.md)
+📌 [Ver detalles](Estancias/FJ2025/Estancias de Investigación/EI-AD25-320_Reconocimiento de Rostros Utilizando Drones.md)
 
 ### 🚗 IA para la Navegación Autónoma de Vehículos  
 **Descripción:** Implementación de sistemas de toma de decisiones para vehículos autónomos en entornos urbanos.  
