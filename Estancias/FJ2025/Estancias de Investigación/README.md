@@ -28,4 +28,19 @@ Bienvenido/a al repositorio de estancias de investigación en IA. Aquí encontra
 **Duración:** 4 meses  
 📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-337_Detecci%C3%B3n%20de%20Placas%20de%20Coches%20utilizando%20IA.md)
 
-## 📂 Estructura del Repositorio
+
+## 🎯 Requisitos Comunes
+- Conocimientos sólidos en Python
+- Experiencia con frameworks de ML (TensorFlow/PyTorch)
+- Capacidad para trabajar en equipo
+- (Opcional) Publicaciones previas en el área
+
+
+## 💡 Beneficios
+- Acceso a equipos de última generación
+- Tutoría personalizada por investigadores senior
+- Posibilidad de publicación conjunta
+
+
+---
+
