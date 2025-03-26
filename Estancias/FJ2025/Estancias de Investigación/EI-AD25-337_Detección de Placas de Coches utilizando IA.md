@@ -11,20 +11,12 @@
 ## 🛠️ Actividades a Realizar
 
 1. **Investigación y Selección de Tecnologías:**
-   - :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-   - :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
 
 2. **Desarrollo del Modelo de Reconocimiento:**
-   - :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-   - :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
 
 3. **Integración del Sistema:**
-   - :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-   - :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
 
 4. **Pruebas y Validación:**
-   - :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-   - :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
 
 ## 🧰 Herramientas y Tecnologías Utilizadas
 
