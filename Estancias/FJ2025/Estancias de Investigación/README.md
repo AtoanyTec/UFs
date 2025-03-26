@@ -14,7 +14,7 @@ Bienvenido/a al repositorio de estancias de investigación en IA. Aquí encontra
 **Descripción:** Implementación de sistemas de toma de decisiones para vehículos autónomos en entornos urbanos.  
 **Tecnologías:** ROS, PyTorch, LiDAR processing  
 **Duración:** 8 meses  
-📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-321_IA%20para%20la%20Navegaci%C3%B3n%20Aut%C3%B3noma%20de%20Veh%C3%ADculos.md))
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-321_IA%20para%20la%20Navegaci%C3%B3n%20Aut%C3%B3noma%20de%20Veh%C3%ADculos.md)
 
 ### 🏥 Inteligencia Artificial para Diagnóstico Médico  
 **Descripción:** Desarrollo de modelos predictivos para detección temprana de patologías en imágenes médicas.  
