@@ -11,16 +11,12 @@ _Impulsando la transformación digital_
 - Consultoría TI  
 - Inteligencia Artificial  
 
-🔗 [Más información sobre Beecker](enlaces/beecker.md)  
-
 ### 🛒 **Mercativo**  
 _Revolucionando el comercio digital_  
 📌 **Áreas:**  
 - E-commerce  
 - Marketing digital  
 - Análisis de datos  
-
-🔗 [Más información sobre Mercativo](enlaces/mercativo.md)  
 
 
 ## ✅ Beneficios  
