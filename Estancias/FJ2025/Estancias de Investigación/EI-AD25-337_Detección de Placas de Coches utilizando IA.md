@@ -4,26 +4,34 @@
 
 ## 🎯 Objetivos del Proyecto
 
-- **Desarrollar un Sistema de Reconocimiento de Placas Vehiculares:** :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+- **Desarrollar un Sistema de Reconocimiento de Placas Vehiculares:** :Crear una aplicación que identifique y reconozca las matrículas de los vehículos que ingresan al estacionamiento del campus, utilizando técnicas de visión por computadora e inteligencia artificial.
 
-- **Integrar el Sistema con el Control de Acceso:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+- **Integrar el Sistema con el Control de Acceso:** Conectar el sistema de reconocimiento con las barreras de acceso al estacionamiento para permitir la apertura automática a vehículos autorizados, basándose en una base de datos de matrículas registradas.
 
 ## 🛠️ Actividades a Realizar
 
 1. **Investigación y Selección de Tecnologías:**
+  * Explorar diferentes algoritmos y modelos de reconocimiento de matrículas, como YOLOv3 y Tesseract OCR.​
+  * Evaluar herramientas y lenguajes de programación adecuados, priorizando Python por su versatilidad y amplia comunidad.
 
 2. **Desarrollo del Modelo de Reconocimiento:**
+  * Recolectar y preprocesar imágenes de matrículas en diversas condiciones de iluminación y ángulos.
+  * Entrenar el modelo seleccionado para detectar y reconocer caracteres alfanuméricos en las matrículas.
 
 3. **Integración del Sistema:**
+  * Desarrollar una interfaz que conecte el modelo de reconocimiento con el sistema de control de acceso al estacionamiento.
+  * Realizar pruebas de integración para asegurar la comunicación efectiva entre el software y el hardware de las barreras.
 
 4. **Pruebas y Validación:**
+  * Evaluar el rendimiento del sistema en condiciones reales, ajustando parámetros para mejorar la precisión y velocidad de reconocimiento.
+  * Asegurar que el sistema funcione correctamente en diferentes condiciones ambientales y de tráfico.
 
 ## 🧰 Herramientas y Tecnologías Utilizadas
 
-- **Lenguaje de Programación:** :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
-- **Librerías de Visión por Computadora:** :contentReference[oaicite:23]{index=23}&#8203;:contentReference[oaicite:24]{index=24}
-- **Modelos de IA para Reconocimiento de Placas:** :contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
-- **Base de Datos:** :contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
+- **Lenguaje de Programación:** Python
+- **Librerías de Visión por Computadora:** OpenCV
+- **Modelos de IA para Reconocimiento de Placas:**  YOLOv3, Tesseract OCR
+- **Base de Datos:** MySQL o SQLite para almacenar registros de matrículas autorizadas
 
 ## 📅 Cronograma de Actividades
 
@@ -37,8 +45,8 @@
 
 ## 🎯 Resultados Esperados
 
-- **Sistema Funcional:** :contentReference[oaicite:29]{index=29}&#8203;:contentReference[oaicite:30]{index=30}
-- **Mejora en la Seguridad:** :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
-- **Experiencia Práctica:** :contentReference[oaicite:33]{index=33}&#8203;:contentReference[oaicite:34]{index=34}
+- **Sistema Funcional:** Una aplicación capaz de reconocer matrículas vehiculares en tiempo real y gestionar el acceso al estacionamiento de manera automática.
+- **Mejora en la Seguridad:** Un control de acceso más seguro y eficiente, reduciendo el riesgo de acceso no autorizado.
+- **Experiencia Práctica:** Aplicación de conocimientos en IA y visión por computadora en un proyecto real, brindando experiencia práctica en el desarrollo e implementación de sistemas tecnológicos.
 
 ¡Esperamos que esta estancia sea una experiencia enriquecedora, donde puedan aplicar sus habilidades y adquirir nuevos conocimientos en el campo de la inteligencia artificial y la visión por computadora! 🌟
