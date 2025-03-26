@@ -14,18 +14,18 @@ Bienvenido/a al repositorio de estancias de investigación en IA. Aquí encontra
 **Descripción:** Implementación de sistemas de toma de decisiones para vehículos autónomos en entornos urbanos.  
 **Tecnologías:** ROS, PyTorch, LiDAR processing  
 **Duración:** 8 meses  
-📌 [Ver detalles](proyectos/navegacion_autonoma.md)
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-321_IA%20para%20la%20Navegaci%C3%B3n%20Aut%C3%B3noma%20de%20Veh%C3%ADculos.md))
 
 ### 🏥 Inteligencia Artificial para Diagnóstico Médico  
 **Descripción:** Desarrollo de modelos predictivos para detección temprana de patologías en imágenes médicas.  
 **Tecnologías:** CNN, TensorFlow, DICOM processing  
 **Duración:** 12 meses  
-📌 [Ver detalles](proyectos/diagnostico_medico.md)
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-322_Inteligencia%20Artificial%20para%20Diagnostico%20M%C3%A9dico.md))
 
 ### 🚘 Detección de Placas de Coches utilizando IA  
 **Descripción:** Sistema de reconocimiento automático de matrículas para gestión de tráfico y seguridad.  
 **Tecnologías:** OCR, Tesseract, ANPR algorithms  
 **Duración:** 4 meses  
-📌 [Ver detalles](proyectos/deteccion_placas.md)
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-337_Detecci%C3%B3n%20de%20Placas%20de%20Coches%20utilizando%20IA.md))
 
 ## 📂 Estructura del Repositorio
