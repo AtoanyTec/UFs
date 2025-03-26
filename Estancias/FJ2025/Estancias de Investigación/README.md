@@ -20,12 +20,12 @@ Bienvenido/a al repositorio de estancias de investigación en IA. Aquí encontra
 **Descripción:** Desarrollo de modelos predictivos para detección temprana de patologías en imágenes médicas.  
 **Tecnologías:** CNN, TensorFlow, DICOM processing  
 **Duración:** 12 meses  
-📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-322_Inteligencia%20Artificial%20para%20Diagnostico%20M%C3%A9dico.md))
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-322_Inteligencia%20Artificial%20para%20Diagnostico%20M%C3%A9dico.md)
 
 ### 🚘 Detección de Placas de Coches utilizando IA  
 **Descripción:** Sistema de reconocimiento automático de matrículas para gestión de tráfico y seguridad.  
 **Tecnologías:** OCR, Tesseract, ANPR algorithms  
 **Duración:** 4 meses  
-📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-337_Detecci%C3%B3n%20de%20Placas%20de%20Coches%20utilizando%20IA.md))
+📌 [Ver detalles](https://github.com/AtoanyTec/UFs/blob/main/Estancias/FJ2025/Estancias%20de%20Investigaci%C3%B3n/EI-AD25-337_Detecci%C3%B3n%20de%20Placas%20de%20Coches%20utilizando%20IA.md)
 
 ## 📂 Estructura del Repositorio
