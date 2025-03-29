@@ -2,7 +2,7 @@
 *(Clasificación de Lesiones Primarias de la Piel)*  
 
 ## 🎯 **Objetivo**  
-Implementar un primer prototipo de clasificación usando la arquitectura **VGG16** con transfer learning, que sirva como línea base para comparaciones futuras con otras arquitecturas.  
+Implementar un primer prototipo de clasificación usando la arquitectura **VGG** con transfer learning, que sirva como línea base para comparaciones futuras con otras arquitecturas.  
 
 ---
 
