@@ -18,11 +18,7 @@
   * Recolectar y preprocesar imágenes de matrículas en diversas condiciones de iluminación y ángulos.
   * Entrenar el modelo seleccionado para detectar y reconocer caracteres alfanuméricos en las matrículas.
 
-3. **Integración del Sistema:**
-  * Desarrollar una interfaz que conecte el modelo de reconocimiento con el sistema de control de acceso al estacionamiento.
-  * Realizar pruebas de integración para asegurar la comunicación efectiva entre el software y el hardware de las barreras.
-
-4. **Pruebas y Validación:**
+3. **Pruebas y Validación:**
   * Evaluar el rendimiento del sistema en condiciones reales, ajustando parámetros para mejorar la precisión y velocidad de reconocimiento.
   * Asegurar que el sistema funcione correctamente en diferentes condiciones ambientales y de tráfico.
 
