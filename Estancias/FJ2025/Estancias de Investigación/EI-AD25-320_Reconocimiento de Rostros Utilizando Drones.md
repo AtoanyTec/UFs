@@ -21,8 +21,8 @@ Desarrollar e implementar un sistema de reconocimiento facial basado en intelige
 ## ⚡ 4. Actividades Principales  
 Los estudiantes participantes en la estancia de investigación seguirán una serie de etapas para completar el proyecto:  
 
-1. **📖 Investigación y Revisión del Estado del Arte:** Revisión de algoritmos de reconocimiento facial, modelos de IA y hardware compatible con drones.  
-2. **💻 Desarrollo del Algoritmo de Reconocimiento Facial:** Implementación y entrenamiento del modelo de IA utilizando Python y herramientas como OpenCV, TensorFlow o PyTorch.  
+1. **📖 Investigación y Revisión del Estado del Arte:** Revisión de algoritmos de reconocimiento facial y hardware compatible con drones.  
+2. **💻 Desarrollo del Algoritmo de Reconocimiento Facial:** Implementación del modelo utilizando Python y herramientas como OpenCV.  
 3. **🚀 Integración con el Dron:** Implementación del software en el hardware del dron, asegurando la transmisión de datos y el procesamiento en tiempo real.  
 4. **🧪 Pruebas y Validación del Sistema:** Evaluación del rendimiento en distintos escenarios y optimización del modelo.  
 5. **📢 Presentación de Resultados:** Elaboración de un reporte final en formato de artículo científico y una presentación del proyecto.  
