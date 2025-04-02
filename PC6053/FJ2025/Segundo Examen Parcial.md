@@ -59,6 +59,7 @@
 
 8. **¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?**
 <br><br>
+
 9. **Codifica la información `1100` utilizando H(7,4)**  
  
 |  | D7 |  D6 | D5 | D4 | D3 | D2 | D1 |
