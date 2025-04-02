@@ -19,7 +19,7 @@
 ### **Preguntas:**
 
 1. **¿Qué tipo de datos de entrada utiliza un clasificador de imágenes en Teachable Machine y cómo se entrena el modelo?**  
-<><><>
+<br><br><br>
 
 2. **Menciona dos aplicaciones prácticas de un clasificador de audio creado en Teachable Machine**  
   
