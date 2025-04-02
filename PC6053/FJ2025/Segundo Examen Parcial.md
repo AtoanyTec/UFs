@@ -19,13 +19,13 @@
 ### **Preguntas:**
 
 1. **¿Qué tipo de datos de entrada utiliza un clasificador de imágenes en Teachable Machine y cómo se entrena el modelo?**  
-<br><br><br>
+<br><br>
 
 2. **Menciona dos aplicaciones prácticas de un clasificador de audio creado en Teachable Machine**  
-  
+  <br><br>
 
 3. **¿Qué significa el término "Cobot" y en qué se diferencia de un robot industrial tradicional?**  
-   
+   <br><br>
 
 4. **Dibuja la tabla de verdad para una compuerta XOR de dos entradas**
 
@@ -55,10 +55,10 @@
 |     1     |     1     |                  | 
 
 7. **Explica la función de una compuerta NOT y proporciona un ejemplo de su uso en un circuito lógico.**  
-  
+  <br><br>
 
 8. **¿Cuál es el propósito del código Hamming (7,4) y cómo detecta errores en la transmisión de datos?**
-
+<br><br>
 9. **Codifica la información `1100` utilizando H(7,4)**  
  
 |  | D7 |  D6 | D5 | D4 | D3 | D2 | D1 |
@@ -71,13 +71,13 @@
 
 10. **Detecta y corrige el error en el código `1000110`**  
 
-
+<br><br>
 ---
 
 ### **Puntos adicionales (opcional):**
 
 12. **Codifica la palabra de datos `1101` utilizando el código Hamming (7,4)**  
-    
+    <br><br>
 
 ---
 
