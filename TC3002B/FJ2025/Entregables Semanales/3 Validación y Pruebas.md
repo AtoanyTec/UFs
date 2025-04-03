@@ -19,7 +19,7 @@ for layer in base_model.layers[:-4]:  # Fine-tuning en últimas 4 capas
 ✅  **Mejoras obligatorias**
 * Aumento de datos avanzado (ej: `RandomBrightness`, `RandomContrast`)
 * Regularización con `Dropout(0.5)` o `L2 Regularization`
-* Optimización de hiperparámetros (lr=0.0001, batch_size=32)
+* Optimización de hiperparámetros (lr=0.0001, batch_size=8, número de épocas, diferentes configuracións de VGG, etc.)
 
 ### 📈 2. **Reporte de Rendimiento** (Jupyter Notebook)  
 
