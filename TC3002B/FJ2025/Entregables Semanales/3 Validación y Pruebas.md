@@ -54,7 +54,7 @@ print(classification_report(y_true, y_pred, target_names=class_names))
 | **Precisión (Accuracy)**   | ≥85%                   | 80-84%              | 75-79%               | <75%                     |
 | **Implementación Técnica** | • Fine-tuning en ≥4 capas<br>• 3+ técnicas regularización<br>• 5+ transformaciones aumento datos | • Fine-tuning en 2-3 capas<br>• 2 técnicas regularización<br>• 3-4 transformaciones | • Fine-tuning básico<br>• 1 técnica regularización<br>• 1-2 transformaciones | • Sin optimizaciones<br>• Parámetros por defecto |
 | **Análisis de Resultados** | • Gráficos interactivos<br>• Análisis por clase<br>• Pruebas estadísticas | • Gráficos completos<br>• Interpretación métricas<br>• Identificación errores | • Gráficos básicos<br>• Descripción superficial | • Datos numéricos sin análisis |
-| **Documentación**          | • Reporte profesional<br>• Comentarios línea por línea<br>• Manual de usuario | • Reporte estructurado<br>• Comentarios en bloques clave | • Documentación mínima<br>• Faltan secciones | • Código sin documentar |
+| **Documentación**          | • Reporte profesional<br>• Comentarios línea por línea<br> | • Reporte estructurado<br>• Comentarios en bloques clave | • Documentación mínima<br>• Faltan secciones | • Código sin documentar |
 
 ## 🔢 **Escala de Puntuación**
 
