@@ -2,7 +2,7 @@
 *(Clasificación de Lesiones Primarias con ≥80% de Accuracy)*  
 
 ## 🎯 **Objetivo**  
-Desarrollar una versión optimizada de VGG16 que logre **≥80% de accuracy** en la clasificación de lesiones primarias de la piel, aplicando técnicas avanzadas de fine-tuning y manejo de datos.  
+Desarrollar una versión optimizada de VGG que logre **≥80% de accuracy** en la clasificación de lesiones primarias de la piel, aplicando técnicas avanzadas de fine-tuning y manejo de datos.  
 
 ---
 
