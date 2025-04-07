@@ -131,6 +131,7 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 4. **Presentación**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
 
 ---
+## Rúbrica para evaluar el reporte
 | Criterio               | Dominio Avanzado (95-100)                                                                 | Dominio Competente (85-94)                                                         | Dominio Básico (75-84)                                                          | Dominio Inicial (0-75)                                                          |
 |------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Portada**            | Incluye todos los elementos requeridos con diseño profesional y creativo                 | Incluye todos los elementos requeridos con formato adecuado                       | Faltan 1-2 elementos o el formato no es del todo adecuado                      | Faltan más de 2 elementos o el formato es incorrecto                           |
