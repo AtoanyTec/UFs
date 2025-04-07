@@ -75,6 +75,16 @@
 - Realiza un video formato TikTok en donde expliques:
   - La programación del cobot. 💻
   - Los resultados finales. 📊
+ 
+### 📄 Reporte Escrito
+- Realiza un reporte escrito que incluya las siguientes secciones:
+  - Portada. 💻
+  - Nombre de estudiantes. 📊
+  - Introducción (importancia de los robots colaborativos) 💻
+  - Descripción del proyecto 💻
+  - Resultados 📊
+  - Conclusiones 💻
+  - Referencias 💻
 
 ### 🎤 Presentación
 - Al final, presentarán su proyecto al grupo. Expliquen:
