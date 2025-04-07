@@ -102,6 +102,25 @@ Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones.
 - [Introducción a TensorFlow.js](https://www.tensorflow.org/js) (para quienes quieran profundizar en la integración web).
 
 ---
+## 📊 Rúbrica de Evaluación para el Reporte Técnico
+
+| Criterio              | Nivel 4 (95-100) 🔥 | Nivel 3 (85-94) 👍 | Nivel 2 (75-84) 🤔 | Nivel 1 (0-74) 🚧 |
+|-----------------------|-----------------------|--------------------|---------------------------|--------------------|
+| **Portada y formato** | Incluye todos los elementos requeridos con diseño profesional y creativo | Contiene todos los elementos básicos con formato organizado | Faltan 1-2 elementos o el formato es inconsistente | Faltan múltiples elementos o el formato es confuso |
+| **Introducción**      | Explica claramente la importancia de la IA con ejemplos relevantes y conexiones al mundo real | Describe la importancia de la IA con algunos ejemplos | Menciona la importancia de la IA pero sin ejemplos concretos | Explicación vaga o desconectada del proyecto |
+| **Descripción del sistema** | Detalla paso a paso el proceso con capturas de pantalla relevantes y explicaciones técnicas precisas | Explica el proceso con algunas capturas pero falta profundidad técnica | Descripción general sin capturas o con explicaciones superficiales | Descripción incompleta o confusa |
+| **Resultados**        | Presenta datos cuantitativos (tablas/gráficos) con análisis detallado de aciertos/errores | Muestra resultados con algunos datos numéricos y breve análisis | Resultados cualitativos sin datos concretos o análisis | Resultados incompletos o sin interpretación |
+| **Conclusiones**      | Reflexión profunda sobre aprendizajes, aplicaciones futuras y mejoras específicas | Conclusiones claras con algunas propuestas de mejora | Conclusiones genéricas sin propuestas concretas | Conclusiones poco relacionadas al proyecto |
+| **Referencias**       | 3+ fuentes confiables citadas correctamente en formato APA | 2 fuentes relevantes citadas con formato consistente | 1 fuente citada con formato irregular | Sin referencias o citas incorrectas |
+| **Redacción y ortografía** | Texto impecable con estructura lógica y lenguaje técnico apropiado | Pocos errores menores que no afectan comprensión | Varios errores que dificultan la lectura en partes | Errores graves que obstaculizan la comprensión |
+
+**Puntos clave:**
+- 🔍 **Nivel 4**: 95-100 pts (Sobresaliente)
+- 📚 **Nivel 3**: 85-94 pts (Cumple expectativas)
+- ✏️ **Nivel 2**: 75-84 pts (Necesita mejorar)
+- 📝 **Nivel 1**: 074 pts (No cumple)
+
+---
 
 ## 📝 **Criterios de evaluación**
 Su proyecto será evaluado en base a:
