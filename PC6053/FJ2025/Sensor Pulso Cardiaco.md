@@ -146,6 +146,47 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 
 ---
 
+# 📹 Rúbrica de Evaluación para Video TikTok 
+
+| Criterio               | 🌟 Excelente (95-100)                                                                 | 👍 Bueno (85-94)                                                       | 🆗 Regular (75-84)                                                  | 📉 Deficiente (0-75)                                               |
+|------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| **📢 Explicación**     | Explicación clara, concisa y completa del proyecto                                  | Explicación clara pero falta profundidad en algunos aspectos          | Explicación confusa o incompleta                                 | Explicación ausente o incomprensible                             |
+| **🎬 Calidad Visual** | Video bien iluminado, con encuadre profesional y edición creativa                  | Buena calidad visual con algunas áreas de mejora                     | Calidad visual aceptable pero con problemas técnicos             | Video de mala calidad, oscuro o desenfocado                      |
+| **⏱️ Duración**      | Duración perfecta (60-90 seg), información bien distribuida                        | Duración adecuada pero ritmo irregular                               | Muy corto o muy largo (fuera del rango)                          | Duración inadecuada afecta comprensión                           |
+| **🔧 Demostración**   | Muestra claramente el hardware y datos en tiempo real de forma didáctica            | Muestra el sistema pero falta claridad en algunas partes             | Demostración poco clara o incompleta                             | No muestra el funcionamiento real del sistema                    |
+| **💡 Creatividad**    | Uso innovador de efectos, transiciones y recursos visuales                         | Algunos elementos creativos pero podrían mejorarse                   | Poca creatividad en la presentación                              | Ausencia total de elementos creativos                            |
+| **🗣️ Participación** | Todos los integrantes participan activamente con roles definidos                   | Participación grupal pero desigual en aportes                         | Solo algunos integrantes participan                              | Un solo integrante aparece en el video                           |
+| **📱 Hashtags**       | Uso correcto de #TecSalud2025 y otros hashtags relevantes                          | Solo incluye el hashtag principal                                    | Hashtags incorrectos o irrelevantes                              | No incluye hashtags requeridos                                   |
+| **🔊 Audio**          | Audio claro, buena música de fondo (si aplica) y volumen adecuado                  | Audio aceptable con algunos problemas de volumen                     | Audio con problemas que dificultan la comprensión                | Audio inaudible o muy deficiente                                 |
+
+## 📊 Escala de Evaluación:
+- **95-100 pts**: 🏆 Excelente - Video profesional y completo
+- **85-94 pts**: 🎉 Bueno - Cumple con todos los requisitos
+- **75-84 pts**: 🤔 Regular - Necesita mejorar varios aspectos
+- **0-74 pts**: ❌ Deficiente - No cumple con los estándares mínimos
+
+---
+# 🗣️ Rúbrica de Evaluación para Presentación Oral
+
+| Criterio               | 🌟 Excelente (95-100)                                                                 | 👍 Bueno (85-94)                                                       | 🆗 Regular (75-84)                                                  | 📉 Deficiente (0-74)                                               |
+|------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| **🎯 Contenido Técnico** | Demuestra dominio completo del tema, explica claramente todos los componentes técnicos | Explica bien los conceptos pero con algunos vacíos técnicos menores | Exposición superficial con varios errores técnicos | Contenido técnico confuso o con graves errores conceptuales |
+| **📊 Demostración Práctica** | Muestra perfectamente el sistema funcionando con datos en tiempo real | Muestra el funcionamiento pero con pequeñas dificultades | Demostración parcial o con problemas técnicos visibles | No logra demostrar el funcionamiento del sistema |
+| **🗣️ Comunicación** | Habla con claridad, volumen adecuado y entusiasmo, excelente contacto visual | Comunicación clara pero con algunos momentos de poca fluidez | Dificultades evidentes en la comunicación (volumen, ritmo) | Comunicación muy deficiente, inaudible o lectura constante |
+| **⏱️ Manejo del Tiempo** | Usa el tiempo asignado (5-7 min) perfectamente, sin prisas ni sobrante | Buen manejo del tiempo con pequeño desfase (±1 min) | Notable desfase de tiempo (±2 min) o ritmo irregular | Fuera completamente del tiempo asignado |
+| **🤝 Participación Grupal** | Todos los miembros participan equitativamente con roles definidos | Participación desigual pero todos contribuyen | Algunos miembros no participan activamente | Solo 1-2 personas llevan la presentación |
+| **📝 Estructura** | Presentación bien organizada con introducción, desarrollo y cierre claros | Estructura adecuada pero algunas transiciones mejorables | Falta de secuencia lógica en algunas partes | Estructura confusa o desorganizada |
+| **❓ Respuestas a Preguntas** | Responde con precisión y seguridad a todas las preguntas técnicas | Responde adecuadamente pero con alguna duda | Respuestas incompletas o con errores | No puede responder preguntas técnicas |
+
+## 📈 Escala de Evaluación:
+- **95-100 pts**: 🏆 Excelente - Presentación profesional y completa
+- **85-94 pts**: 🎉 Bueno - Cumple satisfactoriamente con todos los requisitos
+- **75-84 pts**: 🤔 Regular - Necesita mejorar varios aspectos importantes
+- **0-74 pts**: ❌ Deficiente - No alcanza los estándares mínimos requeridos
+
+
+---
+
 ## Criterios de Evaluación 📝
 
 1. **Funcionalidad**: El sistema debe medir y enviar el pulso correctamente. ✔️
