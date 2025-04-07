@@ -109,6 +109,24 @@
 - **85-94 pts** = Bueno 💪  
 - **75-84 pts** = Requiere Mejora 🛠️  
 - **<75 pts** = Insuficiente ❌  
+---
+## 📱 Rúbrica de Evaluación para Video TikTok
+
+| Criterio               | Nivel Avanzado (95-100) 🌟🌟🌟🌟         | Nivel Competente (85-94) 🌟🌟🌟       | Nivel Básico (75-84) 🌟🌟          | Nivel Inicial (0-75) 🌟        |
+|------------------------|----------------------------------|-----------------------------|--------------------------|----------------------|
+| **Contenido Técnico**  | Explica claramente TODOS los aspectos de programación y resultados con ejemplos visuales | Explica los conceptos principales pero omite algunos detalles | Exposición superficial sin profundizar en lo técnico | No explica conceptos clave |
+| **Creatividad**        | Uso innovador de efectos, transiciones y recursos visuales que mejoran la comprensión | Algunos elementos creativos pero predecibles | Poca originalidad en el enfoque | Falta total de creatividad |
+| **Calidad Audiovisual** | Audio claro, iluminación profesional, edición impecable | Buena calidad con 1-2 fallos menores | Problemas notorios de audio o imagen | Video difícil de entender |
+| **Estructura**         | Introducción atractiva, desarrollo ordenado y cierre memorable | Sigue estructura básica pero sin impacto | Secuencia confusa o desordenada | No sigue estructura lógica |
+| **Duración y Ritmo**   | Perfectamente ajustado a 60-90s con ritmo dinámico y ágil | Duración adecuada pero ritmo irregular | Muy corto/largo con pausas incómodas | Fuera de tiempo requerido |
+| **Engagement**         | Logra captar atención inmediata y mantener interés hasta el final | Interesante pero con momentos aburridos | Dificultad para mantener atención | No genera interés |
+
+### 📈 Escala de Puntuación:
+- **95-100 pts** = Excelente 🎯 (Cumple todos los criterios sobresalientemente)
+- **85-94 pts** = Bueno 👍 (Satisface expectativas con calidad)
+- **75-84 pts** = Regular 🤔 (Cumple requisitos mínimos)
+- **0-74 pts** = Insuficiente 🚨 (Necesita mejorar significativamente)
+
 
 ---
 
