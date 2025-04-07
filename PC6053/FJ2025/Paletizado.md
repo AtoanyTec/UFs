@@ -93,6 +93,28 @@
   - Qué aprendieron durante el proceso. 🧠
 
 ---
+## 📊 Rúbrica de Evaluación para el Reporte Escrito
+
+| Criterio               | Dominio Sobresaliente (4) 🔥                                                                 | Dominio Competente (3) 👍                        | Dominio Básico (2) 🤔                           | Dominio Inicial (1) 🚩                  |
+|------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|----------------------------------------|
+| **Estructura**         | Todas las secciones completas con organización lógica y profesional. Incluye portada y referencias impecables. | Contiene todas las secciones requeridas pero con algún desorden menor. | Faltan 1-2 secciones o tienen organización confusa. | Más de 3 secciones faltantes o estructura caótica. |
+| **Contenido Técnico**  | Explicación detallada con diagramas claros, especificaciones precisas y ejemplos relevantes. | Información técnica correcta pero sin profundidad. | Conceptos técnicos presentados con errores menores. | Errores graves en la información técnica. |
+| **Análisis de Resultados** | Tablas/gráficos profesionales con interpretación crítica y comparativa. | Datos presentados correctamente pero con análisis superficial. | Datos incompletos o sin interpretación clara. | Faltan resultados o son incorrectos. |
+| **Redacción y Formato** | Lenguaje técnico preciso, cero errores ortográficos, formato consistente y profesional. | Algunos errores menores pero comunicación clara. | Varios errores que dificultan la comprensión. | Errores graves que impiden la comprensión. |
+| **Originalidad**       | Soluciones creativas documentadas, enfoque innovador y reflexiones personales valiosas. | Contenido estándar pero bien ejecutado. | Poca originalidad, mayormente copiado. | Copia evidente de materiales sin procesar. |
+| **Referencias**        | +5 fuentes académicas citadas correctamente en formato APA. | 3-4 fuentes relevantes con formato casi perfecto. | 1-2 fuentes con errores de formato. | Sin referencias o formato incorrecto. |
+
+### 🔍 Escala de Calificación:
+- **20-24 pts** = Excelente 👑  
+- **15-19 pts** = Bueno 💪  
+- **10-14 pts** = Requiere Mejora 🛠️  
+- **<10 pts** = Insuficiente ❌  
+
+*Nota: Cada criterio se califica del 1 al 4, sumando máximo 24 puntos.*
+
+
+
+---
 
 ## ⚠️ Consideraciones Importantes
 
