@@ -121,7 +121,14 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 ## Entregables 📄
 
 1. **Video Formato TikTok**: Incluir en el video una explicación de cómo lo realizaron y su funcionamiento. 💻
-2. **Presentación**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
+2. **Reporte**: Incluir un reporte con las siguientes secciones.💻
+   - Portada
+   - Introducción (importancia de la electrónica, microcontroladores e Internet de las Cosas)
+   - Descripción del sistema
+   - Resultados
+   - Conclusiones
+   - Referencias
+4. **Presentación**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
 
 ---
 
