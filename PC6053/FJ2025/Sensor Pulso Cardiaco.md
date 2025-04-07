@@ -131,6 +131,19 @@ Desarrollar un sistema IoT que mida el pulso cardíaco de una persona y envíe l
 4. **Presentación**: Muestren el sistema en funcionamiento y cómo se visualizan los datos en Arduino IoT Cloud. 🎥
 
 ---
+| Criterio               | Dominio Avanzado (95-100)                                                                 | Dominio Competente (85-94)                                                         | Dominio Básico (75-84)                                                          | Dominio Inicial (0-75)                                                          |
+|------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Portada**            | Incluye todos los elementos requeridos con diseño profesional y creativo                 | Incluye todos los elementos requeridos con formato adecuado                       | Faltan 1-2 elementos o el formato no es del todo adecuado                      | Faltan más de 2 elementos o el formato es incorrecto                           |
+| **Introducción**       | Exposición clara y completa con excelente fundamentación teórica y relevancia demostrada | Buena fundamentación teórica pero falta profundidad en algunas áreas              | Fundamentación teórica básica con algunas omisiones importantes                | Fundamentación teórica insuficiente o con errores conceptuales                 |
+| **Descripción**        | Descripción detallada con diagramas claros y explicación exhaustiva del código          | Descripción adecuada con diagramas y explicación del código, pero falta detalle   | Descripción básica con diagramas poco claros o explicación superficial        | Descripción incompleta o con errores técnicos                                  |
+| **Resultados**         | Presentación profesional de datos con análisis profundo y visualizaciones efectivas      | Presentación adecuada de datos con análisis básico y visualizaciones claras       | Presentación básica de datos con análisis superficial o gráficas poco claras   | Presentación incompleta de datos o sin análisis                                |
+| **Conclusiones**       | Conclusiones bien fundamentadas con propuestas innovadoras de mejora                     | Conclusiones adecuadas con algunas propuestas de mejora                           | Conclusiones básicas sin propuestas de mejora o poco fundamentadas             | Conclusiones ausentes o muy superficiales                                      |
+| **Referencias**        | Referencias completas y correctamente citadas (mínimo 5 fuentes confiables)              | Referencias adecuadas (3-4 fuentes) con formato APA correcto                      | Referencias básicas (1-2 fuentes) con algunos errores de formato               | Faltan referencias o tienen formato incorrecto                                 |
+| **Redacción y Formato**| Excelente redacción, sin errores y formato profesional consistente                       | Buena redacción con pocos errores y formato adecuado                              | Redacción aceptable con varios errores o formato inconsistente                 | Redacción deficiente con muchos errores o formato incorrecto                   |
+| **Creatividad**        | Soluciones innovadoras y presentación creativa del reporte                               | Algunos elementos creativos en la presentación del reporte                        | Poca evidencia de creatividad en el reporte                                   | Ausencia total de elementos creativos                                         |
+
+
+---
 
 ## Criterios de Evaluación 📝
 
