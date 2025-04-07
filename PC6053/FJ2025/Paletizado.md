@@ -95,7 +95,7 @@
 ---
 ## 📊 Rúbrica de Evaluación para el Reporte Escrito
 
-| Criterio               | Dominio Sobresaliente (4) 🔥                                                                 | Dominio Competente (3) 👍                        | Dominio Básico (2) 🤔                           | Dominio Inicial (1) 🚩                  |
+| Criterio               | Dominio Sobresaliente (95-100) 🔥                                                                 | Dominio Competente (85-94) 👍                        | Dominio Básico (75-84) 🤔                           | Dominio Inicial (0-74) 🚩                  |
 |------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------|----------------------------------------|
 | **Estructura**         | Todas las secciones completas con organización lógica y profesional. Incluye portada y referencias impecables. | Contiene todas las secciones requeridas pero con algún desorden menor. | Faltan 1-2 secciones o tienen organización confusa. | Más de 3 secciones faltantes o estructura caótica. |
 | **Contenido Técnico**  | Explicación detallada con diagramas claros, especificaciones precisas y ejemplos relevantes. | Información técnica correcta pero sin profundidad. | Conceptos técnicos presentados con errores menores. | Errores graves en la información técnica. |
@@ -105,14 +105,10 @@
 | **Referencias**        | +5 fuentes académicas citadas correctamente en formato APA. | 3-4 fuentes relevantes con formato casi perfecto. | 1-2 fuentes con errores de formato. | Sin referencias o formato incorrecto. |
 
 ### 🔍 Escala de Calificación:
-- **20-24 pts** = Excelente 👑  
-- **15-19 pts** = Bueno 💪  
-- **10-14 pts** = Requiere Mejora 🛠️  
-- **<10 pts** = Insuficiente ❌  
-
-*Nota: Cada criterio se califica del 1 al 4, sumando máximo 24 puntos.*
-
-
+- **95-100 pts** = Excelente 👑  
+- **85-94 pts** = Bueno 💪  
+- **75-84 pts** = Requiere Mejora 🛠️  
+- **<75 pts** = Insuficiente ❌  
 
 ---
 
