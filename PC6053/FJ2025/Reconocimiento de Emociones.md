@@ -121,6 +121,46 @@ Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones.
 - 📝 **Nivel 1**: 074 pts (No cumple)
 
 ---
+## 📱 Rúbrica para Video TikTok del Proyecto
+
+| Criterio               | Nivel 4 (95-100) 🏆 | Nivel 3 (85-94) 👍 | Nivel 2 (75-84) 🤔 | Nivel 1 (0-75) 📉 |
+|------------------------|------------------------|--------------------|------------------------|--------------------------|
+| **Contenido Técnico**  | Explica claramente todos los pasos del proyecto con precisión científica | Describe los pasos principales sin profundizar | Menciona algunos pasos pero con información incompleta | Explicación confusa o con errores técnicos |
+| **Demostración**       | Muestra mínimo 3 emociones siendo detectadas correctamente en tiempo real | Muestra 2 emociones detectadas | Muestra 1 emoción detectada | No incluye demostración funcional |
+| **Creatividad/Edición** | Uso excepcional de efectos, transiciones, texto y música que mejoran el mensaje | Buena combinación de elementos multimedia | Uso básico de herramientas de edición | Edición mínima o nula |
+| **Duración y ritmo**   | 60-90 segundos perfectamente aprovechados, sin tiempos muertos | Duración adecuada pero con 1-2 partes lentas | Muy corto (≤40s) o con pausas prolongadas | Fuera del rango requerido |
+| **Participación grupal** | Todos los miembros aparecen y participan equitativamente | La mayoría participa activamente | Solo algunos miembros participan | Un solo integrante visible |
+| **Calidad audiovisual** | Audio claro y video bien iluminado/enfocado durante todo el clip | Buena calidad con 1-2 fallas menores | Problemas notorios de audio o imagen | Mala calidad que dificulta la comprensión |
+| **Llamado a la acción** | Incluye pregunta/interacción creativa que invita a comentarios | Termina con pregunta simple al público | Cierre básico sin interacción | Final abrupto sin conclusión |
+
+**Puntaje por nivel:**
+- 🔥 **Nivel 4**: 95-100 pts (Supera expectativas)
+- 💡 **Nivel 3**: 85-94 pts (Cumple bien)
+- ✏️ **Nivel 2**: 75-84 pts (Necesita mejorar)
+- ⏳ **Nivel 1**: 0-75 pts (No cumple)
+
+
+---
+# 🗣️ Rúbrica de Evaluación para Presentación Oral
+
+| Criterio               | Nivel 4 (95-100) 💎 | Nivel 3 (85-94) 🔵 | Nivel 2 (75-84) 🟡 | Nivel 1 (0-75) 🔴 |
+|------------------------|-----------------------|--------------------|---------------------------|--------------------|
+| **Dominio del contenido** | Demuestra conocimiento experto, explica conceptos técnicos con claridad y profundidad | Conoce el tema pero con algunas limitaciones en explicaciones técnicas | Presenta información básica con algunos errores conceptuales | Dificultad evidente para explicar el proyecto |
+| **Estructura y organización** | Secuencia lógica con introducción, desarrollo y cierre excepcionales | Estructura clara pero con algunas transiciones abruptas | Ideas poco organizadas que afectan la comprensión | Falta de estructura evidente |
+| **Recursos visuales** | Diapositivas/visuales profesionales que complementan perfectamente la exposición | Buen uso de apoyos visuales aunque algunos podrían mejorarse | Uso mínimo de recursos visuales o poco relevantes | Apoyos visuales ausentes o inefectivos |
+| **Comunicación verbal** | Voz clara, tono adecuado, ritmo perfecto y terminología precisa | Comunicación efectiva con pocas fallas en dicción/volumen | Dificultades ocasionales de dicción/volumen que afectan comprensión | Problemas graves de comunicación verbal |
+| **Comunicación no verbal** | Contacto visual constante, postura segura y gestos naturales que refuerzan el mensaje | Buena presencia con algunos gestos distractores | Contacto visual esporádico o postura rígida | Lenguaje corporal que interfiere con la presentación |
+| **Manejo del tiempo** | Ajuste perfecto al tiempo asignado (±10 segundos) | Ligera desviación del tiempo (±30 segundos) | Excede o no alcanza el tiempo significativamente (±1 minuto) | Fuera del rango de tiempo permitido |
+| **Respuestas a preguntas** | Respuestas precisas, completas y con demostración de pensamiento crítico | Responde adecuadamente pero con alguna limitación técnica | Respuestas incompletas o con imprecisiones | Dificultad para responder preguntas básicas |
+
+**Escala de puntuación:**
+- **Nivel 4**: 95-100 pts (Sobresaliente)
+- **Nivel 3**: 85-94 pts (Competente)
+- **Nivel 2**: 75-84 pts (En desarrollo)
+- **Nivel 1**: 0-75 pts (No satisfactorio)
+
+
+---
 
 ## 📝 **Criterios de evaluación**
 Su proyecto será evaluado en base a:
