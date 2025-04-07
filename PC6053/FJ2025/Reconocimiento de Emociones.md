@@ -73,6 +73,16 @@ Necesitan un conjunto de imágenes de rostros que expresen diferentes emociones.
 ### 5. 🎤 **Presentar el proyecto**
 - **Video formato TikTok**:
   - Realiza un video en formato TikTok en donde expliques cómo realizaste el proyecto y cómo funciona.
+- **Reporte**:
+  - Realizar un reporte que incluya lo siguiente:
+    - Portada
+    - Nombre de estudiantes
+    - Introducción (importancia de la inteligencia artificial)
+    - Descripción del sistema
+    - Resultados
+    - Conclusiones
+    - Referencias
+    
 - **Presentación**:
   - Expliquen cómo hicieron el proyecto, los desafíos que enfrentaron y cómo los resolvieron.
   - Incluyan capturas de pantalla o fotos del proceso.
