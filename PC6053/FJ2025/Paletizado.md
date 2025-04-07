@@ -127,6 +127,33 @@
 - **75-84 pts** = Regular 🤔 (Cumple requisitos mínimos)
 - **0-74 pts** = Insuficiente 🚨 (Necesita mejorar significativamente)
 
+---
+## 🎤 Rúbrica de Evaluación para Presentación Oral
+
+| Criterio               | Nivel Experto (95-100) 🏆          | Nivel Competente (85-94) 👍      | Nivel Emergente (75-84) 🤔     | Nivel Inicial (0-74) 🚩    |
+|------------------------|-----------------------------|---------------------------|-------------------------|----------------------|
+| **Dominio del Tema**   | Demuestra conocimiento profundo, responde preguntas técnicas con seguridad | Conoce el contenido pero tiene dudas en detalles | Solo explica conceptos básicos | Desconoce información clave |
+| **Claridad en Exposición** | Explica con precisión, voz clara y ejemplos relevantes | Comunicación comprensible pero con algunos tropiezos | Dificultad para expresar ideas | No se logra entender el mensaje |
+| **Estructura**         | Introducción atractiva, desarrollo lógico y cierre impactante | Sigue estructura básica (inicio-desarrollo-cierre) | Secuencia desorganizada | Falta estructura evidente |
+| **Recursos Visuales**  | Apoyos visuales profesionales (slides, videos) que mejoran la comprensión | Usa materiales adecuados pero sin diseño profesional | Materiales incompletos o poco claros | No utiliza recursos de apoyo |
+| **Tiempo**            | Ajusta perfectamente a 5-7 minutos (±15 segundos) | Se pasa o falta ≤1 minuto | Excede o falta 1-2 minutos | Fuera de tiempo (>±2 min) |
+| **Lenguaje Corporal** | Contacto visual, gestos naturales y postura segura | Algún nerviosismo pero mantiene compostura | Postura rígida o movimientos distractorios | Lenguaje corporal negativo |
+| **Trabajo en Equipo**  | Integración perfecta, transiciones fluidas entre miembros | Coordinación aceptable con 1-2 errores | Desequilibrio en participación | No demuestra trabajo colaborativo |
+
+### 📌 Pautas Específicas:
+- **Duración:** 7-10 minutos exactos
+- **Formato:** Equipo completo presente
+- **Obligatorio:** 
+  - Mostrar evidencia del proceso (fotos/videos del trabajo)
+  - Permitir 2 minutos para preguntas
+
+### 📊 Escala de Calificación:
+| Puntaje | Nivel          | Descriptor |
+|---------|----------------|------------|
+| 95-100   | **Excelente**  | Sobrepasa expectativas |
+| 85-94   | **Competente** | Cumple con lo requerido |
+| 75-84   | **Básico**     | Necesita mejorar |
+| 0-74    | **Insuficiente**| No cumple estándares |
 
 ---
 
