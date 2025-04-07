@@ -49,7 +49,7 @@
 ## 4. **🏁 Ejecución del Paletizado**
 
 ### ▶️ Ejecución
-- Una vez que todo esté configurado y probado, ejecuten el programa completo para paletizar los 27 cubos. �
+- Una vez que todo esté configurado y probado, ejecuten el programa completo para paletizar los 12 cubos. �
 
 ### 👀 Monitoreo
 - Durante la ejecución, monitoreen el proceso para asegurarse de que todo funcione como se espera. 🕵️
