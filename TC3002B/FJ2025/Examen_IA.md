@@ -1,5 +1,6 @@
 # Tecnológico de Monterrey  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_del_ITESM.svg/1200px-Logo_del_ITESM.svg.png" alt="Logo Tec" width="100cm" height="100cm" /> 
+
 **Desarrollo de Aplicaciones Avanzadas de Ciencias Computacionales**  
 
 ## Examen de Inteligencia Artificial
