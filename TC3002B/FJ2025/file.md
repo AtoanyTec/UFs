@@ -129,21 +129,21 @@ Bias capa salida (b²):
 
 ```mermaid
 graph LR
-    x1((x₁)) --> h1((h₁))
-    x1 --> h2((h₂))
-    x1 --> h3((h₃))
-    x2((x₂)) --> h1
-    x2 --> h2
-    x2 --> h3
-    h1 --> y((y))
-    h2 --> y
-    h3 --> y
+    x1((x₁)) --> a1((a₁))
+    x1 --> a2((a₂))
+    x1 --> a3((a₃))
+    x2((x₂)) --> a1
+    x2 --> a2
+    x2 --> a3
+    a1 --> y((y))
+    a2 --> y
+    a3 --> y
     
     style x1 fill:#f9f,stroke:#333
     style x2 fill:#f9f,stroke:#333
-    style h1 fill:#9f9,stroke:#333
-    style h2 fill:#9f9,stroke:#333
-    style h3 fill:#9f9,stroke:#333
+    style a1 fill:#9f9,stroke:#333
+    style a2 fill:#9f9,stroke:#333
+    style a3 fill:#9f9,stroke:#333
     style y fill:#ff9,stroke:#333
 ```
 
