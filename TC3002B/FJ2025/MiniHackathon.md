@@ -97,7 +97,10 @@ def evaluate(model, test_loader):
 - **85-94 pts**: Logro Sólido (excelencia técnica y comunicativa).  
 - **95-100 pts**: Nivel Destacado (innovación y dominio excepcional).  
 
-### 🔍 **Notas**:  
-- **Bonus**: +5 pts por entregar antes del tiempo límite.  
+
+## **🎁 Premios**
+- **Premio "Eficiencia Computacional"**: Equipo que logre el mejor F1-Score con el modelo más simple (+7pts)
+- **Premio "Mejor Accuracy"**: Equipo con el modelo más preciso (validado con datos del test set) (+5pts)
+- **Premio "Terminamos Antes"**: Equipo que sea el primero en entregar un modelo funcional (aunque sea básico) (+3 pts)
 
 
