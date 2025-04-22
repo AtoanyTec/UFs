@@ -15,6 +15,7 @@ Implementar una **red convolucional (CNN)** from Scratch utilizando PyTorch, eva
 #### **Tareas por equipos**: 
 - **Paso 1**: Implementar tu propio modelo
 ```
+python
 #Modelo CNN ejemplo
 import torch
 import torch.nn as nn
