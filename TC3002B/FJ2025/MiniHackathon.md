@@ -82,7 +82,7 @@ def evaluate(model, test_loader):
 
 ## **📊 Rúbrica de Evaluación**
 
-| **Criterio**         | **Básico (1-2 pts)**                                                                 | **Intermedio (3-4 pts)**                                                             | **Avanzado (5-6 pts)**                                                                 | **Excelente (7 pts)**                                                                 |
+| **Criterio**         | **Incipiente (0-74 pts)**                                                                 | **Básico (74-85 pts)**                                                             | **Sólido (84-95 pts)**                                                                 | **Destacado (95-100 pts)**                                                                 |
 |----------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Implementación**   | Modelo CNN incompleto o con errores graves. No ejecuta.                            | Modelo funcional pero sin capas personalizadas (ej: solo una convolución).           | Modelo completo con al menos 2 capas convolucionales y pooling.                       | Arquitectura innovadora (ej: dropout, batchnorm) o ajuste de hiperparámetros.       |
 | **Precisión**       | Accuracy < 70% en test (MNIST) o no se evaluó.                                     | Accuracy 70-85% en test.                                                            | Accuracy 85-95% en test.                                                              | Accuracy > 95% o mejora significativa con técnicas avanzadas.                      |
@@ -92,14 +92,12 @@ def evaluate(model, test_loader):
 | **Creatividad**     | Modelo idéntico al ejemplo proporcionado.                                          | Pequeñas modificaciones (ej: cambio de kernel size).                                | Mejoras significativas (ej: data augmentation, capas personalizadas).                | Solución fuera de lo estándar (ej: transfer learning en CIFAR-10).                |
 
 ### **Puntaje Total**:  
-- **7-12 pts**: Logro básico (cumple requisitos mínimos).  
-- **13-18 pts**: Logro satisfactorio (resultados sólidos).  
-- **19-35 pts**: Logro destacado (excelencia técnica y comunicativa).  
-- **36-42 pts**: Nivel experto (innovación y dominio excepcional).  
+- **0-74 pts**: Logro incipiente (cumple requisitos mínimos).  
+- **75-84 pts**: Logro Básico (resultados sólidos).  
+- **85-94 pts**: Logro Sólido (excelencia técnica y comunicativa).  
+- **95-100 pts**: Nivel Destacado (innovación y dominio excepcional).  
 
 ### 🔍 **Notas**:  
-- **Ajustes por dataset**:  
-  - MNIST: +5% tolerancia en precisión vs Fashion-MNIST/CIFAR-10.  
-- **Bonus**: +2 pts por entregar antes del tiempo límite.  
+- **Bonus**: +5 pts por entregar antes del tiempo límite.  
 
 
