@@ -8,57 +8,12 @@ Implementar una **red convolucional (CNN)** from Scratch utilizando PyTorch, eva
 ## **📝 Insutrucciones**  
 ### **1. Preparación (10 min)**  
 - **Materiales**:  
-  - Dataset: MNIST o Fashion-MNIST  
+  - Dataset: MNIST, Fashion-MNIST y CIFAR10  
   - Notebook base con código esqueleto (sin arquitecturas definidas).
  
 ### **2. Desarrollo (60 min)**  
 #### **Tareas por equipos**: 
 - **Paso 1**: Implementar tu propio modelo
-
-```python
-#Modelo CNN ejemplo
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-
-class CNN(nn.Module):
-    def __init__(self):
-        super(CNN, self).__init__()
-        # Capa convolucional (equivalente a Conv2D en Keras)
-        self.conv1 = nn.Conv2d(in_channels=1,  # MNIST es 1 canal (blanco/negro)
-                              out_channels=32,  # 32 filtros
-                              kernel_size=3,    # 3x3
-                              stride=1,         # Paso de 1 (default)
-                              padding='same')   # Mantiene dimensiones (como en Keras)
-        
-        # MaxPooling (igual que en Keras)
-        self.pool = nn.MaxPool2d(kernel_size=2)  # Reducción a la mitad
-        
-        # Capa densa final (equivalente a Dense en Keras)
-        self.fc = nn.Linear(32 * 14 * 14, 10)   # 14x14 por el pooling, 10 clases
-
-    def forward(self, x):
-        # 1. Reshape implícito (PyTorch usa [batch, channels, height, width])
-        #    No necesitamos reshape explícito como en Keras
-        
-        # 2. Aplicar convolución + ReLU
-        x = F.relu(self.conv1(x))  # [batch, 32, 28, 28]
-        
-        # 3. MaxPooling
-        x = self.pool(x)           # [batch, 32, 14, 14]
-        
-        # 4. Flatten (aplanar para la capa densa)
-        x = torch.flatten(x, 1)    # [batch, 32*14*14]
-        
-        # 5. Capa densa final (sin softmax, se usará CrossEntropyLoss)
-        x = self.fc(x)             # [batch, 10]
-        return x
-
-# Uso del modelo
-model = CNN()
-print(model)
-```
-
 - **Paso 2**: Entrenar el modelo por 10 épocas
 - **Paso 3**: Evalua tu modelo con **Classification Report** y con la **Matriz de Confusión**
 
@@ -68,9 +23,83 @@ Cada equipo dispondrá de 3 minutos para mostrar:
 - Resultados (classification report y matriz de confusion)
 
 ## **⚙️ Código Base**
+```python
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torchvision import datasets, transforms
+from sklearn.metrics import classification_report, confusion_matrix
 
+# Data Loading
+def load_data(dataset="MNIST", batch_size=64):
+    transform = transforms.Compose([
+        transforms.ToTensor(),
+        transforms.Normalize((0.5,), (0.5,))
+    ])
+    if dataset == "FashionMNIST":
+        train_data = datasets.FashionMNIST(..., transform=transform)
+    elif dataset == "CIFAR10":
+        train_data = datasets.CIFAR10(..., transform=transform)
+    else:
+        train_data = datasets.MNIST(..., transform=transform)
+    return DataLoader(train_data, batch_size=batch_size, shuffle=True)
+
+# Model Template
+class CNN(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.conv1 = nn.Conv2d(1, 32, 3, padding='same')
+        self.pool = nn.MaxPool2d(2)
+        self.fc = nn.Linear(32 * 14 * 14, 10)
+
+    def forward(self, x):
+        x = self.pool(F.relu(self.conv1(x)))
+        x = torch.flatten(x, 1)
+        return self.fc(x)
+
+# Training Loop
+def train(model, train_loader, epochs=10):
+    optimizer = optim.Adam(model.parameters())
+    criterion = nn.CrossEntropyLoss()
+    for epoch in range(epochs):
+        for X, y in train_loader:
+            optimizer.zero_grad()
+            outputs = model(X)
+            loss = criterion(outputs, y)
+            loss.backward()
+            optimizer.step()
+
+# Evaluation
+def evaluate(model, test_loader):
+    y_true, y_pred = [], []
+    with torch.no_grad():
+        for X, y in test_loader:
+            y_pred.extend(model(X).argmax(1).numpy())
+            y_true.extend(y.numpy())
+    print(classification_report(y_true, y_pred))
+    print("Confusion Matrix:\n", confusion_matrix(y_true, y_pred))
+```
 
 ## **📊 Rúbrica de Evaluación**
 
+| **Criterio**         | **Básico (1-2 pts)**                                                                 | **Intermedio (3-4 pts)**                                                             | **Avanzado (5-6 pts)**                                                                 | **Excelente (7 pts)**                                                                 |
+|----------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| **Implementación**   | Modelo CNN incompleto o con errores graves. No ejecuta.                            | Modelo funcional pero sin capas personalizadas (ej: solo una convolución).           | Modelo completo con al menos 2 capas convolucionales y pooling.                       | Arquitectura innovadora (ej: dropout, batchnorm) o ajuste de hiperparámetros.       |
+| **Precisión**       | Accuracy < 70% en test (MNIST) o no se evaluó.                                     | Accuracy 70-85% en test.                                                            | Accuracy 85-95% en test.                                                              | Accuracy > 95% o mejora significativa con técnicas avanzadas.                      |
+| **Análisis**        | No genera métricas o las presenta incorrectamente.                                 | Muestra classification report o matriz de confusión sin interpretación.             | Reporte completo con análisis breve de errores (ej: clases con bajo recall).           | Análisis profundo (ej: visualización de filtros, overfitting, curvas de aprendizaje).|
+| **Presentación**    | Exposición confusa o falta de estructura.                                          | Explica arquitectura y resultados básicos en el tiempo asignado.                    | Presentación clara con justificación de decisiones técnicas.                          | Pitch convincente con storytelling y propuestas de mejora.                          |
+| **Trabajo en Equipo** | Un miembro domina el trabajo. Sin división de tareas.                             | Roles definidos pero desiguales.                                                    | Equipo coordinado con contribuciones balanceadas.                                      | Sinergia evidente + documentación colaborativa (ej: comentarios en código).        |
+| **Creatividad**     | Modelo idéntico al ejemplo proporcionado.                                          | Pequeñas modificaciones (ej: cambio de kernel size).                                | Mejoras significativas (ej: data augmentation, capas personalizadas).                | Solución fuera de lo estándar (ej: transfer learning en CIFAR-10).                |
+
+### **Puntaje Total**:  
+- **7-12 pts**: Logro básico (cumple requisitos mínimos).  
+- **13-18 pts**: Logro satisfactorio (resultados sólidos).  
+- **19-35 pts**: Logro destacado (excelencia técnica y comunicativa).  
+- **36-42 pts**: Nivel experto (innovación y dominio excepcional).  
+
+### 🔍 **Notas**:  
+- **Ajustes por dataset**:  
+  - MNIST: +5% tolerancia en precisión vs Fashion-MNIST/CIFAR-10.  
+- **Bonus**: +2 pts por entregar antes del tiempo límite.  
 
 
