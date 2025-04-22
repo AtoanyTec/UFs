@@ -5,7 +5,7 @@ Implementar una **red convolucional (CNN)** from Scratch utilizando PyTorch, eva
 
 ---
 
-## **📝 Insutrucciones**  
+## **📝 Instrucciones**  
 ### **1. Preparación (10 min)**  
 - **Materiales**:  
   - Dataset: MNIST, Fashion-MNIST y CIFAR10  
