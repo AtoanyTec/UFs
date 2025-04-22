@@ -102,7 +102,7 @@ d) Semi-supervisado
 ### 11. Ejercicio Práctico: Cálculo de Salida en Red Neuronal
 Considere la siguiente red neuronal densa:
 - **Capa de entrada:** 2 neuronas (x₁, x₂)
-- **Capa oculta:** 3 neuronas (h₁, h₂, h₃) con función de activación ReLU
+- **Capa oculta:** 3 neuronas (a₁, a₂, a₃) con función de activación ReLU
 - **Capa de salida:** 1 neurona (y) con función de activación sigmoide
 
 Pesos capa oculta (W¹): 
