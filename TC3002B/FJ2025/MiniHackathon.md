@@ -99,8 +99,14 @@ def evaluate(model, test_loader):
 
 
 ## **🎁 Premios**
+- **Premio "Pitch mas Viral"**:  Equipo con el pitch con más likes y compartidas en TikTok. El conteo se cierra el viernes 25 de abril a las 8PM (+9pts)
 - **Premio "Eficiencia Computacional"**: Equipo que logre el mejor F1-Score con el modelo más simple (+7pts)
 - **Premio "Mejor Accuracy"**: Equipo con el modelo más preciso (validado con datos del test set) (+5pts)
 - **Premio "Terminamos Antes"**: Equipo que sea el primero en entregar un modelo funcional (aunque sea básico) (+3 pts)
+
+## **🌟 Entregables**
+- Archivo .ipynb del código fuente
+- Video del pitch
+- Screenshot con el conteo de compartidas y likes del video
 
 
