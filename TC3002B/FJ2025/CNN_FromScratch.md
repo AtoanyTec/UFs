@@ -4,4 +4,8 @@
 ---
 ## 📂 **Dataset**  
 1. **Elección del Dataset**:  
-   - Seleccionar cualquier dataset de clasificación de imágenes de [Kaggle.com](https://www.kaggle.com/datasets).  
+   - Seleccionar cualquier dataset de clasificación de imágenes de [Kaggle.com](https://www.kaggle.com/datasets). No utilizar MNIST, MNIST Fashion o CIFAR10
+  
+2. **Requisitos del Dataset**:  
+   - Debe tener al menos **3 clases**.  
+   - Las imágenes deben ser en color o escala de grises (¡nada de texto o tablas!).
