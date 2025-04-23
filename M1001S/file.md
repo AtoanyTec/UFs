@@ -22,9 +22,8 @@
 ### 1. ¿Cuál es la función de activación más adecuada para problemas de clasificación binaria?
 a) ReLU  
 b) Tanh  
-c) Sigmoide 
+c) Sigmoide
 d) Leaky ReLU
-e) Leaky
 
 
 ---
