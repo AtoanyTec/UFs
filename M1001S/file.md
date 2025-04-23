@@ -36,66 +36,66 @@
 ---
 
 ### 3. Al trabajar con imágenes, ¿qué arquitectura es preferible?
-a) RNN  
-b) CNN
-c) SVM  
-d) Árboles de decisión
+- a) RNN  
+- b) CNN
+- c) SVM  
+- d) Árboles de decisión
 
 ---
 
 ### 4. ¿Qué algoritmo ajusta los pesos en redes neuronales?
-a) Forward pass  
-b) Gradiente descendente  
-c) Regla de la cadena 
-d) Todos los anteriores
+- a) Forward pass  
+- b) Gradiente descendente  
+- c) Regla de la cadena 
+- d) Todos los anteriores
 
 ---
 
 ### 5. Predecir el precio de una vivienda es un problema de:
-a) Clasificación  
-b) Regresión 
-c) Clustering  
-d) Detección de anomalías
+- a) Clasificación  
+- b) Regresión 
+- c) Clustering  
+- d) Detección de anomalías
 
 ---
 
 ### 6. En CNNs, ¿qué capa reduce dimensiones espaciales?
-a) Convolucional  
-b) Pooling 
-c) Dropout  
-d) BatchNorm
+- a) Convolucional  
+- b) Pooling 
+- c) Dropout  
+- d) BatchNorm
 
 ---
 
 ### 7. Con datos desbalanceados (95%-5%), ¿qué métrica evitar?
-a) Recall  
-b) F1-score  
-c) Accuracy  
-d) AUC-ROC
+- a) Recall  
+- b) F1-score  
+- c) Accuracy  
+- d) AUC-ROC
 
 ---
 
 ### 8. ¿Cómo se llama reutilizar modelos preentrenados?
-a) Backpropagation  
-b) Transfer Learning  
-c) Data Augmentation  
-d) Ensemble Learning
+- a) Backpropagation  
+- b) Transfer Learning  
+- c) Data Augmentation  
+- d) Ensemble Learning
 
 ---
 
 ### 9. ¿Qué red solucionó el vanishing gradient con conexiones residuales?
-a) VGG16  
-b) ResNet  
-c) AlexNet  
-d) Inception
+- a) VGG16  
+- b) ResNet  
+- c) AlexNet
+- d) Inception
 
 ---
 
 ### 10. Para encontrar patrones en datos sin etiquetas usamos:
-a) Supervisado  
-b) No supervisado  
-c) Por refuerzo  
-d) Semi-supervisado
+- a) Supervisado  
+- b) No supervisado  
+- c) Por refuerzo  
+- d) Semi-supervisado
 
 ---
 
