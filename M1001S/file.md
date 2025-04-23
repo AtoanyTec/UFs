@@ -30,7 +30,6 @@ c) Sigmoide
 ### 2. Para prevenir overfitting en un modelo, ¿qué técnica es más efectiva?
 a) Aumentar parámetros  
 b) Regularización (L1/L2)
-c) Reducir datos de entrenamiento  
 d) Eliminar capas ocultas
 
 ---
