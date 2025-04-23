@@ -9,3 +9,16 @@
 2. **Requisitos del Dataset**:  
    - Debe tener al menos **3 clases**.  
    - Las imágenes deben ser en color o escala de grises (¡nada de texto o tablas!).
+  
+## 💻 **Implementación Técnica** 
+
+### 📝 **Entregables Obligatorios**  
+1. **Notebook IPYNB** con:  
+   - Carga y preprocesamiento del dataset.  
+   - Implementación manual de:  
+     - Capas convolucionales.  
+     - Pooling.  
+     - Fully connected.  
+     - Funciones de pérdida.  
+   - Cálculo manual de métricas (accuracy, F1, precisión, recall).
+
