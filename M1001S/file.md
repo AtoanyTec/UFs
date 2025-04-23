@@ -25,6 +25,7 @@ b) Tanh
 c) Sigmoide 
 d) Leaky ReLU
 
+
 ---
 
 ### 2. Para prevenir overfitting en un modelo, ¿qué técnica es más efectiva?
