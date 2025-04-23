@@ -23,7 +23,6 @@
 a) ReLU  
 b) Tanh  
 c) Sigmoide
-d) Leaky ReLU
 
 
 ---
