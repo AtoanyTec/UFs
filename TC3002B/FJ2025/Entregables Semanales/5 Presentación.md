@@ -8,7 +8,7 @@ Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño ex
 
 ## 📦 Componentes Principales  
 
-### 1. **Implementación Técnica** `(50% de calificación)`  
+### 1. **Implementación Técnica** 
 #### Requisitos mínimos del notebook
 - Arquitectura VGG16 optimizada con:
   - ✅ Fine-tuning estratégico en ≥4 capas
@@ -16,7 +16,7 @@ Desarrollar un sistema de clasificación de lesiones cutáneas con desempeño ex
   - ✅ Data Augmentation avanzado (Rotación 30°, Zoom 20%)  
 
 
-### 2. **Artículo Científico** `(30% de calificación)` 
+### 2. **Artículo Científico** 
 Estructura requerida:
 1. Introducción (Estado del Arte)  
 2. Metodología (Diagrama de flujo del modelo)  
@@ -26,7 +26,7 @@ Estructura requerida:
 📌 **Obligatorio:**
 * 15+ referencias actualizadas (2020-2024)
 
-### 3. **Presentación Oral** `(20% de calificación)`
+### 3. **Presentación Oral**
 Estructura requerida
 1. Problema Clínico
 2. Descripción del Algoritmo (Diagrama a bloques)
@@ -35,7 +35,7 @@ Estructura requerida
 
 ## 📊 Rúbrica de Evaluación 
 
-### 🛠️ Implementación Técnica (50%)
+### 🛠️ Implementación Técnica
 
 | **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-94)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
@@ -43,7 +43,7 @@ Estructura requerida
 | **Rendimiento del Modelo** | Supera el 95% en dos métricas | De 85% a 94% en métricas clave | 75% a 84% en métricas principales | Por debajo del 85% en alguna métrica |
 
 
-### 📄 Artículo Científico (30%)
+### 📄 Artículo Científico
 
 | **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-94)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
@@ -52,7 +52,7 @@ Estructura requerida
 | **Originalidad**          | Contribución novedosa | Buena revisión literaria con aportes | Síntesis de información existente | Contenido genérico |
 | **Calidad de Referencias** | 15+ referencias actualizadas, formato perfecto | 10 referencias relevantes | 5 referencias básicas | Menos de 5 referencias |
 
-### 🎤 Presentación Oral (20%)
+### 🎤 Presentación Oral
 
 | **Criterio**               | **Excelente (95-100)** 💎 | **Avanzado (85-04)** 🔵 | **Básico (75-84)** 🟡 | **Insuficiente (0-74)** 🔴 |
 |----------------------------|----------------------|---------------------|-------------------|------------------------|
