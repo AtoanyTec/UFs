@@ -22,7 +22,7 @@
 
 ---  
 
-## � **Fortalezas**  
+## 💪 **Fortalezas**  
 
 1. **🧠 Pensamiento estratégico**  
    - Genera soluciones innovadoras con benchmarking (🌐🔬)  
