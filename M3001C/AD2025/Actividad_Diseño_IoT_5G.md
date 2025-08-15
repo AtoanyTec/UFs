@@ -25,6 +25,7 @@ La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT +
   - **Justificación**: cómo MQTT garantiza la comunicación eficiente entre sensores y el broker.
   - **Dashboard**: visualización de cómo se vería el dashboard con las lecturas de sensores y/o actuadores.
   - **5G vs 4G** ventajas de la 5G con respecto al 4G.
+  - **Referencias bibliográficas**
 * **📄 Reporte PDF** con:
   - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask.
   - **Diagrama a bloques**: diagrama a bloques detallado del sistema propuesto.
@@ -33,8 +34,17 @@ La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT +
   - Cómo MQTT garantiza comunicación eficiente entre sensores y el broker.
   - Ejemplo de cómo se vería el dashboard para la visualización de lecturas de sensores y/o actuadores.
   - Ventajas de **5G vs 4G**.
+  - **Referencias bibliográficas**
       
 ## 📋 Rúbrica de Evaluación
+| Criterio               | Destacado 🔥 | Sólido 👍 | Básico 💭 | Incipiente ⚠️ |
+|------------------------|----------------------|------------------|--------------------------|------------------|
+| **Diagrama a Bloques** | Diagrama completo con todas las conexiones (IoT+5G+MQTT+Nube), leyendas técnicas y flujo de datos detallado | Diagrama completo pero falta 1-2 elementos secundarios | Diagrama presente pero con omisiones importantes (ej: falta core 5G) | Diagrama incompleto o con errores graves |
+| **Implementación MQTT** | Demuestra uso avanzado de wildcards (+/#), QoS adecuado y estructura de topics jerárquica | Topics bien definidos pero sin wildcards o QoS básico | Topics presentes pero sin estructura lógica | Faltan elementos clave del protocolo |
+| **Arquitectura 5G** | Integra correctamente gNodeB, Core Network y Edge Computing con ventajas técnicas detalladas | Describe componentes 5G pero sin profundizar en ventajas | Menciona 5G pero sin conexión clara con IoT | Omite componentes críticos de 5G |
+| **Dashboard Cloud** | Prototipo funcional con visualización de datos en tiempo real y alertas configurables | Diseño claro pero sin funcionalidad en tiempo real | Bosquejo estático sin interacción | No presenta dashboard o es irrelevante |
+| **Presentación Oral** 🎤 | Exposición clara, demuestra dominio técnico, usa apoyos visuales efectivos y responde preguntas | Buen flujo pero con detalles técnicos superficiales | Estructura básica pero con dificultades para explicar conceptos | Presentación desorganizada o con errores graves |
+| **Reporte Técnico** | Documentación profesional con justificaciones técnicas, ejemplos JSON y análisis costo-beneficio | Reporte completo pero con 1-2 elementos faltantes | Contenido presente pero desorganizado o superficial | Faltan secciones clave o contiene errores |
 
        
 
