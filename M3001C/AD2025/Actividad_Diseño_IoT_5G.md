@@ -8,7 +8,7 @@ SafeMask es una empresa que se dedica a la fabricación de máscaras a nivel mun
 
 ## 📋 Instrucciones
 1. **Contexto:**
-   * La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT + 5G** que monitoree la zona de fabricación 🏗️
+   * La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT + 5G + Cloud Computing** que monitoree la zona de fabricación 🏗️
    * Los datos deben de visualizar en un **dashboard central** 📊 con alertas en tiempo real.
 2. **⚙️ Requisitos Técnicos:**
      * **🔷Diagrama a Bloques** que incluya:
