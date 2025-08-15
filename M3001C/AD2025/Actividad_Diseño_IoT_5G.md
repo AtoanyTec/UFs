@@ -12,22 +12,23 @@ SafeMask es una empresa que se dedica a la fabricación de máscaras a nivel mun
    * Los datos deben de visualizar en un **dashboard central** 📊 con alertas en tiempo real.
 2. **⚙️ Requisitos Técnicos:**
      * **🔷Diagrama a Bloques** que incluya:
-         - **📡 Dispositivo IoT**: Sensores (DHT11, ESP32), actuadores y IoT Gateway.
-         - **📶Protocolo MQTT**: Broker(MQTX), topics (ej: `safemask/fabricacion/temperatura`)
-         - **📡Red 5G**: Estación base (**gNodeB**), **Core Network**, y **Edge Computing** para baja latencia.
-         - **☁️ Plataforme en la nube**: Procesamiento de datos y dashboard de visualización.
-      * **📝Reporte Técnico** (2 páginas) que explique:
-          - Cómo MQTT garantiza comunicación eficiente entre sensores y el broker ✅
-          - Ventajas de **5G vs 4G** ⚡
+         - **📡 Dispositivos IoT**: Conexiones de sensores (DHT11, ESP32), actuadores y IoT Gateway.
+         - **📶Protocolo MQTT**: Conexiones de broker(MQTTX), suscribers, publishers, topics (ej: `safemask/fabricacion/temperatura`) en los dispositivos IoT. Utilizar wildcards (+, #) para diferentes tipos de visualización en dashboards.
+         - **📡Red 5G**: Conexión de la red 5G - Estación base (**gNodeB**), **Core Network**, y **Edge Computing**- con los dispotivos IoT y el protocolo MQTT.
+         - **☁️ Plataforme en la nube**: Conexión de la nube con los dispositivos IoT, protocolo MQTT y la red 5G. Mostrar un ejemplo de dashboard para la visualización de las variables.
+      
 3. **📤 Entregables**
      * **🖥️Diagrama digital** (draw.io/Lucidchart) detallado y con leyendas claras
      * **Presentación oral** de la propuesta que incluya:
-         - **Introducción**: contexto de la importancia de la industria 4.0 en las empresas
+         - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask
          - **Red IoT**: el diagramaa bloques tiene que
      * **📄 Reporte PDF** con:
-         - Justificación de cada componente del sistema.
+         - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask.
+         - **Diagrama a bloques**: diagrama a bloques detallado del sistema propuesto.
+         - **Justificación** de cada componente del sistema.
          - Ejemplo de **mensaje MQTT** (formato JSON) enviado por un sensor
-         - Esquema de la red 5G mostrando la ruta de los datos: **sensor -> 5G -> Nube**
+         - Cómo MQTT garantiza comunicación eficiente entre sensores y el broker ✅
+         - Ventajas de **5G vs 4G** ⚡
       
 ## 📋 Rúbrica de Evaluación
 
