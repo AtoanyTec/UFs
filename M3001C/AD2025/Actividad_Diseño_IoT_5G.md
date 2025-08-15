@@ -48,7 +48,7 @@ La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT +
 | **Implementación MQTT** | Demuestra uso avanzado de wildcards (+/#) y estructura de topics jerárquica | Topics bien definidos pero sin wildcards | Topics presentes pero sin estructura lógica | Faltan elementos clave del protocolo |
 | **Arquitectura 5G** | Integra correctamente gNodeB, Core Network y Edge Computing con ventajas técnicas detalladas | Describe componentes 5G pero sin profundizar en ventajas | Menciona 5G pero sin conexión clara con IoT | Omite componentes críticos de 5G |
 | **Dashboard Cloud** | Prototipo funcional con visualización de datos en tiempo real y alertas configurables | Diseño claro pero sin funcionalidad en tiempo real | Bosquejo estático sin interacción | No presenta dashboard o es irrelevante |
-| **Presentación Oral** 🎤 | Exposición clara, demuestra dominio técnico, usa apoyos visuales efectivos y responde preguntas | Buen flujo pero con detalles técnicos superficiales | Estructura básica pero con dificultades para explicar conceptos | Presentación desorganizada o con errores graves |
+| **Presentación Oral** | Exposición clara, demuestra dominio técnico, usa apoyos visuales efectivos y responde preguntas | Buen flujo pero con detalles técnicos superficiales | Estructura básica pero con dificultades para explicar conceptos | Presentación desorganizada o con errores graves |
 | **Reporte Técnico** | Documentación profesional con justificaciones técnicas, ejemplos JSON y análisis costo-beneficio | Reporte completo pero con 1-2 elementos faltantes | Contenido presente pero desorganizado o superficial | Faltan secciones clave o contiene errores |
 
        
