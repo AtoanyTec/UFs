@@ -1,5 +1,10 @@
 # 🏭 Proyecto IoT 5G para Monitoreo en Fabricación de Máscaras
 
+## 📝 Subcompetencia a evaluar
+SIIT0101 - Explicación del funcionamiento de sistemas y dispositivos ingenieriles
+### Nivel de dominio
+SIIT0101C - Explica el funcionamiento de sistemas y dispositivos ingenieriles por medio de argumentaciones, creando modelos conceptuales que describen las interacciones y relaciones entre los componentes del sistema y su entorno.
+
 ## 🎯 Objetivo
 Aplicar los conceptos de **IoT**, **MQTT** y **5G** para diseñar un sistema de monitoreo en tiempo real de **humedad** 💧 y **temperatura** 🌡️ en una fábrica de máscaras, integrando tecnologías de **Industria 4.0**.
 
