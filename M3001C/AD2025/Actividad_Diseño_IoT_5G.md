@@ -1,13 +1,13 @@
 # 🏭 Proyecto IoT 5G para Monitoreo en Fabricación de Máscaras
 
 ## 🎯 Objetivo
-Aplicar los conceptos de **IoT**, **MQTT** y **5G** para diseñar un sistema de monitoreo en tiempo real de **humedad** 💧 y **temperatura** 🌡️ en una fábrica de máscaras, integrando tecnologías de I**ndustria 4.0**.
+Aplicar los conceptos de **IoT**, **MQTT** y **5G** para diseñar un sistema de monitoreo en tiempo real de **humedad** 💧 y **temperatura** 🌡️ en una fábrica de máscaras, integrando tecnologías de **Industria 4.0**.
 
 ## SafeMask
 SafeMask es una empresa que se dedica a la fabricación de máscaras a nivel mundial. La empresa cuenta con 3 líneas de producción. Cada línea de producción se compone de una banda transportadora que lleva las máscaras en grupos de 10 hacia un horno. El horno se encarga de realizar el proceso de secado y otra banda transportadora lleva las máscaras a almacenamiento. El proceso de fabricación de las 3 líneas de producción se realiza de forma manual, por lo que existe una gran ocurrencia de errores humanos, como por ejemplo, calentar el horno a una temperatura incorrecta o sacar las máscaras muy secas o aún humedas. Para ello, se te ha pedido que realices una propuesta de implementación de **IoT**, **5G** y **Cloud Computing** para automatizar el proceso, aumentar la producción y reducir costos de producción minimizando la fabricación de máscaras defectuosas.
 
 ## 📋 Instrucciones
-La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT + 5G + Cloud Computing** implementando tecnologíade Industria 4.0. Los datos deben de visualizar en un **dashboard central** 📊 con alertas en tiempo real. A continuación se presentan los requisitos técnicos:
+La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT + 5G + Cloud Computing** implementando tecnologíade Industria 4.0. Los datos deben de visualizar en un **dashboard central** con alertas en tiempo real. A continuación se presentan los requisitos técnicos:
 
 **🔷Diagrama a Bloques** que incluya:
 - **📡 Dispositivos IoT**: Conexiones de sensores (DHT11, ESP32), actuadores y IoT Gateway.
