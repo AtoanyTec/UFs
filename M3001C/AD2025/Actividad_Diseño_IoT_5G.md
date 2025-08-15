@@ -13,7 +13,7 @@ La empresa **SafeMask** necesita optimizar su producción con un sistema **IoT +
 - **📡 Dispositivos IoT**: Conexiones de sensores (DHT11, ESP32), actuadores y IoT Gateway.
 - **📶Protocolo MQTT**: Conexiones de broker(MQTTX), suscribers, publishers, topics (ej: `safemask/fabricacion/temperatura`) en los dispositivos IoT. Utilizar wildcards (+, #) para diferentes tipos de visualización en dashboards.
 - **📡Red 5G**: Conexión de la red 5G - Estación base (**gNodeB**), **Core Network**, y **Edge Computing**- con los dispotivos IoT y el protocolo MQTT.
-- **☁️ Plataforme en la nube**: Conexión de la nube con los dispositivos IoT, protocolo MQTT y la red 5G. Mostrar un ejemplo de dashboard para la visualización de las variables.
+- **☁️ Plataforma en la nube**: Conexión de la nube con los dispositivos IoT, protocolo MQTT y la red 5G. Mostrar un ejemplo de dashboard para la visualización de las variables.
 
 ## **📤 Entregables**
 * **🖥️Diagrama digital** (draw.io/Lucidchart) detallado y con leyendas claras.
