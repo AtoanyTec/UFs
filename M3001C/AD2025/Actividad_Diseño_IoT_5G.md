@@ -19,7 +19,7 @@ SafeMask es una empresa que se dedica a la fabricación de máscaras a nivel mun
       
 3. **📤 Entregables**
      * **🖥️Diagrama digital** (draw.io/Lucidchart) detallado y con leyendas claras
-     * **Presentación oral** de la propuesta que incluya:
+     * **🎤 Presentación oral** de la propuesta que incluya:
          - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask.
          - **Diagrama a bloques**: diagrama a bloques detallado del sistema propuesto.
          - **Diagrama a bloques**: detallado por etapas y justificación de cada componente del sistema.
