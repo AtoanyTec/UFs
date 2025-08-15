@@ -11,7 +11,7 @@ Diseñar un sistema IoT conectado a red 5G para monitorear **humedad** (💧) y 
 
 ### 🔌 Componentes Obligatorios
 1. **Capa de Sensores**:
-   - Dispositivos: ESP32 + DHT22
+   - Dispositivos: ESP32 + DHT11
    - Frecuencia de muestreo: 30 segundos
    - Protocolo: MQTT con QoS 1
 
