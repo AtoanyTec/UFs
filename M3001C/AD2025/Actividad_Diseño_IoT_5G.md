@@ -1,24 +1,11 @@
 # 🏭 Proyecto IoT 5G para Monitoreo en Fabricación de Máscaras
 
 ## 🎯 Objetivo
-Diseñar un sistema IoT conectado a red 5G para monitorear **humedad** (💧) y **temperatura** (🌡️) en la línea de producción de máscaras, aplicando:
-- Arquitectura IoT industrial
-- Protocolo MQTT
-- Tecnología 5G
-- Edge Computing
+Aplicar los conceptos de **IoT**, **MQTT** y **5G** para diseñar un sistema de monitoreo en tiempo real de **humedad** 💧 y **temperatura** 🌡️ en una fábrica de máscaras, integrando tecnologías de I**ndustria 4.0**.
 
-## 📋 Especificaciones Técnicas
+## 📋 Instrucciones
+1. **Contexto**:
+   * La empresa SafeMask necesita optimizar su producción con un sistema IoT + 5G que monitoree la zona de fabricación
+3. 
 
-### 🔌 Componentes Obligatorios
-1. **Capa de Sensores**:
-   - Dispositivos: ESP32 + DHT11
-   - Frecuencia de muestreo: 30 segundos
-   - Protocolo: MQTT con QoS 1
 
-2. **Red 5G**:
-   ```mermaid
-   graph LR
-   A[Sensores] --> B[IoT Gateway]
-   B --> C[gNodeB]
-   C --> D[UPF]
-   D --> E[Plataforma Cloud]
