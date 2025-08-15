@@ -20,14 +20,20 @@ SafeMask es una empresa que se dedica a la fabricación de máscaras a nivel mun
 3. **📤 Entregables**
      * **🖥️Diagrama digital** (draw.io/Lucidchart) detallado y con leyendas claras
      * **Presentación oral** de la propuesta que incluya:
-         - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask
-         - **Red IoT**: el diagramaa bloques tiene que
+         - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask.
+         - **Diagrama a bloques**: diagrama a bloques detallado del sistema propuesto.
+         - **Diagrama a bloques**: detallado por etapas y justificación de cada componente del sistema.
+         - **Mensajes MQTT**: ejemplo de los mensajes MQTT en formato JSON
+         - **Justificación**: cómo MQTT garantiza la comunicación eficiente entre sensores y el broker.
+         - **Dashboard**: visualización de cómo se vería el dashboard con las lecturas de sensores y/o actuadores.
+         - **5G vs 4G** ventajas de la 5G con respecto al 4G.
      * **📄 Reporte PDF** con:
          - **Introducción**: contexto de la importancia de la industria 4.0 en SafeMask.
          - **Diagrama a bloques**: diagrama a bloques detallado del sistema propuesto.
          - **Justificación** de cada componente del sistema.
          - Ejemplo de **mensaje MQTT** (formato JSON) enviado por un sensor
          - Cómo MQTT garantiza comunicación eficiente entre sensores y el broker ✅
+         - Ejemplo de cómo se vería el dashboard para la visualización de lecturas de sensores y/o actuadores
          - Ventajas de **5G vs 4G** ⚡
       
 ## 📋 Rúbrica de Evaluación
