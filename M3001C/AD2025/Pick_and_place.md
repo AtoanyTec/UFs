@@ -14,3 +14,14 @@ Al finalizar esta actividad, el estudiante será capaz de:
 3. Configurar herramientas y entornos de trabajo dentro del software UFactory Studio (o UFO). 🛠️💻
 4. Programar una tarea básica de "pick and place" utilizando el método de arrastrar y soltar (drag & drop) o programación por demostración. 👆🧩👇
 5. Identificar y solucionar problemas básicos de posicionamiento y sujeción. 🔍❌✅
+
+## 2. Materiales y Equipos por Estación de Trabajo 🧰
+
+* 1 Cobot UFactory Lite6. 🤖
+* 1 Controlador del cobot y cable de alimentación. 🔌
+* 1 Computadora con el software UFactory Studio instalado. 💻
+* 1 Herramienta de sujeción (Pinza neumática o eléctrica) instalada en el EF (End Effector) del cobot. 🦾✋
+* Conjunto de objetos para manipular (e.g., cubos de diferentes colores, tuercas, piezas pequeñas). 🧊🔴🟢🟡
+* Zona de trabajo delimitada (mesa con áreas de "Origen" y "Destino" marcadas). 📦🔄📥
+* Elementos de Seguridad CRÍTICOS: 🚨
+    - Parada de emergencia probada y accesible. 🔴
