@@ -25,3 +25,9 @@ Al finalizar esta actividad, el estudiante será capaz de:
 * Zona de trabajo delimitada (mesa con áreas de "Origen" y "Destino" marcadas). 📦🔄📥
 * Elementos de Seguridad CRÍTICOS: 🚨
     - Parada de emergencia probada y accesible. 🔴
+ 
+## Introducción Teórica 📖
+
+La tarea de "Pick and Place" (recoger y colocar) es una de las aplicaciones más fundamentales en la robótica industrial y colaborativa. Consiste en que el robot recoja un objeto de una ubicación predefinida y lo deposite en otra. Su simplicidad lo hace ideal para aprender los conceptos básicos de la programación y operación de robots, como la definición de puntos de referencia, la planificación de trayectorias y la gestión de entradas/salidas digitales (para activar la pinza).
+
+El cobot Lite6 de UFactory se programa de manera intuitiva, permitiendo arrastrar y soltar bloques de funciones, lo que lo hace perfecto para una introducción práctica sin necesidad de profundos conocimientos de código. 👆🧩👇
