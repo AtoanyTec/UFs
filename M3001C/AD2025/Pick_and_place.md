@@ -1,4 +1,4 @@
-# Pick and Place" con Cobot Lite6 🧩📦
+# Pick and Place con Cobot Lite6 🧩📦
 
 ## 📝 Subcompetencia a evaluar
 **SIIT0101** - Explicación del funcionamiento de sistemas y dispositivos ingenieriles
