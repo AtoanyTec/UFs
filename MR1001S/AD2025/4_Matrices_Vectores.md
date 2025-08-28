@@ -7,7 +7,6 @@ Aprender a crear y manipular arreglos (vectores y matrices), que son las estruct
 En MATLAB, un vector es una lista de números y una matriz es una tabla rectangular de números. Son la base de todo cálculo.
 
 * **Crear un Vector Fila:** Usa corchetes ```[ ]``` y separa los elementos con comas ```,``` o espacios.
-* 
 ```matlab
 >> vector_fila = [1, 2, 3, 4, 5] % Con comas
 vector_fila =
