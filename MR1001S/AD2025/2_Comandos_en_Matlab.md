@@ -1,4 +1,4 @@
-# 2 📟 Comandos en MATLAB
+# 2. 📟 Comandos en MATLAB
 
 ## 🎯 Objetivo del módulo
 Que el estudiante se familiriace con el entorno de trabajo de MATLAB, aprenda a realizar cálculos básicos, crear y gestionar variables, y utilice las funciones predefinidas más comunes.
