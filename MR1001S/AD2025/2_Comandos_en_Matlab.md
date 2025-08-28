@@ -110,8 +110,8 @@ MATLAB tiene una enorme biblioteca de funciones listas para usar. Una función t
 >> help sqrt
 >> help mean
 ```
-
-✨ Consejo final para los estudiantes: La mejor forma de aprender es experimentando. No tengan miedo de probar comandos, crear variables con diferentes nombres y equivocarse. ¡Usen mucho ```help```!
+--- 
+✨ **Consejo final para los estudiantes:** La mejor forma de aprender es experimentando. No tengan miedo de probar comandos, crear variables con diferentes nombres y equivocarse. ¡Usen mucho ```help```!
 
 
 
