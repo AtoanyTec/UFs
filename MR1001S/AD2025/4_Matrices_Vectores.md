@@ -24,8 +24,10 @@ vector_columna =
      2
      3
      4
-`` 
+``
+
 * **Crear una Matriz:** Combina las reglas anteriores. Los elementos de una fila se separan por comas o espacios, y las filas se separan entre sí por punto y coma ```;```.
+
 ```matlab
 >> matriz = [1, 2, 3; 4, 5, 6; 7, 8, 9]
 matriz =
