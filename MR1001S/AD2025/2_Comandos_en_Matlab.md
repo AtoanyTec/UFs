@@ -3,7 +3,7 @@
 ## 🎯 Objetivo del módulo
 Que el estudiante se familiriace con el entorno de trabajo de MATLAB, aprenda a realizar cálculos básicos, crear y gestionar variables, y utilice las funciones predefinidas más comunes.
 
-## ➕ Comandos para realizar cálculos en Matlab y crear variables
+## 2.1 ➕ Comandos para realizar cálculos en Matlab y crear variables
 MATLAB es, en su esencia, una gigantesca calculadora. La forma más directa de usarlo es tecleando comandos en la Ventana de Comandos (Command Window).
 
 * 🧮 **Cálculos Directos:** Escribe operaciones matemáticas y presiona Enter para obtener el resultado
@@ -34,7 +34,7 @@ Punto y coma (```;```): Si se coloca al final del comando, suprime la salida en 
   - ```^``` (potenciación).
   - ```()``` (paréntesis para definir prioridad).
  
-  ## ▶️ Ejecutar comandos
+  ## 2.2 ▶️ Ejecutar comandos
   * ⌨️ **Ventana de Comandos:** La forma más inmediata. Escribe la instrucción y presiona ```Enter```.
   * 📜 **Scripts o Archivos .m:** La forma profesional y de repetir tareas.
     1. Haz clic en "New Script"
@@ -44,7 +44,7 @@ Punto y coma (```;```): Si se coloca al final del comando, suprime la salida en 
        + Presionando el botón "Run" (▶️) en el editor
        + Tecleando el nombre del script en la Ventana de Comandos: ```>> mi_primer_script```.
 
-## 🏷️ Nombrar variables
+## 2.3 🏷️ Nombrar variables
 Las reglas para crear nombres de variables válidos y recomendables son cruciales.
 * 📏 Reglas Estrictas (MATLAB no lo aceptará si no):
   + Deben comenzar con una letra.
@@ -62,7 +62,7 @@ Las reglas para crear nombres de variables válidos y recomendables son cruciale
   + ❌ **Inválidos:** ```2resultados``` (empieza con número), ```mi-variable``` (tiene guión), ```end``` (es palabra clave).
 
 
-## 💾 Salvar y cargar variables
+## 2.4 💾 Salvar y cargar variables
  Para no perder tu trabajo y compartir datos entre sesiones.
 
 * 💾 Salvar (```save```): Guarda las variables del Espacio de Trabajo (Workspace) en un archivo ```.mat```.
@@ -72,6 +72,44 @@ Las reglas para crear nombres de variables válidos y recomendables son cruciale
 ```
 * 📂 Cargar (```load```): Recupera las variables desde un archivo ```.mat``` al Workspace.
 
+```matlab
+>> load('mis_datos.mat')          % Carga todas las variables del archivo
+>> load('solo_importantes.mat', 'total') % Carga solo la variable 'total' del archivo
+```
+
+* 👆 También puedes usar el Workspace:
+  + Puedes hacer clic derecho en una variable y seleccionar "Save As..." para guardarla
+  + Puedes hacer doble clic en un archivo ```.mat``` en la ventana "Current Folder" para cargarlo.
+ 
+## 2.5 📚 Funciones predefinidas
+MATLAB tiene una enorme biblioteca de funciones listas para usar. Una función toma unos datos de entrada (argumentos), realiza una operación y devuelve un resultado (salida).
+
+* 📖 Sintaxis General: ```resultado = nombreFuncion(argumento1, argumento2)```
+* 🧮 Funciones Matemáticas Comunes:
+```matlab
+>> raiz = sqrt(25)        % √ Raíz cuadrada -> raiz = 5
+>> valor_absoluto = abs(-3) % | | Valor absoluto -> valor_absoluto = 3
+>> seno_30 = sind(30)     % Seno de 30 grados -> seno_30 = 0.5
+>> redondeo = round(3.1416) % Redondear -> redondeo = 3
+>> redondeo_arriba = ceil(3.1416) % Redondear hacia arriba -> redondeo_arriba = 4
+>> exponencial = exp(2)   % e^2 -> exponencial ≈ 7.389
+>> logaritmo = log(10)    % Logaritmo natural (base e) de 10 -> logaritmo ≈ 2.302
+```
+
+* 🔧 Funciones de Utilidad:
+```matlab
+>> tamaño = size([1, 2, 3; 4, 5, 6]) % Devuelve [filas, columnas] de una matriz
+>> longitud = length([10, 20, 30, 40]) % Devuelve la longitud de un vector -> 4
+>> quien = who           % Lista las variables en el Workspace
+>> clear variable_name   % 🗑️ Elimina la variable 'variable_name' del Workspace
+>> clc                   % 🧹 Limpia la Ventana de Comandos (no borra variables)
+```
+
+* ❓ ¡Cómo aprender más!: Usa la función help seguida del nombre de cualquier función para obtener una explicación detallada y ejemplos. Es tu mejor amiga.
+```matlab
+>> help sqrt
+>> help mean
+```
 
 
 
