@@ -30,6 +30,6 @@ total =
 
 Punto y coma (```;```): Si se coloca al final del comando, suprime la salida en pantalla. La variable se crea, pero no se muestra su valor.
 * ➗ **Operadores Básicos:**
-  - + (suma), - (resta), * (multiplicación), / (división).
-  - + ^ (potenciación).
-  - + () (paréntesis para definir prioridad).
+  - ```+``` (suma), ```-``` (resta), ```*``` (multiplicación), ```/``` (división).
+  - ```^``` (potenciación).
+  - ```()``` (paréntesis para definir prioridad).
