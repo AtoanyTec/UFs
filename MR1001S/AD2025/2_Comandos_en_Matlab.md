@@ -17,4 +17,19 @@ ans =
     21
 ```
 
-* 
+``àns```es una variable temporal que guarda automáticamente el último resultado calculado.
+
+* 📦 **Creación de Variables:** Para almacenar valores y usarlos después, asígnalos a variables usando el signo =.
+```matlab
+>> precio = 150.50;
+>> iva = 0.16;
+>> total = precio * (1 + iva)
+total =
+  174.5800
+```
+
+Punto y coma (```;```): Si se coloca al final del comando, suprime la salida en pantalla. La variable se crea, pero no se muestra su valor.
+* ➗ **Operadores Básicos:**
+  - + (suma), - (resta), * (multiplicación), / (división).
+  - + ^ (potenciación).
+  - + () (paréntesis para definir prioridad).
