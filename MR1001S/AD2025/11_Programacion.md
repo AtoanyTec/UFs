@@ -26,10 +26,10 @@ fprintf('Área del triángulo: %.2f\n', area_triangulo);
 ```
 
 ### Buenas Prácticas:
->> Usa comentarios para explicar tu código
->> Usa nombres descriptivos para variables
->> Organiza tu código en secciones lógicas
->> Prueba tu código con diferentes entradas
+* Usa comentarios para explicar tu código
+* Usa nombres descriptivos para variables
+* Organiza tu código en secciones lógicas
+* Prueba tu código con diferentes entradas
 
 ## 11.2 🤔 Condicionales
 Las estructuras condicionales permiten ejecutar código basado en condiciones lógicas.
