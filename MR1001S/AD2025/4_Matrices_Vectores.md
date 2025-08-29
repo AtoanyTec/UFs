@@ -96,6 +96,18 @@ MATLAB tiene funciones muy útiles para crear arreglos con valores específicos 
 | ```eye```         | ```eye(3)```      | ```[1 0 0; 0 1 0; 0 0 1]```            | Crea una matriz identidad (unos en la diagonal)               |
 | ```magic```       | ```magic(3)```    | ```[8 1 6; 3 5 7; 4 9 2]```            | Crea un cuadrado mágico (sumas de filas/columnas iguales).    |
 
+## Ejemplo
+```matlab
+% 🚀 Ejemplo de aplicación: Crear una cuadrícula para una gráfica 3D
+>> x = linspace(-2, 2, 50); % 50 puntos entre -2 y 2 en el eje X
+>> y = linspace(-1, 1, 30); % 30 puntos entre -1 y 1 en el eje Y
+>> [X, Y] = meshgrid(x, y); % Crea matrices de coordenadas para la gráfica
+>> Z = X.^2 + Y.^2; % Calcula valores para el eje Z (una parábola)
+>> surf(X, Y, Z) % Crea la gráfica de superficie
+```
+
+---
+✨ **Consejo Final:** La práctica hace al maestro. Juega con estas funciones, crea diferentes tamaños de arreglos y usa el Workspace de MATLAB para visualizar cómo se ven. ¡Esto es el corazón de la programación en MATLAB!
 
 
 
