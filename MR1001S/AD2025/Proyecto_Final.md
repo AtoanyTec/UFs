@@ -37,16 +37,27 @@ Desarrollar un programa en MATLAB que permita ocultar un mensaje de texto en una
   - `ocultar_mensaje.m`: Para codificar el mensaje en la imagen.
   - `revealar_mensaje.m`: Para decodificar el mensaje de la imagen.
 - **Imagen de Ejemplo**: Una imagen con un mensaje oculto creada por el estudiante.
-- **Documentación Breve**: Un archivo README que explique cómo usar los scripts y muestre ejemplos de entrada y salida.
+- **Documentación Breve**: Un reporte que explique técnicamente el sistema.
+- **Presentación Final**: Una presentación de 5-7 minutos que demuestre el funcionamiento del proyecto y explique los conceptos técnicos implementados.
 
-## 📊 Rúbrica de Evaluación
+## 📊 Rúbrica de Evaluación - Proyecto
 
-| Criterio | Insuficiente (0-5) | Básico (6-7) | Competente (8-9) | Avanzado (10) |
+| Criterio | Incipiente (0-74) | Básico (75-84) | Sólido (85-94) | Destacado (95-100) |
 |----------|---------------------|--------------|-------------------|---------------|
 | **Funcionalidad** | El código no funciona o no cumple con los requisitos básicos. | El código funciona parcialmente, pero con errores o limitaciones. | El código funciona correctamente para imágenes y mensajes simples. | El código funciona perfectamente para cualquier imagen y mensaje, con manejo de errores robusto. |
 | **Calidad del Código** | Código desorganizado, sin comentarios y difícil de entender. | Código parcialmente organizado, con algunos comentarios. | Código bien estructurado, comentado y fácil de seguir. | Código excelente, muy bien comentado, eficiente y con buenas prácticas de programación. |
 | **Documentación** | No hay documentación o es muy escasa. | Documentación mínima que explica básicamente el uso. | Documentación clara que explica el uso y tiene ejemplos. | Documentación exhaustiva con ejemplos, explicaciones técnicas y casos de prueba. |
 | **Creatividad y Extras** | No hay elementos creativos o adicionales. | Algunos elementos adicionales simples. | Funciones adicionales como interfaz de usuario o soporte para múltiples formatos. | Elementos creativos destacados, como interfaz gráfica, opciones avanzadas o optimizaciones innovadoras. |
+
+## 📊 Rúbrica de Evaluación - Presentación Final
+
+| Criterio | Incipiente (0-74)| Básico (75-84) | Sólido (85-94) | Destacado (95-100) |
+|----------|---------------------|--------------|-------------------|---------------|
+| **Contenido Técnico** | No explica los conceptos técnicos o lo hace de manera incorrecta. | Explica algunos conceptos técnicos de forma superficial. | Explica adecuadamente los conceptos técnicos y su implementación. | Explica de manera clara y profunda todos los conceptos técnicos, con ejemplos ilustrativos. |
+| **Demostración** | No muestra el funcionamiento del proyecto o la demostración falla. | Muestra una demostración básica con algunas dificultades. | Demuestra adecuadamente el funcionamiento de ambas partes del proyecto. | Demuestra fluidamente el proyecto, mostrando casos de uso y posibles aplicaciones. |
+| **Comunicación** | No se expresa claramente, usa lenguaje no apropiado o no mantiene contacto visual. | Se expresa con cierta claridad pero con dificultades en la fluidez o terminología técnica. | Se expresa con claridad, usando terminología técnica apropiada y manteniendo engagement con la audiencia. | Comunica de manera excepcional, con gran claridad, confianza y dominio del tema. |
+| **Organización y Tiempo** | La presentación está desorganizada y no cumple con el tiempo establecido. | La presentación tiene una estructura básica pero tiene problemas de tiempo (±2 minutos). | La presentación está bien organizada y cumple con el tiempo establecido (±1 minuto). | La presentación está excelentemente estructurada, con timing perfecto y transiciones fluidas. |
+| **Calidad Visual** | Las diapositivas son confusas, con mucho texto o diseño pobre. | Las diapositivas son básicas pero transmiten la información esencial. | Las diapositivas son claras, visualmente atractivas y apoyan efectivamente la presentación. | Las diapositivas son excepcionales, con diseño profesional, multimedia y elementos visuales de alta calidad. |
 
 ## ❌ Prohibición de Uso de Inteligencia Artificial
 
@@ -72,5 +83,7 @@ El proyecto debe ser realizado enteramente por el estudiante, utilizando solo su
 - Asegúrense de que la imagen tenga suficientes píxeles para contener el mensaje.
 - Utilicen imágenes sin compresión con pérdida para evitar corrupción del mensaje.
 - Consideren añadir una contraseña o cifrado al mensaje para mayor seguridad (opcional avanzado).
+- Practiquen la presentación varias veces para asegurar que cumplan con el tiempo establecido.
+- Preparen ejemplos visuales para hacer la demostración más impactante.
 
 ¡Buena suerte con el proyecto! 🚀
