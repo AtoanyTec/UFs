@@ -1,4 +1,4 @@
-# 🕵️♂️ Proyecto Final: Esteganografía LSB - Ocultando Mensajes en Imágenes
+# 🕵️ Proyecto Final: Esteganografía LSB - Ocultando Mensajes en Imágenes
 
 ## 📌 Nombre de la Actividad
 
