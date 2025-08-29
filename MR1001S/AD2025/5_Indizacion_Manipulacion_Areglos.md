@@ -87,6 +87,94 @@ elementos_mayores =
     90
 ```
 
+## 5.4 ✏️ Cambiar Valores de Elementos
+Puedes modificar múltiples elementos a la vez usando diferentes métodos de indexación.
+### Por Posiciones Específicas:
+```matlab
+>> M = magic(3) % Crear una matriz 3x3 mágica
+M =
+     8     1     6
+     3     5     7
+     4     9     2
+
+>> M([1, 3, 5]) = [100, 200, 300] % Cambia elementos 1, 3 y 5
+M =
+   100     1   200
+     3   300     7
+     4     9     2
+```
+
+### Usando Condiciones Lógicas:
+```matlab
+>> M(M < 5) = 0 % Cambia a cero todos los elementos menores que 5
+M =
+     8     0     6
+     0     5     7
+     0     9     0
+
+>> M(M == 9) = 999 % Cambia todos los 9 por 999
+M =
+     8     0     6
+     0     5     7
+     0   999     0
+```
+
+### Modificar Porciones de Matrices:
+```matlab
+>> M(1:2, 2:3) = [11, 22; 33, 44] % Cambia una submatriz 2x2
+M =
+     8    11    22
+     0    33    44
+     0   999     0
+```
+
+### 💡 Consejos Prácticos:
+1. Verifica dimensiones: Asegúrate de que el lado izquierdo y derecho de la asignación tengan dimensiones compatibles.
+```matlab
+% ❌ Esto producirá error
+>> M(1:2, 1:2) = [1, 2, 3, 4] 
+% Error porque [1,2,3,4] es 1x4 pero M(1:2,1:2) es 2x2
+
+% ✅ Forma correcta
+>> M(1:2, 1:2) = [1, 2; 3, 4] % Matriz 2x2
+```
+2. Usa end para el último elemento:
+```matlab
+>> V = [10 20 30 40 50];
+>> ultimo_elemento = V(end) % Accede al último elemento
+ultimo_elemento =
+    50
+
+>> penultimo_elemento = V(end-1) % Accede al penúltimo elemento
+penultimo_elemento =
+    40
+```
+3. Elimina elementos usando corchetes vacíos []:
+```matlab
+>> V = [10 20 30 40 50];
+>> V(3) = [] % Elimina el tercer elemento
+V =
+    10    20    40    50
+```
+
+### ✨ Ejemplo Integrador:
+```matlab
+% Crear datos de temperatura
+temperaturas = [18.5, 19.2, 17.8, 20.1, 16.5, 21.3, 22.0];
+
+% Encontrar y corregir valores atípicos (mayores a 21)
+temperaturas(temperaturas > 21) = mean(temperaturas); % Reemplaza por el promedio
+
+% Seleccionar cada otra medición
+temperaturas_seleccionadas = temperaturas(1:2:end);
+```
+
+---
+
+🚀 ¡Ahora puedes manipular arreglos como un experto! Practica con diferentes matrices y vectores para dominar estas técnicas.
+
+
+
 
 
 
