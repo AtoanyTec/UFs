@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo de la Actividad
 
-Desarrollar un programa en MATLAB que permita ocultar un mensaje de texto en una imagen utilizando la técnica de los bits menos significativos (LSB) y crear un decodificador que pueda recuperar el mensaje oculto. Los estudiantes aplicarán conceptos de manipulación de bits, procesamiento de imágenes y programación en MATLAB.
+Desarrollar un programa en MATLAB que permita ocultar un mensaje de texto de 10 caracteres en una imagen utilizando la técnica de los bits menos significativos (LSB) y crear un decodificador que pueda recuperar el mensaje oculto. Los estudiantes aplicarán conceptos de manipulación de bits, procesamiento de imágenes y programación en MATLAB.
 
 ## 📋 Instrucciones
 
