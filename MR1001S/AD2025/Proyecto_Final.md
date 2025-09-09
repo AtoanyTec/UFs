@@ -27,7 +27,7 @@ Desarrollar un programa en MATLAB que permita ocultar un mensaje de texto de 10 
 
 ## ⚙️ Requisitos Técnicos
 
-- El programa debe manejar imágenes a color o escala de grises.
+- El programa debe manejar imágenes a color.
 - Debe incluir manejo de errores (por ejemplo, si la imagen es demasiado pequeña para el mensaje).
 - El mensaje debe incluir un delimitador al final para saber cuándo terminar la extracción.
 
