@@ -1,4 +1,4 @@
-# 10. Importar Datos Externos en MATLAB
+# 9. Importar Datos Externos en MATLAB
 
 ## 🎯 Objetivo
 Aprender a importar datos desde archivos externos a MATLAB, utilizando diferentes métodos y herramientas, con especial énfasis en el trabajo con tablas.
