@@ -4,7 +4,7 @@
 Utilizar la regresión lineal para predecir la demanda futura de un producto, basándote en la actividad anterior. 
 
 ## 💡 Instrucciones
-Utilizando el mismo dataset, implementa la regresión logística para predecir el valor de ventas de un producto A, de categoría B. Analiza el dataset para saber qué variables predictoras necesitas. Puedes crear variables adicionales, como, por ejemplo, la demanda mensual promedio. Utiliza la IA como asistente.
+Utilizando el mismo dataset, implementa la regresión logística para predecir la demanda de un producto A de categoría B. Analiza el dataset para saber qué variables predictoras necesitas. Puedes crear variables adicionales, como, por ejemplo, la demanda mensual promedio. Utiliza la IA como asistente.
 
 #### **Pasos a seguir:**
 1. Importar librerías
