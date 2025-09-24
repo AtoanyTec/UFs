@@ -3,12 +3,6 @@
 ## 🎯Objetivo: 
 Utilizar la regresión lineal para predecir la demanda futura de un producto, basándote en la actividad anterior. 
 
-### **Instrucciones de la Actividad: 📈 Implementación de Regresión Lineal**
-
----
-
-**Objetivo:** Utilizar la regresión lineal para predecir la demanda futura de un producto, basándote en la actividad anterior. 🎯
-
 #### **Pasos a seguir:**
 
 1.  **Importar librerías:** Importa todas las librerías necesarias para el análisis de datos, el modelado y la evaluación, como `numpy`, `pandas` y las funciones de `sklearn`. 📚
