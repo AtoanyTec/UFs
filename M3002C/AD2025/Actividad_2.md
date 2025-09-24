@@ -24,10 +24,11 @@ Utilizando el mismo dataset, implementa la regresión logística para predecir e
 
 **Rúbrica de Evaluación:**
 
-| Columna 1 | Columna 2 | Columna 3 |
-| :--- | :--- | :--- |
-| Fila 1 | Dato A | Dato B |
-| Fila 2 | Dato C | Dato D |
-| Fila 3 | Dato E | Dato F |
+| Criterio | Columna 2 | Columna 3 |
+| :---                                 | :--- | :--- |
+| Implementación del código            | Dato A | Dato B |
+| Análisis y comprensión de los datos  | Dato C | Dato D |
+| Interpretación de métricas           | Dato E | Dato F |
+| Preguntas y respuestas (Q&A)         |
 
 
