@@ -1,4 +1,4 @@
-# 📈 Implementación de Regresión Lineal
+# 📈 Predicción de la Demanda de un Producto
 
 ## 🎯Objetivo: 
 Utilizar la regresión lineal para predecir la demanda futura de un producto, basándote en la actividad anterior. 
