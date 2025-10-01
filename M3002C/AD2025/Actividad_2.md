@@ -32,7 +32,6 @@ Utilizando el mismo dataset, implementa la regresión logística para predecir l
 | **4. Preguntas y respuestas (Q&A)** | Responde a las preguntas de forma superficial o incorrecta. Depende por completo de la IA sin poder justificar las respuestas. | Responde a las preguntas, pero con explicaciones incompletas o ambiguas. Le cuesta elaborar sobre los conceptos. | Responde con claridad y precisión a la mayoría de las preguntas. Demuestra que entiende los conceptos detrás del código. | Responde a todas las preguntas con una comprensión profunda. Puede explicar por qué se tomaron ciertas decisiones de codificación y cómo se podría mejorar el modelo. |
 
 ## 📚 Preguntas
-Claro, aquí tienes 30 preguntas para evaluar a los estudiantes sobre su comprensión de la implementación de la regresión lineal, organizadas por etapas del proceso.
 
 ### **1. Preguntas sobre Conceptos Fundamentales**
 
