@@ -62,7 +62,7 @@ En esta actividad integrarás los conocimientos adquiridos sobre programación e
 
 ## 📊 Rúbrica de Evaluación
 
-| **Criterio** | **Destacado (95-100)** | **Sólido (85-94%)** | **Básico (75-84%)** | **Incipiente (0-74%)** |
+| **Criterio** | **Destacado (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiente (0-74)** |
 |--------------|-----------------------------------|----------------------------------|-------------------------------|-----------------------------------|
 | **Funcionamiento Microcontrolador 4 bits** | Simulación funciona perfectamente, secuencia correcta y tiempos precisos | Simulación funciona con pequeños errores en tiempos | Secuencia básica funciona pero con errores importantes | No funciona o funciona incorrectamente |
 | **Circuito Arduino Físico** | Circuito perfectamente implementado, limpio y organizado | Circuito funcional con pequeñas deficiencias en organización | Circuito funciona pero con errores de conexión | Circuito no funciona o presenta graves errores |
