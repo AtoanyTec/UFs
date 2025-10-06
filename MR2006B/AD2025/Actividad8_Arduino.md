@@ -85,6 +85,6 @@ En esta actividad integrarás los conocimientos adquiridos sobre programación e
 3. **Documenten mientras programan:** Es más fácil que hacerlo al final
 4. **Revisen las conexiones físicas:** Un LED al revés puede arruinar el circuito
 5. **Practiquen las explicaciones:** Deben entender qué hace cada instrucción
-6. 5. **Estudien las preguntas para el quiz oral en clase:** Deben entender qué hace cada instrucción
+6. **Estudien las preguntas para el quiz oral en clase:** Deben entender qué hace cada instrucción
 
 **¡Éxito en la actividad! Estoy seguro de que demostrarán un excelente entendimiento de estos conceptos fundamentales.**
