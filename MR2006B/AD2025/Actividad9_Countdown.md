@@ -54,7 +54,7 @@ Buzzer:
 
 **Respondan las siguientes preguntas en su reporte:**
 
-### **Preguntas Fundamentales (1-15):**
+### **Preguntas Fundamentales (1-12):**
 1. ¿Cómo representaron los dígitos 0-9 en patrones binarios para el display?
 2. ¿Qué estrategia usaron para el mapeo de segmentos a bits?
 3. ¿Cómo implementaron la temporización de 1 segundo en el micro 4 bits?
@@ -68,12 +68,12 @@ Buzzer:
 11. ¿Qué ocurre si el buzzer se conecta sin resistencia?
 12. ¿Cómo manejarían el consumo de energía en ambas implementaciones?
 
-### **Preguntas de Análisis (16-20):**
+### **Preguntas de Análisis (13-15):**
 13. ¿Cómo escalarían este sistema para dos displays contadores?
 14. ¿Qué limitaciones de memoria encontraron en el micro 4 bits?
 15. ¿Qué estrategias usarían para hacer el código más mantenible?
 
-### **Preguntas Avanzadas (21-25):**
+### **Preguntas Avanzadas (16-19):**
 16. ¿Cómo implementarían un modo "configuración" para cambiar el tiempo?
 17. ¿Cómo manejarían valores de contador mayores a 9 con displays múltiples?
 18. ¿Qué consideraciones de sincronización son críticas entre display y buzzer?
