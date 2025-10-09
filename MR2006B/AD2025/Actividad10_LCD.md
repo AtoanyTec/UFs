@@ -14,10 +14,12 @@ En esta actividad implementarán el control directo de un display LCD 16x2 sin u
 - Usar timing preciso según datasheet del LCD
 
 **Conexión**
+
 <img width="538" height="514" alt="image" src="https://github.com/user-attachments/assets/c2f9a95a-7f31-4a5a-8028-6fe106c6e1db" />
 
 
 **Pasos para inicializar el display LCD**
+
 <img width="357" height="399" alt="image" src="https://github.com/user-attachments/assets/d5148cc5-df3b-4f74-8e23-57d413a17307" />
 
 
