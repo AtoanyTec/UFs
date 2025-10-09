@@ -13,14 +13,30 @@ En esta actividad implementarán el control directo de un display LCD 16x2 sin u
 - Mostrar palabra de mínimo 4 caracteres
 - Usar timing preciso según datasheet del LCD
 
-**Conexión**
+**Conexión:**
 
 <img width="538" height="514" alt="image" src="https://github.com/user-attachments/assets/c2f9a95a-7f31-4a5a-8028-6fe106c6e1db" />
 
 
-**Pasos para inicializar el display LCD**
+**Pasos para inicializar el display LCD:**
 
 <img width="357" height="399" alt="image" src="https://github.com/user-attachments/assets/d5148cc5-df3b-4f74-8e23-57d413a17307" />
+
+Entre cada ejecución de la instrucción, encender y apagar el bit E
+
+
+**Pasos para escribir un caracter:**
+
+<img width="609" height="190" alt="image" src="https://github.com/user-attachments/assets/9de72b1d-9e53-4239-8549-482d29140170" />
+
+1. Se escriben los 4 bits más significativos correspondientes al caracter
+2. Se encienden RS y E
+3. Se manda un 1 a RS
+4. Se escriben los 4 bits menos significativos correspondientes al carácter
+5. Se encienden RS y E
+6. Se manda un 1 a RS
+
+
 
 
 **Entregables:**
