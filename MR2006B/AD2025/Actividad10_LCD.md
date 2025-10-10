@@ -17,6 +17,11 @@ En esta actividad implementarán el control directo de un display LCD 16x2 sin u
 
 <img width="538" height="514" alt="image" src="https://github.com/user-attachments/assets/c2f9a95a-7f31-4a5a-8028-6fe106c6e1db" />
 
+**Conexión del LCD al micocontrolador de 4 bits**
+
+<img width="556" height="767" alt="image" src="https://github.com/user-attachments/assets/94dcb66b-2d42-447d-be6c-88244bf95ceb" />
+
+
 
 **Pasos para inicializar el display LCD:**
 
