@@ -33,6 +33,8 @@ En esta actividad implementarán el control directo de un display LCD 16x2 sin u
 
 Entre cada ejecución de la instrucción, encender y apagar el bit E
 
+https://www.youtube.com/watch?v=YCcLnGh9zyQ 
+
 ---
 
 **Pasos para escribir un caracter:**
