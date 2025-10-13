@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
    - Funcionmiento en Arduino
 2. Contestar las preguntas realizadas por el profesor (la evaluación será individual)
 
-## 🎯 Criterios de Éxito
+## 🎯 Lista de cotejo para evaluación
 
 - ✅ Entregables completos
 - ✅ LCD se inicializa correctamente en ambas plataformas
@@ -119,20 +119,6 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
 13. ¿Cómo optimizarían el uso de memoria para almacenar strings?
 14. ¿Qué limitaciones encontraron en el micro 4 bits para controlar el LCD?
 15. ¿Cómo manejarían el scrolling de texto en ambas plataformas?
-
-
-## 📊 Rúbrica de Evaluación
-
-| **Criterio** | **Destacado (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiente (0-74)** |
-|--------------|------------------------|-------------------------|---------------------|---------------------------|
-| **Inicialización LCD** | Secuencia perfecta, timing preciso | Inicialización funcional con pequeños errores | Inicialización básica funciona | No inicializa correctamente |
-| **Visualización Texto** | Texto claro, estable, posición correcta | Texto visible con menores imperfecciones | Texto se muestra pero con problemas | No muestra texto o ilegible |
-| **Circuito Físico** | Montaje perfecto, cableado organizado | Circuito funcional y ordenado | Conexiones básicas funcionan | Circuito no funciona |
-| **Código Arduino** | Optimizado, bien estructurado, comentado | Código funcional y claro | Código funciona pero desorganizado | Código erróneo o incompleto |
-| **Implementación Micro 4 bits** | Lógica eficiente, manejo correcto de timing | Implementación funcional completa | Implementación básica funcional | No funciona o incompleta |
-| **Documentación** | Completa con diagramas, timing, explicaciones | Documentación adecuada y clara | Documentación básica | Documentación insuficiente |
-| **Respuestas Técnicas** | Análisis profundo, ejemplos concretos | Respuestas correctas y comprensivas | Respuestas básicas | Respuestas incompletas |
-| **Manejo de Timing** | Timing preciso según datasheet | Timing funcional con pequeñas variaciones | Timing básico funciona | Errores graves de timing |
 
 
 ## 🚀 Desafíos Técnicos
