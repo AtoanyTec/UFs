@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
 
 
 
-**Entregables:**
+#### **Entregables:**
 1. **Archivo binario** (.bin) con las instrucciones de lenguaje máquina
 2. **Simulación funcional** en el entorno de microcontrolador de 4 bits
 3. **Archivo Excel** con:
