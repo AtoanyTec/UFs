@@ -74,6 +74,7 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
    - Introducción:  descripción breve de un LCD, su importancia y aplicaciones
    - Desarrollo: explicar con un diagrama a bloques el programa del microcontrolador de 4 bits. Incluir el diagrama esquemático de la conexión del circuito en Arduino
    - Resultados: colocar imágenes y liga del video del circuito físico funcional (no hay que explicar nada en el video)
+   - Preguntas & Respuestas: Incluir las preguntas y sus respuestas
    - Conclusiones: incluir sus observaciones (hallazgos, aprendizajes) en el desarrollo del sistema en ambas plataformas
    - Referencias
 4. **Video demostrativo** del funcionamiento
@@ -83,6 +84,18 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
    - Fucionmiento en el microcontrolador de 4 bits
    - Funcionmiento en Arduino
 2. Contestar las preguntas realizadas por el profesor (la evaluación será individual)
+
+## 🎯 Criterios de Éxito
+
+- ✅ Entregables completos
+- ✅ LCD se inicializa correctamente en ambas plataformas
+- ✅ Circuito físico funcional
+- ✅ Montaje del circuito físico
+- ✅ Reporte escrito de calidad
+- ✅ Texto de mínimo 4 caracteres visible y estable
+- ✅ Código documentado y comprendido
+- ✅ Excelene presentación en clase
+- ✅ Respuestas correctas a preguntas (individual)
 
 
 
@@ -136,13 +149,6 @@ https://www.youtube.com/watch?v=YCcLnGh9zyQ
 - **Entrega de parte experimental:** 14 de octubre 19:00 hrs
 - **Demostración en clase:** 16 de octubre 15:00 hrs
 
-## 🎯 Criterios de Éxito
-
-- ✅ LCD se inicializa correctamente en ambas plataformas
-- ✅ Texto de mínimo 4 caracteres visible y estable
-- ✅ Código documentado y comprendido
-- ✅ Circuito físico funcional
-
-**¡Esta actividad demuestra control total sobre el hardware sin dependencia de librerías!**
+**¡En Esta actividad demostrarás control total sobre el hardware sin dependencia de librerías!**
 
 **Minna-san, ganbatte kudasai ne!!** 👊
