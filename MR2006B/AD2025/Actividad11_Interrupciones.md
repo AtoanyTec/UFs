@@ -93,51 +93,17 @@ void emergencia() {
 9. ¿Por qué las ISR deben ser cortas?
 10. ¿Qué es el contexto de ejecución?
 
-### **Implementación Práctica (14)**
+### **Implementación Práctica (8)**
 
 1. ¿Para qué sirve la palabra clave volatile?
 2. ¿Qué parámetros recibe attachInterrupt()?
 3. Explica los diferentes modos de activación (LOW, CHANGE, RISING, FALLING)
 4. ¿Por qué usamos digitalPinToInterrupt()?
-5. ¿Qué ocurre si una ISR tarda demasiado tiempo?
-6. ¿Cómo se desactivan las interrupciones?
-7. ¿Puede una interrupción interrumpir a otra interrupción?
-8. ¿Qué funciones evitas usar en una ISR y por qué?
-9. ¿Cómo implementarías antirrebote en interrupciones?
-10. ¿Qué es la latencia de interrupción?
-11. ¿Cómo manejarías múltiples interrupciones?
-12. ¿Qué ocurre si presionas dos botones simultáneamente?
-13. ¿Cómo optimizarías el código de interrupciones?
-14. ¿Cómo debuguear problemas con interrupciones?
+5. ¿Cómo manejarías múltiples interrupciones?
+6. ¿Qué ocurre si presionas dos botones simultáneamente?
+7. ¿Cómo optimizarías el código de interrupciones?
+8. ¿Cómo debuguear problemas con interrupciones?
 
-### **Análisis y Aplicaciones (14)**
-
-1. Compara ventajas/desventajas de interrupciones vs polling
-2. ¿En qué aplicaciones industriales se usan interrupciones?
-3. ¿Cómo afectan las interrupciones al consumo energético?
-4. ¿Qué son las interrupciones por software?
-5. Explica un sistema de alarma usando interrupciones
-6. ¿Cómo implementarías un contador de velocidad?
-7. Explica cómo usar interrupciones con encoders
-8. ¿Qué consideraciones de seguridad hay con interrupciones?
-9. ¿Cómo manejar prioridades entre interrupciones?
-10. Describe un caso donde NO deberías usar interrupciones
-11. ¿Qué son las interrupciones anidadas?
-12. ¿Cómo afecta la frecuencia de interrupciones al sistema?
-13. ¿Qué es el "interrupt storm"?
-14. ¿Cómo probarías la confiabilidad de tu sistema?
-
-### **Problemas y Soluciones (9)**
-
-1. ¿Qué ocurre si olvidas volatile?
-2. ¿Cómo solucionarías un contador que no cuenta correctamente?
-3. ¿Por qué mi programa se bloquea con interrupciones?
-4. ¿Cómo manejar eventos muy frecuentes?
-5. ¿Qué hacer si necesitas procesamiento largo en una ISR?
-6. ¿Cómo sincronizar datos entre ISR y loop principal?
-7. ¿Qué son las condiciones de carrera?
-8. ¿Por qué mi LED parpadea irregularmente?
-9. ¿Cómo medir el performance de las interrupciones?
 
 ## **📊 Lista de Cotejo para Evaluación**
 
