@@ -16,10 +16,35 @@ Crea un sistema que muestre un contador hexadecimal ascendente (0-F) y que esté
 ## **🔧 Materiales Requeridos**
 
 - Arduino Uno/Nano
-- 2 pulsadores
-- 2 LEDs (rojo y verde)
+- 1 push button
+- 1 LEDs
+- 1 display 7 segmentos
 - 2 resistencias de 220Ω
-- 2 resistencias de 10kΩ
+- 1 resistencias de 10kΩ
 - Protoboard
-- Cables jumper
+- Cables
+
+## **📝 Entregables**
+1. Circuito Físico Funcional
+  - Montaje correcto del circuito
+  - Funcionamiento demostrable
+
+2. Sesión de Preguntas y Respuestas
+  - Demostración práctica
+  - Respuesta a preguntas
+
+3. Reporte Técnico Breve (2-6 páginas)
+  - Explicación del código
+  - Análisis de resultados
+  - Conclusiones
+
+## **👨‍🏫 Desarrollo de la Actividad**
+### **Parte 1: Circuito**
+**Esquema de Conexiones:**
+```text
+Pulsador 1 → Pin 2 (Interrupción 0) + Resistencia pull-up
+Pulsador 2 → Pin 3 (Interrupción 1) + Resistencia pull-up
+LED Rojo → Pin 13
+LED Verde → Pin 12
+```
 
