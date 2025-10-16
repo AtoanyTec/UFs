@@ -43,8 +43,38 @@ Crea un sistema que muestre un contador hexadecimal ascendente (0-F) y que esté
 **Esquema de Conexiones:**
 ```text
 Pulsador 1 → Pin 2 (Interrupción 0) + Resistencia pull-up
-Pulsador 2 → Pin 3 (Interrupción 1) + Resistencia pull-up
-LED Rojo → Pin 13
-LED Verde → Pin 12
+LED → Pin 13
+```
+
+### **Parte 2: Código Base para Implementar**
+``cpp
+volatile int contadorEmergencia = 0;
+unsigned long ultimoTiempo = 0;
+
+void setup() {
+  Serial.begin(9600);
+  
+  // Configurar pines
+  pinMode(2, INPUT_PULLUP);
+  pinMode(13, OUTPUT);  // LED
+  
+  // Configurar interrupciones
+  attachInterrupt(digitalPinToInterrupt(2), contador, FALLING);
+  
+  Serial.println("Sistema de Interrupciones Iniciado");
+}
+
+void loop() {
+  // Tarea principal del sistema (contador hexadecimal ascendente)
+  
+
+}
+
+void contador() {
+  contadorEmergencia++;
+  Serial.println("¡EMERGENCIA! - Interrupción prioritaria");
+  delay(50);  // Pequeño delay para efecto visual
+}
+
 ```
 
