@@ -70,7 +70,7 @@ void loop() {
 
 }
 
-void contador() {
+void emergencia() {
   contadorEmergencia++;
   Serial.println("¡EMERGENCIA! - Interrupción prioritaria");
   delay(50);  // Pequeño delay para efecto visual
