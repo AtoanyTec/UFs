@@ -47,7 +47,7 @@ LED → Pin 13
 ```
 
 ### **Parte 2: Código Base para Implementar**
-``cpp
+```cpp
 volatile int contadorEmergencia = 0;
 unsigned long ultimoTiempo = 0;
 
