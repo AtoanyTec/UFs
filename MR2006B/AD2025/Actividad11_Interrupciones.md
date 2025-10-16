@@ -25,15 +25,15 @@ Crea un sistema que muestre un contador hexadecimal ascendente (0-F) y que esté
 - Cables
 
 ## **📝 Entregables**
-1. Circuito Físico Funcional
+**1. Circuito Físico Funcional**
   - Montaje correcto del circuito
   - Funcionamiento demostrable
 
-2. Sesión de Preguntas y Respuestas
+**2. Sesión de Preguntas y Respuestas**
   - Demostración práctica
   - Respuesta a preguntas
 
-3. Reporte Técnico Breve (2-6 páginas)
+**3. Reporte Técnico Breve (2-6 páginas)**
   - Explicación del código
   - Análisis de resultados
   - Conclusiones
