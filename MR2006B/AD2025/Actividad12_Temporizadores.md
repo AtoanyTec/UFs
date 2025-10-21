@@ -43,9 +43,7 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 - ✅ Cableado ordenado y seguro
 
 **B. ❓ Sesión de Preguntas y Respuestas**
-- 🔧 10 preguntas técnicas sobre el código
-- 📚 5 preguntas sobre teoría de interrupciones
-- 📟 5 preguntas sobre displays
+- 🔧 Preguntas técnicas sobre el código, electrónica y conceptos teóricos
 
 **C. 📹 Video**
 - 🧍 Grabar un video corto en donde expliquen cómo funciona el sistema
