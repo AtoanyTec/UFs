@@ -39,3 +39,14 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 - 📈 Análisis de resultados obtenidos
 - 🔧 Diagrama de blujo del programa
 - 💡 Conclusiones y mejoras propuestas
+
+## 5. 🛠️ DESARROLLO DE LA ACTIVIDAD
+### 🎯 Especificaciones Técnicas:
+```cpp
+// REQUERIMIENTOS PRINCIPALES:
+// 1. 📟 LCD: Mostrar temporizador y contador de piezas
+// 2. 🏭 Producción automática: 1 pieza/5 segundos (modo normal)
+// 3. 7️⃣ Display 7 segmentos: Incrementar cada 3 segundos
+// 4. 🔘 Botón: Cambiar a producción rápida (1 pieza/3 segundos)
+// 5. 💡 Indicadores LED del estado del sistema
+```
