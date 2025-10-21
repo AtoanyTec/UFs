@@ -13,6 +13,9 @@ Implementar un sistema integrado de monitoreo industrial que demuestre competenc
 
 Los estudiantes desarrollarán un sistema de monitoreo de producción que simule una línea de manufactura. El sistema controlará automáticamente la producción de piezas a diferentes velocidades, mostrará información en tiempo real mediante displays y permitirá la interacción del usuario mediante botones para ajustar la velocidad de producción. Dos LEDs deberán de indicar la velocidad de produccción (verde: 1 pieza cada 5 segundos; azul: 1 pieza cada 3 segundo).
 
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b42079be-d08a-4d0e-8304-135e1cae1854" />
+
+
 ## 3. 📦 MATERIAL REQUERIDO
 - ⚡ 1 Arduino Uno/Mega
 - 📟 1 Display LCD 16x2 con módulo I2C
