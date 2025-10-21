@@ -104,6 +104,8 @@ Implementar características adicionales:
 - 🚨 Alarma sonora cuando se alcanzan metas de producción (5 pts)
 - 💻 Comunicación serial con PC (monitor serie) (3 pts)
 
+--- 
+
 ## みんなさん、がんばってくださいね！👊
 Minnna-san, ganbatte kudasai ne!👊
 
