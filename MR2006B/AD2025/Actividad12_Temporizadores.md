@@ -47,8 +47,8 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 - 📚 5 preguntas sobre teoría de interrupciones
 - 📟 5 preguntas sobre displays
 
-**C. ❓ Video**
-- 📹 Grabar un video corto en donde expliquen cómo funciona el sistema
+**C. 📹 Video**
+- 🧍 Grabar un video corto en donde expliquen cómo funciona el sistema
 
 **D. 📊 Reporte Técnico Breve**
 - 📝 Explicación del código implementado
