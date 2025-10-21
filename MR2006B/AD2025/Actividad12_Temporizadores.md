@@ -24,6 +24,11 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 - 🚨 1 Buzzer (opcional)
 - 🔌 Protoboard y cables
 
+## 📦 Códigos de ayuda
+1. [TimerOne](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TimerOne.ino)
+2. [LCD con temporizador](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TemporizadorLCD.ino)
+3. [LCD I2C con temporizador](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TemporizadorLCD_I2C.ino)
+
 ## 4. 📋 ENTREGABLES
 ### A. 🔌 Circuito Físico Funcional
 - ✅ Montaje correcto según diagrama
