@@ -27,29 +27,33 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 - 🚨 1 Buzzer (opcional)
 - 🔌 Protoboard y cables
 
-## 📦 Códigos de ayuda
+## 4. 📦 CÓDIGOS DE AYUDA
 1. [TimerOne](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TimerOne.ino)
 2. [LCD con temporizador](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TemporizadorLCD.ino)
 3. [LCD I2C con temporizador](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/TemporizadorLCD_I2C.ino)
 
-## 4. 📋 ENTREGABLES
-### A. 🔌 Circuito Físico Funcional
+## 5 . FECHAS IMPORTANTES
+- Entrega de circuito funcional: 21 de octubre 19:00 hrs
+- Presentación de prototipo y sesión de preguntas: 23 de octubre 17:00 hrs
+
+## 6. 📋 ENTREGABLES
+**A. 🔌 Circuito Físico Funcional**
 - ✅ Montaje correcto según diagrama
 - ✅ Funcionamiento demostrable
 - ✅ Cableado ordenado y seguro
 
-### B. ❓ Sesión de Preguntas y Respuestas
+**B. ❓ Sesión de Preguntas y Respuestas**
 - 🔧 10 preguntas técnicas sobre el código
 - 📚 5 preguntas sobre teoría de interrupciones
 - 📟 5 preguntas sobre displays
 
-### C. 📊 Reporte Técnico Breve
+**C. 📊 Reporte Técnico Breve**
 - 📝 Explicación del código implementado
 - 📈 Análisis de resultados obtenidos
 - 🔧 Diagrama de blujo del programa
 - 💡 Conclusiones y mejoras propuestas
 
-## 5. 🛠️ DESARROLLO DE LA ACTIVIDAD
+## 7. 🛠️ DESARROLLO DE LA ACTIVIDAD
 ### 🎯 Especificaciones Técnicas:
 ```cpp
 // REQUERIMIENTOS PRINCIPALES:
@@ -59,8 +63,8 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 // 4. 🔘 Botón: Cambiar a producción rápida (1 pieza/3 segundos)
 // 5. 💡 Indicadores LED del estado del sistema
 ```
-## 6. 📚 50 PREGUNTAS DE ESTUDIO
-### 🔰 Conceptos Básicos (9 preguntas)
+## 8. 📚 50 PREGUNTAS DE ESTUDIO
+**🔰 Conceptos Básicos (9 preguntas)**
 1. ❓ ¿Qué es un display de 7 segmentos y cómo funciona?
 2. ❓ ¿Cuál es la diferencia entre cátodo común y ánodo común?
 3. ❓ ¿Cómo se inicializa un display LCD con I2C?
@@ -71,12 +75,12 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 8. ❓ ¿Cómo funciona millis() vs delay()?
 9. ❓ ¿Cómo se controla el brillo en displays?
 
-### 💻 Programación y Lógica (3 preguntas)
+**💻 Programación y Lógica (3 preguntas)**
 1. ❓ ¿Cómo implementar temporizadores no bloqueantes?
 2. ❓ ¿Cómo manejar múltiples tareas en loop()?
 3. ❓ ¿Qué son las funciones de callback?
 
-### 🔌 Electrónica y Circuitos (6 preguntas)
+**🔌 Electrónica y Circuitos (6 preguntas)**
 1. ❓ ¿Cómo calcular resistencias para LEDs?
 2. ❓ ¿Qué corriente consume un display de 7 segmentos?
 3. ❓ ¿Cómo funciona el protocolo I2C?
@@ -84,30 +88,30 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 5. ❓ ¿Cómo medir consumo de energía?
 6. ❓ ¿Qué es la latencia en interrupciones?
 
-## 7. ✅ LISTA DE COTEJO PARA EVALUACIÓN
-### ⚙️ FUNCIONALIDAD (20 puntos)
+## 9. ✅ LISTA DE COTEJO PARA EVALUACIÓN
+**⚙️ FUNCIONALIDAD (20 puntos)**
 - 📟 LCD muestra temporizador funcionando (5 pts)
 - 🏭 Contador de piezas se incrementa automáticamente (5 pts)
 - 7️⃣ Display 7 segmentos actualiza cada 3 segundos (5 pts)
 - 🔘 Botón cambia velocidad de producción (5 pts)
 - 💡 LEDs indican estado correctamente (5 pts)
 
-### 💻 CÓDIGO Y PROGRAMACIÓN (20 puntos)
+**💻 CÓDIGO Y PROGRAMACIÓN (20 puntos)**
 - ⏱️ Usa Timers para temporizadores no bloqueantes (5 pts)
 - 🔄 Maneja correctamente interrupciones (5 pts)
 - 📝 Código bien estructurado y comentado (5 pts)
 - 📛 Variables nombradas apropiadamente (5 pts)
 
-### 🔌 CIRCUITO Y MONTAJE (20 puntos)
+**🔌 CIRCUITO Y MONTAJE (20 puntos)**
 - 🔗 Conexiones correctas y seguras (10 pts)
 - 📏 Cableado ordenado e identificado (5 pts)
 - 📊 Uso apropiado de resistencias (5 pts)
 
-### 📋 DOCUMENTACIÓN Y PRUEBAS (40 puntos)
+**📋 DOCUMENTACIÓN Y PRUEBAS (40 puntos)**
 - 📄 Reporte técnico completo (10 pts)
 - 🎯 Respuestas correctas en sesión Q&A (30 pts)
 
-## 🚀 EXTENSIÓN OPCIONAL (Bonus +8 pts)
+## 10. 🚀 EXTENSIÓN OPCIONAL (Bonus +8 pts)
 Implementar características adicionales:
 - 🚨 Alarma sonora cuando se alcanzan metas de producción (5 pts)
 - 💻 Comunicación serial con PC (monitor serie) (3 pts)
