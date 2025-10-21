@@ -91,11 +91,11 @@ Los estudiantes desarrollarán un sistema de monitoreo de producción que simule
 
 ## 9. ✅ LISTA DE COTEJO PARA EVALUACIÓN
 **⚙️ FUNCIONALIDAD (20 puntos)**
-- 📟 LCD muestra temporizador funcionando (5 pts)
-- 🏭 Contador de piezas se incrementa automáticamente (5 pts)
-- 7️⃣ Display 7 segmentos actualiza cada 3 segundos (5 pts)
-- 🔘 Botón cambia velocidad de producción (5 pts)
-- 💡 LEDs indican estado correctamente (5 pts)
+- 📟 LCD muestra temporizador funcionando (4 pts)
+- 🏭 Contador de piezas se incrementa automáticamente (4 pts)
+- 7️⃣ Display 7 segmentos actualiza cada 3 segundos (4 pts)
+- 🔘 Botón cambia velocidad de producción (4 pts)
+- 💡 LEDs indican estado correctamente (4 pts)
 
 **💻 CÓDIGO Y PROGRAMACIÓN (20 puntos)**
 - ⏱️ Usa Timers para temporizadores no bloqueantes (5 pts)
