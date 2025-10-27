@@ -84,6 +84,5 @@ Hipótesis: Existe una relación lineal positiva entre el área construida y el 
 
 ---
 
-**⏰ Fecha de entrega:** [Indicar fecha límite]  
 **📏 Formato:** Documento Word, letra Arial 12, interlineado 1.5  
-**🔢 Extensión:** 2-3 páginas (máximo)
+**🔢 Extensión:** 1-3 páginas (máximo)
