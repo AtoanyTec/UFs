@@ -2,7 +2,7 @@
 
 ## 📝 Descripción General
 
-¡Llegó el momento de poner en práctica todo lo aprendido! En este proyecto final, trabajarán en equipos para implementar un modelo de **Regresión Lineal** en una aplicación práctica y, lo más importante, comunicarán sus hallazgos como lo harían científicos de datos en el mundo real. Deberán crear tanto una **presentación oral** como un **artículo científico**, utilizando herramientas de IA de manera ética y transparente como apoyo.
+¡Llegó el momento de poner en práctica todo lo aprendido! En este proyecto final, trabajarán en equipos para implementar un modelo de **Regresión Lineal** en una aplicación práctica y, lo más importante, comunicarán sus hallazgos de manera científica. Deberán crear tanto una **presentación oral** como un **artículo científico**, utilizando herramientas de IA de manera ética y transparente como apoyo.
 
 ---
 
