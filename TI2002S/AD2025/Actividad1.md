@@ -1,4 +1,4 @@
-# 📊 Actividad: Predicción de Variables Continuas con Regresión Lineal
+# 📊 Actividad 01: Predicción de Variables Continuas con Regresión Lineal
 
 ## 🎯 Objetivo
 
