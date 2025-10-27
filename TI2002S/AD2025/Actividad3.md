@@ -117,15 +117,6 @@ email@institucion.edu
 - **Anexo C:** Abstract original en español (redacción estudiantil)
 - **Anexo D:** Introducción original con referencias (versión estudiantil)
 
-## 💡 Criterios de Evaluación
-
-- ✅ **Originalidad** en la creación del título
-- ✅ **Correcta aplicación** del formato Springer
-- ✅ **Pertinencia** en la selección de palabras clave
-- ✅ **Claridad** en el abstract a pesar del estilo informal
-- ✅ **Investigación bibliográfica** adecuada en la introducción
-- ✅ **Mejora sustancial** con IA manteniendo contenido original
-- ✅ **Documentación completa** de todo el proceso
 
 ---
 
