@@ -87,22 +87,22 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 
 | **Criterio** | **Excelente (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiennte (0-74)** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Introducción** | Contexto y objetivos excepcionalmente claros y atractivos. | Contexto y objetivos definidos, pero podría ser más engaging. | Contexto superficial, objetivos poco claros. | Introducción confusa o irrelevante. |
-| **Metodología** | Explicación clara y concisa del modelo y la implementación. Fácil de seguir. | Explicación adecuada, pero algunos detalles técnicos faltan. | Explicación confusa o incompleta. | No logra explicar lo que hizo. |
-| **Resultados** | Gráficos/visuales claros y profesionales. Análisis cuantitativo sólido. | Visuales adecuados, pero el análisis es superficial. | Resultados presentados de forma desorganizada. | Resultados confusos o ausentes. |
-| **Discusión** | Análisis crítico profundo, conecta resultados con el problema real. | Análisis presente pero falta profundidad o conexión. | Análisis muy básico, descriptivo. | Discusión ausente o sin sentido. |
-| **Calidad de Presentación** | Diseño profesional, ritmo perfecto, claridad excepcional y dominio total. | Clara y organizada, pero con pequeños problemas de ritmo o diseño. | Dificultades de claridad, diseño básico o desorganizado. | Presentación confusa y poco preparada. |
-| **Uso de IA** | Uso ético, declaración clara y contribución humana muy evidente. | Uso declarado, pero la contribución humana no es totalmente clara. | Uso de IA poco transparente. | No declara el uso de IA o es evidente la autoría total de la IA. |
+| **Introducción** 10% | Contexto y objetivos excepcionalmente claros y atractivos. | Contexto y objetivos definidos, pero podría ser más engaging. | Contexto superficial, objetivos poco claros. | Introducción confusa o irrelevante. |
+| **Metodología** 10% | Explicación clara y concisa del modelo y la implementación. Fácil de seguir. | Explicación adecuada, pero algunos detalles técnicos faltan. | Explicación confusa o incompleta. | No logra explicar lo que hizo. |
+| **Resultados** 20% | Gráficos/visuales claros y profesionales. Análisis cuantitativo sólido. | Visuales adecuados, pero el análisis es superficial. | Resultados presentados de forma desorganizada. | Resultados confusos o ausentes. |
+| **Discusión** 20% | Análisis crítico profundo, conecta resultados con el problema real. | Análisis presente pero falta profundidad o conexión. | Análisis muy básico, descriptivo. | Discusión ausente o sin sentido. |
+| **Calidad de Presentación** 20% | Diseño profesional, ritmo perfecto, claridad excepcional y dominio total. | Clara y organizada, pero con pequeños problemas de ritmo o diseño. | Dificultades de claridad, diseño básico o desorganizado. | Presentación confusa y poco preparada. |
+| **Uso de IA** 20% | Uso ético, declaración clara y contribución humana muy evidente. | Uso declarado, pero la contribución humana no es totalmente clara. | Uso de IA poco transparente. | No declara el uso de IA o es evidente la autoría total de la IA. |
 
 ### Rúbrica para el Artículo Científico 📝
 
 | **Criterio** | **Excelente (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiennte (0-74)** |
 | :--- | :--- | :--- | :--- | :--- |
-| **Estructura y Formato** | Sigue perfectamente el formato Springer, todas las secciones presentes y bien organizadas. | Sigue el formato con pequeños errores. Una sección podría estar débil. | Estructura desorganizada, múltiples secciones faltantes o débiles. | No sigue la estructura requerida. |
-| **Calidad de Escritura** | Lenguaje científico preciso, fluido, sin errores. Argumento lógico y claro. | Lenguaje adecuado, algunos errores menores. Argumento generalmente claro. | Dificultades de expresión que afectan la comprensión. | Escritura confusa y llena de errores. |
-| **Fondo Científico** | Revisión de literatura sólida, metodología robusta y bien justificada. | Revisión y metodología adecuadas, pero falta profundidad. | Revisión y metodología superficiales o poco claras. | Faltan fundamentos científicos. |
-| **Análisis y Discusión** | Análisis profundo de resultados, interpretación crítica, limitaciones identificadas. | Análisis presente pero más descriptivo que crítico. | Análisis muy superficial, no interpreta los resultados. | Discusión ausente o irrelevante. |
-| **Uso de IA** | Uso ético y declarado. La voz, autoría y pensamiento crítico del equipo son predominantes. | Uso declarado, pero el contenido muestra alta dependencia de la IA en algunas partes. | Uso no declarado o evidente falta de edición y apropiación del contenido generado por IA. | Contenido claramente plagiado de IA sin contribución propia. |
+| **Estructura y Formato** 10% | Sigue perfectamente el formato Springer, todas las secciones presentes y bien organizadas. | Sigue el formato con pequeños errores. Una sección podría estar débil. | Estructura desorganizada, múltiples secciones faltantes o débiles. | No sigue la estructura requerida. |
+| **Calidad de Escritura** 10% | Lenguaje científico preciso, fluido, sin errores. Argumento lógico y claro. | Lenguaje adecuado, algunos errores menores. Argumento generalmente claro. | Dificultades de expresión que afectan la comprensión. | Escritura confusa y llena de errores. |
+| **Fondo Científico** 20% | Revisión de literatura sólida, metodología robusta y bien justificada. | Revisión y metodología adecuadas, pero falta profundidad. | Revisión y metodología superficiales o poco claras. | Faltan fundamentos científicos. |
+| **Análisis y Discusión** 40% | Análisis profundo de resultados, interpretación crítica, limitaciones identificadas. | Análisis presente pero más descriptivo que crítico. | Análisis muy superficial, no interpreta los resultados. | Discusión ausente o irrelevante. |
+| **Uso de IA** 20% | Uso ético y declarado. La voz, autoría y pensamiento crítico del equipo son predominantes. | Uso declarado, pero el contenido muestra alta dependencia de la IA en algunas partes. | Uso no declarado o evidente falta de edición y apropiación del contenido generado por IA. | Contenido claramente plagiado de IA sin contribución propia. |
 
 ---
 **¡Mucho éxito!** 🌟 **Recuerden: La IA es su copiloto, pero ustedes son los capitanes del proyecto.**
