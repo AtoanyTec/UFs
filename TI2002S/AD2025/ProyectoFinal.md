@@ -24,7 +24,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 ## 📋 2. Instrucciones
 
 ### Formación de Equipos
-- 👥 Formen equipos de **3 a 4 personas**.
+- 👥 Formen equipos de **3 personas**.
 
 ### Selección del Problema
 - 🔍 Seleccionen un **conjunto de datos público** de Kaggle que sea adecuado para un problema de regresión.
