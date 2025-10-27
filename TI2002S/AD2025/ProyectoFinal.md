@@ -25,7 +25,6 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 
 ### Formación de Equipos
 - 👥 Formen equipos de **3 a 4 personas**.
-- 🤝 Designen roles iniciales (ej: coordinador, experto en código, redactor principal, diseñador de presentaciones).
 
 ### Selección del Problema
 - 🔍 Seleccionen un **conjunto de datos público** (ej: de Kaggle, UCI Machine Learning Repository) que sea adecuado para un problema de regresión.
