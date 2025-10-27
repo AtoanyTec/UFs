@@ -1,13 +1,13 @@
-# 📝 Actividad 03: Redacción Académica - Estructura Inicial de Paper
+# 📝 Actividad 03: Redacción Técnica Parte 1
 
 ## 🎯 Objetivo
-Desarrollar las secciones iniciales de un artículo científico aplicando herramientas de IA como asistente, mientras se mantiene el criterio humano en la selección y mejora de contenidos.
+Desarrollar las secciones iniciales de un artículo científico aplicando herramientas de IA como asistente, manteniendo el criterio humano en la selección y mejora de contenidos.
 
 ## 📋 Descripción de la Actividad
 
-### 🔹 Paso 1: Generación y Selección de Título
-- Utilizar ChatGPT para generar 10 sugerencias de título
-- Analizar y sintetizar una nueva propuesta original
+### 🔹 Paso 1: Creación del título
+- Utilizar IAGen para generar 10 sugerencias de título
+- Analizar y crear una propuesta nueva utilizando las sugerencias por la IAGen
 
 ### 🔹 Paso 2: Formato de Autores
 - Aplicar las normas Springer para la sección de autores
@@ -31,7 +31,7 @@ Desarrollar las secciones iniciales de un artículo científico aplicando herram
 - Debe reflejar claramente el contenido del estudio
 
 ### 2. 👥 Autores
-- Formato Springer: Nombres, afiliaciones, correos, ORCID
+- Formato Springer: Nombres, afiliaciones, correos.
 - Estructura profesional académica
 
 ### 3. 🔑 Palabras Clave
@@ -49,7 +49,7 @@ Desarrollar las secciones iniciales de un artículo científico aplicando herram
 ## 📁 Anexos Requeridos
 
 ### Anexo A: Sugerencias de Título de IA
-- Lista completa de las 10 sugerencias generadas por ChatGPT
+- Lista completa de las 10 sugerencias generadas por la IAGen
 - Breve explicación de la selección final
 
 ### Anexo B: Palabras Clave Generadas
@@ -68,9 +68,9 @@ Desarrollar las secciones iniciales de un artículo científico aplicando herram
 
 ### Para el Título:
 ```
-1. Prompt a ChatGPT: "Genera 10 títulos para un paper sobre [tema específico] aplicando regresión lineal"
+1. Prompt a ChatGPT: "Genera 10 títulos para un paper sobre [tu tema] aplicando regresión lineal"
 2. Analizar patrones y elementos comunes
-3. Crear título original que sintetice lo mejor de las sugerencias
+3. Crear título original que combine lo mejor de las sugerencias
 ```
 
 ### Para Autores:
@@ -79,12 +79,11 @@ Formato Springer:
 Nombre Apellido1, Nombre Apellido2*
 *Institución, Departamento, Ciudad, País
 email@institucion.edu
-ORCID: 0000-0000-0000-000X
 ```
 
 ### Para Palabras Clave:
 ```
-1. Prompt: "Genera 20 palabras clave para un paper sobre [tema] con regresión lineal"
+1. Prompt: "Genera 20 palabras clave para un paper sobre [tu tema] con regresión lineal"
 2. Categorizar en: métodos, aplicación, variables, técnicas
 3. Seleccionar 1 de cada categoría más una general
 ```
@@ -98,8 +97,8 @@ ORCID: 0000-0000-0000-000X
 
 ### Para Introducción:
 ```
-1. Búsqueda en: Google Scholar, IEEE, SpringerLink
-2. Redactar: problema, estado del arte, vacío, objetivo
+1. Búsqueda en: Science Direct
+2. Redactar: importancia de la IA, problema a resolver, justificación de uso de la regresión lineal
 3. Prompt mejora: "Mejora la redacción académica manteniendo el contenido: [texto]"
 ```
 
@@ -130,4 +129,17 @@ ORCID: 0000-0000-0000-000X
 
 ---
 
-**📌 Nota:** La actividad busca equilibrar el uso de IA como herramienta con el desarrollo de criterio académico propio, documentando todo el proceso creativo y de mejora.
+## 📊 Rúbrica de Evaluación
+
+| **Criterio** | **Destacaddo (95-100 pts)** | **Sólido (85-94 pts)** | **Báasico (75-84 pts)** | **Incipiente (0-74 pts)** |
+|--------------|--------------------------------------|-------------------------------------|---------------------------------------|--------------------------------|
+| **🏷️ Calidad del Título** <br> 15% | Título original, claro y altamente descriptivo. Sintetiza creativamente las sugerencias de IA. | Título adecuado y comprensible. Buena integración de elementos de las sugerencias. | Título poco original o confuso. Escasa integración de sugerencias. | Título inapropiado o copiado directamente. Sin evidencia de análisis. |
+| **👥 Formato de Autores** <br> 10% | Cumple perfectamente todas las normas Springer. Información completa y profesional. | Cumple la mayoría de normas Springer. Información casi completa. | Formato con errores significativos. Información incompleta. | Formato incorrecto. Faltan elementos esenciales. |
+| **🔑 Selección Palabras Clave** <br> 10% | 5 términos altamente relevantes, representando todas las dimensiones del estudio. Criterio de selección bien justificado. | Términos relevantes pero alguno poco específico. Justificación adecuada. | Términos genéricos o irrelevantes. Justificación superficial. | Selección arbitraria sin criterio aparente. Sin justificación. |
+| **📄 Abstract en Inglés** <br> 15%| Traducción fiel manteniendo contenido original. Estructura lógica a pesar del estilo informal. | Traducción generalmente fiel. Estructura aceptable. | Traducción con desviaciones del original. Estructura confusa. | Traducción incoherente o muy alejada del original. |
+| **📖 Introducción Mejorada** <br> 20% | Redacción profesional excelente. Referencias pertinentes y bien integradas. Mejora sustancial con IA. | Redacción buena. Referencias adecuadas. Mejora notable con IA. | Redacción aceptable. Referencias poco relevantes. Mejora mínima con IA. | Redacción deficiente. Referencias inapropiadas. Sin mejora evidente. |
+| **📁 Documentación de Anexos** <br> 10%| Anexos completos y bien organizados. Proceso claramente documentado y justificado. | Anexos completos. Documentación adecuada del proceso. | Anexos incompletos. Documentación insuficiente. | Anexos faltantes o muy deficientes. Sin documentación. |
+| **🔍 Investigación Bibliográfica** <br> 10% | 3+ referencias científicas altamente relevantes y actualizadas. Perfectamente integradas al contexto. | 2-3 referencias relevantes. Buena integración al contenido. | 1-2 referencias poco relevantes o desactualizadas. Integración deficiente. | Sin referencias o completamente irrelevantes. Sin integración. |
+| **💡 Uso Crítico de IA** <br> 10%| Uso estratégico y reflexivo de IA. Evidente desarrollo de criterio propio. Documentación exhaustiva. | Uso adecuado de IA. Criterio propio en desarrollo. Buena documentación. | Uso mecánico de IA. Poco criterio propio. Documentación básica. | Uso indiscriminado sin análisis. Sin evidencia de criterio personal. |
+
+---
