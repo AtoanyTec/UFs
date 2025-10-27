@@ -53,4 +53,3 @@ Implementar un modelo de **regresión lineal** para predecir variables continuas
 
 ---
 
-**💡 Nota:** La actividad combina habilidades técnicas con pensamiento crítico, preparando a los estudiantes para proyectos reales de ciencia de datos.
