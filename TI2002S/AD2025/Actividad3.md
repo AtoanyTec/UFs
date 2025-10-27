@@ -7,7 +7,7 @@ Desarrollar las secciones iniciales de un artículo científico aplicando herram
 
 ### 🔹 Paso 1: Creación del título
 - Utilizar IAGen para generar 10 sugerencias de título
-- Analizar y crear una propuesta nueva utilizando las sugerencias por la IAGen
+- Analizar y crear una propuesta que combine 2+ de las sugerencias por la IA Gen
 
 ### 🔹 Paso 2: Formato de Autores
 - Aplicar las normas Springer para la sección de autores
@@ -49,15 +49,15 @@ Desarrollar las secciones iniciales de un artículo científico aplicando herram
 ## 📁 Anexos Requeridos
 
 ### Anexo A: Sugerencias de Título de IA
-- Lista completa de las 10 sugerencias generadas por la IAGen
+- Prompt y lista completa de las 10 sugerencias generadas por la IAGen
 - Breve explicación de la selección final
 
 ### Anexo B: Palabras Clave Generadas
-- Lista de las 20 palabras clave sugeridas por IA
+- Prompt y lista de las 20 palabras clave sugeridas por IA
 - Justificación de la selección de las 5 finales
 
 ### Anexo C: Abstract Original en Español
-- Versión inicial redactada por el estudiante
+- Versión inicial redactada por el/la estudiante
 - Estilo informal pero contenido completo
 
 ### Anexo D: Introducción Original
