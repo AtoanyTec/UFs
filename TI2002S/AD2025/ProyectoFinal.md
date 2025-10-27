@@ -27,7 +27,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 - 👥 Formen equipos de **3 a 4 personas**.
 
 ### Selección del Problema
-- 🔍 Seleccionen un **conjunto de datos público** (ej: de Kaggle, UCI Machine Learning Repository) que sea adecuado para un problema de regresión.
+- 🔍 Seleccionen un **conjunto de datos público** de Kaggle que sea adecuado para un problema de regresión.
 - 💡 La aplicación puede ser en cualquier dominio (ej: predecir precios de casas, ventas, consumo de energía, etc.).
 
 ### Desarrollo del Proyecto
