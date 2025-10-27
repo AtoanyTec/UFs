@@ -31,12 +31,12 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 - 💡 La aplicación puede ser en cualquier dominio (ej: predecir precios de casas, ventas, consumo de energía, etc.).
 
 ### Desarrollo del Proyecto
-1.  **💻 Implementación:** Desarrollen el código para la regresión lineal. Pueden usar cualquier lenguaje (Python es recomendado) y bibliotecas (scikit-learn, etc.).
-2.  **📝 Artículo Científico:** Redacten el reporte en **formato Springer**, utilizando las herramientas de IA para brainstorming, mejora de escritura o generación de borradores iniciales, **debiendo siempre citar su uso**.
-3.  **🎤 Presentación:** Diseñen una presentación visualmente atractiva y práctica para exponer ante la clase.
+1.  **💻 Implementación:** Utilicen el código para la regresión lineal proporcionado por el profesor.
+2.  **📝 Artículo Científico:** Redacten el reporte en **formato Springer** sin utilizar herramientas de IA.Una vez que tengas el bborrador, utiliza las herramientas de IA para la mejora de escritura, **debiendo siempre citar su uso**.
+4.  **🎤 Presentación:** Diseñen una presentación visualmente atractiva y práctica para exponer ante la clase.
 
 ### Uso de IA
-- 🧠 **Sí pueden:** Usar IA para generar ideas, explicar conceptos, depurar código, traducir, mejorar la redacción de párrafos y generar borradores iniciales.
+- 🧠 **Sí pueden:** Usar IA para generar ideas, explicar conceptos, depurar código, traducir y mejorar la redacción de párrafos.
 - 🚫 **No pueden:** Entregar contenido 100% generado por IA sin su aporte crítico y de edición. **El pensamiento crítico y la autoría final son su responsabilidad.**
 - 📢 **Deben:** Incluir un **párrafo de declaración de uso de IA** al final del artículo y la presentación, especificando qué herramientas usaron y para qué.
 
@@ -45,7 +45,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 ## 📄 3. Entregables
 
 ### Fecha de Entrega
-**📅 Viernes** (Al finalizar la semana del taller)
+**📅 Viernes** 31 de octubre d 2025 9:00 am 🌞
 
 ### Entregables Requeridos
 
@@ -77,7 +77,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
         8. **¡Gracias! (Incluyendo la Declaración de Uso de IA)** ✅
 
 3.  **💻 Código Fuente**
-    - Entreguen el archivo `.py` (o del lenguaje usado) o un Jupyter Notebook (`.ipynb`) con su implementación.
+    - Entreguen el archivo de Jupyter Notebook (`.ipynb`) con su implementación.
 
 ---
 
@@ -85,7 +85,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 
 ### Rúbrica para la Presentación Final 🎤
 
-| **Criterio** | **Nivel 4 - Excelente** | **Nivel 3 - Competente** | **Nivel 2 - En desarrollo** | **Nivel 1 - Principiante** |
+| **Criterio** | **Excelente (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiennte (0-74)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Introducción** | Contexto y objetivos excepcionalmente claros y atractivos. | Contexto y objetivos definidos, pero podría ser más engaging. | Contexto superficial, objetivos poco claros. | Introducción confusa o irrelevante. |
 | **Metodología** | Explicación clara y concisa del modelo y la implementación. Fácil de seguir. | Explicación adecuada, pero algunos detalles técnicos faltan. | Explicación confusa o incompleta. | No logra explicar lo que hizo. |
@@ -96,7 +96,7 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
 
 ### Rúbrica para el Artículo Científico 📝
 
-| **Criterio** | **Nivel 4 - Excelente** | **Nivel 3 - Competente** | **Nivel 2 - En desarrollo** | **Nivel 1 - Principiante** |
+| **Criterio** | **Excelente (95-100)** | **Sólido (85-94)** | **Básico (75-84)** | **Incipiennte (0-74)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Estructura y Formato** | Sigue perfectamente el formato Springer, todas las secciones presentes y bien organizadas. | Sigue el formato con pequeños errores. Una sección podría estar débil. | Estructura desorganizada, múltiples secciones faltantes o débiles. | No sigue la estructura requerida. |
 | **Calidad de Escritura** | Lenguaje científico preciso, fluido, sin errores. Argumento lógico y claro. | Lenguaje adecuado, algunos errores menores. Argumento generalmente claro. | Dificultades de expresión que afectan la comprensión. | Escritura confusa y llena de errores. |
