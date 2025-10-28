@@ -39,14 +39,11 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 - Incluye todas las referencias bibliográficas consultadas
 - Formato de citas correctamente aplicado
 - Evidencia de autoría propia de la literatura
+- Prompts utilizados
 
 ### Anexo F: Metodología Original
 - Descripción detallada del procedimiento en palabras del/la estudiante
-
-### Anexo G: Proceso de Mejora con IA
-- Capturas de pantalla o transcripciones de los prompts utilizados
-- Ejemplos de las mejoras específicas realizadas
-- Reflexión sobre los cambios implementados
+- Prompts utilizados
 
 ## 🗓️ Proceso Detallado
 
@@ -100,8 +97,6 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 ### **📎 ANEXOS**
 - **Anexo E:** Estado del Arte - Versión Original del Estudiante
 - **Anexo F:** Metodología - Versión Original del Estudiante  
-- **Anexo G:** Evidencias del Proceso de Mejora con IA
-
 
 ---
 
