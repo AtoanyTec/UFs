@@ -1,4 +1,4 @@
-# 📝 Actividad 5: Resultados, Discusión y Referencias
+# 📝 Actividad 5: Resultados, Discusión, Conslusiones y Referencias
 
 ## 🎯 Objetivo
 Completar la redacción del artículo científico mediante la presentación de resultados, análisis crítico de los mismos y compilación de referencias bibliográficas, utilizando la IA como herramienta de mejora y profundización.
@@ -15,7 +15,12 @@ Completar la redacción del artículo científico mediante la presentación de r
 - Identificar causas de buenos/malos resultados
 - Proponer mejoras y reconocer limitaciones
 
-### 🔹 Paso 3: Compilación de Referencias
+### 🔹 Paso 3: Redacción de Conclusiones
+- Sintetizar los hallazgos principales del estudio
+- Elaborar conclusiones basadas en resultados y discusión
+- Utilizar ChatGPT para mejorar la claridad y coherencia
+
+### 🔹 Paso 4: Compilación de Referencias
 - Recopilar todas las fuentes citadas en el artículo
 - Aplicar formato de citación consistente
 
@@ -31,7 +36,12 @@ Completar la redacción del artículo científico mediante la presentación de r
 - Interpretación de métricas obtenidas
 - Propuestas de mejora y limitaciones identificadas
 
-### 3. 📚 Lista de Referencias
+### 3. 🎯 Sección de Conclusiones
+- Síntesis de hallazgos principales
+- Reflexiones finales sobre el estudio
+- Redacción mejorada con asistencia de IA
+
+### 4. 📚 Lista de Referencias
 - Compilación completa de fuentes bibliográficas
 - Formato consistente y estandarizado
 
@@ -44,6 +54,10 @@ Completar la redacción del artículo científico mediante la presentación de r
 ### Anexo H: Interacción con IA para Discusión
 - Capturas o transcripción del diálogo con ChatGPT
 - Preguntas realizadas y respuestas obtenidas
+
+### Anexo G: Conclusiones Originales
+- Versión inicial escrita por los estudiantes
+- Reflexiones personales sobre el aprendizaje
 
 ## 🗓️ Proceso Detallado
 
@@ -68,6 +82,20 @@ Completar la redacción del artículo científico mediante la presentación de r
 
 2. Analizar y sintetizar las respuestas
 3. Redactar discusión integrando el análisis de IA con reflexión personal
+```
+
+### Para la Sección de Conclusiones:
+```ext
+1. Redactar conclusiones iniciales:
+   • Principales hallazgos del estudio
+   • Logros y dificultades encontradas
+   • Aprendizajes significativos
+   • Recomendaciones finales
+
+2. Prompt para mejora con IA:
+   "Mejora la redacción de estas conclusiones académicas manteniendo el contenido esencial y mejorando la estructura: [texto original]"
+
+3. Revisar y ajustar la versión mejorada para mantener autenticidad
 ```
 
 ### Para las Referencias:
