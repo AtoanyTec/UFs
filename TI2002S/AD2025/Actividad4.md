@@ -138,19 +138,5 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 
 ---
 
-## 🎓 Ponderación por Criterio
-
-### **Peso de Cada Criterio:**
-- 📚 Estado del Arte: 20%
-- 🔬 Metodología: 20%
-- 📝 Redacción Original: 15%
-- 🎯 Mejora con IA: 10%
-- 🔗 Citas y Referencias: 10%
-- 📊 Documentación Dataset: 10%
-- 💻 Especificaciones Técnicas: 10%
-- 📁 Anexos: 5%
-
----
-
 
 
