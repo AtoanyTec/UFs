@@ -28,7 +28,7 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 ### 2. 🔬 Metodología Mejorada
 - Descripción clara del procedimiento experimental
 - Especificación técnica del método de regresión lineal
-- Caracterización completa del dataset y variables
+- Descripción completa del dataset y variables
 - Descripción del entorno computacional
 - Redacción profesional mejorada con IA
 
@@ -42,7 +42,6 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 
 ### Anexo F: Metodología Original
 - Descripción detallada del procedimiento en palabras del/la estudiante
-- Especificaciones técnicas en formato original
 
 ### Anexo G: Proceso de Mejora con IA
 - Capturas de pantalla o transcripciones de los prompts utilizados
@@ -59,7 +58,6 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
    - Enfoque en aplicaciones de regresión lineal en el tema
 
 2. REDACCIÓN PROPIA:
-   - Evolución histórica del método en el área
    - Aplicaciones recientes más relevantes
    - Brechas identificadas en la literatura
    - Citas en formato APA o IEEE
@@ -74,13 +72,12 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
    - Tipo de regresión: simple, múltiple, Ridge, Lasso, etc.
    - Variables independientes y dependiente
    - Proceso de preprocesamiento de datos
-   - División train/test validation
+   - División train/test
 
 2. ESPECIFICACIONES TÉCNICAS:
    - Dataset: nombre, fuente, tamaño, características
    - Hardware: CPU, RAM, almacenamiento
    - Software: Python version, librerías, versiones
-   - Tiempos de ejecución
 
 3. MEJORA CON IA:
    Prompt: "Mejora la redacción técnica de esta sección metodológica manteniendo la precisión de los detalles técnicos: [texto]"
@@ -90,9 +87,8 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 
 ### **📄 DOCUMENTO PRINCIPAL**
 - **2. Estado del Arte** [Versión mejorada con IA]
-  - 2.1 Contexto Histórico
-  - 2.2 Aplicaciones Recientes
-  - 2.3 Brechas de Investigación Identificadas
+  - 2.1 Aplicaciones Recientes
+  - 2.2 Brechas de Investigación Identificadas
 
 - **3. Metodología** [Versión mejorada con IA]
   - 3.1 Descripción del Dataset
@@ -106,20 +102,6 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 - **Anexo F:** Metodología - Versión Original del Estudiante  
 - **Anexo G:** Evidencias del Proceso de Mejora con IA
 
-
-## 💡 Criterios de Calidad Esperados
-
-### Para Estado del Arte:
-- ✅ **Actualidad**: Referencias mayoritariamente de los últimos 5 años
-- ✅ **Relevancia**: Enfoque en aplicaciones de regresión lineal
-- ✅ **Profundidad**: Análisis crítico de los trabajos revisados
-- ✅ **Citas Correctas**: Formato consistente y apropiado
-
-### Para Metodología:
-- ✅ **Reproducibilidad**: Detalles suficientes para replicar el experimento
-- ✅ **Precisión Técnica**: Especificaciones correctas y completas
-- ✅ **Claridad**: Descripción lógica del proceso
-- ✅ **Justificación**: Razones para las decisiones metodológicas
 
 ---
 
