@@ -7,7 +7,7 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 
 ### 🔹 Parte 1: Estado del Arte
 - Realizar investigación bibliográfica exhaustiva
-- Redactar estado del arte con auditoría propia y citas correctas
+- Redactar estado del arte con autoría propia y citas correctas
 - Utilizar ChatGPT para mejorar la redacción manteniendo el contenido
 - Documentar el proceso completo
 
@@ -34,18 +34,17 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 
 ## 📁 Anexos Requeridos
 
-### Anexo A: Estado del Arte Original
-- Versión completa redactada por los estudiantes
+### Anexo E: Estado del Arte Original
+- Versión completa redactada por las/los estudiantes
 - Incluye todas las referencias bibliográficas consultadas
 - Formato de citas correctamente aplicado
-- Evidencia de auditoría propia de la literatura
+- Evidencia de autoría propia de la literatura
 
-### Anexo B: Metodología Original
-- Descripción detallada del procedimiento en palabras del estudiante
+### Anexo F: Metodología Original
+- Descripción detallada del procedimiento en palabras del/la estudiante
 - Especificaciones técnicas en formato original
-- Diagramas o flujos creados por los estudiantes (si aplica)
 
-### Anexo C: Proceso de Mejora con IA
+### Anexo G: Proceso de Mejora con IA
 - Capturas de pantalla o transcripciones de los prompts utilizados
 - Ejemplos de las mejoras específicas realizadas
 - Reflexión sobre los cambios implementados
@@ -55,7 +54,7 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 ### Para Estado del Arte:
 ```
 1. INVESTIGACIÓN:
-   - Búsqueda en Google Scholar, IEEE Xplore, Springer Link
+   - Búsqueda en Science Direct
    - 5-8 referencias científicas actualizadas (últimos 5 años)
    - Enfoque en aplicaciones de regresión lineal en el tema
 
@@ -90,23 +89,23 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 ## 📋 Estructura del Documento Final
 
 ### **📄 DOCUMENTO PRINCIPAL**
-- **2. State of the Art** [Versión mejorada con IA]
-  - 2.1 Historical Context
-  - 2.2 Recent Applications
-  - 2.3 Identified Research Gaps
+- **2. Estado del Arte** [Versión mejorada con IA]
+  - 2.1 Contexto Histórico
+  - 2.2 Aplicaciones Recientes
+  - 2.3 Brechas de Investigación Identificadas
 
-- **3. Methodology** [Versión mejorada con IA]
-  - 3.1 Dataset Description
-  - 3.2 Variable Selection
-  - 3.3 Regression Model Specification
-  - 3.4 Experimental Setup
-  - 3.5 Implementation Details
+- **3. Metodología** [Versión mejorada con IA]
+  - 3.1 Descripción del Dataset
+  - 3.2 Selección de Variables
+  - 3.3 Especificaciones del Modelo de Regressión
+  - 3.4 Especificaciones del Experimento
+  - 3.5 Detalles de Implementación
 
 ### **📎 ANEXOS**
-- **Anexo A:** State of the Art - Versión Original del Estudiante
-- **Anexo B:** Methodology - Versión Original del Estudiante  
-- **Anexo C:** Evidencias del Proceso de Mejora con IA
-- **Anexo D:** Lista Completa de Referencias Consultadas
+- **Anexo E:** Estado del Arte - Versión Original del Estudiante
+- **Anexo F:** Metodología - Versión Original del Estudiante  
+- **Anexo G:** Evidencias del Proceso de Mejora con IA
+
 
 ## 💡 Criterios de Calidad Esperados
 
@@ -122,15 +121,4 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 - ✅ **Claridad**: Descripción lógica del proceso
 - ✅ **Justificación**: Razones para las decisiones metodológicas
 
-## 🔍 Elementos de Evaluación Clave
 
-1. **Calidad de la Investigación Bibliográfica**
-2. **Capacidad de Síntesis en Estado del Arte**
-3. **Precisión en la Descripción Metodológica**
-4. **Mejora Sustancial con Mantenimiento de Contenido**
-5. **Documentación Completa del Proceso**
-6. **Aplicación Correcta de Formatos de Citas**
-
----
-
-**📌 Nota Final:** El objetivo es desarrollar habilidades de investigación y redacción académica, utilizando la IA como herramienta de mejora mientras se mantiene la autoría intelectual y el rigor científico del trabajo personal.
