@@ -121,4 +121,36 @@ Desarrollar el estado del arte y la sección metodológica del paper científico
 - ✅ **Claridad**: Descripción lógica del proceso
 - ✅ **Justificación**: Razones para las decisiones metodológicas
 
+---
+
+## 📊 Rúbrica de Evaluación
+
+| **Criterio** | **Destacado (95-100 pts)** | **Sólidoe (85-94 pts)** | **Básico (75-84 pts)** | **Incipiente (0-574 pts)** |
+|--------------|--------------------------------------|-------------------------------------|---------------------------------------|--------------------------------|
+| **📚 Calidad del Estado del Arte** <br> 20% | Revisión exhaustiva con 8+ referencias actualizadas y altamente relevantes. Análisis crítico profundo y identificación clara de brechas. | Revisión adecuada con 5-7 referencias relevantes. Buen análisis y identificación de algunas brechas. | Revisión básica con 3-4 referencias. Análisis superficial y poca identificación de brechas. | Revisión insuficiente con <3 referencias. Análisis ausente o muy elemental. |
+| **🔬 Profundidad Metodológica**<br> 20% | Descripción completa y altamente detallada. Especificaciones técnicas precisas. Procedimiento claramente reproducible. | Descripción adecuada con la mayoría de detalles. Especificaciones generalmente completas. | Descripción con omisiones importantes. Detalles técnicos insuficientes para replicación. | Descripción vaga o incompleta. Faltan elementos esenciales metodológicos. |
+| **📝 Calidad de Redacción Original** <br> 15% | Redacción propia clara, coherente y bien estructurada. Excelente manejo del lenguaje académico desde el inicio. | Redacción propia generalmente clara. Buena estructuración de ideas. Algunas áreas mejorables. | Redacción confusa en secciones. Estructura deficiente. Dificultades con lenguaje académico. | Redacción muy deficiente. Ideas desorganizadas. Grave problemas de coherencia. |
+| **🎯 Mejora con IA** <br> 10% | Mejora sustancial manteniendo contenido esencial. Optimización excelente de estilo académico. Uso estratégico y crítico. | Mejora notable en redacción. Buen balance entre contenido original y mejoras. Uso adecuado de IA. | Mejora mínima o excesiva. Pérdida de contenido original o mejoras insuficientes. | Mejora inapropiada o ausente. Contenido alterado significativamente o sin cambios. |
+| **🔗 Citas y Referencias** <br> 10%| Formato de citas perfectamente aplicado. Referencias completas y variadas. Excelente integración de fuentes. | Formato generalmente correcto. Referencias adecuadas. Buena integración de fuentes. | Formato con errores. Referencias incompletas o inapropiadas. Integración deficiente. | Formato incorrecto o ausente. Referencias insuficientes o irrelevantes. |
+| **📊 Documentación del Dataset** <br> 10%| Descripción completa del dataset: origen, tamaño, variables, preprocesamiento. Análisis exploratorio incluido. | Descripción adecuada del dataset. Características principales documentadas. Preprocesamiento descrito. | Descripción básica con omisiones. Faltan detalles importantes del dataset. | Descripción insuficiente o incorrecta. Datasets no caracterizados adecuadamente. |
+| **💻 Especificaciones Técnicas** <br> 10% | Especificaciones computacionales completas: hardware, software, versiones, tiempos. Detalles suficientes para replicación. | Especificaciones generalmente completas. Algún detalle menor omitido pero replicable. | Especificaciones incompletas. Faltan elementos importantes para replicación. | Especificaciones ausentes o muy insuficientes. No permite replicación. |
+| **📁 Documentación de Anexos** <br> 5%| Anexos completos y perfectamente organizados. Proceso completamente documentado. Evidencias claras del trabajo original. | Anexos completos. Buena documentación del proceso. Evidencias del trabajo original. | Anexos incompletos. Documentación insuficiente. Evidencias limitadas. | Anexos faltantes o muy deficientes. Sin documentación del proceso. |
+
+---
+
+## 🎓 Ponderación por Criterio
+
+### **Peso de Cada Criterio:**
+- 📚 Estado del Arte: 20%
+- 🔬 Metodología: 20%
+- 📝 Redacción Original: 15%
+- 🎯 Mejora con IA: 10%
+- 🔗 Citas y Referencias: 10%
+- 📊 Documentación Dataset: 10%
+- 💻 Especificaciones Técnicas: 10%
+- 📁 Anexos: 5%
+
+---
+
+
 
