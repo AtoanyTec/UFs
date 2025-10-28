@@ -134,7 +134,16 @@ Completar la redacción del artículo científico mediante la presentación de r
 • Recomendaciones para futuras investigaciones
 ```
 
-#### **6. References**
+### **6. Consluiones**
+```markdown
+[Versión mejorada con IA]
+• Síntesis de hallazgos principales
+• Contribuciones del estudio
+• Limitaciones reconocidas
+• Futuras líneas de investigación
+```
+
+#### **7. References**
 ```markdown
 [Lista completa de referencias]
 [1] Autor, A. (Año). Título del artículo. Revista, vol, páginas.
@@ -150,5 +159,9 @@ Completar la redacción del artículo científico mediante la presentación de r
 #### **Anexo H: Consultas a IA para Discusión**
 - Preguntas específicas realizadas a ChatGPT
 - Respuestas obtenidas y cómo se utilizaron
+
+#### **Anexo I: Conclusiones Originales**
+- Reflexiones iniciales de los estudiantes
+- Aprendizajes personales y dificultades
 
 ---
