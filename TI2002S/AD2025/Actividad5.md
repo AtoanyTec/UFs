@@ -1,4 +1,4 @@
-# 📝 Actividad 04: Redacción Final - Resultados, Discusión y Referencias
+# 📝 Actividad 5: Resultados, Discusión y Referencias
 
 ## 🎯 Objetivo
 Completar la redacción del artículo científico mediante la presentación de resultados, análisis crítico de los mismos y compilación de referencias bibliográficas, utilizando la IA como herramienta de mejora y profundización.
@@ -37,11 +37,11 @@ Completar la redacción del artículo científico mediante la presentación de r
 
 ## 📁 Anexos Requeridos
 
-### Anexo E: Resultados Originales
+### Anexo G: Resultados Originales
 - Versión inicial redactada por los estudiantes
 - Descripción en sus propias palabras de los hallazgos
 
-### Anexo F: Interacción con IA para Discusión
+### Anexo H: Interacción con IA para Discusión
 - Capturas o transcripción del diálogo con ChatGPT
 - Preguntas realizadas y respuestas obtenidas
 
@@ -79,7 +79,7 @@ Completar la redacción del artículo científico mediante la presentación de r
    • Métodología
 
 2. Verificar consistencia de formato:
-   • APA, IEEE o Springer según se haya definido
+   • APA o IEEE
 ```
 
 ## 📋 Estructura del Documento Final
@@ -117,52 +117,12 @@ Completar la redacción del artículo científico mediante la presentación de r
 
 ### **📎 ANEXOS ADICIONALES**
 
-#### **Anexo E: Resultados Originales**
+#### **Anexo G: Resultados Originales**
 - Texto inicial escrito por estudiantes
 - Incluye descripción subjetiva de resultados
 
-#### **Anexo F: Consultas a IA para Discusión**
+#### **Anexo H: Consultas a IA para Discusión**
 - Preguntas específicas realizadas a ChatGPT
 - Respuestas obtenidas y cómo se utilizaron
 
-## 💡 Pautas Específicas por Sección
-
-### **🔍 Resultados:**
-- ✅ **No incluir citas** en esta sección
-- ✅ **Reportar métricas** aunque no sean óptimas
-- ✅ **Ser objetivos** en la descripción
-- ✅ **Usar tablas** para presentar datos numéricos
-
-### **💡 Discusión:**
-- ✅ **Integrar análisis de IA** con reflexión personal
-- ✅ **Reconocer limitaciones** honestamente
-- ✅ **Proponer mejoras** específicas
-- ✅ **Contextualizar resultados** con literatura previa
-
-### **📚 Referencias:**
-- ✅ **Completar** todas las citas del documento
-- ✅ **Verificar formato** consistentemente
-- ✅ **Incluir DOI** o URLs cuando estén disponibles
-
 ---
-
-## 🎓 Criterios de Calidad
-
-### **Para Resultados:**
-- Claridad en la presentación de datos
-- Precisión en el reporte de métricas
-- Objetividad en las descripciones
-- Mejora sustancial en redacción con IA
-
-### **Para Discusión:**
-- Profundidad en el análisis crítico
-- Integración adecuada de insights de IA
-- Reconocimiento honesto de limitaciones
-- Propuestas realistas de mejora
-
-### **Para Referencias:**
-- Completitud de todas las fuentes citadas
-- Consistencia en el formato de citación
-- Calidad y relevancia de las referencias
-
-**📌 Nota:** El valor educativo reside en el proceso de análisis crítico y mejora iterativa, no en la obtención de resultados perfectos. La honestidad académica al reportar resultados reales es fundamental.
