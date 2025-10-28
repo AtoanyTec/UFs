@@ -55,7 +55,7 @@ Completar la redacción del artículo científico mediante la presentación de r
 - Capturas o transcripción del diálogo con ChatGPT
 - Preguntas realizadas y respuestas obtenidas
 
-### Anexo G: Conclusiones Originales
+### Anexo I: Conclusiones Originales
 - Versión inicial escrita por los estudiantes
 - Reflexiones personales sobre el aprendizaje
 
