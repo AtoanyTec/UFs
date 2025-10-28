@@ -39,7 +39,7 @@ Completar la redacción del artículo científico mediante la presentación de r
 
 ### Anexo G: Resultados Originales
 - Versión inicial redactada por los estudiantes
-- Descripción en sus propias palabras de los hallazgos
+- Descripción en sus propias palabras de los resultados
 
 ### Anexo H: Interacción con IA para Discusión
 - Capturas o transcripción del diálogo con ChatGPT
@@ -50,7 +50,6 @@ Completar la redacción del artículo científico mediante la presentación de r
 ### Para la Sección de Resultados:
 ```
 1. Redactar inicialmente sin ayuda de IA:
-   • Describir el proceso de implementación
    • Reportar valores de MAE, MSE, RMSE, R²
    • Incluir observaciones cualitativas
 
@@ -119,7 +118,6 @@ Completar la redacción del artículo científico mediante la presentación de r
 
 #### **Anexo G: Resultados Originales**
 - Texto inicial escrito por estudiantes
-- Incluye descripción subjetiva de resultados
 
 #### **Anexo H: Consultas a IA para Discusión**
 - Preguntas específicas realizadas a ChatGPT
