@@ -1,4 +1,4 @@
-# 🚀 Proyecto Final: Implementación y Comunicación de un Modelo de Regresión Lineal
+# 🚀 Proyecto Final: Escritura de un Artículo Científico
 
 ## 📝 Descripción General
 
