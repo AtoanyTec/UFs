@@ -60,8 +60,9 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
         6. **Metodología**
         7. **Resultados**
         8. **Discusión**
-        9. **Referencias**
-        10. **Declaración de Uso de IA** ✅
+        9. **Conclusiones**
+        10. **Referencias**
+        11. **Declaración de Uso de IA** ✅
 
 2.  **🎤 Presentación Final**
     - Formato: PowerPoint, Google Slides o Canva.
@@ -73,8 +74,9 @@ Demostrar la capacidad de implementar un modelo de aprendizaje automático funda
         4. **Metodología**
         5. **Resultados**
         6. **Discusión**
-        7. **Referencias**
-        8. **¡Gracias! (Incluyendo la Declaración de Uso de IA)** ✅
+        7. **Conclusiones**
+        8. **Referencias**
+        9. **¡Gracias! (Incluyendo la Declaración de Uso de IA)** ✅
 
 3.  **💻 Código Fuente**
     - Entreguen el archivo de Jupyter Notebook (`.ipynb`) con su implementación.
