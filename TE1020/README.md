@@ -66,7 +66,3 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 * Smith, R. J. *Circuitos, dispositivos y sistemas*, Limusa, 1981.
 
 ---
-
----
-
-¿Te gustaría que te ayude con alguno de esos puntos (por ejemplo, el **plan de sesiones** o una **presentación del Tema 1**)?
