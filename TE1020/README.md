@@ -61,7 +61,7 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 
 ### 📚 **Bibliografía**
 
-* [Alexander, C. K. *Fundamentos de circuitos eléctricos*, McGraw-Hill, 2006](https://www.cartagena99.com/recursos/alumnos/apuntes/1.1%20Fundamentos%20de%20circuitos%20electricos%205ta.%20Edicion%20sadiku.pdf).
+* [Alexander, C. K. *Fundamentos de circuitos eléctricos*, McGraw-Hill, 2006](https://www.cartagena99.com/recursos/alumnos/apuntes/1.1%20Fundamentos%20de%20circuitos%20electricos%205ta.%20Edicion%20sadiku.pdf). 
 * Hayt, W. H. *Engineering Circuit Analysis*, McGraw-Hill, 2017.
 * Smith, R. J. *Circuitos, dispositivos y sistemas*, Limusa, 1981.
 
