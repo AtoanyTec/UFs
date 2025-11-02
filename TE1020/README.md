@@ -15,7 +15,7 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 
 ---
 
-## 📘 **Temario principal**
+## 📘 **Temario**
 
 ### **Tema 1. Introducción a la ingeniería eléctrica**
 
@@ -42,13 +42,13 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 
 ---
 
-## 🧮 **Evaluación sugerida**
+## 🧮 **Plan de Evaluación**
 
 | Componente                    | Ponderación | Evaluación de                                         |
 | ----------------------------- | ----------- | ----------------------------------------------------- |
 | Simulaciones                  | 15%         | Simulaciones en Multisim                              |
 | Actividades Individuales      | 30%         | Resolución de Ejercicios                              |
-| Situación Problema            | 10%         | Actividades relacionadas con la Situación Problema    |
+| Situación Problema            | 10%         | Actividades Relacionadas con la Situación Problema    |
 | Presentación Final            | 15%         | Presentación de la Solución de la Situación Problema  |
 | Examen                        | 30%         | Examen sobre los Temas Vistos                         |
 
@@ -61,23 +61,6 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 * Smith, R. J. *Circuitos, dispositivos y sistemas*, Limusa, 1981.
 
 ---
-
-### 👨‍🏫 **Metodología didáctica**
-
-* **Aprendizaje basado en problemas (ABP)**: aplicación de conceptos en situaciones reales.
-* **Análisis conceptual guiado** por el docente.
-* **Trabajo colaborativo e individual** con resolución de casos y ejercicios.
-* **Asesorías y retroalimentación continua**.
-
----
-
-Si deseas, puedo ayudarte a **preparar el curso completo** con:
-
-1. Plan de sesiones por semana (contenidos, actividades, evidencias).
-2. Plantillas de evaluación (rúbricas y guías).
-3. Simulaciones o laboratorios con Python o software como Multisim / Tinkercad.
-4. Presentaciones didácticas en PowerPoint (una por tema).
-5. Propuesta de caso integrador o mini-proyecto final.
 
 ---
 
