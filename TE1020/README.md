@@ -53,7 +53,8 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 | Examen                        | 30%         | Examen sobre los Temas Vistos                         |
 
 <br>
-<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/724ba38e-f4d8-45b9-b5fd-2b5b3ce4328b" />
+<img width="1187" height="800" alt="image" src="https://github.com/user-attachments/assets/78d149fb-778e-44a0-82b0-f130b52c7285" />
+
 
 
 ---
