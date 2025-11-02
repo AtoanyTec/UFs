@@ -59,7 +59,7 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 
 ---
 
-### 📚 **Bibliografía base**
+### 📚 **Bibliografía**
 
 * Alexander, C. K. *Fundamentos de circuitos eléctricos*, McGraw-Hill, 2006.
 * Hayt, W. H. *Engineering Circuit Analysis*, McGraw-Hill, 2017.
