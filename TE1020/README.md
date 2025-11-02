@@ -52,7 +52,7 @@ Formar en los estudiantes la capacidad de **explicar, demostrar y evaluar** el f
 | Presentación Final            | 15%         | Presentación de la Solución de la Situación Problema  |
 | Examen                        | 30%         | Examen sobre los Temas Vistos                         |
 
-<br>
+
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/78d149fb-778e-44a0-82b0-f130b52c7285" />
 
 
