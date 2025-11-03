@@ -8,10 +8,8 @@
 - ⚡ Voltaje: **120 V**
 
 ### 🧮 Datos
-$P = V * I$
-
-- P = 60 W  
-- V = 120 V
+- $P = 60 W$  
+- $V = 120 V$
 
 ### 🔢 Fórmula
 La potencia disipada por una resistencia se define como:
