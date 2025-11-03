@@ -87,4 +87,6 @@ El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encen
 cuanto **mayor sea R**, **menor será la corriente i** ⚖️.
 
 
+--- 
 
+# ⚡ Ejercicio 2.9 — Corriente `i` con el interruptor en dos posiciones
