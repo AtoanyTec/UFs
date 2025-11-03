@@ -9,8 +9,10 @@
 
 ### 🧮 Datos
 ```latex
-P = 60~\text{W} \\
-V = 120~\text{V}
+\begin{align*}
+P &= 60~\text{W} \\
+V &= 120~\text{V}
+\end{align*}
 ````
 
 - P = 60 W  
