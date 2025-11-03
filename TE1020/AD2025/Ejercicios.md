@@ -49,6 +49,6 @@ El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encen
 👉 El circuito queda **solo con la resistencia de 100 Ω** en serie con la fuente de 15 V.
 
 **Cálculo:**
-
+$i = V / R1 = 15 V / 100 Ω = 0.15 A$
 
 
