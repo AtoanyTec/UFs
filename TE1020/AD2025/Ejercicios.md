@@ -20,10 +20,9 @@ Despejamos la resistencia R:
 
 $R = \frac{V^2}{P}$
 
-R = V² / P
-
 ### ✏️ Sustitución
 R = (120)² / 60  
+$Rp3yñ´- = \frac{V^2}{R}$
 R = 14,400 / 60  
 R = **240 Ω**
 
