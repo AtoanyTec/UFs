@@ -8,6 +8,11 @@
 - ⚡ Voltaje: **120 V**
 
 ### 🧮 Datos
+```latex
+P = 60~\text{W} \\
+V = 120~\text{V}
+````
+
 - P = 60 W  
 - V = 120 V
 
@@ -36,4 +41,18 @@ El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encen
 # ⚡ Ejercicio 2.4 — Corriente `i` con el interruptor en dos posiciones
 
 <img width="451" height="225" alt="image" src="https://github.com/user-attachments/assets/d73c08da-461a-4c75-bd69-315bf0f3dd4a" />
+<br>
+
+**Datos del circuito:**
+- 🔋 Fuente: `V = 15 V`  
+- 🌀 Resistencia 1: `R1 = 100 Ω`  
+- 🌀 Resistencia 2: `R2 = 150 Ω`  
+- 📘 Ley de Ohm: `I = V / R`
+
+## 🔹 (a) Interruptor en posición 1
+👉 El circuito queda **solo con la resistencia de 100 Ω** en serie con la fuente de 15 V.
+
+**Cálculo:**
+
+
 
