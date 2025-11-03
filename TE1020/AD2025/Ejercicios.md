@@ -39,4 +39,4 @@ R = **240 Ω**
 ---
 
 ### 💬 Interpretación
-El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encendido, es decir, a su **temperatura de operación (hot resistance)** 🔥.resistance)** 🔥.
+El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encendido, es decir, a su **temperatura de operación (hot resistance)** 🔥.
