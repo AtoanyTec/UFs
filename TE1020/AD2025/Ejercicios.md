@@ -54,3 +54,17 @@ El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encen
 - $i = 0.15 A$
 
 
+**Resultado:**  
+⚡ `i = 0.15 A = 150 mA`
+
+> La rama con 150 Ω está abierta, por lo tanto **no circula corriente** por ella.
+
+### 🔹 (b) Interruptor en posición 2
+👉 El circuito ahora conecta la fuente con la resistencia de **150 Ω**.
+
+**Cálculo:**
+- $i = V / R2$
+- $i = 15 V / 150 Ω$
+- $i = 0.10 A$
+
+
