@@ -4,48 +4,39 @@ Libro: Alexander Sadiku
 Página: 7
 
 **Encuentra la resistencia en caliente de un foco con las siguientes especificaciones:** 
-💥 Potencia: **60 W**  
-⚡ Voltaje: **120 V**
+- 💥 Potencia: **60 W**  
+- ⚡ Voltaje: **120 V**
 
 ---
 
 ### 🧮 Datos
-- \( P = 60~\text{W} \)  
-- \( V = 120~\text{V} \)
+- P = 60 W  
+- V = 120 V
 
 ---
 
 ### 🔢 Fórmula
 La potencia disipada por una resistencia se define como:
 
-\[
-P = \frac{V^2}{R}
-\]
+P = V² / R  
 
-Despejamos la resistencia \(R\):
+Despejamos la resistencia R:
 
-\[
-R = \frac{V^2}{P}
-\]
+R = V² / P
 
 ---
 
 ### ✏️ Sustitución
-\[
-R = \frac{(120)^2}{60}
-\]
-\[
-R = \frac{14400}{60} = 240~\Omega
-\]
+R = (120)² / 60  
+R = 14,400 / 60  
+R = **240 Ω**
 
 ---
 
-### ✅ **Resultado final**
-\[
-\boxed{R = 240~\Omega}
-\]
+### ✅ Resultado final
+**R = 240 Ω**
 
 ---
 
 ### 💬 Interpretación
-El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encendido, es decir, a su **temperatura de operación (hot resistance)** 🔥.
+El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encendido, es decir, a su **temperatura de operación (hot resistance)** 🔥.resistance)** 🔥.
