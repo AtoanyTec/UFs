@@ -14,7 +14,7 @@
 ### 🔢 Fórmula
 La potencia disipada por una resistencia se define como:
 
-$ P = \frac{V^2}{R} $
+$P = \frac{V^2}{R}$
 
 P = V² / R  
 
