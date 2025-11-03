@@ -8,12 +8,7 @@
 - ⚡ Voltaje: **120 V**
 
 ### 🧮 Datos
-```latex
-\begin{align*}
-P &= 60~\text{W} \\
-V &= 120~\text{V}
-\end{align*}
-````
+$P = V * I$
 
 - P = 60 W  
 - V = 120 V
