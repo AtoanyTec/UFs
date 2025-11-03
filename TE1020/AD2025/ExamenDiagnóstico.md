@@ -8,10 +8,10 @@ Selecciona la opción que consideres correcta. Cada pregunta vale un punto.
 
 ### **1.** ¿Cuál de las siguientes magnitudes representa la diferencia de potencial eléctrico entre dos puntos?
 
-A) Corriente
-B) Potencia
-C) Voltaje 
-D) Energía
+- A) Corriente
+- B) Potencia
+- C) Voltaje 
+- D) Energía
 
 ---
 
