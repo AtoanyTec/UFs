@@ -14,8 +14,9 @@
 ### 🔢 Fórmula
 La potencia disipada por una resistencia se define como:
 
-
+```latex
 $P = \frac{V^2}{R}$
+```
 
 Despejamos la resistencia R:
 
