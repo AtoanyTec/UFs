@@ -1,7 +1,7 @@
 ## 💡 Ejercicio 2.2 — Resistencia en caliente de un foco
 
-Libro: Alexander Sadiku
-Página: 7
+- Libro: Alexander Sadiku
+- Página: 67
 
 **Encuentra la resistencia en caliente de un foco con las siguientes especificaciones:** 
 - 💥 Potencia: **60 W**  
