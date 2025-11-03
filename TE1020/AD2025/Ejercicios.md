@@ -68,3 +68,23 @@ El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encen
 - $i = 0.10 A$
 
 
+**Resultado:**  
+⚡ `i = 0.10 A = 100 mA`
+
+> La rama con 100 Ω queda abierta, **sin corriente**.
+
+### 📊 Resumen de resultados
+
+| Posición del interruptor | Resistencia activa | Corriente (A) | Corriente (mA) |
+|---------------------------|--------------------|----------------|----------------|
+| 1️⃣                      | 100 Ω             | 0.15 A         | 150 mA         |
+| 2️⃣                      | 150 Ω             | 0.10 A         | 100 mA         |
+
+---
+
+### ✅ Conclusión
+💡 La corriente disminuye al aumentar la resistencia:  
+cuanto **mayor sea R**, **menor será la corriente i** ⚖️.
+
+
+
