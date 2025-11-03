@@ -32,3 +32,8 @@ R = **240 Ω**
 El filamento del foco tiene una resistencia **de 240 ohmios** cuando está encendido, es decir, a su **temperatura de operación (hot resistance)** 🔥.
 
 --- 
+
+# ⚡ Ejercicio 2.4 — Corriente `i` con el interruptor en dos posiciones
+
+<img width="451" height="225" alt="image" src="https://github.com/user-attachments/assets/d73c08da-461a-4c75-bd69-315bf0f3dd4a" />
+
