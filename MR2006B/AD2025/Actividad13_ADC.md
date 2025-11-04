@@ -14,10 +14,10 @@ Las/los estudiantes desarrollarán un sistema de monitoreo de temperatura que le
 Componentes Electrónicos:
 - 🎹 1 MKR WiFi  1010
 - 🌡️ 1 Sensor de temperatura LM35
-- 📟 1 Display OLED (Explore IoT Kit Rev2)
-- 🔴 1 LED rojo
-- 🟢 1 LED verde
-- 🚨 1 Buzzer activo (Explore IoT Kit Rev2)
+- 📟 1 Display OLED integrado
+- 🔴 1 LED rojo integrado (LED RGB)
+- 🟢 1 LED verde integrado (LED RGB)
+- 🚨 1 Buzzer integrado
 - 🔌 Resistencias: 2x 220Ω, 1x 10kΩ
 - 🔌 Protoboard y cables
 
@@ -34,7 +34,7 @@ Componentes Electrónicos:
 - 🔧 Preguntas técnicas sobre el código, electrónica y conceptos teóricos
 
 **C. 📹 Video**
-- 🧍 Grabar un video corto en donde demuestren el sistema funcionando
+- 🧍 Grabar un video corto en donde demuestren el sistema funcionando. Se evaluará la integración de elementos visuales y el engagement del video
 
 **D. 📊 Reporte Técnico Breve**
 - 📝 Explicación del código implementado
@@ -45,41 +45,53 @@ Componentes Electrónicos:
 **🎯 Especificaciones Técnicas:**
 ```cpp
 // REQUERIMIENTOS PRINCIPALES:
-// 1. 🌡️ Leer temperatura con sensor LM35 cada 1 segundo
-// 2. 📟 Mostrar temperatura en LCD con formato "Temp: XX.X°C"
-// 3. 🚨 Alarma: TEMP > 25°C → LED rojo parpadeante + buzzer
-// 4. 🟢 Normal: TEMP ≤ 25°C → LED verde encendido
+// 1. 🌡️ Leer temperatura con sensor LM35 cada 1 segundo desde A1
+// 2. 📟 Mostrar temperatura en OLED con formato "Temp: XX.X°C"
+// 3. 🚨 Alarma: TEMP > 25°C → LED rojo integrado parpadeante + buzzer integrado
+// 4. 🟢 Normal: TEMP ≤ 25°C → LED verde integrado encendido
 // 5. ⏱️ Usar millis() para temporizadores no bloqueantes
+// 6. 🎨 Utilizar librerías del Explore IoT Kit para OLED y periféricos
 ```
 
 ## 7. 📚 30 PREGUNTAS DE ESTUDIO
-1. ❓ ¿Cómo funciona el sensor LM35?
-2. ❓ ¿Qué precisión tiene el LM35?
-3. ❓ ¿Por qué el LM35 no necesita calibración externa?
-4. ❓ ¿Cómo se convierte el valor analógico a temperatura?
-5. ❓ ¿Qué rango de temperatura puede medir el LM35?
-6. ❓ ¿Cuál es la relación mV/°C del LM35?
-7. ❓ ¿Cómo se conecta el LM35 a Arduino?
-8. ❓ ¿Qué ventajas tiene el LM35 sobre otros sensores?
-9. ❓ ¿Qué es el sampling rate y cómo afecta las lecturas?
+1. ❓ ¿Cómo funciona el sensor LM35 y qué ventajas ofrece?
+2. ❓ ¿Qué precisión tiene el LM35 y por qué no necesita calibración externa?
+3. ❓ ¿Cómo se convierte el valor analógico a temperatura en el LM35?
+4. ❓ ¿Qué rango de temperatura puede medir el LM35 con alimentación de 5V?
+5. ❓ ¿Cuál es la relación mV/°C del LM35 y cómo afecta la conversión ADC?
+6. ❓ ¿Cómo se conecta el LM35 a la entrada analógica del MKR WiFi 1010?
+7. ❓ ¿Qué resolución tiene el ADC del Arduino MKR WiFi 1010?
+8. ❓ ¿Cómo funciona el muestreo y la conversión analógico-digital?
+9. ❓ ¿Qué es el sampling rate y cómo afecta la precisión de las lecturas?
+10. ❓ ¿Cómo se puede filtrar el ruido en las lecturas del LM35?
+11. ❓ ¿Cómo inicializar y utilizar el display OLED del Explore IoT Kit?
+12. ❓ ¿Qué librerías se necesitan para controlar los periféricos del kit?
+13. ❓ ¿Cómo controlar los LEDs RGB integrados en el carrier?
+14. ❓ ¿Cómo generar sonidos con el buzzer integrado?
+15. ❓ ¿Qué métodos ofrece la clase MKRIoTCarrier para los displays?
+16. ❓ ¿Cómo mostrar texto y gráficos en el display OLED?
+17. ❓ ¿Qué diferencia hay entre los LEDs integrados y LEDs externos?
+18. ❓ ¿Cómo configurar la intensidad del buzzer?
+19. ❓ ¿Qué ventajas ofrece el uso del display OLED frente a LCD?
+20. ❓ ¿Cómo optimizar el consumo de energía de los periféricos?
 
 ## 8. ✅ LISTA DE COTEJO PARA EVALUACIÓN
 **⚙️ FUNCIONALIDAD (50 puntos)**
-- 🌡️ Lectura correcta de temperatura LM35 (15 pts)
-- 📟 Display LCD muestra temperatura actualizada (10 pts)
-- 🔴 LED rojo parpadea cuando temp > 25°C (10 pts)
-- 🟢 LED verde encendido cuando temp ≤ 25°C (5 pts)
-- 🚨 Buzzer suena en condición de alarma (10 pts)
+- 🌡️ Lectura correcta de temperatura LM35 desde A1 (15 pts)
+- 📟 Display OLED muestra temperatura actualizada cada segundo (10 pts)
+- 🔴 LED rojo integrado parpadea cuando temp > 25°C (10 pts)
+- 🟢 LED verde integrado encendido cuando temp ≤ 25°C (5 pts)
+- 🚨 Buzzer integrado suena en condición de alarma (10 pts)
 
 **💻 CÓDIGO Y PROGRAMACIÓN (30 puntos)**
 - ⏱️ Usa millis() para temporizadores no bloqueantes (10 pts)
 - 📝 Código bien estructurado y comentado (10 pts)
-- 🔧 Conversión correcta analógico-digital (5 pts)
+- 🔧 Conversión correcta analógico-digital del LM35 (5 pts)
 - 🎯 Lógica de control implementada correctamente (5 pts)
 
 **🔌 CIRCUITO Y MONTAJE (20 puntos)**
-- 🔗 Conexiones correctas del LM35 (5 pts)
-- 📟 Display LCD conectado properamente (5 pts)
+- 🔗 Conexiones correctas del LM35 externo (5 pts)
+- 📟 Uso correcto de periféricos integrados del IoT Kit (5 pts)
 - 🔌 Cableado ordenado y seguro (10 pts)
 
 
