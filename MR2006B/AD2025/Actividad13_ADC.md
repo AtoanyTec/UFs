@@ -21,8 +21,9 @@ Componentes Electrónicos:
 - 🔌 Resistencias: 2x 220Ω, 1x 10kΩ
 - 🔌 Protoboard y cables
 
-## 4. 📦 CÓDIGO BASE
-[Código LM35 Base](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/C%C3%B3digosArduino/LM35_Base.ino)
+## 4. 📦 CÓDIGO DE AYUDA
+- [Lectura Analógica](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/MKRWiFi1010/Codes/LecturaA0.ino)
+- [Explore IoT Kit Rev 2](https://docs.arduino.cc/tutorials/mkr-iot-carrier/mkr-iot-carrier-01-technical-reference/)
 
 ## 5. 📋 ENTREGABLES
 **A. 🔌 Circuito Físico Funcional**
