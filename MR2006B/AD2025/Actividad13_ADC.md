@@ -3,7 +3,7 @@
 ## 1. 🎯 OBJETIVO
 Implementar un sistema de monitoreo de temperatura inteligente que demuestre competencia en:
 - 🌡️ Lectura de sensores analógicos (LM35)
-- 📟 Visualización en display LCD
+- 📟 Visualización en display OLED
 - 🔄 Uso de interrupciones y temporizadores
 - 🚨 Control de alarmas y indicadores visuales/sonoros
 
@@ -12,12 +12,12 @@ Las/los estudiantes desarrollarán un sistema de monitoreo de temperatura que le
 
 ## 3. 📦 MATERIAL REQUERIDO
 Componentes Electrónicos:
-- 🎹 1 Arduino Uno/Nano
+- 🎹 1 MKR WiFi  1010
 - 🌡️ 1 Sensor de temperatura LM35
-- 📟 1 Display LCD 16x2 con módulo I2C
+- 📟 1 Display OLED (Explore IoT Kit Rev2)
 - 🔴 1 LED rojo
 - 🟢 1 LED verde
-- 🚨 1 Buzzer activo
+- 🚨 1 Buzzer activo (Explore IoT Kit Rev2)
 - 🔌 Resistencias: 2x 220Ω, 1x 10kΩ
 - 🔌 Protoboard y cables
 
