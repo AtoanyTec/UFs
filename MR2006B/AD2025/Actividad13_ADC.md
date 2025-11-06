@@ -3,9 +3,10 @@
 ## 1. 🎯 OBJETIVO
 Implementar un sistema de monitoreo de temperatura inteligente que demuestre competencia en:
 - 🌡️ Lectura de sensores analógicos (LM35)
-- 📟 Visualización en display OLED
+- 📟 Visualización en display OLED con interfaz gráfica animada
+- 🎨 Creación de elementos visuales dinámicos y atractivos
 - 🔄 Uso de interrupciones y temporizadores
-- 🚨 Control de alarmas y indicadores visuales/sonoros
+- 🚨 Control de alarmas e indicadores visuales/sonoros
 
 ## 2. 📝 DESCRIPCIÓN DE LA ACTIVIDAD
 Las/los estudiantes desarrollarán un sistema de monitoreo de temperatura que lea valores del sensor LM35, los muestre en un display LCD y active alarmas cuando se superen umbrales predefinidos. El sistema deberá utilizar temporizadores no bloqueantes e interrupciones para un funcionamiento eficiente.
