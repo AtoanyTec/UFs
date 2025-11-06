@@ -40,7 +40,7 @@ Componentes Electrónicos:
 - 🔧 Preguntas técnicas sobre el código, electrónica y conceptos teóricos
 
 **C. 📹 Video**
-- 🧍 Grabar un video corto en donde demuestren el sistema funcionando. Se evaluará la integración de elementos visuales y el engagement del video
+- 🧍 Grabar un video corto en donde expliquen cómo funciona un módulo ADC y donde demuestren el funncionamiento del sistemma. Se evluará el nivel de explicación técnico.
 
 **D. 📊 Reporte Técnico Breve**
 - 📝 Explicación del código implementado
@@ -87,19 +87,24 @@ Componentes Electrónicos:
 
 ## 8. ✅ LISTA DE COTEJO PARA EVALUACIÓN
 
-**🎨 INTERFAZ GRÁFICA (10 puntos nuevos)**
+**🎨 INTERFAZ GRÁFICA (10 puntos)**
 - 🌡️ Termómetro animado que se llena suavemente (10 pts)
+
+**VIDEO EXPLICATIVO (20 puntos)**
+- 🔌 Se explica técnicamennte de manera corrrecta cómo funciona un módulo ADC (10 pts)
+- 📹 La duración máxima del video es de 2 min (5 pts)
+- 🎨 Se incluyen elementos creativos y visuales que ayudan a la explicación (5 pts)
     
-**⚙️ FUNCIONALIDAD (40 puntos)**
-- 🌡️ Lectura correcta de temperatura LM35 desde A1 (10 pts)
-- 📟 Display OLED muestra temperatura actualizada cada segundo (10 pts)
+**⚙️ FUNCIONALIDAD (30 puntos)**
+- 🌡️ Lectura correcta de temperatura LM35 desde A0 (10 pts)
+- 📟 Display OLED muestra temperatura actualizada cada segundo (5 pts)
 - 🔴 LED rojo integrado parpadea cuando temp > 25°C (5 pts)
 - 🟢 LED verde integrado encendido cuando temp ≤ 25°C (5 pts)
-- 🚨 Buzzer integrado suena en condición de alarma (10 pts)
+- 🚨 Buzzer integrado suena en condición de alarma (5 pts)
 
-**💻 CÓDIGO Y PROGRAMACIÓN (30 puntos)**
-- ⏱️ Usa millis() para temporizadores no bloqueantes (10 pts)
-- 📝 Código bien estructurado y comentado (10 pts)
+**💻 CÓDIGO Y PROGRAMACIÓN (20 puntos)**
+- ⏱️ Usa millis() para temporizadores no bloqueantes (5 pts)
+- 📝 Código bien estructurado y comentado (5 pts)
 - 🔧 Conversión correcta analógico-digital del LM35 (5 pts)
 - 🎯 Lógica de control implementada correctamente (5 pts)
 
