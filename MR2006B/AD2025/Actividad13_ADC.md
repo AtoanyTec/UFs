@@ -9,7 +9,7 @@ Implementar un sistema de monitoreo de temperatura inteligente que demuestre com
 - 🚨 Control de alarmas e indicadores visuales/sonoros
 
 ## 2. 📝 DESCRIPCIÓN DE LA ACTIVIDAD
-Las/los estudiantes desarrollarán un sistema de monitoreo de temperatura que lea valores del sensor LM35, los muestre en un display LCD y active alarmas cuando se superen umbrales predefinidos. El sistema deberá utilizar temporizadores no bloqueantes e interrupciones para un funcionamiento eficiente.
+Las/los estudiantes desarrollarán un sistema de monitoreo de temperatura que lea valores del sensor LM35 y los muestre en una interfaz gráfica animada en el display OLED. El sistema deberá incluir elementos visuales dinámicos como termómetros animados (con ayuda de la IA), utilizando temporizadores no bloqueantes e interrupciones para un funcionamiento eficiente..
 
 ## 3. 📦 MATERIAL REQUERIDO
 Componentes Electrónicos:
@@ -25,12 +25,16 @@ Componentes Electrónicos:
 ## 4. 📦 CÓDIGO DE AYUDA
 - [Lectura Analógica](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/MKRWiFi1010/Codes/LecturaA0.ino)
 - [Explore IoT Kit Rev 2](https://docs.arduino.cc/tutorials/mkr-iot-carrier/mkr-iot-carrier-01-technical-reference/)
+- [Display OLED](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/MKRWiFi1010/Codes/DisplayOLED.ino)
 
 ## 5. 📋 ENTREGABLES
 **A. 🔌 Circuito Físico Funcional**
 - ✅ Montaje correcto según diagrama
 - ✅ Funcionamiento demostrable del sistema completo
 - ✅ Cableado ordenado y seguro
+
+**B. 🎨 Interfaz Gráfica Animada**
+- ✅ Termómetro animado que se llena según la temperatura
 
 **B. ❓ Sesión de Preguntas y Respuestas**
 - 🔧 Preguntas técnicas sobre el código, electrónica y conceptos teóricos
@@ -40,6 +44,7 @@ Componentes Electrónicos:
 
 **D. 📊 Reporte Técnico Breve**
 - 📝 Explicación del código implementado
+- 🎨 Descripción del diseño de la interfaz gráfica
 - 📈 Análisis de resultados y gráficos de temperatura
 - 💡 Conclusiones y mejoras propuestas
 
@@ -53,6 +58,9 @@ Componentes Electrónicos:
 // 4. 🟢 Normal: TEMP ≤ 25°C → LED verde integrado encendido
 // 5. ⏱️ Usar millis() para temporizadores no bloqueantes
 // 6. 🎨 Utilizar librerías del Explore IoT Kit para OLED y periféricos
+// 7. 🌡️ Termómetro lateral que se llena progresivamente según temperatura
+// 8. 🔄 Animación suave del llenado del termómetro
+
 ```
 
 ## 7. 📚 30 PREGUNTAS DE ESTUDIO
@@ -78,10 +86,14 @@ Componentes Electrónicos:
 20. ❓ ¿Cómo optimizar el consumo de energía de los periféricos?
 
 ## 8. ✅ LISTA DE COTEJO PARA EVALUACIÓN
-**⚙️ FUNCIONALIDAD (50 puntos)**
-- 🌡️ Lectura correcta de temperatura LM35 desde A1 (15 pts)
+
+**🎨 INTERFAZ GRÁFICA (10 puntos nuevos)**
+- 🌡️ Termómetro animado que se llena suavemente (10 pts)
+    
+**⚙️ FUNCIONALIDAD (40 puntos)**
+- 🌡️ Lectura correcta de temperatura LM35 desde A1 (10 pts)
 - 📟 Display OLED muestra temperatura actualizada cada segundo (10 pts)
-- 🔴 LED rojo integrado parpadea cuando temp > 25°C (10 pts)
+- 🔴 LED rojo integrado parpadea cuando temp > 25°C (5 pts)
 - 🟢 LED verde integrado encendido cuando temp ≤ 25°C (5 pts)
 - 🚨 Buzzer integrado suena en condición de alarma (10 pts)
 
