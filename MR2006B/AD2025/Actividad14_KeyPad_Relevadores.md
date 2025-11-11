@@ -31,17 +31,59 @@ Las/los estudiantes desarrollarán un sistema que permita seleccionar y controla
 // 5. 📊 Mostrar estado actual de ambos relevadores en tiempo real
 // 6. 🔄 Permitir cambiar entre relevadores en cualquier momento
 // 7. ⚠️ Indicar claramente qué relevador está activo
+// 8. ⌨️ Colocar el MKR Carrier dentro de su carcasa
 ```
 
 ## 5. 🛠️ CONEXIÓN DE UN RELEVADOR
 <img width="941" height="432" alt="image" src="https://github.com/user-attachments/assets/8a9d8bd1-f94e-4e72-84a3-b5f04c5c794d" />
 
 
-
-## 5. 📋 CÓDIGOS DE AYUDA
+## 6. 📋 CÓDIGOS DE AYUDA
 - [Relévadores](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/MKRWiFi1010/Codes/Relevador.ino)
 - [Teclado Matricial](https://github.com/AtoanyTec/UFs/blob/main/MR2006B/AD2025/MKRWiFi1010/Codes/Keypad.ino)
 
+## 7. 📋 ENTREGABLES
+- A. 🔌 Circuito Físico Funcional
+- B. 💻 Código Implementado
+- C. 📹 Video Demostración
+
+## 8. ⚠️ MEDIDAS DE SEGURIDAD
+Para el foco de 100W:
+- 🔌 Usar fuente de poder externa adecuada (120V/220V)
+- 👁️ Tener mucho cuidado al trabajar con 120/220V
+- ⚠️ Tenner cuidado de no quemar el puerto USB de la PC o del MKR WiFi 1010
+- 🔒 Aislar completamente los circuitos de alta potencia
+- 👁️ Supervisión constante durante las pruebas
+- 🛑 Protocolo de apagado de emergencia claro
+
+## 9. ✅ LISTA DE COTEJO PARA EVALUACIÓN
+**⌨️ FUNCIONALIDAD DEL TECLADO (20 puntos)**
+- ✅ Tecla '1' activa/desactiva relevador 1 (10 pts)
+- ✅ Tecla '2' activa/desactiva relevador 2 (10 pts)
+
+**📟 INTERFAZ OLED (20 puntos)**
+- ✅ Muestra instrucciones claras (5 pts)
+- ✅ Indica estado actual de ambos relevadores (10 pts)
+- ✅ Actualización en tiempo real (5 pts)
+- ✅ Diseño claro y legible (5 pts)
+
+**⚡ CONTROL DE RELEVADORES (20 puntos)**
+- ✅ Relevador 1 controla foco de 100W correctamente (10 pts)
+- ✅ Relevador 2 se activa/desactiva correctamente (10 pts)
+
+**🔧 CÓDIGO Y SEGURIDAD (20 puntos)**
+- ✅ Código bien estructurado y comentado (10 pts)
+- ✅ Medidas de seguridad implementadas (10 pts)
+
+**🎥 VIDEO DEMOSTRATIVO (20 puntos)**
+- ✅ Mostrar la activación de relevadores con el teclado (5 pts)
+- ✅ Demostrar el encendido/apagado de foco de 100W (5 pts)
+- ✅ Mostrar interfaz OLED en funcionamiento (5 pts)
+- ✅ Mostrar el MKR Carrier dentro de su carcasa (5 pts)
+
+## 10. 🔄 BONUS
+- 🕒 Agregar temporizador para apagado automático (5 pts)
+- 🔔 Añadir notificaciones sonoras (5 pts)
 
 
 
