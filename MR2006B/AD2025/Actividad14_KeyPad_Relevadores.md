@@ -63,7 +63,7 @@ Para el foco de 100W:
 
 **📟 INTERFAZ OLED (20 puntos)**
 - ✅ Muestra instrucciones claras (5 pts)
-- ✅ Indica estado actual de ambos relevadores (10 pts)
+- ✅ Indica estado actual de ambos relevadores (5 pts)
 - ✅ Actualización en tiempo real (5 pts)
 - ✅ Diseño claro y legible (5 pts)
 
