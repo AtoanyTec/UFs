@@ -6,11 +6,25 @@ En esta actividad, los estudiantes diseñarán y construirán un voltímetro ana
 
 El objetivo es medir distintos rangos de voltaje usando el mismo instrumento, integrando:
 
-Ley de Ohm ⚡
+- Ley de Ohm ⚡
+- Leyes de Kirchhoff 🔁
+- Diseño de instrumentos de medición 🛠️
+- Selección de escalas mediante resistencias serie 🔄
 
-Leyes de Kirchhoff 🔁
+## 🎯 2. Objetivo del Proyecto
 
-Diseño de instrumentos de medición 🛠️
+Construir un voltímetro multiescala con 4 rangos totales (1 escala por defecto y 3 adicionales). El instrumento deberá usar un galvanómetro, y un switch rotatorio de 3 posiciones para seleccionar las primeras tres escalas.
 
-Selección de escalas mediante resistencias serie 🔄
+## 🧪 3. Materiales y Equipo Utilizado
+- Galvanómetro
+- Resistores
+- Switch de 3 posiciones
+- Cables
+- Fuente de voltaje de CD
+- Multímetro
+- Protoboard
+
+## 🧪 4. Entregbales
+1. Circuito en físico
+2. Cálculos teóricos
 
