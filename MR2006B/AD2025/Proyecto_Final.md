@@ -2,7 +2,7 @@
 
 ## 🎯 OBJETIVO GENERAL
 
-Desarrollar un sistema integral de control y monitoreo que combine control local, IoT, sensórica avanzada e interfaces visuales para aplicaciones de automatización y seguridad.
+Desarrollar un sistema integral de control y monitoreo que combine control local, IoT, sensores e interfaces visuales para aplicaciones de automatización y seguridad.
 
 ## 📋 ESPECIFICACIONES TÉCNICAS DETALLADAS
 **1. 🎨 Control de LEDs RGB**
