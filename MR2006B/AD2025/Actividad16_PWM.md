@@ -11,7 +11,8 @@ Generar una señal PWM de 5 kHz controlada por un potenciómetro y visualizarla 
 - 🔋 Protoboard
 
 ## 3. 🔌 Conexión
-<img width="1027" height="345" alt="image" src="https://github.com/user-attachments/assets/69d46898-c75f-410f-8981-0f2bcd190e9f" />
+<img width="981" height="317" alt="image" src="https://github.com/user-attachments/assets/eba3d45a-f339-46d0-90ce-a264c7cde389" />
+
 <\br>
 
 ## 4. 🔍 Verificación en Osciloscopio
