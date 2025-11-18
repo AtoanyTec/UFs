@@ -5,25 +5,25 @@
 Desarrollar un sistema integral de control y monitoreo que combine control local, IoT, sensores e interfaces visuales para aplicaciones de automatización y seguridad.
 
 ## 📋 ESPECIFICACIONES TÉCNICAS DETALLADAS
-**1. 🎨 Control de LEDs RGB**
+**1. 🎨 Control de LEDs RGB**<\br>
 Requerimientos:
 - Control local mediante botones táctiles del Carrier
 - Control remoto vía Arduino IoT Cloud
 - Estados de los LEDs en una interfaz en el display OLED
 
-**2. 🌡️ Sistema de Control de Temperatura**
+**2. 🌡️ Sistema de Control de Temperatura**<\br>
 Requerimientos:
 - Monitoreo continuo de temperatura con LM35
 - Umbral automático: 25°C
 - Activación de relevador para foco de 100W en caso de que se supera el umbral
 - Control manual remoto vía IoT del encendido del foco
 
-**3. 📡 Detección de Movimiento y Gestos**
+**3. 📡 Detección de Movimiento y Gestos**<\br>
 Requerimientos:
 - Detección de movimiento vertical/horizontal --> Encendido de un segundo de un led rojo local y virtual
 - Detección de gesto UP --> Encendido del buzzer durante un segundo
 
-**4. 📊 Interfaz OLED Integral**
+**4. 📊 Interfaz OLED Integral**<\br>
 Requerimientos:
 - Estados de todos los componentes del sistema
 - Valores de sensores en tiempo real
