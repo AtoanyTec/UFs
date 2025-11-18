@@ -164,6 +164,16 @@ Requerimientos:
 | **Documentación** | Documentación completa, profesional, con diagramas | Documentación completa con explicaciones | Documentación incompleta o confusa | Sin documentación |
 | **Originalidad** | Soluciones creativas, optimizadas y bien implementadas | Implementación estándar pero correcta y funcional | Implementación con problemas de diseño | Código copiado sin comprensión |
 
+### **7. Competencia Técnica Individual** (10 puntos)
+
+
+
+
+
+
+
+
+
 ---
 
 ### **📝 Hoja de Calificación**
