@@ -5,7 +5,8 @@
 Desarrollar un sistema integral de control y monitoreo que combine control local, IoT, sensores e interfaces visuales para aplicaciones de automatización y seguridad.
 
 ## 📋 ESPECIFICACIONES TÉCNICAS DETALLADAS
-**1. 🎨 Control de LEDs RGB**<\br>
+**1. 🎨 Control de LEDs RGB**
+<\br>
 Requerimientos:
 - Control local mediante botones táctiles del Carrier
 - Control remoto vía Arduino IoT Cloud
