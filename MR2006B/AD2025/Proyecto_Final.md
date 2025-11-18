@@ -78,11 +78,11 @@ Requerimientos:
 - Status Gesture - Indicador de gesto detectado
 
 **Variables Virtuales**
-- ledRed, ledGreen, ledBlue (CloudColor)
-- relayState (CloudBoolean)
-- movementDetected (CloudBoolean)
-- gestureDetected (CloudBoolean)
-- temperature (CloudTemperature)
+- ```ledRed```, ```ledGreen```, ```ledBlue``` (CloudColor)
+- ```relayState``` (CloudBoolean)
+- ```movementDetected``` (CloudBoolean)
+- ```gestureDetected``` (CloudBoolean)
+- ```temperature``` (CloudTemperature)
 
 ## 🚀 ENTREGABLES
 - Código completo con comentarios en github (URL)
