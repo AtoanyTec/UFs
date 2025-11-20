@@ -30,22 +30,9 @@ Explicar lo siguiente:
 12. 🎥 Demostración del funcionamiento desde un dispositivo móvil
 
 ## 📋 4. Criterios a evaluar
-✅ Funcionamiento  del sistema (40%)
-- Encienden y apagan los tres LEDs a través de IoT (10 ptss)
-- Se genera una señal PWM a través de IoT (10 ptss)
-- Al volver a presionar el botón, se apaga la señal PWM (10 ptss)
-- La señal PWM es de 5KHz +- 10% (10 ptss)
+✅ Funcionamiento  del sistema (100%)
+- Encienden y apagan los tres LEDs a través de IoT (25 pts)
+- Se genera una señal PWM a través de IoT (25 ptss)
+- Al volver a presionar el botón, se apaga la señal PWM (25 pts)
+- La señal PWM es de 5KHz +- 10% (25 pts)
 
-✅ Video (60%)
-- Estudiante explica de manera correcta la configuración inicial del código (5 pts)
-- Estudiante explica de manera correcta los cálculos para generar la señal PWM (5 pts)
-- Estudiante explica de manera correcta la creación de variables  virtuales en Arduino IoT Cloud (5 pts)
-- Estudiante explica de manera correcta las configuraciones de conexióna la red WiFi (5 pts)
-- Estudiante explica de manera correcta las líneas de lectura de la temperatura (5 pts)
-- Estudiante explica de manera correcta el código para generar la señal PWM (5 pts)
-- Estudiante explica de manera correcta las lineas para encender los LEDs (5 pts)
-- Estudiante explica de manera correcta la creación del dashboard y cada uno de los gadgets (5 pts)
-- Estudiante muestra  el encendido de los LEDs (5 pts)
-- Estudiante muestra laa señal generada en el osciloscopio (5 pts)
-- Estudiante controla los LEDs y la señal PWM a través de un dispositivo móbil (5 pts)
-- Estudiante demuestra dominio en el tema (5 pts)
