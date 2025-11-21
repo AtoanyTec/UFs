@@ -164,13 +164,6 @@ Sesión de preguntas y respuesas
 
 
 
-
-
-
-
-
-
-
 ---
 
 ### **📝 Hoja de Calificación**
@@ -179,12 +172,13 @@ Sesión de preguntas y respuesas
 
 | Categoría | Puntos Máximos | Puntos Obtenidos | Nivel | Comentarios |
 |-----------|----------------|------------------|-------|-------------|
-| **Control de LEDs RGB** | 20 | | | |
-| **Sistema Temperatura y Relevador** | 20 | | | |
-| **Detección Movimiento y Gestos** | 20 | | | |
-| **Interfaz OLED** | 15 | | | |
-| **Integración IoT Cloud** | 15 | | | |
-| **Calidad de Código y Documentación** | 10 | | | |
+| **Control de LEDs RGB** | 5 | | | |
+| **Sistema Temperatura y Relevador** | 10 | | | |
+| **Detección Movimiento y Gestos** | 10 | | | |
+| **Interfaz OLED** | 5 | | | |
+| **Integración IoT Cloud** | 5 | | | |
+| **Calidad de Código y Documentación** | 5 | | | |
+| **Preguntas** | 60 | | | |
 | **Total** | **100** | | | |
 
 
