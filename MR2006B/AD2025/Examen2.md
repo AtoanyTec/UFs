@@ -152,7 +152,7 @@ Sesión de preguntas y respuesas
 
 | Criterio 📈| Cumple ✅  |
 |----------|--------------|
-| **Precisión de conetnido** | Si/No |
+| **Precisión de contenido** | Si/No |
 | **Profundidad Técnica** | Si/No |
 | **Aplicación de Conceptos** | Si/No |
 | **Claridad Expositiva** | Si/No |
