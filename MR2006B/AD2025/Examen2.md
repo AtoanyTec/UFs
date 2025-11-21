@@ -67,23 +67,6 @@ Requerimientos:
 4. **Conexiones** - Verificar todas las conexiones antes de energizar
 
 
-## 📱 CONFIGURACIÓN ARDUINO IOT CLOUD DASHBOARD
-**Widgets Requeridos:**
-- Switch LED Rojo - Control ON/OFF
-- Switch LED Verde - Control ON/OFF
-- Switch LED Azul - Control ON/OFF
-- Switch Relevador/Foco - Control ON/OFF
-- Gauge Temperatura - Monitoreo en tiempo real
-- Status Movement - Indicador de movimiento detectado
-- Status Gesture - Indicador de gesto detectado
-
-**Variables Virtuales**
-- ```ledRed```, ```ledGreen```, ```ledBlue``` (CloudColor)
-- ```relayState``` (CloudBoolean)
-- ```movementDetected``` (CloudBoolean)
-- ```gestureDetected``` (CloudBoolean)
-- ```temperature``` (CloudTemperature)
-
 ## 🚀 ENTREGABLES
 - Código completo con comentarios en github (URL)
 - Circuito físico funcionando
