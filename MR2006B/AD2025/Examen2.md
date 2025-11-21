@@ -13,7 +13,7 @@ Requerimientos:
 - Estados de los LEDs en una interfaz en el display OLED
 
 **2. 🌡️ Sistema de Control de Temperatura**
-<br>
+
 Requerimientos:
 - Monitoreo continuo de temperatura con LM35
 - Umbral automático: 25°C
@@ -21,13 +21,13 @@ Requerimientos:
 - Control manual remoto vía IoT del encendido del foco
 
 **3. 📡 Detección de Movimiento y Gestos**
-<br>
+
 Requerimientos:
 - Detección de movimiento vertical/horizontal --> Encendido de un segundo de un led rojo local y virtual
 - Detección de gesto UP --> Encendido del buzzer durante un segundo
 
 **4. 📊 Interfaz OLED Integral**
-<br>
+
 Requerimientos:
 - Estados de todos los componentes del sistema
 - Valores de sensores en tiempo real
