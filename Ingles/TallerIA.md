@@ -1,7 +1,7 @@
 # 🚦 Traffic Lights for AI
 
 **Objetivo general:**
-Que lxs profesores experimenten **tres niveles de interacción** con IA generativa (prohibida, asistida y permitida) aplicados al diseño de actividades de enseñanza de inglés, tomando decisiones conscientes sobre su **rol como educadores** y el **pensamiento crítico** de los estudiantes.
+Que lxs profesores experimenten **tres niveles de interacción** con IA generativa (prohibida, asistida y permitida) aplicados al diseño de actividades de enseñanza de inglés, tomando decisiones conscientes sobre su **rol como educadores** y el **pensamiento crítico** de lxs estudiantes.
 
 ---
 
