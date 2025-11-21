@@ -8,30 +8,30 @@ Desarrollar un sistema integral de control y monitoreo que combine control local
 **1. 🎨 Control de LEDs RGB**
 
 Requerimientos:
-- Control local mediante botones táctiles del Carrier
-- Control remoto vía Arduino IoT Cloud
-- Estados de los LEDs en una interfaz en el display OLED
+- Encendido/Apagado local mediante botones táctiles del Carrier
+- Encendido/Apagado remoto vía Arduino IoT Cloud
+- Estados de los LEDs en un dashboard en Arduino IoT Cloud y en el display OLED
 
 **2. 🌡️ Sistema de Control de Temperatura**
 
 Requerimientos:
-- Monitoreo continuo de temperatura con LM35
+- Monitoreo continuo de temperatura en Arduino IoT Cloud utilizando el sensor integrado
 - Umbral automático: 25°C
 - Activación de relevador para foco de 100W en caso de que se supera el umbral
 - Control manual remoto vía IoT del encendido del foco
+- Estado del foco en el dashboard de Arduino IoT Cloud
 
 **3. 📡 Detección de Movimiento y Gestos**
 
 Requerimientos:
 - Detección de movimiento vertical/horizontal --> Encendido de un segundo de un led rojo local y virtual
-- Detección de gesto UP --> Encendido del buzzer durante un segundo
+- Detección de gesto UP --> Encendido del buzzer durante un segundo, estado del buzzer en el Arduino IoT Cloud
 
 **4. 📊 Interfaz OLED Integral**
 
 Requerimientos:
-- Estados de todos los componentes del sistema
+- Estados de todos los componentes del sistema (LEDs, Foco, Buzzer)
 - Valores de sensores en tiempo real
-- Notificaciones de eventos
 - Diseño organizado y legible
 
 ## 🔧 MATERIAL REQUERIDO
