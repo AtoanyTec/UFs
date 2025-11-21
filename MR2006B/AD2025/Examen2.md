@@ -93,7 +93,7 @@ Requerimientos:
 
 ### **📋 Rúbrica de Evaluación por Criterios**
 
-#### **1. Control de LEDs RGB** (20 puntos)
+#### **1. Control de LEDs RGB** (5 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -102,7 +102,7 @@ Requerimientos:
 | **Sincronización** | Sincronización bidireccional inmediata y perfecta | Sincronización funciona pero con delays menores a 2s | Sincronización solo en una dirección o inconsistente | No hay sincronización entre local/remoto |
 | **Feedback Visual** | Feedback en OLED y LEDs claro e inmediato | Feedback presente pero básico, algo de delay | Feedback incompleto o confuso | Sin feedback visual o incorrecto |
 
-#### **2. Sistema de Temperatura y Relevador** (20 puntos)
+#### **2. Sistema de Temperatura y Relevador** (10 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -111,7 +111,7 @@ Requerimientos:
 | **Control Manual IoT** | Control remoto inmediato y confiable | Control remoto funciona con delays aceptables | Control remoto inconsistente | Control manual IoT no implementado |
 | **Seguridad Foco 100W** | Instalación segura, protecciones implementadas, cableado profesional | Instalación segura pero sin protecciones extra | Instalación básica, medidas de seguridad mínimas | Instalación insegura o no funciona |
 
-#### **3. Detección de Movimiento y Gestos** (20 puntos)
+#### **3. Detección de Movimiento y Gestos** (10 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -120,7 +120,7 @@ Requerimientos:
 | **Notificaciones** | Notificaciones locales y remotas inmediatas en ambos sistemas | Notificaciones funcionan con delays menores a 2s | Notificaciones solo locales o incompletas | Sin notificaciones |
 | **Temporización** | Temporizadores precisos de 1 segundo (±0.1s) | Temporizadores dentro de ±0.2s del tiempo requerido | Temporizadores imprecisos (±0.5s o más) | Temporizadores no funcionan |
 
-#### **4. Interfaz OLED** (15 puntos)
+#### **4. Interfaz OLED** (5 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -129,7 +129,7 @@ Requerimientos:
 | **Diseño Visual** | Diseño profesional, organizado, uso efectivo del espacio | Diseño funcional pero básico, organización aceptable | Diseño desorganizado, uso ineficiente del espacio | Diseño caótico o sin estructura |
 | **Legibilidad** | Texto claro, bien estructurado, fácil de leer | Texto legible pero diseño simple | Texto difícil de leer en partes | Texto ilegible o mal formateado |
 
-#### **5. Integración IoT Cloud** (15 puntos)
+#### **5. Integración IoT Cloud** (5 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -138,7 +138,7 @@ Requerimientos:
 | **Sincronización** | Sincronización perfecta local/remoto, estados consistentes | Sincronización con delays aceptables (<3s) | Sincronización inconsistente o unidireccional | Sin sincronización |
 | **Confiabilidad** | Sistema 100% confiable, sin desconexiones | Sistema confiable con fallos menores ocasionales | Sistema con fallos frecuentes o inestable | Sistema no funcional |
 
-#### **6. Calidad de Código y Documentación** (10 puntos)
+#### **6. Calidad de Código y Documentación** (5 puntos)
 
 | Criterio | Excelente 🏆 | Satisfactorio ✅ | En Desarrollo 📈 | No Satisfactorio ❌ |
 |----------|--------------|------------------|-------------------|---------------------|
@@ -147,7 +147,21 @@ Requerimientos:
 | **Documentación** | Documentación completa, profesional, con diagramas | Documentación completa con explicaciones | Documentación incompleta o confusa | Sin documentación |
 | **Originalidad** | Soluciones creativas, optimizadas y bien implementadas | Implementación estándar pero correcta y funcional | Implementación con problemas de diseño | Código copiado sin comprensión |
 
-### **7. Competencia Técnica Individual** (10 puntos)
+### **7. Competencia Técnica Individual** (60 puntos)
+Sesión de preguntas y respuesas
+
+| Criterio 📈| Cumple ✅  |
+|----------|--------------|
+| **Precisión de conetnido** | Si/No |
+| **Profundidad Técnica** | Si/No |
+| **Aplicación de Conceptos** | Si/No |
+| **Claridad Expositiva** | Si/No |
+| **Nivel de Detalle** | Si/No |
+| **Análisis Crítico** | Si/No |
+| **Fluidez Verbal** | Si/No |
+| **Vocabulario Técnico** | Si/No |
+| **Lenguaje No Verbal** | Si/No |  
+
 
 
 
