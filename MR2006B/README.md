@@ -1,7 +1,7 @@
 
 # 🚀 MR2006B - Automatización Industrial (Microcontroladores)  
 
-¡Bienvenido al repositorio de **MR2006B**! 🎯 En el periodo AD2025 se trabajó con un simulador de una computadora de 4 bits para que los estudiantes aprendieran a programar en lenguaje máquina. Además, se utilizó el Arduino MKR WiFi 1010 y el MKR Carrier para que los estudiantes programaran en lenguaje C. Todo esto fue parte de un proyecto Novus  
+¡Bienvenido al repositorio de **MR2006B**! 🎯 
 
 ## 📌 Contenido del repositorio  
 🧪 **Prácticas de laboratorio** – Experimentos y actividades prácticas.  
