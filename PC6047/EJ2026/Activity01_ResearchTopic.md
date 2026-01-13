@@ -1,6 +1,6 @@
-# 📘 Assignment: Research Project – Scientific Inquiry
+# 📘 Assignment: Research Topic Definition
 
-## 🧪 Course Activity (High School)
+## 🧪 Course Activity
 
 **Submission Type:** PDF  
 **Team Work:** Yes (2–4 students)  
