@@ -148,5 +148,52 @@ Durante la demo, el equipo debe:
 
 ---
 
+## 12) Prototipo físico: simulación de un salón de clases 🏫✨
+
+Además del funcionamiento electrónico y del dashboard, **el equipo debe construir un prototipo que simule un salón de clases** donde se observe claramente el sistema implementado.
+
+### Requisitos del prototipo físico
+El prototipo debe:
+- Representar un **salón de clases** (paredes, puertas, ventanas, techo o distribución básica).
+- Integrar de forma visible:
+  - Sensor(es) **PIR** (simulando su ubicación real en un salón).
+  - **LED 1 (Luz)** y **LED 2 (Aire acondicionado)** colocados de manera lógica.
+- Permitir observar claramente cuándo:
+  - Hay presencia → LEDs encendidos
+  - No hay presencia → LEDs apagados
+
+### Materiales permitidos (libre elección) 🧱
+Pueden usar uno o varios de los siguientes:
+- 📦 Cartón / cartón pluma
+- 📦 MDF o madera delgada
+- 🖨️ Impresión 3D
+- 🧩 Material reciclado
+- 🎨 Pintura, marcadores, etiquetas o viniles
+
+### Criterios de diseño
+- El prototipo debe ser **estable y resistente** para la demostración.
+- Debe ser **ordenado y estéticamente presentable**.
+- La electrónica debe estar bien integrada (no solo “colgada”).
+- Se recomienda **rotular**:
+  - “Sensor PIR”
+  - “Luz”
+  - “Aire acondicionado”
+
+> ⚠️ **Importante:** El prototipo no es solo decorativo. Debe ayudar a **entender cómo funcionaría el sistema en un salón real**.
+
+### Relación con la evaluación
+- Este apartado impacta directamente en:
+  - **Presentación del prototipo (20%)**
+  - **Pensamiento crítico (20%)**, al justificar:
+    - Ubicación de sensores
+    - Distribución del salón
+    - Decisiones de diseño físico
+
+---
+
+🎯 **Objetivo del prototipo:**  
+Demostrar que el equipo puede **llevar una solución electrónica e IoT a un contexto real**, comunicando visualmente cómo se aplicaría en un salón de clases verdadero.
+
+
 ✅ **Meta final:** Un sistema claro, funcional y presentable que demuestre **detección de presencia + control de cargas simuladas + monitoreo en IoT Cloud**.
 ```
