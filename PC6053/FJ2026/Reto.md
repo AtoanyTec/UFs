@@ -1,4 +1,4 @@
-# 🤖⚡ “Aula Inteligente: Ahorro de Energía con Detección de Presencia”<img width="1708" height="109" alt="image" src="https://github.com/user-attachments/assets/df4b8298-276f-4762-a31c-b400871294ae" />
+# 🤖⚡ “Aula Inteligente: Ahorro de Energía con Detección de Presencia”
 
 
 ## 1) Contexto 🌎
