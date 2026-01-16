@@ -42,7 +42,7 @@ Tu solución debe ser:
 ---
 
 ## 4) Materiales sugeridos 🧰 *(ajusta según lo disponible)*
-- 1 Arduino compatible con **Arduino IoT Cloud** (p. ej. MKR WiFi 1010, Nano 33 IoT, etc.)
+- 1 ESP32
 - 1 Sensor **PIR** (mínimo)  
 - 2 LEDs (LED 1 = Luz, LED 2 = Aire)
 - 2 resistencias (ej. 220Ω) para LEDs
