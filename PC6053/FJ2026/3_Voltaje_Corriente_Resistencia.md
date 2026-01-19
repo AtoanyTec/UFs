@@ -114,6 +114,9 @@ $I = \frac{V}{R}$
 
 📊 Compara el valor calculado con el valor medido.
 
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/53764d95-5931-420d-a8cd-b19996968a8e" />
+
+
 ---
 
 ## 📝 Cierre y reflexión (5 minutos)
