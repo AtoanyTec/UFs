@@ -10,7 +10,7 @@ You will:
 1. Choose a **simple research topic** that interests you.
 2. Search for **academic papers** related to your topic using the **Biblioteca TEC** website.
 3. Download **3 different academic papers**.
-4. Write a **short paragraph** summarizing what you learned from those papers.
+4. Write a **short paragraph**(20 lines) summarizing what you learned from those papers.
 
 ---
 
