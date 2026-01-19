@@ -40,7 +40,7 @@ $V = I \cdot R$
 
 ---
 
-## 🟢 Parte 1: Construcción del circuito base (10 minutos)
+## 🟢 Parte 1: Construcción del circuito base (5 minutos)
 
 ### 🔧 Instrucciones
 1. Entra a **Tinkercad → Circuits → Create new Circuit**
@@ -61,7 +61,7 @@ $V = I \cdot R$
 
 ---
 
-## 🟡 Parte 2: Explorando la resistencia (15 minutos)
+## 🟡 Parte 2: Explorando la resistencia (10 minutos)
 
 Modifica **solo el valor de la resistencia** y observa el cambio en el LED:
 
@@ -119,7 +119,7 @@ $I = \frac{V}{R}$
 
 ---
 
-## 🔴 Parte 5: Resistencia para cada color de LEDs (5 minutos)
+## 🔴 Parte 5: Resistencia para cada color de LEDs (10 minutos)
 
 1.Mide el valor adecuado de resistencia para cada color de LED utilizando la siguiente ecuación, utilizando un valor de corriente funcional del diodo de 20 mA
 \[
