@@ -121,7 +121,8 @@ $I = \frac{V}{R}$
 
 ## 🔴 Parte 5: Resistencia para cada color de LEDs (10 minutos)
 
-1.Mide el valor adecuado de resistencia para cada color de LED utilizando la siguiente ecuación, utilizando un valor de corriente funcional del diodo de 20 mA <br>
+1. Mide el valor adecuado de resistencia para cada color de LED utilizando la siguiente ecuación, utilizando un valor de corriente funcional del diodo de 20 mA <br>
+
 \[
 $R = \frac{V_fuente - V}{I}$
 \]
