@@ -1,4 +1,4 @@
-# 📚 Mini Research Activity: Literature Exploration
+# 📚 Getting to Know the Digital Library
 
 ## 🎯 Objective
 The objective of this activity is for you to **select a simple research topic** and explore what has already been done in that area by reviewing **academic papers**. This will help you understand the **context**, **existing theories**, and **technologies** related to your topic.
