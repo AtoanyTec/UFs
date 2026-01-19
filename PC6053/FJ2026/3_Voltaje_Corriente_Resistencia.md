@@ -125,7 +125,8 @@ $I = \frac{V}{R}$
 \[
 $R = \frac{V_fuente - V}{I}$
 \]
-3.Completa la siguiente tabla
+
+2. Completa la siguiente tabla
 | ⚡ Color  | 💡 Resistencia |
 |------------|--------------|
 | Rojo       |              |
