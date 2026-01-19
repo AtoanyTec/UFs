@@ -119,6 +119,28 @@ $I = \frac{V}{R}$
 
 ---
 
+## 🔴 Parte 5: Resistencia para cada color de LEDs (5 minutos)
+
+1.Mide el valor adecuado de resistencia para cada color de LED utilizando la siguiente ecuación, utilizando un valor de corriente funcional del diodo de 20 mA
+\[
+$R = \frac{V_fuente - V}{I}$
+\]
+3.Completa la siguiente tabla
+| ⚡ Color  | 💡 Resistencia |
+|------------|--------------|
+| Rojo       |              |
+| Ammarillo  |              |
+| Verde      |              |
+| Naranja    |              |
+| Blanco     |              |
+| Azul       |              |
+
+<img width="441" height="357" alt="image" src="https://github.com/user-attachments/assets/abcd422b-ba5f-4e49-9b79-ab09a8c35444" />
+
+
+
+---
+
 ## 📝 Cierre y reflexión (5 minutos)
 
 Responde brevemente:
@@ -126,6 +148,7 @@ Responde brevemente:
 - ¿Cómo se relacionan voltaje, corriente y resistencia?
 - ¿Qué concepto te resultó más fácil de entender? ¿Por qué?
 - Menciona un ejemplo de la vida diaria donde se apliquen estos conceptos 🔌🏠
+- ¿Qué pasaría si conectamos el LED sin resistencia?
 
 ---
 
@@ -133,13 +156,3 @@ Responde brevemente:
 - 📸 Captura del circuito funcionando en Tinkercad  
 - 📝 Respuestas a las preguntas de reflexión
 
----
-
-## ⭐ Reto opcional
-🤔 ¿Qué pasaría si conectamos el LED **sin resistencia**?  
-Relaciona tu respuesta con **seguridad eléctrica** ⚠️
-
----
-
-¡Listo! 🚀  
-Esta actividad te ayudará a **ver, medir y entender** cómo funciona la electricidad en la vida real.
