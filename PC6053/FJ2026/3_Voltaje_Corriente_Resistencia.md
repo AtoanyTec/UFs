@@ -135,7 +135,7 @@ $R = \frac{V_fuente - V}{I}$
 | Blanco     |              |
 | Azul       |              |
 
-<img width="441" height="357" alt="image" src="https://github.com/user-attachments/assets/abcd422b-ba5f-4e49-9b79-ab09a8c35444" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/abcd422b-ba5f-4e49-9b79-ab09a8c35444" />
 
 
 
