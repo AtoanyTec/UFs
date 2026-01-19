@@ -31,7 +31,7 @@ Comprender de manera **práctica y visual** los conceptos de **voltaje**, **corr
 
 📐 **Ley de Ohm**:
 \[
-V = I \cdot R
+$V = I \cdot R$
 \]
 
 ---
