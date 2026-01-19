@@ -10,7 +10,9 @@ You will:
 1. Choose a **simple research topic** that interests you.
 2. Search for **academic papers** related to your topic using the **Biblioteca TEC** website.
 3. Download **3 different academic papers**.
-4. Write a **short paragraph**(20 lines) summarizing what you learned from those papers.
+4. Write a **short paragraph**(10 lines) summarizing what you learned from those papers.
+6. Insert the bibliograpyhy using Mendeley or manually in IEEE Access format (not APA)
+7. Submmit the document in PDF format to Canvas
 
 ---
 
@@ -54,6 +56,7 @@ Write **one short paragraph (5–7 lines)** that includes:
 
 🟢 Write in your **own words**.  
 🚫 Do **not** copy and paste from the papers.
+🚫 Generative Artificial Intelligence is highly prohibited.
 
 ---
 
@@ -61,7 +64,7 @@ Write **one short paragraph (5–7 lines)** that includes:
 - 📄 A document (PDF or Word) that includes:
   - Your **research topic title**
   - The **short paragraph**
-  - A list of the **3 papers** used (title + authors)
+  - Bibliograhy in IEEE Access format
 
 ---
 
@@ -70,6 +73,7 @@ Write **one short paragraph (5–7 lines)** that includes:
 - ✔️ Papers are relevant and academic
 - ✔️ Paragraph clearly explains context, previous work, and related theories/technologies
 - ✔️ Writing is clear and original ✨
+- ✔️ Bibliography
 
 ---
 
