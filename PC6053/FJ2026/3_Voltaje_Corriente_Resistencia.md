@@ -109,7 +109,7 @@ Mantén fija la resistencia (**220 Ω**) y cambia el voltaje de la batería:
    - 🔄 Corriente del circuito
 3. Calcula la corriente usando la Ley de Ohm:
 \[
-I = \frac{V}{R}
+$I = \frac{V}{R}$
 \]
 
 📊 Compara el valor calculado con el valor medido.
