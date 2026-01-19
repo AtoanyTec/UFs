@@ -69,4 +69,71 @@ Modifica **solo el valor de la resistencia** y observa el cambio en el LED:
 | 1 kΩ           |                            |
 | 10 kΩ          |                            |
 
-### ❓
+### ❓ Preguntas guía
+- ¿Con qué resistencia pasa más corriente?
+- ¿Cuándo el LED brilla más?
+- ¿Qué ocurre cuando la resistencia aumenta?
+
+💡 **Conclusión esperada:**  
+> A mayor resistencia ➜ menor corriente ➜ menor brillo.
+
+---
+
+## 🔵 Parte 3: Explorando el voltaje (10 minutos)
+
+Mantén fija la resistencia (**220 Ω**) y cambia el voltaje de la batería:
+
+| ⚡ Voltaje | 💡 Resultado |
+|-----------|--------------|
+| 3 V       |              |
+| 5 V       |              |
+| 9 V       |              |
+
+### ❓ Preguntas guía
+- ¿Qué ocurre con el brillo del LED?
+- ¿Por qué cambia la corriente al aumentar el voltaje?
+
+💡 **Conclusión esperada:**  
+> A mayor voltaje ➜ mayor corriente (si la resistencia es constante).
+
+---
+
+## 🔴 Parte 4: Medición con multímetro (5 minutos)
+
+1. Agrega un **multímetro** en Tinkercad 🔍
+2. Mide:
+   - ⚡ Voltaje de la batería
+   - 🔄 Corriente del circuito
+3. Calcula la corriente usando la Ley de Ohm:
+\[
+I = \frac{V}{R}
+\]
+
+📊 Compara el valor calculado con el valor medido.
+
+---
+
+## 📝 Cierre y reflexión (5 minutos)
+
+Responde brevemente:
+
+- ¿Cómo se relacionan voltaje, corriente y resistencia?
+- ¿Qué concepto te resultó más fácil de entender? ¿Por qué?
+- Menciona un ejemplo de la vida diaria donde se apliquen estos conceptos 🔌🏠
+
+---
+
+## 📦 Entregable
+- 📸 Captura del circuito funcionando en Tinkercad  
+- 📝 Respuestas a las preguntas de reflexión
+
+---
+
+## ⭐ Reto opcional
+🤔 ¿Qué pasaría si conectamos el LED **sin resistencia**?  
+Relaciona tu respuesta con **seguridad eléctrica** ⚠️
+
+---
+
+¡Listo! 🚀  
+Esta actividad te ayudará a **ver, medir y entender** cómo funciona la electricidad en la vida real.
