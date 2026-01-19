@@ -45,7 +45,7 @@ $V = I \cdot R$
 ### 🔧 Instrucciones
 1. Entra a **Tinkercad → Circuits → Create new Circuit**
 2. Agrega los siguientes componentes:
-   - 🔋 Batería (9 V o fuente DC)
+   - 🔋 Fuente 9 V
    - 💡 LED
    - 🧱 Resistencia de **220 Ω**
 3. Conecta:
