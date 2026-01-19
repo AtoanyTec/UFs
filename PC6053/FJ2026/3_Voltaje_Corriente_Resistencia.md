@@ -124,10 +124,11 @@ $I = \frac{V}{R}$
 1. Mide el valor adecuado de resistencia para cada color de LED utilizando la siguiente ecuación, utilizando un valor de corriente funcional del diodo de 20 mA <br>
 
 \[
-$R = \frac{V_fuente - V}{I}$
+$R = \frac{V_fuente - Tensión Umbral}{I}$
 \]
 
-2. Completa la siguiente tabla
+2. Completa la siguiente tabla <br>
+
 | ⚡ Color  | 💡 Resistencia |
 |------------|--------------|
 | Rojo       |              |
