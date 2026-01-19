@@ -52,6 +52,9 @@ $V = I \cdot R$
    - Positivo de la batería → resistencia → LED → negativo
 4. Inicia la simulación ▶️
 
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/39104156-0f91-4551-bf69-94e85a18cfdb" />
+
+
 ### 👀 Observa
 - ¿El LED enciende?
 - ¿Qué tan brillante es?
