@@ -107,7 +107,6 @@ Describe **the data you expect to obtain**.
 | **Hypothesis** | Logical, testable, and clearly linked to the question | Testable and related to the question | Partially testable or unclear | Hypothesis is missing or incorrect |
 | **Experiment Design** | Well-structured, includes variables, materials, and clear procedure | Mostly complete, minor details missing | Limited explanation, missing key elements | Experiment not described or incorrect |
 | **Results** | Results are clearly described and logically presented | Results are understandable but lack detail | Results are unclear or incomplete | Results are missing |
-| **Conclusion** | Strong interpretation supported by results and reflection | Conclusion relates to results | Weak or superficial conclusion | Conclusion missing or incorrect |
 | **Organization & Clarity** | Excellent structure and scientific language | Clear structure with minor issues | Some organization problems | Poorly organized and unclear |
  
 
