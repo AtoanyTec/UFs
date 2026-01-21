@@ -95,7 +95,6 @@ Describe **the data you expect to obtain**.
 📄 Submit **one document or infographic** that includes:
 - Your research topic
 - All **six steps of the scientific method**
-- Clear headings and scientific language
 
 ---
 
