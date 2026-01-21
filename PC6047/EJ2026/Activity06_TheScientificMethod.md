@@ -1,4 +1,4 @@
-# 🔬 Activity: Applying the Scientific Method to Your Research Topic
+# 🔬 Activity: The Scientific Method to Your Research Topic
 
 ## 🎯 Objective
 Use **your own research topic** to identify and clearly explain **each step of the scientific method**, demonstrating scientific thinking, logical reasoning, and clarity.
