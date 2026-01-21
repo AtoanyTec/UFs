@@ -90,17 +90,6 @@ Describe **the data you expect to obtain**.
 
 ---
 
-### 🧠 Step 7: Conclusion
-Explain what the results mean.
-
-✔ Did the results support your hypothesis?  
-✔ What did you learn?  
-✔ What could be improved or studied next?
-
-📌 *Example:*  
-> The hypothesis was supported because higher temperatures increased plant growth.
-
----
 
 ## 📦 Deliverable
 📄 Submit **one document or infographic** that includes:
