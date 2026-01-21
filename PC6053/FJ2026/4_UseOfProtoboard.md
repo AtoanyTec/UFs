@@ -23,7 +23,7 @@ By the end of this activity, you will be able to:
 - Protoboard (Breadboard)  
 - LED 🔴  
 - Resistor (220 Ω or 330 Ω)  
-- Power supply (5V) or Arduino  
+- Power supply (5V)
 - Jumper wires  
 
 ---
