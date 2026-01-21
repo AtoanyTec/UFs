@@ -1,106 +1,106 @@
-# 🔌💡 Use of Protoboard
+# 🔌💡 Uso del Protoboard
 
-## 🎯 Objective
-By the end of this activity, you will be able to:
-- Identify the main parts of a **protoboard (breadboard)** 🧩  
-- Correctly connect an **LED** and a **resistor** 🔴  
-- Understand why resistors are needed to protect LEDs ⚡  
-- Build and simulate a simple circuit in **Tinkercad** 💻  
-
----
-
-## ⏱️ Duration
-**30 minutes**
+## 🎯 Objetivo
+Al finalizar esta actividad, podrás:
+- Identificar las partes principales de una **protoboard** 🧩  
+- Conectar correctamente un **LED** y un **resistor** 🔴  
+- Comprender por qué los resistores son necesarios para proteger los LEDs ⚡  
+- Construir y simular un circuito simple en **Tinkercad** 💻  
 
 ---
 
-## 🛠️ Tool
+## ⏱️ Duración
+**30 minutos**
+
+---
+
+## 🛠️ Herramienta
 💻 **Tinkercad – Circuits**
 
 ---
 
-## 📚 Materials (Virtual)
-- Protoboard (Breadboard)  
+## 📚 Materiales (Virtuales)
+- Protoboard  
 - LED 🔴  
-- Resistor (220 Ω or 330 Ω)  
-- Power supply (5V)
-- Jumper wires  
+- Resistor (220 Ω o 330 Ω)  
+- Fuente de alimentación (5V) o Arduino  
+- Cables jumper  
 
 ---
 
-## 🧠 Before You Start (5 min)
-Remember:
-- A **protoboard** lets you build circuits without soldering 🧱  
-- An **LED** has polarity:
-  - Long leg → **Anode (+)**  
-  - Short leg → **Cathode (–)**  
-- A **resistor** limits current and protects the LED 🛡️  
+## 🧠 Antes de Empezar (5 min)
+Recuerda:
+- La **protoboard** permite construir circuitos sin soldar 🧱  
+- Un **LED** tiene polaridad:
+  - Patita larga → **Ánodo (+)**  
+  - Patita corta → **Cátodo (–)**  
+- El **resistor** limita la corriente y protege al LED 🛡️  
 
-⚠️ **Never connect an LED directly to power without a resistor!**
+⚠️ **¡Nunca conectes un LED directamente a la fuente sin un resistor!**
 
 ---
 
-## 🛠️ Step-by-Step Instructions (15 min)
+## 🛠️ Instrucciones Paso a Paso (15 min)
 
-### 1️⃣ Open Tinkercad
-- Go to **Tinkercad → Circuits**
-- Click **Create New Circuit** ➕
+### 1️⃣ Abre Tinkercad
+- Ingresa a **Tinkercad → Circuits**
+- Da clic en **Create New Circuit** ➕
 
-### 2️⃣ Add Components
-Drag the following to your workspace:
+### 2️⃣ Agrega los Componentes
+Arrastra al área de trabajo:
 - Protoboard  
 - LED  
-- Resistor (220 Ω or 330 Ω)  
-- Power supply (5V) or Arduino  
+- Resistor (220 Ω o 330 Ω)  
+- Fuente de alimentación (5V) o Arduino  
 
-### 3️⃣ Place the LED
-- Insert the **long leg (anode +)** into one row of the breadboard  
-- Insert the **short leg (cathode –)** into a different row  
+### 3️⃣ Coloca el LED
+- Inserta la **patita larga (ánodo +)** en una fila de la protoboard  
+- Inserta la **patita corta (cátodo –)** en una fila diferente  
 
-### 4️⃣ Add the Resistor
-- Connect **one end of the resistor** to the LED anode (+)  
-- Connect the **other end of the resistor** to **+5V**  
+### 4️⃣ Conecta el Resistor
+- Conecta **un extremo del resistor** al ánodo (+) del LED  
+- Conecta el **otro extremo del resistor** a **+5V**  
 
-### 5️⃣ Complete the Circuit
-- Connect the **LED cathode (–)** to **GND (–)**  
-- Use jumper wires as needed 🔗  
+### 5️⃣ Cierra el Circuito
+- Conecta el **cátodo (–) del LED** a **GND (–)**  
+- Usa cables jumper si es necesario 🔗  
 
-### 6️⃣ Simulate
-- Click **Start Simulation ▶️**
-- 🎉 Your LED should turn ON!
-
----
-
-## 🔬 Experiment & Think (7 min)
-Try the following and observe what happens:
-
-- 🔄 Flip the LED direction — does it turn on?
-- ❌ Remove the resistor — what do you notice?
-- 🔢 Change the resistor value — does the brightness change?
-
-✍️ Write short answers (1–2 sentences) for each case.
+### 6️⃣ Simula
+- Da clic en **Start Simulation ▶️**
+- 🎉 ¡El LED debe encender!
 
 ---
 
-## 📦 Deliverable
-Submit:
-- 📸 A screenshot of your working circuit in Tinkercad  
-- 📝 Short answers to the experiment questions  
+## 🔬 Experimenta y Reflexiona (7 min)
+Prueba lo siguiente y observa qué sucede:
+
+- 🔄 Invierte la orientación del LED — ¿se enciende?
+- ❌ Quita el resistor — ¿qué ocurre?
+- 🔢 Cambia el valor del resistor — ¿cambia el brillo?
+
+✍️ Escribe respuestas cortas (1–2 oraciones) para cada caso.
 
 ---
 
-## 🤔 Reflection (3 min)
-Answer briefly:
-- Why is LED polarity important?  
-- Why do we need a resistor?  
-- How does the protoboard help you build circuits faster?
+## 📦 Entregable
+Entrega:
+- 📸 Captura de pantalla del circuito funcionando en Tinkercad  
+- 📝 Respuestas cortas a las preguntas de experimentación  
 
 ---
 
-## ⭐ Optional Challenge
-If you finish early:
-- Add a **second LED** 🌈  
-- Try a different LED color  
-- Control the LED using an **Arduino pin** 🤖  
+## 🤔 Reflexión Final (3 min)
+Responde brevemente:
+- ¿Por qué es importante la polaridad del LED?  
+- ¿Por qué necesitamos un resistor?  
+- ¿Cómo ayuda la protoboard a construir circuitos más rápido?
 
-🚀 Great job exploring basic electronics!
+---
+
+## ⭐ Reto Opcional
+Si terminas antes:
+- Agrega un **segundo LED** 🌈  
+- Prueba con otro color de LED  
+- Controla el LED usando un **pin de Arduino** 🤖  
+
+🚀 ¡Excelente trabajo explorando los fundamentos de la electrónica!
