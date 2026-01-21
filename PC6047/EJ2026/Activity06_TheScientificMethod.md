@@ -98,10 +98,18 @@ Describe **the data you expect to obtain**.
 
 ---
 
-## ✅ Evaluation Criteria
-- Clarity of each scientific method step 🧩  
-- Logical reasoning and consistency 🔗  
-- Clear writing and organization ✍️  
+## 📊 Evaluation Rubric
+
+| **Criteria** | **95-100 🏆** | **85-94 👍** | **75-84 ⚠️** | **0-74 ❌** |
+|-------------|---------------------------|-----------------------------|-------------------------|----------------------------|
+| **Observation** | Observation is clear, relevant, and scientifically grounded | Observation is clear but lacks depth | Observation is vague or partially relevant | Observation is unclear or missing |
+| **Research Question** | Question is precise, testable, and well-formulated | Question is testable but could be clearer | Question is weak or poorly defined | Question is missing or not testable |
+| **Hypothesis** | Logical, testable, and clearly linked to the question | Testable and related to the question | Partially testable or unclear | Hypothesis is missing or incorrect |
+| **Experiment Design** | Well-structured, includes variables, materials, and clear procedure | Mostly complete, minor details missing | Limited explanation, missing key elements | Experiment not described or incorrect |
+| **Results** | Results are clearly described and logically presented | Results are understandable but lack detail | Results are unclear or incomplete | Results are missing |
+| **Conclusion** | Strong interpretation supported by results and reflection | Conclusion relates to results | Weak or superficial conclusion | Conclusion missing or incorrect |
+| **Organization & Clarity** | Excellent structure and scientific language | Clear structure with minor issues | Some organization problems | Poorly organized and unclear |
+ 
 
 ---
 
