@@ -1,4 +1,4 @@
-# 🔌💡 Protoboard, LED & Resistor Activity (Tinkercad)
+# 🔌💡 Use of Protoboard
 
 ## 🎯 Objective
 By the end of this activity, you will be able to:
