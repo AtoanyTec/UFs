@@ -95,12 +95,4 @@ Responde brevemente:
 - ¿Por qué necesitamos un resistor?  
 - ¿Cómo ayuda la protoboard a construir circuitos más rápido?
 
----
 
-## ⭐ Reto Opcional
-Si terminas antes:
-- Agrega un **segundo LED** 🌈  
-- Prueba con otro color de LED  
-- Controla el LED usando un **pin de Arduino** 🤖  
-
-🚀 ¡Excelente trabajo explorando los fundamentos de la electrónica!
