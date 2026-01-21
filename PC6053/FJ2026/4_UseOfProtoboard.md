@@ -85,7 +85,7 @@ Prueba lo siguiente y observa qué sucede:
 ## 📦 Entregable
 Entrega:
 - 📸 Captura de pantalla del circuito funcionando en Tinkercad  
-- 📝 Respuestas cortas a las preguntas de experimentación  
+- 📝 PDF con las respuestas cortas a las preguntas de experimentación  
 
 ---
 
