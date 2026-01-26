@@ -1,4 +1,4 @@
-# 🔁💡 LEDs en Serie vs LEDs en Paralelo 
+# 🔁💡 LEDs en Serie vs LEDs en Paralelo (INDIVIDUAL)
 
 
 ---
