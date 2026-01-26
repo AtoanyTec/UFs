@@ -97,13 +97,8 @@ Puedes:
 ---
 
 ### 7️⃣ Conexión en paralelo
-Para **cada LED**:
-
-1. Conecta el **ánodo (+)** al riel de **5V** 🔴  
-2. Conecta el **cátodo (–)** a una **resistencia**  
-3. Conecta la resistencia a **GND** ⚫  
-
-👉 Ambos LEDs deben compartir la misma fuente, pero en **ramas independientes**
+Realiza la conexión de la siguiente manera: <br>
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/feffc56a-a56a-4ce5-9879-701af74628a4" />
 
 ---
 
@@ -136,16 +131,8 @@ Antes de entregar, revisa que:
 ## 📤 Entregable
 📸 **Captura de pantalla** de:
 - Circuito en serie funcionando  
-- Circuito en paralelo funcionando  
-
-📄 (Opcional) Respuestas a las preguntas de análisis
-
----
-
-## 🌟 Reto extra (opcional)
-💡 Agrega un tercer LED en cada circuito  
-💡 Compara el brillo nuevamente  
-💡 Explica por qué ocurre ese cambio
+- Circuito en paralelo funcionando
+- Respuestas a las preguntas de análisis
 
 ---
 
