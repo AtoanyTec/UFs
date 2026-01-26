@@ -1,18 +1,15 @@
-# 🔌💡 Práctica de Electrónica Básica  
-## Encendido de 4 LEDs con Tinkercad (Nivel Preparatoria)
-
-### 👩‍🎓👨‍🎓 Nivel
-Preparatoria / Bachillerato
+# 🔌💡 Encendido de LEDs (INDIVIDUAL)
+## Encendido de 4 LEDs con Tinkercad
 
 ---
 
 ## 🎯 Objetivo de aprendizaje
-Al finalizar esta actividad, el estudiante será capaz de:
+Al finalizar esta actividad, el/la estudiante será capaz de:
 
 - Identificar los componentes básicos de un circuito eléctrico 🔍  
-- Conectar correctamente **4 LEDs** usando una **protoboard**  
+- Conectar correctamente **4 LEDs** usando un **protoboard**  
 - Comprender la importancia de las **resistencias** para proteger los LEDs  
-- Utilizar **Tinkercad Circuits** para simular un circuito eléctrico ⚡
+- Utilizar **Tinkercad** para simular un circuito eléctrico ⚡
 
 ---
 
@@ -36,12 +33,6 @@ Dentro de Tinkercad necesitarás:
 - 🔌 1 protoboard  
 - 🔋 Fuente de energía de 5V o batería  
 - 🧲 Cables de conexión (jumpers)
-
----
-
-
-::contentReference[oaicite:0]{index=0}
-
 
 ---
 
@@ -103,17 +94,4 @@ Antes de entregar, revisa que:
 
 ## 📤 Entregable
 📸 **Captura de pantalla** del circuito funcionando en Tinkercad  
-🔗 (Opcional) Enlace del circuito compartido
 
----
-
-## 🌟 Reto extra (opcional)
-💡 Cambia los colores de los LEDs  
-💡 Modifica el valor de las resistencias y observa el brillo  
-💡 Intenta que los LEDs se enciendan con diferentes niveles de intensidad
-
----
-
-## 🚀 ¡Manos a la obra!
-Esta actividad es tu primer paso en el mundo de la electrónica ⚡  
-¡Explora, equivócate y aprende! 🤖✨
