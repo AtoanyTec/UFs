@@ -69,7 +69,7 @@ Antes de comenzar, recuerda:
 ---
 
 ### 3️⃣ Conexión en serie
-Conecta los LEDs en serie como se muestra a continuación:
+Conecta los LEDs en serie como se muestra a continuación: <br>
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/102eff6d-d520-4362-8d18-63699f86f7fc" />
 
 
