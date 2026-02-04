@@ -55,7 +55,7 @@ Se evaluará:
 
 ## 📊 Rúbrica de Evaluación
 
-| Criterio | Nivel 4 🏆 Excelente | Nivel 3 👍 Bueno | Nivel 2 ⚠️ Básico | Nivel 1 ❌ Insuficiente |
+| Criterio | Nivel 4 🏆 95-100 | Nivel 3 👍 85-94 | Nivel 2 ⚠️ 75-84 | Nivel 1 ❌ 0-74 |
 |--------|----------------------|------------------|-------------------|------------------------|
 | **Secuencia lógica** | Todas las etapas están completas y en orden correcto | La mayoría de las etapas están correctas | Presenta errores en el orden de las etapas | La secuencia es incorrecta o incompleta |
 | **Uso de símbolos** | Usa correctamente todos los símbolos del diagrama de flujo | Usa casi todos los símbolos correctamente | Uso limitado o incorrecto de símbolos | No usa los símbolos correctamente |
