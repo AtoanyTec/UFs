@@ -1,7 +1,7 @@
 # 🔴💡 Diagrama de Flujo: Parpadeo de un LED con Arduino
 
 ## 🎯 Objetivo
-Comprender la **lógica básica de programación** mediante la elaboración de un **diagrama de flujo** que represente el funcionamiento del parpadeo de un LED usando **:contentReference[oaicite:0]{index=0}**.
+Comprender la **lógica básica de programación** mediante la elaboración de un **diagrama de flujo** que represente el funcionamiento del parpadeo de un LED usando.
 
 ---
 
