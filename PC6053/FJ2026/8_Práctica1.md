@@ -1,4 +1,4 @@
-# 🧪 Actividad: Armado de Circuitos – Ejercicio A y B
+# 🧪 Práctica 1
 
 ## 🎯 Objetivo  
 Armar correctamente los **circuitos vistos en clase** correspondientes al **Ejercicio A** y **Ejercicio B**, aplicando buenas prácticas en el uso del protoboard y los componentes electrónicos.
