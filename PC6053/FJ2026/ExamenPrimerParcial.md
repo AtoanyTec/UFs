@@ -39,7 +39,8 @@ Se **anulará la pregunta** si ocurre cualquiera de los siguientes casos:
   - 📱 Teléfonos celulares  
   - ⌚ Relojes inteligentes  
   - 💻 Tablets o computadoras  
-  - 🎧 Audífonos  
+  - 🎧 Audífonos
+  - 👓 Lentes
 
 ⚠️ **El uso o portación de cualquier dispositivo electrónico** será motivo de **canalización inmediata al Comité de Integridad Académica**.
 
