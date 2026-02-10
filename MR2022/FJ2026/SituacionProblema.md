@@ -166,7 +166,6 @@ Debe incluir:
 | Funcionamiento de la maqueta | Representa fielmente el sistema real y cumple todos los comportamientos. | Funciona correctamente con ligeras omisiones. | Funcionamiento incompleto. | No funciona. |
 | Seguridad del sistema | Responde correctamente ante obstáculos y situaciones de riesgo. | Responde, pero puede mejorar. | Respuesta inconsistente. | No hay seguridad. |
 | Reporte técnico | Claro, completo y bien estructurado. | Claro con detalles menores. | Incompleto o poco claro. | Deficiente o no entregado. |
-
 | **1. Movimiento de enrollado/desenrollado** | La maqueta reproduce claramente el enrollado y desenrollado de la cortina de forma estable y continua. | El movimiento es correcto, con ligeras vibraciones o desalineaciones. | El movimiento es irregular o poco claro. | No se observa correctamente el enrollado/desenrollado. |
 | **2. Subida completa hasta el límite superior** | La cortina sube siempre hasta el límite superior definido y se detiene correctamente. | Llega al límite, pero con ligeros retrasos o ajustes. | Llega de forma inconsistente al límite. | No respeta el límite superior. |
 | **3. Bajada completa hasta el límite inferior** | La cortina baja hasta el límite inferior y se detiene correctamente. | Llega al límite con pequeños errores. | La bajada es incompleta o inestable. | No respeta el límite inferior. |
