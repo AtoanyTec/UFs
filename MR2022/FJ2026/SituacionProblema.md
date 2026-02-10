@@ -155,15 +155,7 @@ Debe incluir:
 
 ## 📊 Rúbrica de evaluación
 
-| Criterio | Nivel 4 – Excelente | Nivel 3 – Satisfactorio | Nivel 2 – Básico | Nivel 1 – Insuficiente |
-|--------|---------------------|-------------------------|------------------|------------------------|
-| Diseño de la cortina real | Cumple totalmente los requerimientos técnicos y presenta análisis mecánico completo y correcto. | Cumple la mayoría de los requerimientos con análisis adecuado. | Cumple parcialmente; análisis incompleto. | No cumple requerimientos; sin análisis. |
-| Selección de actuadores | Actuador adecuado y plenamente justificado. | Actuador funcional con justificación parcial. | Actuador poco justificado. | Actuador incorrecto o sin justificación. |
-| Selección de sensores | Sensores adecuados, bien implementados y justificados. | Sensores funcionales con detalles menores. | Sensores limitados o mal justificados. | Sensores incorrectos o no funcionales. |
-| Lógica de control y código | Implementa correctamente todos los modos y funciones; código claro y comentado. | Funciona correctamente con detalles menores. | Funciona parcialmente; faltan funciones. | No funciona o no cumple requerimientos. |
-| Funcionamiento de la maqueta | Representa fielmente el sistema real y cumple todos los comportamientos. | Funciona correctamente con ligeras omisiones. | Funcionamiento incompleto. | No funciona. |
-| Seguridad del sistema | Responde correctamente ante obstáculos y situaciones de riesgo. | Responde, pero puede mejorar. | Respuesta inconsistente. | No hay seguridad. |
-| Reporte técnico | Claro, completo y bien estructurado. | Claro con detalles menores. | Incompleto o poco claro. | Deficiente o no entregado. |
+
 
 ---
 
