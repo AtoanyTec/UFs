@@ -161,7 +161,7 @@ Debe incluir:
 |---------------------------|-------------------------|-----------------------------|----------------------|----------------------------|
 | **Diseño de la cortina real** | Cumple totalmente los requerimientos técnicos y presenta análisis mecánico completo y correcto. | Cumple la mayoría de los requerimientos con análisis adecuado. | Cumple parcialmente; análisis incompleto. | No cumple requerimientos; sin análisis. |
 | **Selección de actuadores** | Actuador adecuado y plenamente justificado. | Actuador funcional con justificación parcial. | Actuador poco justificado. | Actuador incorrecto o sin justificación. |
-| **Selección de sensore**s | Sensores adecuados, bien implementados y justificados. | Sensores funcionales con detalles menores. | Sensores limitados o mal justificados. | Sensores incorrectos o no funcionales. |
+| **Selección de sensores** | Sensores adecuados, bien implementados y justificados. | Sensores funcionales con detalles menores. | Sensores limitados o mal justificados. | Sensores incorrectos o no funcionales. |
 | **Reporte técnico** | Claro, completo y bien estructurado. | Claro con detalles menores. | Incompleto o poco claro. | Deficiente o no entregado. |
 | **Movimiento de enrollado/desenrollado** | La maqueta reproduce claramente el enrollado y desenrollado de la cortina de forma estable y continua. | El movimiento es correcto, con ligeras vibraciones o desalineaciones. | El movimiento es irregular o poco claro. | No se observa correctamente el enrollado/desenrollado. |
 | **Subida completa hasta el límite superior** | La cortina sube siempre hasta el límite superior definido y se detiene correctamente. | Llega al límite, pero con ligeros retrasos o ajustes. | Llega de forma inconsistente al límite. | No respeta el límite superior. |
@@ -170,7 +170,7 @@ Debe incluir:
 | **Diferenciación de velocidades** | Se observa claramente una velocidad rápida (subida) y una velocidad lenta (bajada/paro). | Las velocidades son distinguibles, pero poco marcadas. | Las velocidades son casi iguales. | No existe control de velocidades. |
 | **Modo manual (botones)** | La cortina se mueve únicamente mientras el botón está presionado y se detiene al soltarlo. | El modo manual funciona con pequeños retrasos. | El control manual es impreciso. | No existe modo manual funcional. |
 | **Modo automático (ciclo completo)** | Ejecuta correctamente todo el ciclo automático sin intervención externa. | El ciclo funciona con ligeros errores. | El ciclo es incompleto. | No existe modo automático. |
-| **Tiempo de espera en posición superior** | El tiempo de espera es claramente observable y configurable. | El tiempo existe, pero no es configurable. | El tiempo es poco claro. | No hay tiempo de espera. |
+| **Tiempo de espera en posición superior** | El tiempo de espera es claramente observable. | El tiempo existe, pero no es observable. | El tiempo es poco claro. | No hay tiempo de espera. |
 | **Detección de obstáculos** | El sensor detecta confiablemente obstáculos durante la bajada. | Detecta obstáculos, pero con retraso. | La detección es inconsistente. | No hay detección de obstáculos. |
 | **Respuesta ante obstáculo** | Al detectar obstáculo, la cortina se detiene, sube y reinicia el ciclo correctamente. | Responde, pero el reinicio es parcial. | La respuesta es incorrecta o tardía. | No hay respuesta de seguridad. |
 | **Pausa del tiempo de espera por obstáculo** | El tiempo de espera se suspende correctamente mientras el obstáculo está presente. | El tiempo se suspende parcialmente. | El tiempo no se gestiona correctamente. | No existe esta funcionalidad. |
@@ -178,6 +178,8 @@ Debe incluir:
 | **Estabilidad mecánica de la maqueta** | La estructura es sólida, estable y segura durante toda la operación. | La estructura es funcional, con ligeras vibraciones. | La estructura es frágil o inestable. | La maqueta es insegura. |
 | **Correspondencia con el sistema real** | La maqueta representa fielmente el comportamiento del sistema industrial real. | La representación es adecuada con pequeñas simplificaciones. | La representación es limitada. | No representa el sistema real. |
 | **Orden y seguridad del cableado** | Cableado ordenado, seguro y bien identificado. | Cableado funcional con detalles menores. | Cableado desordenado o poco seguro. | Cableado inseguro o incorrecto. |
+|**Funcionamiento el día de la presentación** | El sistema funciona completamente durante la presentación sin fallas, reinicios ni ajustes externos. | El sistema funciona, pero requiere un ajuste menor durante la presentación. | El sistema funciona parcialmente o presenta fallas frecuentes. | El sistema no funciona el día de la presentación. |
+| **Escala de la maqueta respecto al sistema real** | La maqueta respeta claramente una escala definida (1:10, 1:15 o 1:20) y está bien justificada. | La maqueta mantiene una escala aproximada, con ligeras inconsistencias. | La escala no es clara o está poco justificada. | La maqueta no respeta ninguna escala. |
 
 
 
