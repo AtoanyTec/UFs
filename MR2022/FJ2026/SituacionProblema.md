@@ -75,7 +75,7 @@ En este proyecto deberás:
 Ciclo completo:
 1. Subir a velocidad alta  
 2. Detenerse en límite superior  
-3. Esperar un tiempo configurable  
+3. Esperar tres segundos  
 4. Bajar a velocidad lenta  
 5. Detectar obstáculos y reaccionar  
 
