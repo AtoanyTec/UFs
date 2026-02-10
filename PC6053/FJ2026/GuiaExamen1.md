@@ -1,5 +1,4 @@
-# 🧪 Quiz – Ingeniería, Electrónica y Robótica Aplicada  
-**6.º semestre de preparatoria**
+# 🧪 Guía Primer Examen Parcial  
 
 **Instrucciones:** Lee cuidadosamente cada pregunta y marca **solo una respuesta correcta**.
 
