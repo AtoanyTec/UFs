@@ -46,7 +46,7 @@ En este proyecto deberás:
 
 ### 🔹 Límites de movimiento
 - Límite superior e inferior definidos por:
-  - Sensores de posición **y/o**
+  - Sensores de posición
 - Los sensores deben proteger los límites mecánicos del sistema  
 
 ---
