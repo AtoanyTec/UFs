@@ -38,7 +38,6 @@ En este proyecto deberás:
 
 ### 🔹 Movimiento y desempeño
 - La cortina debe subir y bajar mediante enrollado  
-- **Tiempo de subida ajustable:** entre **3 y 5 segundos**  
 - Debe operar con **dos velocidades**:
   - 🔼 Velocidad alta al subir  
   - 🔽 Velocidad baja para detenerse y al bajar  
