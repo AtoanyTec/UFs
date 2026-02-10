@@ -73,3 +73,13 @@ El incumplimiento de las reglas establecidas será tratado conforme a los lineam
 Al continuar con el examen, el estudiante acepta cumplir **todas las instrucciones y normas aquí descritas**.
 
 ¡Éxito en tu evaluación! 🍀
+
+---
+
+## 🧠 Parte A (40%): Preguntas teóricas (1-15)
+**1. :** 
+
+---
+
+## 🛠️ Parte B (60%): Preguntas prácticas (16-20)
+**16. :**
