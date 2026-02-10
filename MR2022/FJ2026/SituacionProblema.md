@@ -86,15 +86,12 @@ Ciclo completo:
 #### 👤 Operador
 - Ver estado del sistema  
 - Ver alarmas (detección de obstáculo)  
-- Seleccionar modo manual o automático  
+- Seleccionar modo manual 
 - Operar la cortina  
 
-#### 👨‍💼 Supervisor
-- Ajustar:
-  - Límites de movimiento  
-  - Tiempos de espera  
-  - Velocidades  
-- Acceso protegido con contraseña  
+#### 👨‍💼 Supervisor 
+- Acceso protegido con contraseña
+- Seleccionar modo manual o automático 
 - Puede realizar todas las funciones del operador  
 
 ---
