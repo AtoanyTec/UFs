@@ -157,7 +157,7 @@ Debe incluir:
 ### Maqueta a Escala – Cortina Industrial Automatizada  
 **(Requerimientos técnicos observables en la maqueta)**
 
-| **Requerimiento técnico** | **Nivel 4 – Excelente** | **Nivel 3 – Satisfactorio** | **Nivel 2 – Básico** | **Nivel 1 – Insuficiente** |
+| **Requerimiento técnico** | **95-100 – Excelente** | **85-94 – Satisfactorio** | **75-84 – Básico** | **0-74 – Insuficiente** |
 |---------------------------|-------------------------|-----------------------------|----------------------|----------------------------|
 | **Diseño de la cortina real** | Cumple totalmente los requerimientos técnicos y presenta análisis mecánico completo y correcto. | Cumple la mayoría de los requerimientos con análisis adecuado. | Cumple parcialmente; análisis incompleto. | No cumple requerimientos; sin análisis. |
 | **Selección de actuadores** | Actuador adecuado y plenamente justificado. | Actuador funcional con justificación parcial. | Actuador poco justificado. | Actuador incorrecto o sin justificación. |
