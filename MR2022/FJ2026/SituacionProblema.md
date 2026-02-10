@@ -15,7 +15,6 @@ En este proyecto deberás:
 
 - Diseñar una **cortina industrial real**, considerando dimensiones, cargas, seguridad y control  
 - Seleccionar y justificar **sensores y actuadores** adecuados  
-- Diseñar la **arquitectura de control** del sistema  
 - Construir una **maqueta a escala funcional** que represente fielmente el comportamiento del sistema real  
 
 ⚠️ **La maqueta no es decorativa**: debe demostrar físicamente el funcionamiento del sistema.
