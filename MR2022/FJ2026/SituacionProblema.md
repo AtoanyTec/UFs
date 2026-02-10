@@ -153,7 +153,7 @@ Debe incluir:
 
 ---
 
-## 📊 Rúbrica de evaluación
+## 📊 Rúbrica de evaluación de la Presentación Final
 ### Maqueta a Escala – Cortina Industrial Automatizada  
 **(Requerimientos técnicos observables en la maqueta)**
 
