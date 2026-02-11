@@ -116,6 +116,11 @@ Cada diagrama debe incluir:
 
 ---
 
+## 🧠 Pregunta de reflexión (obligatoria)
+
+¿Qué sucede con la trayectoria si el valor de \(L\) aumenta?  
+Explique físicamente el efecto en el radio de giro.
+
 ## 📦 Entregables
 
 Subir un archivo en **PDF** que incluya:
@@ -149,7 +154,4 @@ Subir un archivo en **PDF** que incluya:
 
 ---
 
-## 🧠 Pregunta de reflexión (obligatoria)
 
-¿Qué sucede con la trayectoria si el valor de \(L\) aumenta?  
-Explique físicamente el efecto en el radio de giro.
