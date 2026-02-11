@@ -5,7 +5,7 @@
 Al finalizar esta actividad, el/la estudiante será capaz de:
 
 - 📐 Aplicar el modelo cinemático tipo bicicleta con referencia en el eje trasero.
-- 🧮 Calcular la evolución de los estados $\((x, y, $\theta)\)$ bajo condiciones de velocidad constante.
+- 🧮 Calcular la evolución de los estados \((x, y, $\theta$)\) bajo condiciones de velocidad constante.
 - 🔄 Analizar el movimiento rectilíneo y el movimiento en arco.
 - 🧠 Interpretar geométricamente la trayectoria del robot.
 
