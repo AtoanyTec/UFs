@@ -5,7 +5,7 @@
 Al finalizar esta actividad, el/la estudiante será capaz de:
 
 - 📐 Aplicar el modelo cinemático tipo bicicleta con referencia en el eje trasero.
-- 🧮 Calcular la evolución de los estados \((x, y, $\theta)\) bajo condiciones de velocidad constante.
+- 🧮 Calcular la evolución de los estados $\((x, y, $\theta)\)$ bajo condiciones de velocidad constante.
 - 🔄 Analizar el movimiento rectilíneo y el movimiento en arco.
 - 🧠 Interpretar geométricamente la trayectoria del robot.
 
@@ -35,19 +35,19 @@ $\[
 \dot{x} = v \cos \theta
 \]$
 
-\[
+$\[
 \dot{y} = v \sin \theta
-\]
+\]$
 
-\[
+$\[
 \dot{\theta} = \frac{v}{L} \tan \delta
-\]
+\]$
 
 Donde:
 
-- \(L\) = distancia entre ejes del robot  
-- \(v\) = velocidad lineal  
-- \(\delta\) = ángulo de dirección  
+- $\(L\)$ = distancia entre ejes del robot  
+- $\(v\)$ = velocidad lineal  
+- $\(\delta\)$ = ángulo de dirección  
 
 ---
 
@@ -59,16 +59,16 @@ Donde:
 
 1. Establece las condiciones iniciales:
 
-\[
+$\[
 x(0)=0, \quad y(0)=0, \quad \theta(0)=0
-\]
+\]$
 
 2. Integra el modelo cinemático.
 3. Calcula el estado final:
 
-\[
+$\[
 (x_1, y_1, \theta_1)
-\]
+\]$
 
 4. Explica por qué la orientación no cambia en este tramo.
 
@@ -78,21 +78,21 @@ x(0)=0, \quad y(0)=0, \quad \theta(0)=0
 
 1. Usa como condiciones iniciales:
 
-\[
+$\[
 (x_1, y_1, \theta_1)
-\]
+\]$
 
 2. Calcula:
 
-- La velocidad angular \(\omega\)
-- El cambio total de orientación \(\Delta \theta\)
-- El radio de giro \(R\)
+- La velocidad angular $\(\omega\)$
+- El cambio total de orientación $\(\Delta \theta\)$
+- El radio de giro $\(R\)$
 
 3. Determina el estado final:
 
-\[
+$\[
 (x_2, y_2, \theta_2)
-\]
+\]$
 
 4. Interpreta físicamente el significado del radio de giro.
 
@@ -108,10 +108,10 @@ Realiza tres diagramas claramente etiquetados:
 
 Cada diagrama debe incluir:
 
-- Sistema de referencia \(x,y\)
+- Sistema de referencia $\(x,y\)$
 - Posición del eje trasero
-- Orientación \(\theta\)
-- Ángulo de dirección \(\delta\) (cuando aplique)
+- Orientación $\(\theta\)$
+- Ángulo de dirección $\(\delta\)$ (cuando aplique)
 - Trayectoria recorrida
 
 ---
