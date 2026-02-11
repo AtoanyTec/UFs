@@ -55,7 +55,7 @@ Donde:
 
 ---
 
-### 🔹 Parte 1 – Movimiento Rectilíneo (7 segundos)
+### 🔹 Parte 1 – Movimiento con Giro (2 segundos)
 
 1. Establece las condiciones iniciales:
 
@@ -74,7 +74,7 @@ $\[
 
 ---
 
-### 🔹 Parte 2 – Movimiento con Giro (5 segundos)
+### 🔹 Parte 2 – Movimiento Rectilíneo (10 segundos)
 
 1. Usa como condiciones iniciales:
 
