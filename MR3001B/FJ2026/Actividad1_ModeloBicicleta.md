@@ -132,9 +132,9 @@ Subir un archivo en **PDF** que incluya:
 
 - Todas las operaciones deben estar claramente justificadas.
 - No se aceptan resultados sin desarrollo.
-- Especificar el valor de \(L\) utilizado.
+- Especificar el valor de $\(L\)$ utilizado.
 - Cuidar consistencia de unidades.
-- Expresar \(\theta\) en radianes.
+- Expresar $\(\theta\)$ en radianes.
 
 ---
 
