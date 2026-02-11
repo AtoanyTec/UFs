@@ -18,12 +18,12 @@ Un robot móvil tipo bicicleta realiza el siguiente movimiento:
 ### 1️⃣ Primer tramo (Movimiento recto)
 - Tiempo: **7 segundos**
 - Velocidad lineal: $\(v = 0.5\ \text{m/s}\)$
-- Ángulo de dirección: \(\delta = 0^\circ\)
+- Ángulo de dirección: $\(\delta = 0^\circ\)$
 
 ### 2️⃣ Segundo tramo (Movimiento con giro)
 - Tiempo: **5 segundos**
-- Velocidad lineal: \(v = 0.5\ \text{m/s}\)
-- Ángulo de dirección: \(\delta = 20^\circ\)
+- Velocidad lineal: $\(v = 0.5\ \text{m/s}\)$
+- Ángulo de dirección: $\(\delta = 20^\circ\)$
 
 ---
 
@@ -31,9 +31,9 @@ Un robot móvil tipo bicicleta realiza el siguiente movimiento:
 
 Utilizar el **modelo bicicleta con referencia en el eje trasero**:
 
-\[
+$\[
 \dot{x} = v \cos \theta
-\]
+\]$
 
 \[
 \dot{y} = v \sin \theta
