@@ -16,9 +16,9 @@ Un robot móvil avanza durante **15 segundos** con:
 - Ángulo de dirección: **δ = 0°**
 - Distancia entre ejes: **L = 0.8 m**
 - Condiciones iniciales:
-  - \(x(0)=0\)
-  - \(y(0)=0\)
-  - \(\theta(0)=0\)
+  - $\(x(0)=0\)$
+  - $\(y(0)=0\)$
+  - $\(\theta(0)=0\)$
 
 ### ✅ Tu tarea
 1. **Calcula** la postura final \((x, y, \theta)\) en **t = 15 s**.
