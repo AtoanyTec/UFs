@@ -129,7 +129,7 @@ Luego convierte el resultado decimal nuevamente a hexadecimal para verificar con
 
 # 📦 Entregable
 
-Subir un **PDF** a la plataforma correspondiente que incluya:
+Subir un **PDF** a Canvas que incluya:
 
 - Nombre completo
 - Matrícula
