@@ -41,7 +41,6 @@ $\[
 \dot{\theta} = \frac{v}{L}\tan(\delta)
 \]$
 
-📍 **Nota:** recuerda convertir \( \delta \) a radianes si lo usas en calculadora científica o software.
 
 ---
 
