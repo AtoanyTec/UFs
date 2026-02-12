@@ -18,7 +18,6 @@ Al finalizar esta práctica, el/la estudiante será capaz de:
   - 🟠 Octal (OCT)
   - 🟣 Hexadecimal (HEX)
 - Justificar cada procedimiento paso a paso.
-- Verificar resultados mediante conversiones inversas.
 - Comprender la relación estructural entre BIN–OCT y BIN–HEX.
 
 ---
@@ -146,7 +145,6 @@ Subir un **PDF** a Canvas que incluya:
 |----------|----------------|------------|-----------------|-------------------|
 | Procedimiento | Todos los procedimientos correctos y completos | Pequeños errores menores | Procedimientos incompletos | No muestra procedimiento |
 | Resultados | Todos correctos | 1–2 errores | 3–5 errores | Más de 5 errores |
-| Verificación | Realiza conversiones inversas correctamente | Verifica parcialmente | Verificación incorrecta | No verifica |
 | Presentación | Orden claro, notación correcta | Presentación aceptable | Desorden leve | Desorden significativo |
 | Razonamiento | Respuestas bien justificadas | Justificación básica | Respuestas superficiales | Sin justificación |
 
