@@ -1,139 +1,172 @@
-# 🔢 Práctica 1 – Sistemas Numéricos  
-**Unidad de Formación:** MR2003B – Integración Mecatrónica  
-**Profesor:** Dr. Atoany Fierro <br>
-**Periodo:** FJ2025  
+# 🔢 Práctica 1: Conversiones entre Sistemas Numéricos  
+### DEC ↔ BIN ↔ OCT ↔ HEX
 
 ---
 
-## 🎯 Objetivo
-
-Aprender a convertir números entre sistemas numéricos (decimal, binario, octal y hexadecimal) y realizar operaciones básicas en estos sistemas.
-
----
-
-## 📚 Introducción
-
-Los sistemas numéricos son fundamentales en el diseño y análisis de sistemas digitales y mecatrónicos, ya que representan la manera en que las computadoras y dispositivos electrónicos procesan y almacenan información.
-
-Mientras que el sistema decimal es el más utilizado por los humanos, los sistemas binario, octal y hexadecimal son esenciales en electrónica y programación.
-
-En esta práctica:
-
-- 🔁 Convertirás números entre diferentes bases.
-- ➕ Realizarás sumas en sistema binario.
-- 💻 Aplicarás el código ASCII.
-- 🎥 Explicarás conversiones mediante un video corto.
-
+## 👨🏻‍🏫 Profesor
+Dr. Atoany Fierro  
 
 ---
 
-# 📝 Actividades
+## 🎯 Objetivo de aprendizaje
+
+Al finalizar esta práctica, el/la estudiante será capaz de:
+
+- Convertir números entre los sistemas:
+  - 🔟 Decimal (DEC)
+  - 💻 Binario (BIN)
+  - 🟠 Octal (OCT)
+  - 🟣 Hexadecimal (HEX)
+- Justificar cada procedimiento paso a paso.
+- Verificar resultados mediante conversiones inversas.
+- Comprender la relación estructural entre BIN–OCT y BIN–HEX.
 
 ---
 
-## 🔹 Parte A: Conversión entre sistemas numéricos
+## 📌 Instrucciones Generales
 
-Realiza las siguientes conversiones:
-
-| Número (Base Origen) | Sistema Destino |
-|----------------------|----------------|
-| 25₁₀ | Binario |
-| 255₁₀ | Hexadecimal |
-| 128₁₀ | Octal |
-| 1010₂ | Octal |
-| 100110₂ | Decimal |
-| 11001110₂ | Hexadecimal |
-| 128₈ | Decimal |
-| 140₈ | Hexadecimal |
-| 224₈ | Binario |
-| A3₁₆ | Binario |
-| B8₁₆ | Decimal |
-| CA₁₆ | Octal |
-
-📌 **Indicaciones importantes:**
-
-- Muestra el procedimiento paso a paso.
-- No se aceptan únicamente resultados finales.
-- 
----
-
-## 🔹 Parte B: Sumas Binarias
-
-Realiza las siguientes operaciones **sin utilizar ningún tipo de calculadora**:
-
-- 1010₂ + 1101₂  
-- 1101₂ + 1001₂  
-- 011101₂ + 110001₂  
-- 11000101₂ + 10011111₂  
-- 11000101₂ + 10011111₂  
-
-📌 Muestra el desarrollo completo (acarreo incluido).
+1. Realiza **todas las conversiones mostrando el procedimiento completo**.
+2. No se evaluarán únicamente los resultados finales.
+3. Justifica los agrupamientos cuando conviertas:
+   - BIN ↔ OCT (grupos de 3 bits)
+   - BIN ↔ HEX (grupos de 4 bits)
+4. Verifica al menos el 50% de tus respuestas realizando la conversión inversa.
+5. Usa notación correcta indicando la base del número (ejemplo: 25₁₀, 1010₂, 17₈, A3₁₆).
 
 ---
 
-## 🔹 Parte C: Código ASCII
+# 🧮 Parte 1 – Decimal hacia otros sistemas
 
-1. Consulta la tabla ASCII en internet.
-2. Escribe la frase: Tecnológico de Monterrey en código binario (ASCII).
+Convierte los siguientes números decimales a:
 
-📌 Recuerda:
-- Cada carácter tiene su representación en binario.
-- Considera espacios y acentos si aplican.
+- Binario
+- Octal
+- Hexadecimal
 
----
+### Números:
 
-## 🔹 Parte D: Presentación en Video 🎥
-
-Realiza un video estilo **TikTok** (explicación clara y dinámica) donde expliques cómo realizar las siguientes conversiones:
-
-- DEC → BIN  
-- BIN → DEC  
-- HEX → BIN  
-- BIN → HEX  
-- DEC → HEX  
-- HEX → DEC  
-
-📌 Requisitos del video:
-
-- Duración sugerida: 1 a 3 minutos.
-- Explicación clara.
-- Puedes usar hoja, pizarra o diapositiva.
-- Debes aparecer explicando (no solo pantalla).
+a) 25₁₀  
+b) 47₁₀  
+c) 128₁₀  
+d) 255₁₀  
+e) 1023₁₀  
 
 ---
 
-# 📦 Entregables
+# 💻 Parte 2 – Binario hacia otros sistemas
 
-Deberás subir a Canvas:
+Convierte los siguientes números binarios a:
 
-1. 📄 **Archivo PDF**
-   - Hoja contestada.
-   - Procedimientos completos.
-   - Orden y limpieza.
+- Decimal
+- Octal
+- Hexadecimal
 
-2. 🎥 **Archivo de video en formato MP4**
-   - Explicación de conversiones.
+### Números:
 
----
-
-# ⚠️ Consideraciones Importantes
-
-- Trabajo individual.
-- Entregas fuera de tiempo se evaluarán conforme al reglamento.
-- Se evaluará claridad, procedimiento y correcta notación.
-- Cualquier indicio de deshonestidad académica será reportado conforme a lineamientos institucionales.
+a) 101101₂  
+b) 1100101₂  
+c) 10000000₂  
+d) 11111111₂  
+e) 1010101010₂  
 
 ---
 
-# 🏆 Criterios Generales de Evaluación
+# 🟠 Parte 3 – Octal y Hexadecimal
 
-| Criterio | Ponderación |
-|----------|------------|
-| Conversiones correctas (Parte A) | 30% |
-| Sumas binarias correctas (Parte B) | 25% |
-| Código ASCII correcto (Parte C) | 15% |
-| Video explicativo (Parte D) | 20% |
-| Presentación y procedimiento | 10% |
+## A) Convierte de Octal a:
+
+- Decimal
+- Binario
+- Hexadecimal
+
+a) 17₈  
+b) 45₈  
+c) 144₈  
 
 ---
 
+## B) Convierte de Hexadecimal a:
+
+- Decimal
+- Binario
+- Octal
+
+a) A3₁₆  
+b) 1F₁₆  
+c) 2B7₁₆  
+
+---
+
+# 🧠 Parte 4 – Razonamiento y Aplicación
+
+Responde brevemente:
+
+1. ¿Por qué es más eficiente convertir HEX a BIN que HEX a DEC directamente?
+2. Explica por qué OCT y HEX están directamente relacionados con BIN.
+3. ¿Cuántos bits se necesitan para representar el número 255 en binario?
+4. ¿Cuál es el mayor número que se puede representar con 8 bits? Justifica.
+5. Si un microcontrolador trabaja con palabras de 16 bits, ¿cuál es el valor máximo en hexadecimal que puede representar?
+
+---
+
+# 🧩 Parte 5 – Reto
+
+Convierte el número:
+
+```
+3A7₁₆
+```
+
+hasta obtener su representación final en:
+
+- Decimal
+- Binario
+- Octal
+
+Luego convierte el resultado decimal nuevamente a hexadecimal para verificar consistencia.
+
+---
+
+# 📦 Entregable
+
+Subir un **PDF** a la plataforma correspondiente que incluya:
+
+- Nombre completo
+- Matrícula
+- Grupo
+- Procedimientos completos
+- Resultados finales claramente resaltados
+- Verificaciones indicadas
+
+---
+
+# 📊 Rúbrica de Evaluación
+
+| Criterio | Excelente (100) | Bueno (85) | Suficiente (70) | Insuficiente (<70) |
+|----------|----------------|------------|-----------------|-------------------|
+| Procedimiento | Todos los procedimientos correctos y completos | Pequeños errores menores | Procedimientos incompletos | No muestra procedimiento |
+| Resultados | Todos correctos | 1–2 errores | 3–5 errores | Más de 5 errores |
+| Verificación | Realiza conversiones inversas correctamente | Verifica parcialmente | Verificación incorrecta | No verifica |
+| Presentación | Orden claro, notación correcta | Presentación aceptable | Desorden leve | Desorden significativo |
+| Razonamiento | Respuestas bien justificadas | Justificación básica | Respuestas superficiales | Sin justificación |
+
+---
+
+## 🚫 Integridad Académica
+
+Se espera trabajo individual.  
+Cualquier indicio de copia o uso no autorizado de herramientas externas será evaluado conforme a los lineamientos institucionales de integridad académica.
+
+---
+
+## 💡 Recomendación
+
+Si tienes dudas, repasa:
+
+- Método de divisiones sucesivas (DEC → BIN/OCT/HEX)
+- Potencias de 2, 8 y 16
+- Agrupación de bits (3 para OCT, 4 para HEX)
+
+---
+
+🔬 *Esta práctica fortalece fundamentos clave para arquitectura de computadoras, microcontroladores y sistemas digitales.*
