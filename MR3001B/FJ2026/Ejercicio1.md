@@ -78,9 +78,9 @@ El trabajo deberá entregarse en **un solo archivo PDF** con el siguiente conten
 
 4. **Resultados finales**
    - Valores finales de:
-     \[
+     $\[
      (x, y, \theta)
-     \]
+     \]$
    - Con unidades correctas
 
 5. **Diagramas cinemáticos**
