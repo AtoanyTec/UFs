@@ -140,7 +140,7 @@ Subir un **PDF** a Canvas que incluya:
 
 # 📊 Rúbrica de Evaluación
 
-| Criterio | Excelente (100) | Bueno (85) | Suficiente (70) | Insuficiente (<70) |
+| Criterio | Excelente (95-100) | Bueno (85-94) | Suficiente (75-84) | Insuficiente (<74) |
 |----------|----------------|------------|-----------------|-------------------|
 | Procedimiento | Todos los procedimientos correctos y completos | Pequeños errores menores | Procedimientos incompletos | No muestra procedimiento |
 | Resultados | Todos correctos | 1–2 errores | 3–5 errores | Más de 5 errores |
