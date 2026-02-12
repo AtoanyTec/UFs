@@ -55,47 +55,71 @@ $\[
 
 ---
 
-## 📦 Entregables (subir a GitHub)
-Crea una carpeta con el nombre:
+## 📄 Entregable (OBLIGATORIO)
 
-`Apellido_Nombre_CinematicaRobot/`
+El trabajo deberá entregarse en **un solo archivo PDF** con el siguiente contenido:
 
-Dentro incluye:
+### 📌 Estructura del PDF
 
-1. **README.md** con:
-   - Datos del problema
-   - Desarrollo matemático
-   - Resultados finales \((x, y, \theta)\)
-2. **Diagrama cinemático** (uno o dos dibujos) en formato:
-   - `PNG`, `JPG` o `PDF`
-   - Nombre sugerido: `diagrama_cinematico.png`
-3. (Opcional) Si usaste software:
-   - Archivo fuente (`.ipynb`, `.m`, `.pdf`, etc.)
+1. **Portada**
+   - Nombre completo
+   - Matrícula
+   - Materia
+   - Fecha
+
+2. **Planteamiento del modelo**
+   - Ecuaciones utilizadas
+   - Explicación breve de cada variable
+
+3. **Desarrollo matemático**
+   - Sustitución numérica
+   - Procedimiento paso a paso
+   - Todas las unidades claramente indicadas
+
+4. **Resultados finales**
+   - Valores finales de:
+     \[
+     (x, y, \theta)
+     \]
+   - Con unidades correctas
+
+5. **Diagramas cinemáticos**
+   - Estado inicial (t=0)
+   - Estado final (t=15s)
+   - Claros, bien etiquetados y legibles
 
 ---
 
-## ✅ Rúbrica de evaluación (100 pts)
+## ⚠️ Consideraciones importantes
+
+- No se aceptan imágenes sueltas.
+- No se aceptan archivos Word, PowerPoint o fotos individuales.
+- Todo debe estar integrado en **UN SOLO PDF**.
+- El procedimiento es obligatorio. Si solo se entrega el resultado, la calificación será baja.
+
+---
+
+## 📊 Rúbrica de evaluación (100 puntos)
 
 | Criterio | Excelente (25) | Bueno (20) | Suficiente (15) | Insuficiente (0–10) |
 |---|---|---|---|---|
-| **Planteamiento del modelo** | Usa correctamente las 3 ecuaciones y explica variables (v, L, δ, θ) | Ecuaciones correctas pero con explicación parcial | Ecuaciones incompletas o poco claras | Modelo incorrecto o no incluido |
-| **Desarrollo y procedimiento** | Procedimiento completo, ordenado, con sustitución clara y unidades | Procedimiento casi completo, con pequeños saltos | Procedimiento parcial o con varios pasos omitidos | Sin procedimiento o incoherente |
-| **Resultados \((x, y, \theta)\)** | Resultados correctos y bien presentados con unidades | Resultados correctos con presentación mejorable | Resultados con errores menores de cálculo/unidades | Resultados incorrectos o faltantes |
-| **Diagrama cinemático (t=0 y t=15s)** | Diagramas claros, con ejes, θ, dirección de avance y δ indicado | Diagramas claros pero falta 1 elemento (ejes/θ/δ) | Diagramas poco legibles o incompletos | Sin diagramas o no corresponden |
-
----
-
-## 📤 Entrega
-- Sube tu carpeta al repositorio indicado por tu profesor(a).
-- Verifica que los archivos se vean correctamente desde GitHub (previsualización del README y del diagrama).
+| **Planteamiento del modelo** | Ecuaciones correctas y explicación clara de variables | Ecuaciones correctas con explicación parcial | Modelo incompleto | Modelo incorrecto o ausente |
+| **Desarrollo matemático** | Procedimiento completo, ordenado y con unidades | Procedimiento casi completo | Procedimiento parcial o poco claro | Sin procedimiento |
+| **Resultados finales** | Valores correctos con unidades y buena presentación | Valores correctos con detalles menores | Errores menores de cálculo/unidades | Resultados incorrectos |
+| **Diagramas cinemáticos** | Diagramas claros, con ejes, θ, δ, L y dirección de movimiento | Falta un elemento menor | Diagramas poco claros | Diagramas incorrectos o inexistentes |
 
 ---
 
 ## 🔍 Checklist antes de entregar
+
 - [ ] Incluí las ecuaciones del modelo bicicleta  
 - [ ] Mostré el procedimiento completo  
-- [ ] Mis resultados tienen unidades  
-- [ ] Dibujé reposo (t=0) y estado final (t=15s)  
-- [ ] Subí README + diagrama en la carpeta correcta  
+- [ ] Agregué unidades en todos los pasos  
+- [ ] Dibujé los dos estados solicitados  
+- [ ] Integré todo en un solo archivo PDF  
+
+---
+
+📌 **Fecha de entrega:** (agregar fecha indicada por el profesor)
 
 ---
