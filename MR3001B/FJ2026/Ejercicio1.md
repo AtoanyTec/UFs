@@ -112,11 +112,11 @@ El trabajo deberá entregarse en **un solo archivo PDF** con el siguiente conten
 
 ## 🔍 Checklist antes de entregar
 
-- [ ] Incluí las ecuaciones del modelo bicicleta  
-- [ ] Mostré el procedimiento completo  
-- [ ] Agregué unidades en todos los pasos  
-- [ ] Dibujé los dos estados solicitados  
-- [ ] Integré todo en un solo archivo PDF  
+- [ ] Incluir las ecuaciones del modelo bicicleta  
+- [ ] Mostrar el procedimiento completo  
+- [ ] Agregar unidades en todos los pasos  
+- [ ] Dibujar los dos estados solicitados  
+- [ ] Integrar todo en un solo archivo PDF  
 
 ---
 
