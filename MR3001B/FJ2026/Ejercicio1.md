@@ -2,9 +2,9 @@
 
 ## 🎯 Objetivo
 Aplicar el **modelo cinemático tipo bicicleta** para calcular la postura del robot móvil:
-\[
+$\[
 (x, y, \theta)
-\]
+\]$
 y representar su **diagrama cinemático** en **reposo** y en **t = 15 s**.
 
 ---
