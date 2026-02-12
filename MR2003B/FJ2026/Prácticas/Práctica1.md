@@ -54,8 +54,7 @@ Realiza las siguientes conversiones:
 
 - Muestra el procedimiento paso a paso.
 - No se aceptan únicamente resultados finales.
-- Puedes validar con calculadora, pero primero realiza el procedimiento manual.
-
+- 
 ---
 
 ## 🔹 Parte B: Sumas Binarias
