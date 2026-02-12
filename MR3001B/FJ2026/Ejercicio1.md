@@ -21,7 +21,7 @@ Un robot móvil avanza durante **15 segundos** con:
   - $\(\theta(0)=0\)$
 
 ### ✅ Tu tarea
-1. **Calcula** la postura final \((x, y, \theta)\) en **t = 15 s**.
+1. **Calcula** la postura final $\((x, y, \theta)\)$ en **t = 15 s**.
 2. **Dibuja** el **diagrama cinemático** del robot:
    - Estado de **reposo** (t = 0)
    - Estado en **t = 15 s**
@@ -31,15 +31,15 @@ Un robot móvil avanza durante **15 segundos** con:
 ## 📌 Modelo cinemático (modelo bicicleta)
 Usa las ecuaciones:
 
-\[
+$\[
 \dot{x} = v\cos(\theta)
-\]
-\[
+\]$
+$\[
 \dot{y} = v\sin(\theta)
-\]
-\[
+\]$
+$\[
 \dot{\theta} = \frac{v}{L}\tan(\delta)
-\]
+\]$
 
 📍 **Nota:** recuerda convertir \( \delta \) a radianes si lo usas en calculadora científica o software.
 
