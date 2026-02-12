@@ -24,12 +24,6 @@ En esta práctica:
 - 💻 Aplicarás el código ASCII.
 - 🎥 Explicarás conversiones mediante un video corto.
 
----
-
-## 🧰 Material
-
-- 📄 Hoja de ejercicios (proporcionada en clase)  
-- 🧮 Calculadora científica (solo para validar resultados en Parte A)  
 
 ---
 
