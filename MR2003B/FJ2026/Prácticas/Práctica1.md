@@ -1,6 +1,6 @@
 # 🔢 Práctica 1 – Sistemas Numéricos  
 **Unidad de Formación:** MR2003B – Integración Mecatrónica  
-**Profesor:** Dr. Atoany Fierro**  
+**Profesor:** Dr. Atoany Fierro 
 **Periodo:** FJ2025  
 
 ---
