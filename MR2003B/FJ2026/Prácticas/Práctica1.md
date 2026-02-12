@@ -29,7 +29,6 @@ Al finalizar esta práctica, el/la estudiante será capaz de:
 3. Justifica los agrupamientos cuando conviertas:
    - BIN ↔ OCT (grupos de 3 bits)
    - BIN ↔ HEX (grupos de 4 bits)
-4. Verifica al menos el 50% de tus respuestas realizando la conversión inversa.
 5. Usa notación correcta indicando la base del número (ejemplo: 25₁₀, 1010₂, 17₈, A3₁₆).
 
 ---
