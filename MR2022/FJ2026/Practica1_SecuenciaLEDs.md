@@ -106,7 +106,7 @@ El sketch debe:
 Nombrar el archivo como:  
 
 ```python
-Practica1_NombreApellido.ino
+Practica1_NúmeroEquipo.ino
 ```
 
 ## 3️⃣ Evidencia Visual
