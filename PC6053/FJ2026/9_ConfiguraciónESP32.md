@@ -26,7 +26,7 @@ Configurar el entorno de desarrollo para **ESP32** en **Arduino IDE** y comproba
    - Si ya tienes otras URLs, sepáralas con coma.
 3. Abre el gestor de tarjetas:
    - **Tools → Board → Boards Manager** (o **Herramientas → Placa → Gestor de tarjetas**)
-4. Busca **esp32** e instala:
+5. Busca **esp32** e instala:
    - **“esp32 by Espressif Systems”**
 
 ---
