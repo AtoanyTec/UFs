@@ -34,9 +34,9 @@ Configurar el entorno de desarrollo para **ESP32** en **Arduino IDE** y comproba
 ## 3) 🧩 Configurar placa y puerto
 1. Conecta el ESP32 por USB.
 2. Selecciona la placa:
-- **Tools → Board → esp32 →** (elige tu modelo, por ejemplo **“ESP32 Dev Module”**)
+   - **Tools → Board → esp32 →** (elige tu modelo, por ejemplo **“ESP32 Dev Module”**)
 3. Selecciona el puerto:
-- **Tools → Port →** (elige el puerto correspondiente al ESP32)
+   - **Tools → Port →** (elige el puerto correspondiente al ESP32)
 
 > 💡 Si no aparece el puerto, prueba cambiar cable USB, otro puerto USB o instalar el driver del chip USB del ESP32 (CH340 / CP2102).
 
