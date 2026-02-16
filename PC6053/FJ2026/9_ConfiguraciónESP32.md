@@ -65,8 +65,6 @@ Configurar el entorno de desarrollo para **ESP32** en **Arduino IDE** y comproba
 - El ESP32 **listando redes WiFi detectadas** (SSID)
 - (Ideal) que también se vea el **baud rate 115200** y/o que el programa sea WiFiScan
 
-📌 Sube tu screenshot en la plataforma indicada por tu profesor/a.
-
 ---
 
 ## 🧾 Criterios de evaluación (rápidos)
