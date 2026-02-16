@@ -25,9 +25,9 @@ Configurar el entorno de desarrollo para **ESP32** en **Arduino IDE** y comproba
 2. En **Additional Boards Manager URLs** agrega esta URL:```https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json```
    - Si ya tienes otras URLs, sepáralas con coma.
 3. Abre el gestor de tarjetas:
-- **Tools → Board → Boards Manager** (o **Herramientas → Placa → Gestor de tarjetas**)
+   - **Tools → Board → Boards Manager** (o **Herramientas → Placa → Gestor de tarjetas**)
 4. Busca **esp32** e instala:
-- **“esp32 by Espressif Systems”**
+   - **“esp32 by Espressif Systems”**
 
 ---
 
