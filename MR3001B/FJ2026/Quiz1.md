@@ -1,0 +1,77 @@
+# 📝 Quiz 1  
+**Diseño y Desarrollo de Robots**
+
+---
+
+## 🧑‍🎓 Datos del/la estudiante
+
+**Nombre completo:** _______________________________________________ <br>
+**Matrícula:** _________________________________________________<br>
+**Fecha:** _________________________________________________<br>
+
+---
+
+## 📌 Indicaciones generales
+
+Lee cuidadosamente todas las instrucciones antes de comenzar el quiz.
+
+---
+
+## ✍️ Forma de responder
+
+- El quiz es de **opción múltiple**.
+- Cada pregunta tiene **una sola respuesta correcta**.
+- Debes **encerrar en un círculo** la opción que consideres correcta **utilizando únicamente pluma de color azul 🔵**.
+
+### ❌ Respuestas no válidas
+
+Se **anulará la pregunta** si ocurre cualquiera de los siguientes casos:
+
+- La respuesta **no está encerrada en un círculo**.
+- Se **marcan dos o más opciones** en una misma pregunta.
+- Existen **taches, rallones o correcciones con corrector**.
+
+---
+
+## 🚫 Uso de dispositivos electrónicos
+
+- **No está permitido usar ni portar dispositivos electrónicos** durante el quiz, incluyendo:
+  - 📱 Teléfonos celulares  
+  - ⌚ Relojes inteligentes  
+  - 💻 Tablets o computadoras  
+  - 🎧 Audífonos
+  - 👓 Lentes inteligentes
+
+⚠️ **El uso o portación de cualquier dispositivo electrónico** será motivo de **canalización inmediata al Comité de Integridad Académica**.
+
+---
+
+## 🤫 Conducta durante el quiz
+
+- **No está permitido hablar** ni comunicarse con compañeros durante la aplicación del examen.
+- Cualquier estudiante que sea sorprendido **hablando con un compañero**:
+  - Se le **retirará el quiz**.
+  - Será **evaluado con calificación cero (0)**.
+  - Será **canalizado al Comité de Integridad Académica**.
+
+---
+
+## ⚖️ Integridad académica
+
+Este quiz se rige por los principios de:
+
+- Honestidad  
+- Responsabilidad  
+- Respeto  
+
+El incumplimiento de las reglas establecidas será tratado conforme a los lineamientos de **Integridad Académica** de la institución.
+
+---
+
+## ✅ Importante
+
+Al continuar con el quiz, el estudiante acepta cumplir **todas las instrucciones y normas aquí descritas**.
+
+¡Éxito en tu evaluación! 🍀
+
+---
