@@ -44,18 +44,18 @@ Configurar el entorno de desarrollo para **ESP32** en **Arduino IDE** y comproba
 
 ## 4) 📶 Cargar el ejemplo WiFiScan
 1. Abre el ejemplo:
-- **File → Examples → WiFi → WiFiScan**
+   - **File → Examples → WiFi → WiFiScan**
 2. Compila y sube al ESP32:
-- Click en **Verify** ✅ (opcional)
-- Click en **Upload** ➡️
+   - Click en **Verify** ✅ (opcional)
+   - Click en **Upload** ➡️
 3. Abre el **Serial Monitor**:
-- **Tools → Serial Monitor**
+   - **Tools → Serial Monitor**
 4. Ajusta la velocidad (baud rate) a:
-- **115200**
+   - **115200**
 5. Verifica que se imprimen redes detectadas, por ejemplo:
-- “scan start”
-- “scan done”
-- Lista de SSID y RSSI
+   - “scan start”
+   - “scan done”
+   - Lista de SSID y RSSI
 
 ---
 
