@@ -110,7 +110,7 @@ El código debe incluir:
 
 ## 🎓 Integridad Académica  
 
-🔴 El uso de herramientas de IA está estrictamente prohibiddo.
+🔴 El uso de herramientas de IA está estrictamente prohibido.
 
 
 
