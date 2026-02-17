@@ -16,7 +16,7 @@ Al finalizar esta actividad, el/la estudiante será capaz de **reducir (simplifi
 > Notación:
 - `·` = AND  
 - `+` = OR  
-- Barra superior `\bar{X}` = NOT X  
+- Barra superior `$\bar{X}$` = NOT X  
 
 ---
 
