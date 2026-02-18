@@ -140,7 +140,7 @@ Subir un **PDF único** que incluya:
 
 # 📊 Rúbrica de Evaluación
 
-| Criterio | Excelente (100) | Bueno (85) | Básico (70) | Insuficiente (<60) |
+| Criterio | Excelente (95-100) | Bueno (85-94) | Básico (75-84) | Insuficiente (<75) |
 |-----------|----------------|------------|-------------|--------------------|
 | Implementación de ruido impulsivo (20%) | Correcta distribución y justificación matemática | Funciona pero sin explicación clara | Parcialmente correcto | Incorrecto |
 | Implementación de ruido gaussiano (20%) | Parámetros correctamente definidos y justificados | Funciona pero sin análisis | Implementación débil | Incorrecto |
