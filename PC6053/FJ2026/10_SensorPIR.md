@@ -50,6 +50,26 @@ Cuando no detecta movimiento:
 | GND        | GND |
 | OUT        | GPIO 14 |
 
+
+
+### 📍 Esquemáticco
+
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/485bbfc9-bcf7-4ef2-b83b-2640f83e6c3f" />
+
+
+### Potenciómetros
+
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/d18720fb-0633-4e03-94fb-4c89fa253de7" />
+
+<br>
+El módulo PIR tiene dos potenciómetros: uno ajusta la sensibilidad, el otro ajusta la distancia de detección. Para hacer que el módulo PIR funcione mejor, necesitas girar ambos en sentido antihorario hasta el final
+
+### Cableado
+
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/d2cd24f9-84de-4f6e-af24-847bfccf6737" />
+
+
+
 ⚠️ Verifica que tu sensor sea compatible con 3.3V.  
 
 ---
@@ -82,7 +102,7 @@ void loop() {
   estadoPIR = digitalRead(pirPin);
 
   if (estadoPIR == HIGH) {
-    Serial.println("Movimiento detectado 👀");
+    Serial.println("Movimiento detectado");
   } else {
     Serial.println("Sin movimiento");
   }
