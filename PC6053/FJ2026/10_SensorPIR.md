@@ -52,19 +52,19 @@ Cuando no detecta movimiento:
 
 
 
-### 📍 Esquemáticco
+### 📍 Esquemático
 
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/485bbfc9-bcf7-4ef2-b83b-2640f83e6c3f" />
 
 
-### Potenciómetros
+### 📍 Potenciómetros
 
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/d18720fb-0633-4e03-94fb-4c89fa253de7" />
 
 <br>
 El módulo PIR tiene dos potenciómetros: uno ajusta la sensibilidad, el otro ajusta la distancia de detección. Para hacer que el módulo PIR funcione mejor, necesitas girar ambos en sentido antihorario hasta el final
 
-### Cableado
+### 📍 Cableado
 
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/d2cd24f9-84de-4f6e-af24-847bfccf6737" />
 
