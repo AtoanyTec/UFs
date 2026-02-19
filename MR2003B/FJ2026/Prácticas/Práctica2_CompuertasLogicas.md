@@ -105,13 +105,11 @@ No se requiere reporte escrito ni PDF.
 
 ---
 
-## 🧠 Preguntas que puede realizar el profesor
+## 🧠 Preguntas a responder a la hora de demostrar el circuito
 
 - ¿Qué ocurre si una entrada queda flotante?
 - ¿Cuál es la diferencia entre OR y XOR?
 - ¿Qué significa lógica TTL?
 - ¿Cómo implementarías una XOR usando AND, OR y NOT?
 
----
 
-⏱️ La demostración es individual y en tiempo real.
