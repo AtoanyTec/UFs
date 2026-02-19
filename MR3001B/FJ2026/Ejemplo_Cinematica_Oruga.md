@@ -177,5 +177,3 @@ $\[
 | 2 | 0.58 | 0.62 | Giro con avance |
 
 ---
-
-Si deseas, puedo agregarte el caso de **giro sobre su propio eje** (turn-in-place) donde \( v_R = -v_L \).
