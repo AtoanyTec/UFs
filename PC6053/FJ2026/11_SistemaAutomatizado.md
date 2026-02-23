@@ -1,4 +1,4 @@
-# 🔌 Práctica: Sistema Inteligente de Presencia con ESP32 y Sensor PIR
+# 🔌 Actividad 11: Sistema Automatizado
 
 ## 🎯 Objetivo
 
