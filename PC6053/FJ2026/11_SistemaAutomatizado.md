@@ -82,6 +82,9 @@ void loop() {
     digitalWrite(ledLuz, LOW);
     digitalWrite(ledAire, LOW);
   }
+
+  delay(1000);
+}
 ```
 
 ## 🧪 Procedimiento
@@ -132,5 +135,3 @@ El entregable deberá incluir:
 
 
 
-  delay(1000);
-}
