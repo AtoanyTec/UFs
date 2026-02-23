@@ -133,7 +133,7 @@ Antes de entregar, verifica:
 
 # 📊 Rúbrica de Evaluación (100 pts)
 
-| Criterio | Excelente (25) | Bueno (20) | Suficiente (15) | Insuficiente (0–10) |
+| Criterio | Excelente (95-100) | Bueno (85-94) | Suficiente (75-84) | Insuficiente (0-74) |
 |---|---|---|---|---|
 | Implementación FSM (2 estados) | Estados/transiciones claros, código modular | FSM clara con pocos detalles faltantes | FSM funciona pero confusa o poco modular | No hay FSM o no funciona |
 | Funcionamiento del robot | Cambia de estado de forma confiable y repetible | Funciona con fallas menores | Funciona parcialmente | No funciona |
