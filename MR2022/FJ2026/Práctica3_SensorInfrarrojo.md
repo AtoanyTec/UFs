@@ -46,9 +46,9 @@ Antes de armar el circuito, deberás investigar y responder:
 
 ## 🔌 Actividades a Realizar
 
-### 1️⃣ Diagrama
+### 1️⃣ Conexión
 
-- Sensor <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/b8fe87e4-4f96-484c-b580-626553459e8e" />
+- Sensor<br>  <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/b8fe87e4-4f96-484c-b580-626553459e8e" />
 
 
 ---
