@@ -48,9 +48,9 @@ Antes de armar el circuito, deberás investigar y responder:
 
 ### 1️⃣ Conexión
 
-- Sensor<br>  <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/b8fe87e4-4f96-484c-b580-626553459e8e" />
+- Sensor<br>  
 
-<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/7e7308c4-84ec-452b-bb9d-a609cf1c722f" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/7e7308c4-84ec-452b-bb9d-a609cf1c722f" />
 
 
 
