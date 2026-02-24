@@ -28,6 +28,15 @@ A partir de las tablas de verdad proporcionadas:
 ⚠️ Recuerda:  
 Cada mintérmino debe contener **todas las variables**.
 
+#### Tabla de Verdad 1
+
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/476b64f0-ae06-4aee-8500-225def38b7b8" />
+
+#### Tabla de Verdad 2
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8e7ea240-bf5d-44e4-9a7a-784246f389e3" />
+
+
+
 ---
 
 ## 📐 Parte 2: Diagrama del Circuito Lógico (Obligatorio)
