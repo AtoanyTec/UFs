@@ -13,9 +13,9 @@ A partir de **dos tablas de verdad**, obtener la **expresión canónica en mint�
      - Variable en **0** → va **negada** (A̅)
      - Variable en **1** → va **directa** (A)
   3. Suma (OR) todos los mintérminos:  
-     \[
+     $\[
      X = \Sigma m(\text{índices})
-     \]
+     \]$
   4. También puedes escribirla como suma de productos completa (SOP canónica).
 
 > **Orden de variables:** usa el orden que aparece en la tabla (ej. A,B,C o A,B,C,D) y considera A como bit más significativo para el índice.
@@ -30,9 +30,9 @@ A partir de **dos tablas de verdad**, obtener la **expresión canónica en mint�
 4. Escribe:
    - La lista de mintérminos en forma algebraica (SOP canónica).
    - La notación:
-     \[
+     $\[
      X = \Sigma m(\ldots)
-     \]
+     \]$
 
 ---
 
@@ -44,9 +44,9 @@ A partir de **dos tablas de verdad**, obtener la **expresión canónica en mint�
 4. Escribe:
    - La SOP canónica completa.
    - La notación:
-     \[
+     $\[
      X = \Sigma m(\ldots)
-     \]
+     \]$
 
 ---
 
