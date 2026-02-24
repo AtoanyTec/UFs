@@ -8,7 +8,7 @@ A partir de **dos tablas de verdad**, obtener la **expresión canónica en mint�
 ## 📌 Conceptos clave (muy breve)
 - Un **mintérmino** es un producto (AND) que incluye **todas las variables** (directas o negadas).
 - Para obtener la forma canónica en mintérminos:
-  1. Identifica todas las filas donde **Salida = 1**.
+  1. Identifica todas las filas donde **X = 1**.
   2. Para cada fila, forma el mintérmino:
      - Variable en **0** → va **negada** (A̅)
      - Variable en **1** → va **directa** (A)
