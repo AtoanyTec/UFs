@@ -113,15 +113,3 @@ A partir de **dos tablas de verdad**, obtener la **expresión canónica en mint�
 - Si una variable está en 0 en una fila con X=1, debe ir **negada** en ese mintérmino.
 
 ---
-
-## (Solo docente) ✅ Clave rápida de verificación
-> Úsala para revisar rápidamente entregas (evita compartir con estudiantes).
-
-- **Tabla 1 (A,B,C):**  
-  \[
-  X = \Sigma m(0,3,4,6,7)
-  \]
-- **Tabla 2 (A,B,C,D):**  
-  \[
-  X = \Sigma m(1,5,7,15)
-  \]
