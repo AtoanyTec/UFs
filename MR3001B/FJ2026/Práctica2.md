@@ -211,10 +211,7 @@ Transición:
    - Parámetros físicos `b` (y `r` si aplica)
    - Ecuaciones usadas (de `e` → `θ_target` → `ω` → `v_L, v_R`)
    - Diagrama de máquina de estados
-3. 📁 **Repositorio** (o zip) con:
-   - Documentación de instalación/ejecución
-   - Evidencias (capturas)
-4. 🧠 **AI_LOG.md**
+3. 🧠 **AI_LOG.md**
    - prompts usados
    - decisiones tomadas
    - problemas encontrados y cómo los resolvieron
