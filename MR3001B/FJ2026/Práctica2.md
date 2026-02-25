@@ -1,4 +1,4 @@
-# 🧠🤖 Práctica: Seguimiento de Persona con YOLOv8-Seg + Cinemática en Raspberry Pi (SIN CÓDIGO)
+# 🧠🤖 Práctica 2: Seguimiento de Persona con YOLOv8-Seg
 
 ## 🎯 Objetivo
 Implementar **YOLOv8 para segmentación** en la **Raspberry Pi** del robot móvil para **detectar una persona** y, al localizarla, **mover el robot hacia ella** usando **cinemática** (controlando **velocidad lineal `v`** y **velocidad angular `ω`**).  
