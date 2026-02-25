@@ -12,7 +12,7 @@ El giro debe basarse en el **ángulo requerido** para alinear al robot con la pe
 - **Cámara** (USB o CSI) montada al frente del robot
 - Sistema de control de motores operativo (driver/microcontrolador/ROS)
 - Medición de parámetros físicos del robot:
-  - **Separación entre ruedas/orugas**: `b` (m)
+  - **Separación entre ruedas/orugas**: $b (m)$
   - **Radio de rueda** (si aplica): `r` (m)
 
 ### Software
