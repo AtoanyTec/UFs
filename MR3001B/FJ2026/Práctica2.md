@@ -80,7 +80,7 @@ Error en pixeles:
 - $e_x = cx - (W/2)$
 
 Error normalizado:
-- `e = e_x / (W/2)`  → rango aproximado `[-1, 1]`
+- $e = e_x / (W/2)$  → rango aproximado `[-1, 1]`
 
 Interpretación:
 - `e < 0`: persona a la izquierda
@@ -89,15 +89,15 @@ Interpretación:
 
 ### 2) Convertir error a ángulo (grados o radianes)
 Necesitas el **FOV horizontal** de la cámara (Field of View), aproximado o medido.
-- Denótalo como `FOV_h` (en grados)
+- Denótalo como $FOV_h$ (en grados)
 
 Ángulo estimado hacia la persona:
-- `θ_target ≈ e * (FOV_h / 2)`
+- $θ_target ≈ e * (FOV_h / 2)$
 
 ✅ Esto te da “los grados correspondientes” que el robot debe girar para apuntar a la persona.
 
 📌 **En el reporte**:
-- Indica de dónde obtuviste `FOV_h` (datasheet, medición aproximada, o calibración).
+- Indica de dónde obtuviste $FOV_h$ (datasheet, medición aproximada, o calibración).
 
 ---
 
@@ -106,16 +106,16 @@ Tu robot debe usar **cinemática** para convertir la percepción en movimiento.
 
 ### 1) Velocidad angular `ω` (orientación)
 Plantea una ley de control proporcional:
-- `ω = k_ω * θ_target`
+- $ω = k_ω * θ_target$
 
 Con:
-- saturación: `|ω| ≤ ω_max`
+- saturación: $|ω| ≤ ω_max$
 - regla de seguridad: si `|θ_target|` es grande, prioriza girar antes de avanzar.
 
 📌 Recomendación operativa:
-- Si `|θ_target| > θ_align` (ej. 10°–15°):  
+- Si $|θ_target| > θ_align$ (ej. 10°–15°):  
   - **v = 0** y solo giras con `ω`
-- Si `|θ_target| ≤ θ_align`:  
+- Si $|θ_target| ≤ θ_align$:  
   - permites avance (v>0)
 
 ### 2) Velocidad lineal `v` (avance)
@@ -133,17 +133,17 @@ Regla:
 ## 🚗 Parte E — Conversión de (v, ω) a velocidades de rueda/oruga (cinemática)
 ### Robot diferencial / orugas (modelo diferencial)
 Con separación `b`:
-- `v_R = v + (b/2) * ω`
-- `v_L = v - (b/2) * ω`
+- $v_R = v + (b/2) * ω$
+- $v_L = v - (b/2) * ω$
 
 En el reporte, explica:
-- cómo conviertes `v_L` y `v_R` a tu forma de control (PWM, RPM, comando ROS, etc.)
+- cómo conviertes $v_L$ y $v_R$ a tu forma de control (PWM, RPM, comando ROS, etc.)
 - límites y saturación para no exigir más de lo que los motores pueden dar
 
 ✅ **Evidencia**: tabla o ejemplos numéricos con un caso:
 - persona a la derecha (θ_target positivo)
 - calcula `ω`
-- obtiene `v_R, v_L`
+- obtiene $v_R, v_L$
 - explica cómo se traduce a señal de motor
 
 ---
@@ -160,30 +160,30 @@ Transición:
 - a SEGUIR cuando detectes “person” por N frames consecutivos (para evitar falsos positivos)
 
 ### Estado 1: ALINEAR
-Condición: persona detectada pero `|θ_target| > θ_align`.
+Condición: persona detectada pero $|θ_target| > θ_align$.
 Acción:
 - `v = 0`
-- `ω` según ley proporcional a `θ_target`
+- `ω` según ley proporcional a $θ_target$
 Transición:
-- a AVANZAR cuando `|θ_target| ≤ θ_align`
+- a AVANZAR cuando $|θ_target| ≤ θ_align$
 - a BUSCAR si se pierde detección por M frames
 
 ### Estado 2: AVANZAR
-Condición: persona centrada (`|θ_target| ≤ θ_align`) y `A < A_target`.
+Condición: persona centrada ($|θ_target| ≤ θ_align$) y $A < A_target$.
 Acción:
 - `v > 0` (con reducción si no está perfectamente centrada)
 - `ω` pequeño para mantener centrado
 Transición:
-- a DETENER si `A ≥ A_target`
-- a ALINEAR si `|θ_target|` crece (la persona se sale del centro)
+- a DETENER si $A ≥ A_target$
+- a ALINEAR si $|θ_target|$ crece (la persona se sale del centro)
 - a BUSCAR si se pierde detección
 
 ### Estado 3: DETENER
-Condición: persona cerca (`A ≥ A_target`).
+Condición: persona cerca ($A ≥ A_target$).
 Acción:
 - `v = 0`, `ω = 0`
 Transición:
-- a AVANZAR si `A < A_target` (persona se aleja)
+- a AVANZAR si $A < A_target$ (persona se aleja)
 - a BUSCAR si no hay detección
 
 ✅ **Entregable adicional**: diagrama de estados (tipo bloque o UML simple).
