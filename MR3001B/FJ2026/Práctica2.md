@@ -77,7 +77,7 @@ Define:
 - Centro de imagen: $W/2$`
 
 Error en pixeles:
-- `e_x = cx - (W/2)`
+- $e_x = cx - (W/2)$
 
 Error normalizado:
 - `e = e_x / (W/2)`  → rango aproximado `[-1, 1]`
