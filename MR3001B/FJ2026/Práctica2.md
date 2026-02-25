@@ -210,7 +210,6 @@ Transición:
 2. 📄 **Reporte técnico (1–2 páginas)** que incluya:
    - Parámetros físicos `b` (y `r` si aplica)
    - Ecuaciones usadas (de `e` → `θ_target` → `ω` → `v_L, v_R`)
-   - Justificación del FOV y umbrales (`conf`, `θ_align`, `A_target`)
    - Diagrama de máquina de estados
 3. 📁 **Repositorio** (o zip) con:
    - Documentación de instalación/ejecución
