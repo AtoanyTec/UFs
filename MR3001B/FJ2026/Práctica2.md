@@ -13,7 +13,7 @@ El giro debe basarse en el **ángulo requerido** para alinear al robot con la pe
 - Sistema de control de motores operativo (driver/microcontrolador/ROS)
 - Medición de parámetros físicos del robot:
   - **Separación entre ruedas/orugas**: $b (m)$
-  - **Radio de rueda** (si aplica): `r` (m)
+  - **Radio de rueda** (si aplica): $r (m)$
 
 ### Software
 - Sistema operativo en Raspberry (Raspberry Pi OS o Ubuntu)
@@ -35,7 +35,7 @@ El giro debe basarse en el **ángulo requerido** para alinear al robot con la pe
      - Girar a la derecha
      - Detenerse
 3. Registrar en el reporte:
-   - `b` (y `r` si aplica)
+   - $b$ (y $r$ si aplica)
    - Cómo se envían comandos a motores (ej. PWM, ROS `/cmd_vel`, microcontrolador por serial)
 
 ✅ **Evidencia**: video corto de 20–30 s mostrando cámara + movimientos básicos.
@@ -74,7 +74,7 @@ Para la persona detectada (idealmente la de mayor confianza):
 Define:
 - `W`: ancho de imagen
 - `cx`: coordenada x del centroide de la persona
-- Centro de imagen: `W/2`
+- Centro de imagen: $W/2$`
 
 Error en pixeles:
 - `e_x = cx - (W/2)`
