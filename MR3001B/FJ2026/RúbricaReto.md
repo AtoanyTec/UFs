@@ -185,6 +185,43 @@ Debe incluir:
 | **Conclusiones técnicas** | Conclusiones claras, basadas en resultados y coherentes con objetivos. | Conclusiones adecuadas pero poco profundas. | Conclusiones generales sin sustento en datos. | No presenta conclusiones claras. |
 | **Redacción técnica y ortografía** | Lenguaje formal, técnico y sin errores ortográficos. | Pocos errores menores. | Varios errores que afectan claridad. | Redacción deficiente. |
 
+---
+
+# 📊 RÚBRICA DE EVALUACIÓN – PRESENTACIÓN FINAL DEL PROTOTIPO 
+
+La evaluación será:
+
+- 📌 **Individual (60%)** → Respuestas a preguntas técnicas realizadas por el profesor.
+- 📌 **Desempeño grupal en presentación y demostración (40%)**
+
+Cada estudiante debe demostrar dominio técnico completo del sistema, independientemente de su rol en el equipo.
+
+## 📊 Distribución de Ponderación
+
+| Componente | Peso |
+|------------|------|
+| 🔍 Evaluación individual (preguntas técnicas) | **60%** |
+| 🎤 Claridad y calidad de la presentación | 10% |
+| ⚙ Demostración técnica del prototipo | 15% |
+| 📐 Dominio de modelación y decisiones de diseño | 10% |
+| 🧠 Capacidad de análisis y pensamiento crítico | 5% |
+
+## 📋 Criterios de Evaluación
+
+| Criterio | Excelente (100–90) | Bueno (89–80) | Suficiente (79–70) | Insuficiente (<70) |
+|-----------|-------------------|---------------|--------------------|--------------------|
+
+| **1️⃣ Dominio técnico individual (60%)** | Responde con seguridad, explica ecuaciones, arquitectura, FSM, control, validación y seguridad sin apoyo del equipo. Demuestra comprensión profunda. | Responde correctamente la mayoría de preguntas con pequeñas dudas. | Responde parcialmente y depende del equipo. | No puede explicar el funcionamiento del sistema. |
+
+| **2️⃣ Claridad y estructura de la presentación (10%)** | Presentación organizada, profesional, visualmente clara y con secuencia lógica. | Presentación clara con pequeños problemas de organización. | Presentación básica y poco estructurada. | Presentación desordenada o improvisada. |
+
+| **3️⃣ Demostración funcional del prototipo (15%)** | El robot ejecuta la misión correctamente durante la demostración. Se evidencia control, detección y seguridad. | Funciona con pequeños errores o reinicios. | Funciona parcialmente. | No logra demostrar funcionamiento. |
+
+| **4️⃣ Explicación de modelación y decisiones de diseño (10%)** | Justifica matemáticamente la cinemática, el control y la arquitectura. Argumenta decisiones técnicas con fundamentos. | Explica decisiones pero con menor profundidad matemática. | Explicación superficial. | No puede justificar decisiones de diseño. |
+
+| **5️⃣ Análisis crítico y capacidad de mejora (5%)** | Identifica limitaciones reales, fuentes de error y propone mejoras viables. | Identifica algunas mejoras. | Comentarios generales sin análisis profundo. | No reconoce limitaciones del sistema. |
+
+---
 
 ---
 
