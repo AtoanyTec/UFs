@@ -152,7 +152,7 @@ Debe incluir:
 
 ---
 
-# 📊 RÚBRICA DE EVALUACIÓN
+# 📊 RÚBRICA DE EVALUACIÓN DEL PROTOTIPO
 
 | Criterio | Excelente (100–95) | Bueno (94–85) | Suficiente (84–75) | Insuficiente (<75) |
 |-----------|-------------------|---------------|--------------------|--------------------|
