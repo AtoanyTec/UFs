@@ -15,22 +15,6 @@ Diseñar, modelar, implementar y validar un **Robot Móvil Autónomo (AGV)** cap
 
 ---
 
-# 🧭 Flujo General del Sistema
-
-El robot deberá ejecutar el siguiente flujo completo:
-
-1. Inicia en **Punto Cero**
-2. Se dirige al **Almacén**
-3. El encargado selecciona la estación destino (1–4)
-4. El robot navega hacia la estación seleccionada
-5. Identifica la estación correcta mediante ArUco
-6. Se alinea y se detiene
-7. Permite retiro del material
-8. Recibe confirmación de entrega
-9. Regresa al almacén
-10. Espera nueva misión
-
----
 
 # ⚙️ Requisitos Técnicos Obligatorios
 
@@ -40,17 +24,6 @@ El robot deberá ejecutar el siguiente flujo completo:
 
 El robot **debe estar programado mediante una Máquina de Estados Finita (FSM)**.
 
-Estados mínimos obligatorios:
-
-- INIT  
-- IR_A_ALMACEN  
-- ESPERAR_DESTINO  
-- IR_A_ESTACION  
-- BUSCAR_ARUCO  
-- ALINEAR  
-- ENTREGA  
-- REGRESAR  
-- EMERGENCIA  
 
 ### Debe entregarse:
 
@@ -64,20 +37,6 @@ Estados mínimos obligatorios:
 ## 2️⃣ Programación Basada en Cinemática
 
 Los movimientos deben definirse mediante el modelo cinemático correspondiente al robot (diferencial, triciclo u orugas).
-
-Ejemplo para robot diferencial:
-
-\[
-\dot{x} = v \cos\theta
-\]
-
-\[
-\dot{y} = v \sin\theta
-\]
-
-\[
-\dot{\theta} = \omega
-\]
 
 ### El reporte debe incluir:
 
@@ -101,18 +60,8 @@ Debe incluir:
 
 ---
 
-## 4️⃣ Calibración de Cámara
 
-Debe documentarse:
-
-- Procedimiento de calibración  
-- Matriz intrínseca  
-- Parámetros de distorsión  
-- Resultados obtenidos  
-
----
-
-## 5️⃣ Seguridad Obligatoria
+## 4️⃣ Seguridad Obligatoria
 
 El sistema debe incluir:
 
@@ -123,24 +72,7 @@ El sistema debe incluir:
 ### 🔊 Indicador visual o audible cuando el robot esté en movimiento
 - LED intermitente o buzzer  
 - Activado únicamente cuando el robot se desplaza  
-
-### 🐢 Limitación de velocidad en interiores
-- Definir velocidad máxima segura  
-- Justificar técnicamente la elección  
-
-### ⚠ Manejo seguro de fallas
-
-Debe contemplar:
-
-- Pérdida de cámara  
-- Pérdida de detección ArUco  
-- Error de software  
-- Obstáculo inesperado  
-
-En todos los casos:
-- Detener robot  
-- Informar estado  
-- Esperar intervención o recuperación segura  
+ 
 
 ---
 
@@ -158,40 +90,6 @@ Incluir:
 - Supuestos  
 - Restricciones físicas  
 - Parámetros reales del robot  
-
----
-
-## 2️⃣ Modelación del Sistema de Control
-
-Incluir:
-
-- Diagrama de bloques del control  
-- Estrategia de control utilizada  
-- Ecuaciones implementadas  
-- Análisis básico de estabilidad  
-
----
-
-## 3️⃣ Validación Experimental
-
-Debe incluir mediciones reales de:
-
-### ✔ Detección de obstáculos
-- Distancia mínima segura  
-- Tiempo de reacción  
-
-### ✔ Identificación de estaciones
-- Tasa de éxito (%)  
-- Número de pruebas realizadas  
-
-### ✔ Precisión de llegada
-- Error en posición (cm)  
-- Error angular (°)  
-
-### ✔ Comparación esperado vs real
-- Trayectoria teórica  
-- Trayectoria experimental  
-- Análisis de error  
 
 ---
 
@@ -266,12 +164,11 @@ Debe mostrar:
 Debe incluir:
 
 - Portada  
-- Resumen ejecutivo  
+- Abstract  
 - Marco teórico  
 - Modelación matemática  
 - Diseño del sistema  
 - Diagramas  
-- Validación experimental  
 - Gráficas  
 - Métricas  
 - Análisis crítico  
