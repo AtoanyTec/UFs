@@ -1,4 +1,4 @@
-# 🔬 Práctica 4 – Expresiones Canónicas en Minterminos, Simulación y Circuito Físico
+# 🔬 Práctica 4 – Circuitos Digitales
 
 ## 🎯 Objetivo
 
