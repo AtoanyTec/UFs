@@ -1,4 +1,4 @@
-# 🤖 Actividad 3 – Reto  
+# 🤖 Actividad 4 – Reto  
 ## Robot en reposo → botón → avance lineal con cinemática → detección ArUco → alto total
 
 ---
