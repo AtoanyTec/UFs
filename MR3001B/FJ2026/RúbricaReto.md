@@ -187,7 +187,7 @@ Debe incluir:
 
 ---
 
-# 📊 RÚBRICA DE EVALUACIÓN – PRESENTACIÓN FINAL DEL PROTOTIPO 
+# 📊 RÚBRICA DE EVALUACIÓN DE PRESENTACIÓN FINAL DEL PROTOTIPO 
 
 La evaluación será:
 
