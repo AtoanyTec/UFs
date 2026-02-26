@@ -210,16 +210,11 @@ Cada estudiante debe demostrar dominio técnico completo del sistema, independie
 
 | Criterio | Excelente (100–90) | Bueno (89–80) | Suficiente (79–70) | Insuficiente (<70) |
 |-----------|-------------------|---------------|--------------------|--------------------|
-
-| **1️⃣ Dominio técnico individual (60%)** | Responde con seguridad, explica ecuaciones, arquitectura, FSM, control, validación y seguridad sin apoyo del equipo. Demuestra comprensión profunda. | Responde correctamente la mayoría de preguntas con pequeñas dudas. | Responde parcialmente y depende del equipo. | No puede explicar el funcionamiento del sistema. |
-
-| **2️⃣ Claridad y estructura de la presentación (10%)** | Presentación organizada, profesional, visualmente clara y con secuencia lógica. | Presentación clara con pequeños problemas de organización. | Presentación básica y poco estructurada. | Presentación desordenada o improvisada. |
-
-| **3️⃣ Demostración funcional del prototipo (15%)** | El robot ejecuta la misión correctamente durante la demostración. Se evidencia control, detección y seguridad. | Funciona con pequeños errores o reinicios. | Funciona parcialmente. | No logra demostrar funcionamiento. |
-
-| **4️⃣ Explicación de modelación y decisiones de diseño (10%)** | Justifica matemáticamente la cinemática, el control y la arquitectura. Argumenta decisiones técnicas con fundamentos. | Explica decisiones pero con menor profundidad matemática. | Explicación superficial. | No puede justificar decisiones de diseño. |
-
-| **5️⃣ Análisis crítico y capacidad de mejora (5%)** | Identifica limitaciones reales, fuentes de error y propone mejoras viables. | Identifica algunas mejoras. | Comentarios generales sin análisis profundo. | No reconoce limitaciones del sistema. |
+| **Dominio técnico individual (60%)** | Responde con seguridad, explica ecuaciones, arquitectura, FSM, control, validación y seguridad sin apoyo del equipo. Demuestra comprensión profunda. | Responde correctamente la mayoría de preguntas con pequeñas dudas. | Responde parcialmente y depende del equipo. | No puede explicar el funcionamiento del sistema. |
+| **Claridad y estructura de la presentación (10%)** | Presentación organizada, profesional, visualmente clara y con secuencia lógica. | Presentación clara con pequeños problemas de organización. | Presentación básica y poco estructurada. | Presentación desordenada o improvisada. |
+| **Demostración funcional del prototipo (15%)** | El robot ejecuta la misión correctamente durante la demostración. Se evidencia control, detección y seguridad. | Funciona con pequeños errores o reinicios. | Funciona parcialmente. | No logra demostrar funcionamiento. |
+| **Explicación de modelación y decisiones de diseño (10%)** | Justifica matemáticamente la cinemática, el control y la arquitectura. Argumenta decisiones técnicas con fundamentos. | Explica decisiones pero con menor profundidad matemática. | Explicación superficial. | No puede justificar decisiones de diseño. |
+| **Análisis crítico y capacidad de mejora (5%)** | Identifica limitaciones reales, fuentes de error y propone mejoras viables. | Identifica algunas mejoras. | Comentarios generales sin análisis profundo. | No reconoce limitaciones del sistema. |
 
 ---
 
