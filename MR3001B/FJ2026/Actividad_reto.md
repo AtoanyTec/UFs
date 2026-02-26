@@ -1,4 +1,4 @@
-# 🤖 Actividad 3: Robot Móvil con Detección de Marcadores ArUco
+# 🤖 Actividad: Robot Móvil con Detección de Marcadores ArUco
 
 ## 🎯 Objetivo
 
