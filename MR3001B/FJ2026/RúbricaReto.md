@@ -208,7 +208,7 @@ Cada estudiante debe demostrar dominio técnico completo del sistema, independie
 
 ## 📋 Criterios de Evaluación
 
-| Criterio | Excelente (100–90) | Bueno (89–80) | Suficiente (79–70) | Insuficiente (<70) |
+| Criterio | Excelente (100–95) | Bueno (94–85) | Suficiente (84–75) | Insuficiente (<75) |
 |-----------|-------------------|---------------|--------------------|--------------------|
 | **Dominio técnico individual (60%)** | Responde con seguridad, explica ecuaciones, arquitectura, FSM, control, validación y seguridad sin apoyo del equipo. Demuestra comprensión profunda. | Responde correctamente la mayoría de preguntas con pequeñas dudas. | Responde parcialmente y depende del equipo. | No puede explicar el funcionamiento del sistema. |
 | **Claridad y estructura de la presentación (10%)** | Presentación organizada, profesional, visualmente clara y con secuencia lógica. | Presentación clara con pequeños problemas de organización. | Presentación básica y poco estructurada. | Presentación desordenada o improvisada. |
