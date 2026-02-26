@@ -14,14 +14,14 @@
 Deberás trabajar con:
 
 - ✅ Tabla de 3 variables (A, B, C)
- <img width="694" height="550" alt="image" src="https://github.com/user-attachments/assets/ed84abad-967e-4c8f-b682-0efc0b695f72" />
+ <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ed84abad-967e-4c8f-b682-0efc0b695f72" />
 
 
 
 
 - ✅ Tabla de 4 variables (A, B, C, D)
 
-<img width="561" height="679" alt="image" src="https://github.com/user-attachments/assets/fa8b6734-4ccc-4171-b146-aff2ae38527b" />
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/fa8b6734-4ccc-4171-b146-aff2ae38527b" />
 
 
 ---
