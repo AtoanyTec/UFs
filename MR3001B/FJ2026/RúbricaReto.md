@@ -179,7 +179,7 @@ Debe incluir:
 
 # 📊 RÚBRICA DE EVALUACIÓN
 
-| Criterio | Excelente (100–90) | Bueno (89–80) | Suficiente (79–70) | Insuficiente (<70) |
+| Criterio | Excelente (100–95) | Bueno (94–85) | Suficiente (84–75) | Insuficiente (<75) |
 |-----------|-------------------|---------------|--------------------|--------------------|
 | Video flujo completo | Flujo continuo, correcto y sin intervención manual | Flujo completo con errores menores | Flujo parcial | No funciona correctamente |
 | Evidencia ArUco | ID visible y validado correctamente | ID visible sin validación | Detección parcial | No hay evidencia |
@@ -194,30 +194,12 @@ Debe incluir:
 
 ---
 
-# 🚨 Causas de Reprobación Automática
+# 🚨 Penalizaciones
 
-- No usar modelo cinemático formal  
-- No implementar máquina de estados  
-- No incluir botón de paro  
-- No presentar validación experimental  
-- Copiar código sin comprensión  
-
----
-
-# 🏆 Nivel Esperado
-
-Este proyecto corresponde a:
-
-- Integración mecatrónica avanzada  
-- Sistemas autónomos reales  
-- Ingeniería aplicada con validación experimental  
-
-Se evaluará:
-
-- Rigor matemático  
-- Seguridad  
-- Robustez  
-- Calidad técnica  
-- Pensamiento crítico  
+- No usar modelo cinemático formal en la programación (-10 pts)    
+- No implementar máquina de estados (-10 pts)  
+- No incluir botón de paro (-10 pts)  
+- No presentar validación experimental (-10 pts)   
 
 ---
+
