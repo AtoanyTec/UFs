@@ -158,9 +158,6 @@ Debe incluir:
 |-----------|-------------------|---------------|--------------------|--------------------|
 | Video flujo completo | Flujo continuo, correcto y sin intervención manual | Flujo completo con errores menores | Flujo parcial | No funciona correctamente |
 | Evidencia ArUco | ID visible y validado correctamente | ID visible sin validación | Detección parcial | No hay evidencia |
-| Diagrama FSM | Formal, completo y coherente con implementación | Correcto con omisiones menores | Básico | No corresponde al sistema |
-| Diagrama a bloques | Completo y profesional | Mayormente completo | Incompleto | Incorrecto |
-| Manual operación | Claro, técnico y estructurado | Funcional pero limitado | Incompleto | No presentado |
 | Programación basada en cinemática | Modelado matemático validado experimentalmente | Modelo parcial | Aplicación básica | Sin base matemática |
 | Implementación por FSM | FSM completamente funcional | FSM parcial | FSM incompleta | No usa FSM |
 | Botón de paro | Funcional e integrado a FSM | Funcional sin integración total | Respuesta tardía | No existe |
