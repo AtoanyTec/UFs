@@ -16,16 +16,6 @@ Programar el robot móvil para que:
 
 ---
 
-## ⚙️ Requisitos técnicos
-
-- Robot móvil (diferencial u orugas).
-- Botón físico correctamente cableado.
-- Cámara USB.
-- Detección de marcadores usando OpenCV (módulo ArUco).
-- Máquina de estados implementada en el programa.
-
----
-
 # 🧠 Parte 1 – Máquina de Estados
 
 El robot debe implementar **mínimo tres estados**:   
