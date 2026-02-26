@@ -119,31 +119,6 @@ Debe representar:
 
 ---
 
-# 📘 Manual de Operación
-
-Debe incluir claramente:
-
-## Cómo asignar misión
-1. Encender sistema  
-2. Esperar estado READY  
-3. Seleccionar estación destino  
-
-## Cómo confirmar entrega
-1. Estudiantes retiran material  
-2. Presionar botón de confirmación  
-3. Robot inicia regreso  
-
-## Cómo reiniciar sistema
-1. Activar reset  
-2. Verificar estado INIT  
-3. Confirmar READY  
-
-## Qué hacer en emergencia
-1. Activar paro  
-2. Realizar diagnóstico básico  
-3. Reinicio controlado  
-
----
 
 # 🎥 Entregables
 
