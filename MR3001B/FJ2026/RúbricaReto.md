@@ -173,40 +173,18 @@ Debe incluir:
 
 | Criterio | Excelente (100–95) | Bueno (94–85) | Suficiente (84–75) | Insuficiente (<75) |
 |------------|------------------|---------------|--------------------|--------------------|
-| **1️⃣ Estructura y organización** | Documento profesional, con portada, índice, secciones claramente delimitadas y redacción técnica formal. Flujo lógico impecable. | Estructura clara con ligeros problemas de organización. | Presenta estructura básica pero desordenada. | Desorganizado o incompleto. |
-| **2️⃣ Marco teórico** | Explicación profunda y bien fundamentada de cinemática, control, ArUco y FSM. Incluye referencias técnicas adecuadas. | Marco teórico correcto pero con profundidad limitada. | Marco teórico superficial o incompleto. | No presenta marco teórico adecuado. |
-| **3️⃣ Modelación cinemática** | Derivación matemática clara, ecuaciones correctas, parámetros reales y análisis crítico. | Modelación correcta con explicación limitada. | Presenta ecuaciones sin desarrollo claro. | No presenta modelación formal. |
-| **4️⃣ Modelación del sistema de control** | Diagrama de bloques completo, ecuaciones del controlador, explicación de estrategia y análisis básico de estabilidad. | Control explicado pero sin análisis profundo. | Control descrito superficialmente. | No modela el sistema de control. |
-| **5️⃣ Descripción de la arquitectura del sistema** | Explicación detallada de hardware y software. Integración claramente documentada. | Arquitectura descrita con algunos detalles faltantes. | Descripción básica del sistema. | No explica adecuadamente la arquitectura. |
-| **6️⃣ Diagramas técnicos (FSM y bloques)** | Diagramas claros, profesionales y coherentes con el sistema implementado. | Diagramas correctos pero con pequeñas inconsistencias. | Diagramas incompletos o poco claros. | No incluye diagramas adecuados. |
-| **7️⃣ Validación experimental y métricas** | Presenta datos cuantitativos (errores, precisión, tiempos), gráficas claras y análisis comparativo teórico vs experimental. | Presenta métricas pero con análisis limitado. | Presenta datos sin análisis crítico. | No presenta validación experimental. |
-| **8️⃣ Análisis crítico y discusión** | Reflexión técnica profunda sobre limitaciones, errores, mejoras y robustez del sistema. | Incluye análisis pero superficial. | Análisis limitado o descriptivo. | No incluye análisis crítico. |
-| **9️⃣ Calidad de gráficas y tablas** | Gráficas bien etiquetadas, unidades correctas, interpretación clara. | Gráficas correctas con pequeños errores de formato. | Gráficas poco claras o mal etiquetadas. | No incluye gráficas relevantes. |
-| **🔟 Conclusiones técnicas** | Conclusiones claras, basadas en resultados y coherentes con objetivos. | Conclusiones adecuadas pero poco profundas. | Conclusiones generales sin sustento en datos. | No presenta conclusiones claras. |
-| **1️⃣1️⃣ Redacción técnica y ortografía** | Lenguaje formal, técnico y sin errores ortográficos. | Pocos errores menores. | Varios errores que afectan claridad. | Redacción deficiente. |
+| **Estructura y organización** | Documento profesional, con portada, índice, secciones claramente delimitadas y redacción técnica formal. Flujo lógico impecable. | Estructura clara con ligeros problemas de organización. | Presenta estructura básica pero desordenada. | Desorganizado o incompleto. |
+| **Marco teórico** | Explicación profunda y bien fundamentada de cinemática, control, ArUco y FSM. Incluye referencias técnicas adecuadas. | Marco teórico correcto pero con profundidad limitada. | Marco teórico superficial o incompleto. | No presenta marco teórico adecuado. |
+| **Modelación cinemática** | Derivación matemática clara, ecuaciones correctas, parámetros reales y análisis crítico. | Modelación correcta con explicación limitada. | Presenta ecuaciones sin desarrollo claro. | No presenta modelación formal. |
+| **Modelación del sistema de control** | Diagrama de bloques completo, ecuaciones del controlador, explicación de estrategia y análisis básico de estabilidad. | Control explicado pero sin análisis profundo. | Control descrito superficialmente. | No modela el sistema de control. |
+| **Descripción de la arquitectura del sistema** | Explicación detallada de hardware y software. Integración claramente documentada. | Arquitectura descrita con algunos detalles faltantes. | Descripción básica del sistema. | No explica adecuadamente la arquitectura. |
+| **Diagramas técnicos (FSM y bloques)** | Diagramas claros, profesionales y coherentes con el sistema implementado. | Diagramas correctos pero con pequeñas inconsistencias. | Diagramas incompletos o poco claros. | No incluye diagramas adecuados. |
+| **Validación experimental y métricas** | Presenta datos cuantitativos (errores, precisión, tiempos), gráficas claras y análisis comparativo teórico vs experimental. | Presenta métricas pero con análisis limitado. | Presenta datos sin análisis crítico. | No presenta validación experimental. |
+| **Análisis crítico y discusión** | Reflexión técnica profunda sobre limitaciones, errores, mejoras y robustez del sistema. | Incluye análisis pero superficial. | Análisis limitado o descriptivo. | No incluye análisis crítico. |
+| **Calidad de gráficas y tablas** | Gráficas bien etiquetadas, unidades correctas, interpretación clara. | Gráficas correctas con pequeños errores de formato. | Gráficas poco claras o mal etiquetadas. | No incluye gráficas relevantes. |
+| **Conclusiones técnicas** | Conclusiones claras, basadas en resultados y coherentes con objetivos. | Conclusiones adecuadas pero poco profundas. | Conclusiones generales sin sustento en datos. | No presenta conclusiones claras. |
+| **Redacción técnica y ortografía** | Lenguaje formal, técnico y sin errores ortográficos. | Pocos errores menores. | Varios errores que afectan claridad. | Redacción deficiente. |
 
----
-
-# 📌 Interpretación
-
-- **Excelente:** Nivel ingeniería profesional. Documento cercano a artículo técnico.
-- **Bueno:** Cumple estándares académicos sólidos.
-- **Suficiente:** Cumple requisitos mínimos.
-- **Insuficiente:** No demuestra dominio técnico.
-
----
-
-# 🎯 Recomendación
-
-Para alcanzar nivel **Excelente**, el reporte debe:
-
-- Incluir ecuaciones correctamente numeradas
-- Presentar al menos 3 gráficas experimentales
-- Comparar comportamiento teórico vs real
-- Analizar errores y proponer mejoras
-- Justificar decisiones de diseño
-
----
 
 ---
 
