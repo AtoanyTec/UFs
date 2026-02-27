@@ -95,6 +95,13 @@ El programa deberá:
 4. Garantizar que:
    - Nunca se activen simultáneamente ambos sentidos.
    - El motor se detenga al detectar un objeto.
+  
+---
+
+### 🧩 4. Conexiones
+
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/60fa92da-c9ea-42b8-b81f-4960455653b9" />
+
 
 ---
 
