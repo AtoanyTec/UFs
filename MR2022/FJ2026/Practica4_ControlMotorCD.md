@@ -98,6 +98,42 @@ El programa deberá:
   
 ---
 
+### Código
+
+```cpp
+int in1 = 3;
+int in2 = 4;
+int Boton1 = 2;  // 
+
+void setup()
+{
+  pinMode(in1, OUTPUT);
+  pinMode(in2, OUTPUT);
+  pinMode(Boton1, INPUT);
+  
+  digitalWrite(in1, LOW);
+  digitalWrite(in2, LOW);
+}
+
+void loop()
+{
+  int boton1_valor = 0;
+  
+  boton1_valor = digitalRead(Boton1);
+  
+  if(boton1_valor==1)
+  {
+    digitalWrite(in1, HIGH);
+    digitalWrite(in2, LOW);
+  }
+  else
+  {
+    digitalWrite(in1, LOW);
+    digitalWrite(in2, LOW);
+  }  
+}
+```
+
 ### 🧩 4. Conexiones
 
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/60fa92da-c9ea-42b8-b81f-4960455653b9" />
