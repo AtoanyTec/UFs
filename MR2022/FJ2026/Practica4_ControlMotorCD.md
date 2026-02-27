@@ -98,7 +98,7 @@ El programa deberá:
   
 ---
 
-### Código
+### 💻 Código
 
 ```cpp
 int in1 = 3;
