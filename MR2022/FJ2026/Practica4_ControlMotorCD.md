@@ -135,8 +135,11 @@ void loop()
 ```
 
 ### 🧩 4. Conexiones
-
+- L293D
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/60fa92da-c9ea-42b8-b81f-4960455653b9" />
+
+- L298
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/099fe3b4-82a3-42ab-98c2-ea80fa08c3bc" />
 
 
 ---
