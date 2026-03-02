@@ -832,22 +832,3 @@ Calcular:
 6. Interpretar trayectoria
 
 ---
-
-
-
-# 📊 EVALUACIÓN POR COMPETENCIAS
- 
-- **SMR0102 (Nivel C)** → Aplicación avanzada de modelos y control  
-- **SMR0403 (Nivel B)** → Evaluación de factibilidad técnica  
-- **SEG0403 (Nivel A)** → Integridad académica y profesional
-
----
-
-# 📊 RÚBRICA DE EVALUACIÓN – EXAMEN MR3001B ROBÓTICA
-
-## Competencias Evaluadas:
-- SMR0102 – Aplicación tecnológica (Nivel C)
-- SMR0403 – Evaluación de factibilidad (Nivel B)
-- SEG0403 – Integridad (Nivel A)
-
----
