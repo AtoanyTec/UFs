@@ -1,4 +1,4 @@
-# 🛰️ Actividad 11: Integración del Sensor PIR con Arduino IoT Cloud
+# 🛰️ Actividad 12: Integración del Sensor PIR con Arduino IoT Cloud
 
 ## 🎯 Objetivo
 
