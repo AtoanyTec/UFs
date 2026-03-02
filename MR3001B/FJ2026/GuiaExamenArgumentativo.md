@@ -1,4 +1,4 @@
-# 📝 GUÍA DE EXAMEN FINAL – MR3001B DISEÑO Y DESARROLLO DE ROBOTS 
+# 📝 GUÍA DE EXAMEN ARGUMENTATIVO – MR3001B DISEÑO Y DESARROLLO DE ROBOTS 
 **Robótica Móvil – Visión Por Computadora**  
 
 ---
@@ -7,7 +7,23 @@
 
 ---
 
-## 🤖 BLOQUE A – CINEMÁTICA E INTEGRACIÓN (SMR0100 – SMR0102)
+## 🎯 ¿QUÉ DEBE TENER UNA BUENA JUSTIFICACIÓN?
+
+Una justificación de calidad debe incluir al menos 3 elementos:
+
+1. ✅ Fundamento técnico correcto (modelo, ecuación, principio físico)
+2. ✅ Razonamiento lógico (relación causa–efecto)
+3. ✅ Interpretación física o sistémica
+4. ✅ Conexión con integración mecatrónica o implicaciones prácticas
+
+---
+
+# Sistema de Calificación
+## Sección de Preguntas
+1. Opción correcta: 0.8 puntos
+2. Justificación: 0.5 puntos
+
+## 🤖 BLOQUE A – CINEMÁTICA E INTEGRACIÓN (SMR0102)
 
 ---
 
@@ -172,11 +188,158 @@ __________________________________________________
 
 ---
 
+### 11. En un robot diferencial, si ambas ruedas giran en sentido contrario con igual magnitud, el robot:
+
+A) Avanza en línea recta  
+B) Describe una circunferencia amplia  
+C) Gira sobre su propio eje  
+D) Se detiene  
+
+Respuesta seleccionada: ____________  
+Justificación técnica:  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+
+---
+
+### 12. El radio de giro en un robot diferencial aumenta cuando:
+
+A) Aumenta la diferencia entre velocidades  
+B) Disminuye la distancia entre ruedas  
+C) Disminuye la velocidad angular  
+D) Se incrementa L manteniendo constante la diferencia de velocidades  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 13. En el modelo bicicleta, si δ = 0°, entonces:
+
+A) ω ≠ 0  
+B) ω = 0  
+C) El radio de giro es mínimo  
+D) El robot gira sobre su eje  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+
+### 14. Si se duplica el radio de las ruedas y se mantienen ωr y ωl constantes, la velocidad lineal:
+
+A) Permanece igual  
+B) Se reduce a la mitad  
+C) Se duplica  
+D) Se anula  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 15. Si ω = 0 y v ≠ 0, el robot:
+
+A) Gira  
+B) Se detiene  
+C) Se mueve rectilíneamente  
+D) Retrocede  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 16. Si ωr = 0 y ωl > 0, el robot:
+
+A) Gira alrededor de la rueda derecha  
+B) Gira alrededor de la rueda izquierda  
+C) Avanza recto  
+D) Se detiene  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+
+---
+
+### 17. Una trayectoria circular requiere:
+
+A) ω = 0  
+B) v = 0  
+C) v ≠ 0 y ω ≠ 0  
+D) ωr = ωl  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+
+---
+
+### 18. En control cinemático, el error angular se calcula como:
+
+A) θactual − θobjetivo  
+B) θobjetivo − θactual  
+C) v − ω  
+D) L − r  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 19. El modelo ideal falla principalmente cuando:
+
+A) No hay sensores  
+B) Hay deslizamiento o terreno irregular  
+C) Hay buena iluminación  
+D) Hay bajo voltaje  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+
+
+
+---
+
 ## 👁️ BLOQUE B – VISIÓN COMPUTACIONAL (SMR0102)
 
 ---
 
-### 12. Un PSNR alto indica:
+### 20. Un PSNR alto indica:
 
 A) Mucho ruido  
 B) Imagen degradada  
@@ -193,7 +356,7 @@ __________________________________________________
 
 ---
 
-### 14. El filtro mediana es ideal para:
+### 21. El filtro mediana es ideal para:
 
 A) Ruido gaussiano  
 B) Ruido sal-pimienta  
@@ -209,7 +372,7 @@ __________________________________________________
 
 ---
 
-### 15. En imágenes RGB existen:
+### 22. En imágenes RGB existen:
 
 A) 2 matrices  
 B) 1 matriz  
@@ -223,15 +386,124 @@ __________________________________________________
 __________________________________________________ 
 __________________________________________________ 
 
+---
+
+### 23. La ecualización de histograma tiene como objetivo principal:
+
+A) Reducir ruido impulsivo  
+B) Uniformizar la distribución de intensidades  
+C) Detectar bordes  
+D) Aumentar resolución espacial  
+
+**Respuesta seleccionada:** ____________  
+**Justificación técnica:**  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
 
 ---
 
 
-## ⚙️ BLOQUE C – PROPUESTA Y FACTIBILIDAD (SMR0400 – SMR0403)
+### 24. Si una imagen presenta bajo contraste global, la técnica más adecuada es:
+
+A) Filtro Sobel  
+B) Ecualización de histograma  
+C) Filtro mediana  
+D) Derivada segunda  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________ 
+__________________________________________________  
+__________________________________________________ 
 
 ---
 
-### 19. Para evaluar factibilidad técnica se analiza:
+### 25. El ruido gaussiano afecta principalmente:
+
+A) Bordes abruptos  
+B) Intensidades de manera aleatoria con distribución normal  
+C) Solo píxeles negros  
+D) Solo zonas blancas  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 26. La convolución en procesamiento de imágenes permite:
+
+A) Cambiar tamaño de imagen  
+B) Aplicar filtros espaciales mediante kernels  
+C) Convertir RGB a binaria  
+D) Detectar sonido  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 27. En detección de bordes, el gradiente alto indica:
+
+A) Región homogénea  
+B) Cambio abrupto de intensidad  
+C) Ruido uniforme  
+D) Baja frecuencia espacial  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+__________________________________________________ 
+
+---
+
+### 28. En un sistema de detección ArUco para un robot móvil, la precisión depende directamente de:
+
+A) Solo el algoritmo  
+B) Iluminación, resolución, calibración y procesamiento  
+C) Solo la cámara  
+D) Solo el software  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+
+---
+
+### 29. En un sistema mecatrónico integrado, la latencia del procesamiento de imagen afecta:
+
+A) Solo estética visual  
+B) Tiempo de respuesta del control  
+C) Tamaño del robot  
+D) Resolución del sensor  
+
+Respuesta: ____________  
+Justificación:  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+__________________________________________________  
+
+
+---
+
+
+## ⚙️ BLOQUE C – PROPUESTA Y FACTIBILIDAD (SMR0403)
+
+---
+
+### 30. Para evaluar factibilidad técnica se analiza:
 
 A) Solo costos  
 B) Cumplimiento funcional y restricciones  
@@ -247,7 +519,7 @@ __________________________________________________
 
 ---
 
-### 20. Una propuesta mecatrónica debe incluir:
+### 31. Una propuesta mecatrónica debe incluir:
 
 A) Solo código  
 B) Modelo matemático  
@@ -263,7 +535,7 @@ __________________________________________________
 
 ---
 
-### 21. Manufacturabilidad implica:
+### 32. Manufacturabilidad implica:
 
 A) Que sea barato  
 B) Que pueda construirse con recursos disponibles  
@@ -279,7 +551,7 @@ __________________________________________________
 
 ---
 
-### 22. Un sistema robusto es aquel que:
+### 33. Un sistema robusto es aquel que:
 
 A) Funciona una vez  
 B) Funciona repetidamente bajo variaciones  
@@ -295,11 +567,11 @@ __________________________________________________
 
 ---
 
-## 🌍 BLOQUE D – ÉTICA E INTEGRIDAD (SEG0400 – SEG0403)
+## 🌍 BLOQUE D – ÉTICA E INTEGRIDAD (SEG0403)
 
 ---
 
-### 24. Un sistema AGV debe incluir botón de paro por:
+### 34. Un sistema AGV debe incluir botón de paro por:
 
 A) Requisito estético  
 B) Seguridad y ética  
@@ -315,7 +587,7 @@ __________________________________________________
 
 ---
 
-### 25. La ética en robótica implica:
+### 35. La ética en robótica implica:
 
 A) Maximizar ganancias  
 B) Minimizar consumo  
@@ -332,7 +604,7 @@ __________________________________________________
 
 ---
 
-### 26. Manipular resultados experimentales viola:
+### 36. Manipular resultados experimentales viola:
 
 A) Diseño mecánico  
 B) Integridad profesional  
@@ -348,7 +620,7 @@ __________________________________________________
 
 ---
 
-### 27. Cumplir normas técnicas garantiza:
+### 37. Cumplir normas técnicas garantiza:
 
 A) Innovación  
 B) Seguridad y confiabilidad  
@@ -364,7 +636,7 @@ __________________________________________________
 
 ---
 
-### 28. En un entorno variable, el control avanzado permite:
+### 38. En un entorno variable, el control avanzado permite:
 
 A) Mayor error  
 B) Adaptabilidad  
@@ -380,7 +652,7 @@ __________________________________________________
 
 ---
 
-### 29. Evaluar restricciones económicas impacta:
+### 39. Evaluar restricciones económicas impacta:
 
 A) Arquitectura del sistema  
 B) Color del robot  
@@ -396,7 +668,7 @@ __________________________________________________
 
 ---
 
-### 30. Un sistema mecatrónico completo integra:
+### 40. Un sistema mecatrónico completo integra:
 
 A) Solo hardware  
 B) Solo software  
@@ -412,105 +684,158 @@ __________________________________________________
 
 ---
 
-# 🔴 SECCIÓN II – 10 EJERCICIOS DE CÁLCULO DE CINEMÁTICA (60%)
+# 🔴 SECCIÓN II – 10 EJERCICIOS DE CÁLCULO DE CINEMÁTICA MODELO BICICLETA (60%)
 
 ---
 
-## 🔹 A. Robot Diferencial
+## 🔹 Ejercicio 1 – Cálculo de Velocidad Angular
 
-### Ejercicio 1
 Datos:
-- r = 0.05 m  
-- L = 0.25 m  
-- ωr = 15 rad/s  
-- ωl = 5 rad/s  
+- v = 1.2 m/s
+- L = 0.35 m
+- δ = 15°
 
 Calcular:
-1. v  
-2. ω  
-3. Radio de giro  
-4. Tipo de movimiento  
+1. ω
+2. Radio de giro R
+3. Interpretar físicamente el resultado
 
 ---
 
-### Ejercicio 2
-Calcular nueva posición después de 3 s si:
-- v = 0.6 m/s  
-- ω = 0.8 rad/s  
-- θ0 = 0  
+## 🔹 Ejercicio 2 – Radio de Giro
 
----
-
-### Ejercicio 3
-Determinar velocidades de ruedas necesarias para:
-- v = 0.5 m/s  
-- ω = 1 rad/s  
-
----
-
-## 🔹 B. Modelo Bicicleta
-
-### Ejercicio 4
 Datos:
-- v = 1 m/s  
-- L = 0.3 m  
-- δ = 20°  
+- L = 0.30 m
+- δ = 25°
+
+Calcular:
+1. R
+2. ¿El giro es cerrado o amplio? Justifique.
+
+---
+
+## 🔹 Ejercicio 3 – Trayectoria Circular
+
+Un vehículo se mueve con:
+- v = 0.8 m/s
+- δ = 20°
+- L = 0.4 m
+
+Calcular:
+1. ω
+2. R
+3. Ángulo total recorrido en 5 s
+
+---
+
+## 🔹 Ejercicio 4 – Actualización de Posición
+
+Datos iniciales:
+- x0 = 0
+- y0 = 0
+- θ0 = 0°
+- v = 1 m/s
+- δ = 10°
+- L = 0.3 m
+- t = 4 s
+
+Calcular:
+1. θ(t)
+2. x(t)
+3. y(t)
+
+---
+
+## 🔹 Ejercicio 5 – Diseño de Dirección
+
+Se desea que el robot describa una circunferencia de radio 2 m.
+
+Datos:
+- L = 0.4 m
+
+Calcular:
+1. δ necesario
+2. Si v = 1 m/s, calcular ω
+
+---
+
+## 🔹 Ejercicio 6 – Análisis de Sensibilidad
+
+Datos:
+- v = 1 m/s
+- L = 0.5 m
+- δ = 5°
 
 Calcular ω.
 
----
-
-### Ejercicio 5
-Determinar radio de giro para:
-- δ = 15°  
-- L = 0.25 m  
+Luego:
+Si δ aumenta a 10°, ¿cómo cambia ω?
+Explique matemáticamente y físicamente.
 
 ---
 
-### Ejercicio 6
-Actualizar posición después de 4 s con:
-- v = 0.8 m/s  
-- δ = 10°  
-- θ0 = 30°  
+## 🔹 Ejercicio 7 – Movimiento Rectilíneo
+
+¿Bajo qué condición el modelo bicicleta produce movimiento recto?
+
+Demostrar matemáticamente.
 
 ---
 
-## 🔹 C. Robot Oruga
+## 🔹 Ejercicio 8 – Comparación de Geometrías
 
-### Ejercicio 7
-Velocidades:
-- Vr = 0.7 m/s  
-- Vl = 0.3 m/s  
-- L = 0.4 m  
+Vehículo A:
+- L = 0.25 m
+- δ = 15°
 
-Calcular ω y R.
+Vehículo B:
+- L = 0.5 m
+- δ = 15°
 
----
-
-### Ejercicio 8
-Si Vr = -Vl:
-Determinar tipo de movimiento y ω.
-
----
-
-### Ejercicio 9
-Calcular desplazamiento en 5 s si:
-- Vr = Vl = 0.6 m/s  
+Calcular:
+1. R_A
+2. R_B
+3. Analizar influencia de L en estabilidad
 
 ---
 
-### Ejercicio 10
-Diseñar velocidades necesarias para que el robot describa una circunferencia de radio 1 m.
+## 🔹 Ejercicio 9 – Control Go-to-Goal
+
+Datos:
+- θ_actual = 20°
+- θ_objetivo = 45°
+
+Calcular:
+1. Error angular
+2. Proponer δ proporcional al error
+3. Determinar ω si v = 0.8 m/s y L = 0.3 m
 
 ---
+
+## 🔹 Ejercicio 10 – Trayectoria Completa
+
+Un robot se mueve con:
+- v = 1 m/s
+- δ = 12°
+- L = 0.4 m
+- Tiempo total = 6 s
+
+Calcular:
+1. ω
+2. R
+3. θ final
+4. x final
+5. y final
+6. Interpretar trayectoria
+
+---
+
+
 
 # 📊 EVALUACIÓN POR COMPETENCIAS
-
-- **SMR0100** → Integración mecánica-electrónica-control-software  
+ 
 - **SMR0102 (Nivel C)** → Aplicación avanzada de modelos y control  
-- **SMR0400** → Propuesta técnica estructurada  
 - **SMR0403 (Nivel B)** → Evaluación de factibilidad técnica  
-- **SEG0400** → Conciencia ética y social  
 - **SEG0403 (Nivel A)** → Integridad académica y profesional
 
 ---
@@ -518,34 +843,24 @@ Diseñar velocidades necesarias para que el robot describa una circunferencia de
 # 📊 RÚBRICA DE EVALUACIÓN – EXAMEN MR3001B ROBÓTICA
 
 ## Competencias Evaluadas:
-- SMR0100 – Integración mecatrónica
 - SMR0102 – Aplicación tecnológica (Nivel C)
-- SMR0400 – Propuesta de sistemas mecatrónicos
 - SMR0403 – Evaluación de factibilidad (Nivel B)
-- SEG0400 – Compromiso ético y ciudadano
 - SEG0403 – Integridad (Nivel A)
 
 ---
 
 # 🔹 RÚBRICA ANALÍTICA (4 NIVELES DE DOMINIO)
 
-| Competencia | Nivel 4 – Sobresaliente (100–90) | Nivel 3 – Competente (89–80) | Nivel 2 – Básico (79–70) | Nivel 1 – Insuficiente (<70) |
+| Competencia | Sobresaliente (100–95) |  Competente (94–85) |  Básico (84–75) |  Insuficiente (<75) |
 |-------------|----------------------------------|-------------------------------|----------------------------|-------------------------------|
-| **SMR0100** Integración de componentes mecánicos, electrónicos, control y software | Integra de manera sinérgica mecánica, electrónica, control y software. Argumenta interacciones entre subsistemas y demuestra comprensión sistémica. | Integra correctamente los componentes principales y explica su relación funcional. | Menciona componentes pero sin explicar interacción clara entre ellos. | No logra integrar componentes o presenta comprensión fragmentada. |
+| **SMR0102** Integración de componentes mecánicos, electrónicos, control y software | Integra de manera sinérgica mecánica, electrónica, control y software. Argumenta interacciones entre subsistemas y demuestra comprensión sistémica. | Integra correctamente los componentes principales y explica su relación funcional. | Menciona componentes pero sin explicar interacción clara entre ellos. | No logra integrar componentes o presenta comprensión fragmentada. |
 | **SMR0102** Aplicación de tecnologías (Nivel C) | Aplica modelos matemáticos y estrategias de control avanzado correctamente. Justifica con ecuaciones e interpreta físicamente resultados. Evidencia dominio técnico. | Aplica modelos cinemáticos correctamente con interpretación adecuada. | Aplica fórmulas de manera mecánica sin interpretación profunda. | Aplica incorrectamente modelos o no justifica técnicamente. |
-| **SMR0400** Elaboración de propuestas mecatrónicas | Propone soluciones estructuradas con arquitectura clara, modelado formal y coherencia técnica. | Propone solución funcional con fundamentos técnicos adecuados. | Propuesta incompleta o sin modelado formal claro. | Propuesta inviable o sin sustento técnico. |
+| **SMR0403** Elaboración de propuestas mecatrónicas | Propone soluciones estructuradas con arquitectura clara, modelado formal y coherencia técnica. | Propone solución funcional con fundamentos técnicos adecuados. | Propuesta incompleta o sin modelado formal claro. | Propuesta inviable o sin sustento técnico. |
 | **SMR0403** Evaluación de factibilidad (Nivel B) | Evalúa factibilidad técnica considerando restricciones funcionales, manufactura y viabilidad operativa. | Analiza viabilidad técnica considerando requerimientos principales. | Menciona restricciones sin análisis profundo. | No considera restricciones ni factibilidad técnica. |
-| **SEG0400** Compromiso ético y ciudadano | Analiza impacto social, seguridad y bienestar común en decisiones técnicas. | Reconoce implicaciones éticas básicas del diseño. | Identifica aspectos éticos de forma superficial. | No identifica implicaciones éticas o las justifica incorrectamente. |
+| **SEG0403** Compromiso ético y ciudadano | Analiza impacto social, seguridad y bienestar común en decisiones técnicas. | Reconoce implicaciones éticas básicas del diseño. | Identifica aspectos éticos de forma superficial. | No identifica implicaciones éticas o las justifica incorrectamente. |
 | **SEG0403** Integridad (Nivel A) | Identifica normatividad aplicable y argumenta con base en principios de honestidad y responsabilidad profesional. | Reconoce la importancia de la integridad académica y profesional. | Menciona integridad sin relacionarla con normatividad. | Justifica conductas contrarias a la integridad o no reconoce faltas. |
 
 
----
-
-# 🎯 Interpretación de Niveles Globales
-
-- **Nivel C (SMR0102)** → Evidencia dominio técnico avanzado, integración y control formal.
-- **Nivel B (SMR0403)** → Analiza factibilidad técnica bajo restricciones reales.
-- **Nivel A (SEG0403)** → Se conduce con honestidad académica y profesional.
 
 ---
 
