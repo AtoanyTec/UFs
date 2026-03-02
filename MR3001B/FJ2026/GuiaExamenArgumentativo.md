@@ -851,19 +851,3 @@ Calcular:
 - SEG0403 – Integridad (Nivel A)
 
 ---
-
-# 🔹 RÚBRICA ANALÍTICA (4 NIVELES DE DOMINIO)
-
-| Competencia | Sobresaliente (100–95) |  Competente (94–85) |  Básico (84–75) |  Insuficiente (<75) |
-|-------------|----------------------------------|-------------------------------|----------------------------|-------------------------------|
-| **SMR0102** Integración de componentes mecánicos, electrónicos, control y software | Integra de manera sinérgica mecánica, electrónica, control y software. Argumenta interacciones entre subsistemas y demuestra comprensión sistémica. | Integra correctamente los componentes principales y explica su relación funcional. | Menciona componentes pero sin explicar interacción clara entre ellos. | No logra integrar componentes o presenta comprensión fragmentada. |
-| **SMR0102** Aplicación de tecnologías (Nivel C) | Aplica modelos matemáticos y estrategias de control avanzado correctamente. Justifica con ecuaciones e interpreta físicamente resultados. Evidencia dominio técnico. | Aplica modelos cinemáticos correctamente con interpretación adecuada. | Aplica fórmulas de manera mecánica sin interpretación profunda. | Aplica incorrectamente modelos o no justifica técnicamente. |
-| **SMR0403** Elaboración de propuestas mecatrónicas | Propone soluciones estructuradas con arquitectura clara, modelado formal y coherencia técnica. | Propone solución funcional con fundamentos técnicos adecuados. | Propuesta incompleta o sin modelado formal claro. | Propuesta inviable o sin sustento técnico. |
-| **SMR0403** Evaluación de factibilidad (Nivel B) | Evalúa factibilidad técnica considerando restricciones funcionales, manufactura y viabilidad operativa. | Analiza viabilidad técnica considerando requerimientos principales. | Menciona restricciones sin análisis profundo. | No considera restricciones ni factibilidad técnica. |
-| **SEG0403** Compromiso ético y ciudadano | Analiza impacto social, seguridad y bienestar común en decisiones técnicas. | Reconoce implicaciones éticas básicas del diseño. | Identifica aspectos éticos de forma superficial. | No identifica implicaciones éticas o las justifica incorrectamente. |
-| **SEG0403** Integridad (Nivel A) | Identifica normatividad aplicable y argumenta con base en principios de honestidad y responsabilidad profesional. | Reconoce la importancia de la integridad académica y profesional. | Menciona integridad sin relacionarla con normatividad. | Justifica conductas contrarias a la integridad o no reconoce faltas. |
-
-
-
----
-
