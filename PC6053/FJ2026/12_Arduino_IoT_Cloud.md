@@ -28,7 +28,7 @@ Integrar el sistema de detección de presencia utilizando un **sensor PIR** a la
 
 ## 📌 Instrucciones
 
-Consulta las diapositivas 61-82 para realizar la actividad
+Consulta las [diapositivas](https://tecmx-my.sharepoint.com/:p:/g/personal/afierror_tec_mx/IQDKWWxvh_b_SpXE1LrKlTLZAYFYq15qf5NjE3mjn0t_lS4?e=1QZp8s) 61-82 para realizar la actividad
 
 ---
 
