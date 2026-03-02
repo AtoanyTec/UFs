@@ -12,8 +12,7 @@
 ---
 
 
-### 1.
-En un robot diferencial, si $\( \omega_r = \omega_l \neq 0 \)$, el robot:
+### 1. En un robot diferencial, si $\( \omega_r = \omega_l \neq 0 \)$, el robot:
 
 A) Gira sobre su eje  
 B) Describe una circunferencia  
