@@ -18,10 +18,12 @@ Una justificación de calidad debe incluir al menos 3 elementos:
 
 ---
 
-# Sistema de Calificación
-## Sección de Preguntas
+# 📝 Sistema de Calificación
+## ❓ Sección de Preguntas
 1. Opción correcta: 0.5 puntos
 2. Justificación: 0.5 puntos
+
+## 🏃 Sección de Ejercicios
 
 ## 🤖 BLOQUE A – CINEMÁTICA E INTEGRACIÓN (SMR0102)
 
