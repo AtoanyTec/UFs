@@ -39,7 +39,7 @@ Durante el curso se trabajará con:
 
 Las diapositivas oficiales del curso pueden consultarse en el siguiente enlace:
 
-🔗 **[Consultar diapositivas del curso aquí]([https://TU-LIGA-AQUI.com](https://tecmx-my.sharepoint.com/:p:/g/personal/afierror_tec_mx/IQDKWWxvh_b_SpXE1LrKlTLZAYFYq15qf5NjE3mjn0t_lS4?e=YxyGmp))**  
+🔗 [**Consultar diapositivas del curso aquí** ](https://tecmx-my.sharepoint.com/:p:/g/personal/afierror_tec_mx/IQDKWWxvh_b_SpXE1LrKlTLZAYFYq15qf5NjE3mjn0t_lS4?e=q0RwmR)
 
 
 ---
