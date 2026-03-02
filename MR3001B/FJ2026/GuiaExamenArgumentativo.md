@@ -20,7 +20,7 @@ Una justificación de calidad debe incluir al menos 3 elementos:
 
 # Sistema de Calificación
 ## Sección de Preguntas
-1. Opción correcta: 0.8 puntos
+1. Opción correcta: 0.5 puntos
 2. Justificación: 0.5 puntos
 
 ## 🤖 BLOQUE A – CINEMÁTICA E INTEGRACIÓN (SMR0102)
@@ -688,7 +688,7 @@ __________________________________________________
 
 ---
 
-## 🔹 Ejercicio 1 – Cálculo de Velocidad Angular
+## 🔹 Ejercicio 1 – Cálculo de Velocidad Angular (6 pts)
 
 Datos:
 - v = 1.2 m/s
@@ -702,7 +702,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 2 – Radio de Giro
+## 🔹 Ejercicio 2 – Radio de Giro (6 pts)
 
 Datos:
 - L = 0.30 m
@@ -714,7 +714,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 3 – Trayectoria Circular
+## 🔹 Ejercicio 3 – Trayectoria Circular (6 pts)
 
 Un vehículo se mueve con:
 - v = 0.8 m/s
@@ -728,7 +728,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 4 – Actualización de Posición
+## 🔹 Ejercicio 4 – Actualización de Posición (6 pts)
 
 Datos iniciales:
 - x0 = 0
@@ -746,7 +746,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 5 – Diseño de Dirección
+## 🔹 Ejercicio 5 – Diseño de Dirección (6 pts)
 
 Se desea que el robot describa una circunferencia de radio 2 m.
 
@@ -759,7 +759,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 6 – Análisis de Sensibilidad
+## 🔹 Ejercicio 6 – Análisis de Sensibilidad (6 pts)
 
 Datos:
 - v = 1 m/s
@@ -774,7 +774,7 @@ Explique matemáticamente y físicamente.
 
 ---
 
-## 🔹 Ejercicio 7 – Movimiento Rectilíneo
+## 🔹 Ejercicio 7 – Movimiento Rectilíneo (6 pts)
 
 ¿Bajo qué condición el modelo bicicleta produce movimiento recto?
 
@@ -782,7 +782,7 @@ Demostrar matemáticamente.
 
 ---
 
-## 🔹 Ejercicio 8 – Comparación de Geometrías
+## 🔹 Ejercicio 8 – Comparación de Geometrías (6 pts)
 
 Vehículo A:
 - L = 0.25 m
@@ -799,7 +799,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 9 – Control Go-to-Goal
+## 🔹 Ejercicio 9 – Control Go-to-Goal (6 pts)
 
 Datos:
 - θ_actual = 20°
@@ -812,7 +812,7 @@ Calcular:
 
 ---
 
-## 🔹 Ejercicio 10 – Trayectoria Completa
+## 🔹 Ejercicio 10 – Trayectoria Completa (6 pts)
 
 Un robot se mueve con:
 - v = 1 m/s
