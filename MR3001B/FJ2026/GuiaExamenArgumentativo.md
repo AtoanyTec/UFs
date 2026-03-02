@@ -24,6 +24,7 @@ Una justificación de calidad debe incluir al menos 3 elementos:
 2. Justificación: 0.5 puntos
 
 ## 🏃 Sección de Ejercicios
+Cada ejercicio tiene un valor de 6 puntos.
 
 ## 🤖 BLOQUE A – CINEMÁTICA E INTEGRACIÓN (SMR0102)
 
