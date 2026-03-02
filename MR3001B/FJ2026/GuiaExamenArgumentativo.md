@@ -538,16 +538,6 @@ Diseñar velocidades necesarias para que el robot describa una circunferencia de
 | **SEG0400** Compromiso ético y ciudadano | Analiza impacto social, seguridad y bienestar común en decisiones técnicas. | Reconoce implicaciones éticas básicas del diseño. | Identifica aspectos éticos de forma superficial. | No identifica implicaciones éticas o las justifica incorrectamente. |
 | **SEG0403** Integridad (Nivel A) | Identifica normatividad aplicable y argumenta con base en principios de honestidad y responsabilidad profesional. | Reconoce la importancia de la integridad académica y profesional. | Menciona integridad sin relacionarla con normatividad. | Justifica conductas contrarias a la integridad o no reconoce faltas. |
 
----
-
-# 📌 Guía de Ponderación Recomendada
-
-- Sección teórica con justificación → 60%
-- Sección de cálculo cinemático → 40%
-
-Dentro de la sección teórica:
-- 50% selección correcta
-- 50% calidad de argumentación (evaluada con esta rúbrica)
 
 ---
 
