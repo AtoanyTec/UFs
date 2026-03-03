@@ -72,7 +72,7 @@ A partir de la tabla:
 
 ## 4️⃣ Reducción con Mapas de Karnaugh 🧠
 
-Para **cada salida (M y E):**
+Para **cada salida (M):**
 
 1. Dibuje el mapa de Karnaugh de 3 variables.
 2. Coloque los valores correspondientes.
@@ -93,7 +93,7 @@ Implemente las expresiones reducidas utilizando compuertas básicas:
 
 El diagrama debe incluir:
 - Entradas etiquetadas (A, B, C)
-- Salidas etiquetadas (M y E)
+- Salida etiquetada (M)
 - Señales intermedias si existen
 
 ---
@@ -108,7 +108,6 @@ Simular en:
 Verificar las 8 combinaciones posibles y comprobar que:
 
 - El motor se activa correctamente.
-- El LED de emergencia responde según las reglas.
 
 ---
 
@@ -116,7 +115,7 @@ Verificar las 8 combinaciones posibles y comprobar que:
 
 - ✅ Tabla de verdad completa
 - ✅ Expresiones canónicas en minterminos
-- ✅ Mapas de Karnaugh (M y E)
+- ✅ Mapa de Karnaugh
 - ✅ Expresiones reducidas
 - ✅ Diagrama lógico con compuertas
 - ✅ Evidencia de simulación (capturas de pantalla)
