@@ -102,7 +102,7 @@ El diagrama debe incluir:
 
 Simular en:
 - Proteus
-- Logisim
+- Logicly
 - Multisim
 
 Verificar las 8 combinaciones posibles y comprobar que:
