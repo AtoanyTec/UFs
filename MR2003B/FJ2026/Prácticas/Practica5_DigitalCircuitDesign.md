@@ -51,16 +51,16 @@ El circuito debe cumplir exactamente con las siguientes condiciones:
 
 Complete la siguiente tabla considerando las reglas del sistema:
 
-| A | B | C | M (Motor) | E (LED) |
-|---|---|---|-----------|---------|
-| 0 | 0 | 0 |           |         |
-| 0 | 0 | 1 |           |         |
-| 0 | 1 | 0 |           |         |
-| 0 | 1 | 1 |           |         |
-| 1 | 0 | 0 |           |         |
-| 1 | 0 | 1 |           |         |
-| 1 | 1 | 0 |           |         |
-| 1 | 1 | 1 |           |         |
+| A | B | C | M (Motor) |
+|---|---|---|-----------|
+| 0 | 0 | 0 |           |
+| 0 | 0 | 1 |           |
+| 0 | 1 | 0 |           |
+| 0 | 1 | 1 |           |
+| 1 | 0 | 0 |           |
+| 1 | 0 | 1 |           |
+| 1 | 1 | 0 |           |
+| 1 | 1 | 1 |           |
 
 ---
 
@@ -70,8 +70,68 @@ A partir de la tabla:
 
 - Escriba la función **M(A,B,C)** como suma de minterminos.
 
-workspace
-|
--
+## 4️⃣ Reducción con Mapas de Karnaugh 🧠
+
+Para **cada salida (M y E):**
+
+1. Dibuje el mapa de Karnaugh de 3 variables.
+2. Coloque los valores correspondientes.
+3. Realice las agrupaciones válidas.
+4. Obtenga la expresión mínima simplificada.
+
+⚠️ Recuerde usar código Gray en el orden del mapa.
+
+---
+
+## 5️⃣ Dibujar el Diagrama Lógico
+
+Implemente las expresiones reducidas utilizando compuertas básicas:
+
+- AND
+- OR
+- NOT
+
+El diagrama debe incluir:
+- Entradas etiquetadas (A, B, C)
+- Salidas etiquetadas (M y E)
+- Señales intermedias si existen
+
+---
+
+## 6️⃣ Simulación (Si aplica)
+
+Simular en:
+- Proteus
+- Logisim
+- Multisim
+
+Verificar las 8 combinaciones posibles y comprobar que:
+
+- El motor se activa correctamente.
+- El LED de emergencia responde según las reglas.
+
+---
+
+# 📦 Entregables
+
+- ✅ Tabla de verdad completa
+- ✅ Expresiones canónicas en minterminos
+- ✅ Mapas de Karnaugh (M y E)
+- ✅ Expresiones reducidas
+- ✅ Diagrama lógico con compuertas
+- ✅ Evidencia de simulación (capturas de pantalla)
+
+---
+
+# ✔️ Lista de Verificación Final
+
+- [ ] La tabla cumple exactamente las reglas.
+- [ ] Los minterminos corresponden a las filas donde la salida es 1.
+- [ ] El mapa de Karnaugh está correctamente construido.
+- [ ] Las agrupaciones son válidas.
+- [ ] Las expresiones reducidas coinciden con la tabla.
+- [ ] El diagrama lógico está correctamente etiquetado.
+
+
 
 
