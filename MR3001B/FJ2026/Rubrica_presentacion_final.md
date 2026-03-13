@@ -1,23 +1,5 @@
 # 📊 RÚBRICA DE EVALUACIÓN DE PRESENTACIÓN FINAL DEL PROTOTIPO 
 
-La evaluación será:
-
-- 📌 **Individual (60%)** → Respuestas a preguntas técnicas realizadas por el profesor.
-- 📌 **Desempeño grupal en presentación y demostración (40%)**
-
-Cada estudiante debe demostrar dominio técnico completo del sistema, independientemente de su rol en el equipo.
-
-## 📊 Distribución de Ponderación
-
-| Componente | Peso |
-|------------|------|
-| 🔍 Evaluación individual (preguntas técnicas) | **60%** |
-| 🎤 Claridad y calidad de la presentación | 10% |
-| ⚙ Demostración técnica del prototipo | 15% |
-| 📐 Dominio de modelación y decisiones de diseño | 10% |
-| 🧠 Capacidad de análisis y pensamiento crítico | 5% |
-
-## 📋 Criterios de Evaluación
 
 | Criterio | Excelente (100–95) | Bueno (94–85) | Suficiente (84–75) | Insuficiente (<75) |
 |-----------|-------------------|---------------|--------------------|--------------------|
