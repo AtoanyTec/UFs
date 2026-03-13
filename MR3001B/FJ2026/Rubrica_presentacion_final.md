@@ -9,4 +9,10 @@
 | **Explicación de modelación y decisiones de diseño (10%)** | Justifica matemáticamente la cinemática, el control y la arquitectura. Argumenta decisiones técnicas con fundamentos. | Explica decisiones pero con menor profundidad matemática. | Explicación superficial. | No puede justificar decisiones de diseño. |
 | **Análisis crítico y capacidad de mejora (5%)** | Identifica limitaciones reales, fuentes de error y propone mejoras viables. | Identifica algunas mejoras. | Comentarios generales sin análisis profundo. | No reconoce limitaciones del sistema. |
 
+| Equipo | Dominio técnico individual (60%) | Claridad y estructura de la presentación (10%) | Demostración funcional del prototipo (15%) | Explicación de modelación y decisiones de diseño (10%) | Explicación de modelación y decisiones de diseño (10%) |
+|-----------|-------------------|---------------|--------------------|--------------------|--------------------|
+| **Equipo 1** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+| **Equipo 2** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+| **Equipo 3** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+
 ---
