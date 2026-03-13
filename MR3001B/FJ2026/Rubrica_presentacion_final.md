@@ -11,8 +11,8 @@
 
 | Equipo | Dominio técnico individual (60%) | Claridad y estructura de la presentación (10%) | Demostración funcional del prototipo (15%) | Explicación de modelación y decisiones de diseño (10%) | Explicación de modelación y decisiones de diseño (10%) |
 |-----------|-------------------|---------------|--------------------|--------------------|--------------------|
-| **Equipo 1** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
-| **Equipo 2** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
-| **Equipo 3** | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+| **Equipo 1**  | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+| **Equipo 2**  | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
+| **Equipo 3**  | xxxx | xxxxxx| xxxxxx. | xxxxxxx. | xxxxxx. | xxxxxxx. |
 
 ---
