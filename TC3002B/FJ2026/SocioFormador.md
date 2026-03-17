@@ -42,7 +42,7 @@ Dermatoss ofrece atención dermatológica integral, incluyendo:
 
 ## 🎯 En una frase
 
-> **Dermatoss es un consultorio dermatológico especializado que combina experiencia médica, tecnología y atención integral para el diagnóstico y tratamiento de enfermedades de la piel.**
+> **Derma es un consultorio dermatológico especializado que combina experiencia médica, tecnología y atención integral para el diagnóstico y tratamiento de enfermedades de la piel.**
 
 ---
 
