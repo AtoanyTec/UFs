@@ -42,6 +42,6 @@ Dermatoss provides comprehensive dermatological care, including:
 
 ## 🎯 In one sentence
 
-> **Dermatoss is a specialized dermatology clinic that combines medical expertise, technology, and comprehensive care for the diagnosis and treatment of skin conditions.**
+> **Derma is a specialized dermatology clinic that combines medical expertise, technology, and comprehensive care for the diagnosis and treatment of skin conditions.**
 
 ---  
