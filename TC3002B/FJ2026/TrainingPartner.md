@@ -1,7 +1,9 @@
-# 🏥 Dermatoss — Overview
+# 🏥 Dermatoss — Medical Vanguard
 
 ## 👩‍⚕️ Who are they?
 **Dermatoss Vanguardia Médica** is a specialized dermatology clinic focused on comprehensive care of the skin, hair, and nails for patients of all ages (children and adults).
+
+Link: https://www.dermatoss.com/
 
 ---
 
