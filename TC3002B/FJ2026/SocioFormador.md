@@ -1,6 +1,4 @@
-# 🏥 Dermatoss - Vanguardia Médica
-
-Link: https://www.dermatoss.com/
+# 🏥 Derma
 
 ## 👩‍⚕️ ¿Quiénes son?
 **Dermatoss Vanguardia Médica** es un consultorio especializado en dermatología integral, enfocado en el cuidado de la piel, cabello y uñas en pacientes de todas las edades (niños y adultos).
@@ -8,7 +6,7 @@ Link: https://www.dermatoss.com/
 ---
 
 ## 👩‍⚕️ Dirección médica
-El consultorio está liderado por la **Dra. Patricia Sepúlveda**, quien cuenta con:
+El consultorio cuenta con:
 
 - Más de **25 años de experiencia**
 - Formación en la **UNAM**
