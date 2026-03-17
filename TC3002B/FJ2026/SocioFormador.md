@@ -1,7 +1,7 @@
 # 🏥 Derma
 
 ## 👩‍⚕️ ¿Quiénes son?
-**Dermatoss Vanguardia Médica** es un consultorio especializado en dermatología integral, enfocado en el cuidado de la piel, cabello y uñas en pacientes de todas las edades (niños y adultos).
+**Derma** es un consultorio especializado en dermatología integral, enfocado en el cuidado de la piel, cabello y uñas en pacientes de todas las edades (niños y adultos).
 
 ---
 
