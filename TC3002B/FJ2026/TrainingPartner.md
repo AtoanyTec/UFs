@@ -1,14 +1,12 @@
-# 🏥 Dermatoss — Medical Vanguard
+# 🏥 Derma
 
 ## 👩‍⚕️ Who are they?
-**Dermatoss Vanguardia Médica** is a specialized dermatology clinic focused on comprehensive care of the skin, hair, and nails for patients of all ages (children and adults).
-
-Link: https://www.dermatoss.com/
+**Derma** is a specialized dermatology clinic focused on comprehensive care of the skin, hair, and nails for patients of all ages (children and adults).
 
 ---
 
 ## 👩‍⚕️ Medical leadership
-The clinic is led by **Dr. Patricia Sepúlveda**, who has:
+The clinic has:
 
 - Over **25 years of experience**
 - Medical training from **UNAM (National Autonomous University of Mexico)**
