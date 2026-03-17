@@ -31,32 +31,32 @@ You are expected to:
 ---
 
 ## 🗂️ Project Structure (Suggested)
-project/
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│
-├── notebooks/
-│ ├── EDA.ipynb
-│ ├── training.ipynb
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── model.py
-│ ├── train.py
-│ ├── evaluate.py
-│
-├── results/
-│ ├── metrics/
-│ ├── plots/
-│ ├── confusion_matrix.png
-│
-├── models/
-│ ├── best_model.pth
-│
-├── README.md
-└── requirements.txt
+project/  
+│  
+├── data/  
+│ ├── raw/  
+│ ├── processed/  
+│  
+├── notebooks/  
+│ ├── EDA.ipynb  
+│ ├── training.ipynb  
+│  
+├── src/  
+│ ├── data_preprocessing.py  
+│ ├── model.py  
+│ ├── train.py  
+│ ├── evaluate.py  
+│  
+├── results/  
+│ ├── metrics/  
+│ ├── plots/  
+│ ├── confusion_matrix.png  
+│  
+├── models/  
+│ ├── best_model.pth  
+│  
+├── README.md  
+└── requirements.txt  
 
 ---
 
