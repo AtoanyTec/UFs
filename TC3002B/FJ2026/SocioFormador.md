@@ -49,4 +49,4 @@ Dermatoss ofrece atención dermatológica integral, incluyendo:
 ## ⚠️ Nota importante
 
 Aunque el nombre podría sugerir una solución tecnológica,  
-**Dermatoss NO es una plataforma de inteligencia artificial**, sino un **servicio médico presencial especializado en dermatología**.
+**Derma NO es una plataforma de inteligencia artificial**, sino un **servicio médico presencial especializado en dermatología**.
