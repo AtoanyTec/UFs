@@ -1,166 +1,148 @@
-# 🧠📸 Skin Lesion Classification with CNN (ISIC2019)
-
-## 🚀 Overview
-
-Skin cancer is one of the most common diseases worldwide, and early detection is critical for successful treatment. In recent years, **Artificial Intelligence (AI)** — particularly **Convolutional Neural Networks (CNNs)** — has shown great potential in medical image analysis.
-
-In this project, you will develop a deep learning model capable of classifying skin lesions using the **ISIC 2019 dataset (International Skin Imaging Collaboration)**. This challenge simulates a real-world AI application in healthcare, combining technical skills with critical thinking and ethical awareness.
+# 🧠📸 Skin Lesion Classification System with CNN + Cloud Deployment (ISIC2019)
 
 ---
 
-## 🎯 Challenge Description
+## 🚀 1. Overview
 
-The goal of this project is to design, train, and evaluate a **CNN-based model** for **skin lesion classification**.
+Skin cancer is one of the most prevalent diseases worldwide, and early diagnosis significantly increases the chances of successful treatment. Advances in **Artificial Intelligence (AI)** and **Deep Learning**, particularly **Convolutional Neural Networks (CNNs)**, have enabled the development of automated systems capable of analyzing medical images with high accuracy.
 
-You are expected to:
+In this project, students will develop an **end-to-end AI system** for classifying skin lesions using the **ISIC 2019 dataset**. Beyond model development, this challenge integrates **real-world deployment**, requiring students to implement their solution in the cloud and design a **user-friendly interface** for practical usage.
 
-- 📥 Download and explore the ISIC2019 dataset  
+---
+
+## 🎯 2. Challenge Description
+
+The objective of this challenge is to design, train, evaluate, and deploy a **CNN-based model** capable of classifying skin lesion images.
+
+Students are expected to:
+
+- 📥 Acquire and explore the ISIC2019 dataset  
 - 🧹 Perform data preprocessing and augmentation  
-- 🧠 Design or implement a CNN architecture:
-  - From scratch OR
-  - Using transfer learning (e.g., ResNet, VGG, EfficientNet, ConvNeXt)  
-- ⚙️ Train the model and tune hyperparameters  
-- 📊 Evaluate performance using:
-  - Accuracy  
-  - Precision  
-  - Recall  
-  - F1-score  
-  - Confusion matrix  
-- 🔍 Analyze results and identify limitations  
+- 🧠 Develop a CNN model (from scratch or transfer learning)  
+- ⚙️ Train and optimize the model  
+- 📊 Evaluate performance using standard metrics  
+- ☁️ Deploy the model in the cloud (AWS, GCP, Azure, etc.)  
+- 💻 Develop a **user interface (UI)** that allows:
+  - Image upload  
+  - Prediction visualization  
+  - Confidence scores  
 
 ---
 
-## 🗂️ Project Structure (Suggested)
-project/  
-│  
-├── data/  
-│ ├── raw/  
-│ ├── processed/  
-│  
-├── notebooks/  
-│ ├── EDA.ipynb  
-│ ├── training.ipynb  
-│  
-├── src/  
-│ ├── data_preprocessing.py  
-│ ├── model.py  
-│ ├── train.py  
-│ ├── evaluate.py  
-│  
-├── results/  
-│ ├── metrics/  
-│ ├── plots/  
-│ ├── confusion_matrix.png  
-│  
-├── models/  
-│ ├── best_model.pth  
-│  
-├── README.md  
-└── requirements.txt  
+## 🗂️ 3. Project Structure
+
+project/
+│
+├── data/
+│ ├── raw/
+│ ├── processed/
+│
+├── notebooks/
+│ ├── EDA.ipynb
+│ ├── training.ipynb
+│
+├── src/
+│ ├── data_preprocessing.py
+│ ├── model.py
+│ ├── train.py
+│ ├── evaluate.py
+│ ├── inference.py
+│
+├── app/
+│ ├── backend/ # API (Flask/FastAPI)
+│ ├── frontend/ # UI (Streamlit/React)
+│
+├── deployment/
+│ ├── Dockerfile
+│ ├── cloud_config/
+│
+├── models/
+│ ├── best_model.pth
+│
+├── results/
+│ ├── metrics/
+│ ├── plots/
+│
+├── README.md
+└── requirements.txt
 
 ---
 
+## 🛠️ 4. Project Stages
 
-## 🛠️ Project Stages
+### 🔹 Stage 1: Problem Understanding
+- Research skin lesion types  
+- Explore dataset distribution  
 
-### 🔹 1. Problem Understanding
-- Research skin cancer and lesion types  
-- Explore ISIC2019 dataset  
-- Analyze class distribution  
+### 🔹 Stage 2: Data Preparation
+- Data cleaning  
+- Train/validation/test split  
+- Preprocessing (resize, normalization, augmentation)  
 
----
+### 🔹 Stage 3: Model Development
+- Select architecture (CNN or transfer learning)  
+- Define loss function and optimizer  
 
-### 🔹 2. Data Preparation
-- Clean dataset  
-- Split into train/validation/test  
-- Apply preprocessing:
-  - Image resizing  
-  - Normalization  
-  - Data augmentation  
+### 🔹 Stage 4: Training & Optimization
+- Train model  
+- Monitor loss and accuracy  
+- Apply regularization and early stopping  
 
----
+### 🔹 Stage 5: Evaluation
+- Evaluate on test set  
+- Generate confusion matrix and classification report  
 
-### 🔹 3. Model Design
-- Choose architecture:
-  - Custom CNN OR transfer learning  
-- Define:
-  - Loss function  
-  - Optimizer  
-  - Hyperparameters  
+### 🔹 Stage 6: Cloud Deployment
+- Export trained model  
+- Deploy using API (Flask/FastAPI)  
+- Host in cloud  
 
----
+### 🔹 Stage 7: UI Development
+- Build interface for predictions  
+- Display results and confidence  
 
-### 🔹 4. Training
-- Train the model  
-- Monitor:
-  - Loss  
-  - Accuracy  
-- Apply techniques:
-  - Early stopping  
-  - Regularization  
-  - Dropout  
-
----
-
-### 🔹 5. Evaluation
-- Evaluate on test dataset  
-- Generate:
-  - Confusion matrix  
-  - Classification report  
-- (Optional) ROC curves  
-
----
-
-### 🔹 6. Analysis & Discussion
+### 🔹 Stage 8: Analysis & Discussion
 - Interpret results  
-- Identify model weaknesses  
-- Discuss:
-  - Bias in dataset  
-  - Ethical implications  
-  - Real-world applicability  
+- Identify limitations and improvements  
+
+### 🔹 Stage 9: Final Presentation
+- Demonstrate full system  
+- Present technical findings  
 
 ---
 
-### 🔹 7. Final Presentation
-- 📊 Technical presentation  
-- 🧪 Model demonstration  
-- 📄 Technical report  
-- 💡 Critical reflection  
-
----
-
-## 📊 Evaluation Metrics
+## 📊 5. Evaluation Metrics
 
 - Accuracy  
 - Precision  
 - Recall  
 - F1-score  
 - Confusion Matrix  
+- (Optional) ROC-AUC  
 
 ---
 
-## ⚖️ Ethical Considerations
+## ⚖️ 6. Ethical Considerations
 
-- Bias in medical datasets  
+- Bias in datasets  
 - Risk of misclassification  
-- Limitations of AI in healthcare  
-- Importance of human supervision  
+- Need for human supervision  
+- Data privacy and security  
 
 ---
 
-## 🧠 Suggested Models
+## 🧠 7. Suggested Models
 
 - ResNet50  
 - VGG16  
 - EfficientNet  
 - ConvNeXt  
+- MobileNet  
 - Custom CNN  
 
 ---
 
-## 📦 Requirements
-
-Example:
+## 📦 8. Requirements
 
 - torch
 - torchvision
@@ -169,35 +151,27 @@ Example:
 - matplotlib
 - scikit-learn
 - opencv-python
-
-
----
-
-
-## 👨‍🏫 Learning Outcomes
-
-By completing this project, you will:
-
-- Understand CNNs for image classification  
-- Work with real-world medical datasets  
-- Apply preprocessing and augmentation techniques  
-- Evaluate deep learning models  
-- Develop critical thinking in AI applications  
+- flask / fastapi
+- streamlit / gradio
 
 ---
 
-## 📚 Dataset
+## 📚 9. Dataset
 
-- ISIC 2019 Challenge Dataset  
-- [https://challenge.isic-archive.com/](https://huggingface.co/datasets/Atoany/ISIC2019)
-
----
-
-## 🙌 Acknowledgments
-
-- International Skin Imaging Collaboration (ISIC)  
-- Open-source deep learning community  
+- **ISIC 2019 Challenge Dataset**  
+- https://challenge.isic-archive.com/  
 
 ---
 
+## 🏁 10. Deliverables
+
+- ✅ Trained CNN model  
+- ✅ Source code  
+- ✅ Performance metrics and visualizations  
+- ✅ Cloud deployment (working API)  
+- ✅ Functional user interface  
+- ✅ Technical report  
+- ✅ Final presentation  
+
+---
 
