@@ -25,7 +25,25 @@ Students are expected to:
 - 💻 Develop a **user interface (UI)** that allows:
   - Image upload  
   - Prediction visualization  
-  - Confidence scores  
+  - Confidence scores
+ 
+### 🤖 Use of Generative AI
+
+Students are allowed and encouraged to use **generative AI tools** (e.g., ChatGPT, Copilot, Gemini) to:
+
+- Generate code snippets (e.g., data preprocessing, model definition, training loops, deployment scripts)  
+- Debug and improve existing code  
+- Explore alternative implementations  
+
+However, students must:
+
+- Understand and be able to explain all generated code  
+- Validate and critically evaluate AI-generated outputs  
+- Adapt and improve the generated solutions  
+
+The use of generative AI will be evaluated based on **critical thinking and responsible usage**, not mere reliance.
+
+---
 
 ---
 
