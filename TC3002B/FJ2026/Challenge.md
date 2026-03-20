@@ -196,7 +196,6 @@ project/
 | Criterion | Excellent (95–100) | Satisfactory (85–94) | Basic (75–84) | Insufficient (<75) |
 |----------|--------------------|----------------------|----------------|--------------------|
 | 🧠 Individual mastery of the topic (10%) | Demonstrates complete understanding of the system (data, model, metrics, deployment, and UI). Clear and in-depth explanations. | Good overall understanding with minor inaccuracies. | Partial understanding of the system. | Does not demonstrate understanding of the topic. |
-| 🎤 Individual participation (5%) | Active, clear, and well-structured participation using appropriate technical language. | Clear participation with moderate depth. | Limited or unclear participation. | Minimal or no participation. |
 | ❓ Depth of answers to questions (10%) | Answers are analytical, well-justified, and demonstrate critical thinking. | Answers are correct with adequate reasoning. | Partial answers with noticeable gaps. | Unable to answer or answers incorrectly. |
 | 🧠 Technical rigor of the model (5%)| Strong justification of architecture, hyperparameters, and technical decisions. | Adequate justification with minor gaps. | Superficial justification. | No technical justification. |
 | 📊 Results analysis (5%)| Deep interpretation of metrics, errors, and model behavior. | Good interpretation with limited depth. | Limited or superficial interpretation. | No meaningful interpretation. |
