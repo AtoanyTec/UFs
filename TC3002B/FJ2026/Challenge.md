@@ -175,32 +175,32 @@ project/
 
 ---
 
-## 📊 11. Rúbrica de Evaluación – Presentación Final
+## 📊 11. Evaluation Rubric – Final Presentation
 
-| Criterio | Excelente (95–100) | Satisfactorio (85–94) | Básico (75–84) | Insuficiente (<75) |
-|----------|--------------------|------------------------|----------------|--------------------|
-| 🧠 Dominio individual del tema | Dominio completo del sistema (datos, modelo, métricas, deployment y UI). Explica con claridad y profundidad. | Buen dominio general con pequeñas imprecisiones. | Comprensión parcial del sistema. | No demuestra dominio del tema. |
-| 🎤 Participación individual | Participación activa, clara, estructurada y con lenguaje técnico adecuado. | Participación clara pero con menor profundidad. | Participación limitada o poco clara. | Participación mínima o nula. |
-| ❓ Respuestas a preguntas (profundidad) | Respuestas analíticas, justificadas y con pensamiento crítico. | Respuestas correctas con razonamiento adecuado. | Respuestas parciales o con dudas. | No responde correctamente. |
-| 🧠 Rigor técnico del modelo | Justificación sólida de arquitectura, hiperparámetros y decisiones técnicas. | Justificación adecuada con algunos vacíos. | Justificación superficial. | Sin justificación técnica. |
-| 📊 Análisis de resultados | Interpretación profunda de métricas, errores y comportamiento del modelo. | Buena interpretación con menor profundidad. | Interpretación limitada. | No interpreta resultados. |
-| 🧪 Validación experimental | Uso correcto de splits, comparación de modelos y reproducibilidad. | Validación adecuada con algunos detalles faltantes. | Validación básica o incompleta. | Sin validación adecuada. |
-| ☁️ Deployment en la nube | Sistema funcional, accesible, robusto y eficiente. | Deployment funcional con detalles menores. | Deployment parcial o inestable. | No hay deployment funcional. |
-| 💻 Interfaz de usuario (UI/UX) | Interfaz intuitiva, clara, funcional y bien integrada con el modelo. | Interfaz funcional con buena usabilidad. | Interfaz básica o poco clara. | No hay interfaz funcional. |
-| 🔗 Integración del sistema | Flujo completo (end-to-end) bien integrado y sin errores. | Integración funcional con pequeños fallos. | Integración parcial. | Componentes aislados sin integración. |
-| ⚖️ Análisis ético | Reflexión profunda sobre sesgos, riesgos y uso responsable de IA. | Identifica aspectos éticos relevantes. | Reflexión superficial. | No considera aspectos éticos. |
-| 🧩 Justificación de decisiones | Todas las decisiones están claramente justificadas y fundamentadas. | Justificación adecuada con algunas debilidades. | Justificación limitada. | No justifica decisiones. |
-| 📁 Código y documentación | Código limpio, organizado, documentado y repositorio profesional. | Código bien estructurado con documentación básica. | Código desorganizado o poco documentado. | Código deficiente o inexistente. |
-| 📈 Innovación / valor agregado | Incluye mejoras relevantes (XAI, comparación de modelos, features extra). | Incluye algunos elementos adicionales. | Poca innovación. | Sin valor agregado. |
-| 🤖 Uso de IA generativa | Uso crítico, validado y mejorado de herramientas de IA (🟢). | Uso adecuado con validación parcial (🟡). | Uso dependiente o poco crítico (🔴/🟡). | Uso inadecuado o sin comprensión (🔴). |
+| Criterion | Excellent (95–100) | Satisfactory (85–94) | Basic (75–84) | Insufficient (<75) |
+|----------|--------------------|----------------------|----------------|--------------------|
+| 🧠 Individual mastery of the topic | Demonstrates complete understanding of the system (data, model, metrics, deployment, and UI). Clear and in-depth explanations. | Good overall understanding with minor inaccuracies. | Partial understanding of the system. | Does not demonstrate understanding of the topic. |
+| 🎤 Individual participation | Active, clear, and well-structured participation using appropriate technical language. | Clear participation with moderate depth. | Limited or unclear participation. | Minimal or no participation. |
+| ❓ Depth of answers to questions | Answers are analytical, well-justified, and demonstrate critical thinking. | Answers are correct with adequate reasoning. | Partial answers with noticeable gaps. | Unable to answer or answers incorrectly. |
+| 🧠 Technical rigor of the model | Strong justification of architecture, hyperparameters, and technical decisions. | Adequate justification with minor gaps. | Superficial justification. | No technical justification. |
+| 📊 Results analysis | Deep interpretation of metrics, errors, and model behavior. | Good interpretation with limited depth. | Limited or superficial interpretation. | No meaningful interpretation. |
+| 🧪 Experimental validation | Proper data splitting, reproducibility, and model comparison. | Adequate validation with minor issues. | Basic or incomplete validation. | No proper validation. |
+| ☁️ Cloud deployment | Fully functional, accessible, robust, and efficient system. | Functional deployment with minor issues. | Partial or unstable deployment. | No functional deployment. |
+| 💻 User Interface (UI/UX) | Intuitive, clear, and fully functional interface well integrated with the model. | Functional interface with good usability. | Basic or unclear interface. | No functional interface. |
+| 🔗 System integration | Complete end-to-end pipeline working seamlessly. | Functional integration with minor issues. | Partial integration. | No integration between components. |
+| ⚖️ Ethical analysis | Deep reflection on bias, risks, and responsible AI use. | Identifies relevant ethical aspects. | Superficial ethical reflection. | No ethical considerations. |
+| 🧩 Justification of decisions | All decisions are clearly justified and well supported. | Adequate justification with some weaknesses. | Limited justification. | No justification provided. |
+| 📁 Code quality and documentation | Clean, well-organized, and well-documented code with a professional repository. | Well-structured code with basic documentation. | Disorganized or poorly documented code. | Poor or missing code. |
+| 📈 Innovation / added value | Includes meaningful enhancements (XAI, model comparison, advanced features). | Includes some additional features. | Minimal innovation. | No added value. |
+| 🤖 Use of generative AI | Critical, validated, and improved use of AI tools (🟢). | Appropriate use with partial validation (🟡). | Dependent or uncritical use (🔴/🟡). | Misuse or lack of understanding (🔴). |
 
 ---
 
-## 📝 Notas
+## 📝 Notes
 
-- La evaluación es **individual**, aunque el proyecto sea en equipo.
-- Se realizarán **preguntas individuales** para validar el dominio real del estudiante.
-- Se espera evidencia de un **sistema funcional completo (modelo + nube + UI)**.
-- El enfoque principal es **pensamiento crítico + implementación real + responsabilidad en IA**.
+- Evaluation is **individual**, even though the project is team-based.  
+- **Individual questions** will be asked to assess true understanding.  
+- A fully functional system (**model + cloud + UI**) is expected.  
+- The focus is on **critical thinking, real-world implementation, and responsible AI use**.
 
 ---
