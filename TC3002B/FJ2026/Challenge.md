@@ -212,11 +212,49 @@ project/
 
 ---
 
-## 📝 Notes
+### 📝 Notes
 
 - Evaluation is **individual**, even though the project is team-based.  
 - **Individual questions** will be asked to assess true understanding.  
 - A fully functional system (**model + cloud + UI**) is expected.  
 - The focus is on **critical thinking, real-world implementation, and responsible AI use**.
+
+---
+
+## 📄 12. Evaluation Rubric – Research Manuscript (CNN + Skin Lesion Classification)
+
+| Criterion | Excellent (95–100) | Satisfactory (85–94) | Basic (75–84) | Insufficient (<75) |
+|----------|--------------------|----------------------|----------------|--------------------|
+| 🧩 Abstract & Problem Definition | Clear, concise, and well-structured abstract. Problem is well-motivated and relevant. | Clear abstract with minor issues in clarity or motivation. | Abstract is vague or lacks structure. | Abstract is missing or unclear. |
+| 📚 Literature Review | Comprehensive, relevant, and up-to-date references. Strong connection to the problem. | Adequate review with some missing references or weak connections. | Limited or superficial review. | No meaningful literature review. |
+| 🧠 Methodology (Model & Approach) | Methodology is clearly described, justified, and reproducible. Strong technical rigor. | Methodology is clear but lacks depth or justification. | Methodology is partially described or unclear. | Methodology is missing or incorrect. |
+| 🧹 Data Description & Preprocessing | Dataset is well described, including preprocessing, augmentation, and class distribution. | Dataset description is adequate with minor omissions. | Limited description of data or preprocessing. | Data handling is unclear or missing. |
+| ⚙️ Experimental Design | Proper train/validation/test split, controlled experiments, and reproducibility. | Adequate experimental setup with minor issues. | Basic or incomplete experimental design. | No proper experimental design. |
+| 📊 Results & Analysis | Results are clearly presented and deeply analyzed. Includes metrics, figures, and error analysis. | Results are clear with moderate analysis. | Limited analysis of results. | Results are poorly presented or not analyzed. |
+| 📈 Figures & Tables Quality | High-quality, well-labeled, and relevant figures/tables that support analysis. | Good quality figures/tables with minor issues. | Basic or unclear visualizations. | Missing or poor-quality visuals. |
+| 🔍 Discussion & Critical Thinking | Strong interpretation of results, limitations, and proposed improvements. | Adequate discussion with some insights. | Limited or superficial discussion. | No meaningful discussion. |
+| ⚖️ Ethical Considerations | Deep reflection on bias, risks, and responsible AI use in healthcare. | Identifies relevant ethical aspects. | Superficial ethical discussion. | No ethical considerations. |
+| 🤖 Use of Generative AI | Transparent, critical, and well-documented use of AI tools (e.g., AI_LOG, justification). | Appropriate use with partial documentation. | Limited or unclear use of AI tools. | Misuse or no understanding of AI usage. |
+| 📝 Writing Quality & Structure | Clear, professional, well-organized academic writing with no grammatical issues. | Good writing with minor errors. | Writing is understandable but lacks clarity or structure. | Poor writing quality and organization. |
+| 🔗 Reproducibility & Code Availability | Code, models, and instructions are well-documented and reproducible. | Code is available but partially documented. | Limited reproducibility. | No code or reproducibility. |
+| 📎 References & Citations | Proper citation format (APA/IEEE), consistent and complete references. | Minor issues in citation format. | Inconsistent or incomplete citations. | Missing or incorrect references. |
+| 💡 Originality & Contribution | Demonstrates originality, innovation, or meaningful contribution. | Some level of originality. | Limited contribution. | No originality. |
+
+---
+
+## 📝 Notes
+
+- The manuscript should follow a **standard academic structure**:
+  - Abstract  
+  - Introduction  
+  - Related Work  
+  - Methodology  
+  - Results  
+  - Discussion  
+  - Conclusion  
+  - References  
+
+- Clarity, reproducibility, and critical analysis are **key evaluation factors**.  
+- The use of generative AI must be **transparent and critically justified**.
 
 ---
