@@ -159,7 +159,7 @@ project/
 ## 📚 9. Dataset
 
 - **ISIC 2019 Challenge Dataset**  
-- https://challenge.isic-archive.com/  
+- [https://challenge.isic-archive.com/ ](https://huggingface.co/datasets/Atoany/ISIC2019) 
 
 ---
 
