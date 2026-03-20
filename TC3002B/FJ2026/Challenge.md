@@ -175,7 +175,7 @@ project/
 
 ---
 
-## 📊 11. Rúbrica de Evaluación – Presentación Final (Proyecto CNN + Cloud + UI)
+## 📊 11. Rúbrica de Evaluación – Presentación Final
 
 | Criterio | Excelente (95–100) | Satisfactorio (85–94) | Básico (75–84) | Insuficiente (<75) |
 |----------|--------------------|------------------------|----------------|--------------------|
