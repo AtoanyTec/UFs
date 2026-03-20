@@ -221,7 +221,7 @@ project/
 
 ---
 
-## 📄 12. Evaluation Rubric – Research Manuscript (CNN + Skin Lesion Classification)
+## 📄 12. Evaluation Rubric – Research Manuscript
 
 | Criterion | Excellent (95–100) | Satisfactory (85–94) | Basic (75–84) | Insufficient (<75) |
 |----------|--------------------|----------------------|----------------|--------------------|
