@@ -31,40 +31,40 @@ Students are expected to:
 
 ## 🗂️ 3. Project Structure
 
-project/
-│
-├── data/
-│ ├── raw/
-│ ├── processed/
-│
-├── notebooks/
-│ ├── EDA.ipynb
-│ ├── training.ipynb
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── model.py
-│ ├── train.py
-│ ├── evaluate.py
-│ ├── inference.py
-│
-├── app/
-│ ├── backend/ # API (Flask/FastAPI)
-│ ├── frontend/ # UI (Streamlit/React)
-│
-├── deployment/
-│ ├── Dockerfile
-│ ├── cloud_config/
-│
-├── models/
-│ ├── best_model.pth
-│
-├── results/
-│ ├── metrics/
-│ ├── plots/
-│
-├── README.md
-└── requirements.txt
+project/  
+│  
+├── data/  
+│ ├── raw/  
+│ ├── processed/  
+│  
+├── notebooks/  
+│ ├── EDA.ipynb  
+│ ├── training.ipynb  
+│  
+├── src/  
+│ ├── data_preprocessing.py  
+│ ├── model.py  
+│ ├── train.py  
+│ ├── evaluate.py  
+│ ├── inference.py  
+│  
+├── app/  
+│ ├── backend/ # API (Flask/FastAPI)  
+│ ├── frontend/ # UI (Streamlit/React)  
+│  
+├── deployment/  
+│ ├── Dockerfile  
+│ ├── cloud_config/  
+│  
+├── models/  
+│ ├── best_model.pth  
+│  
+├── results/  
+│ ├── metrics/  
+│ ├── plots/  
+│  
+├── README.md  
+└── requirements.txt  
 
 ---
 
