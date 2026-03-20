@@ -195,21 +195,21 @@ project/
 
 | Criterion | Excellent (95–100) | Satisfactory (85–94) | Basic (75–84) | Insufficient (<75) |
 |----------|--------------------|----------------------|----------------|--------------------|
-| 🧠 Individual mastery of the topic | Demonstrates complete understanding of the system (data, model, metrics, deployment, and UI). Clear and in-depth explanations. | Good overall understanding with minor inaccuracies. | Partial understanding of the system. | Does not demonstrate understanding of the topic. |
-| 🎤 Individual participation | Active, clear, and well-structured participation using appropriate technical language. | Clear participation with moderate depth. | Limited or unclear participation. | Minimal or no participation. |
-| ❓ Depth of answers to questions | Answers are analytical, well-justified, and demonstrate critical thinking. | Answers are correct with adequate reasoning. | Partial answers with noticeable gaps. | Unable to answer or answers incorrectly. |
-| 🧠 Technical rigor of the model | Strong justification of architecture, hyperparameters, and technical decisions. | Adequate justification with minor gaps. | Superficial justification. | No technical justification. |
-| 📊 Results analysis | Deep interpretation of metrics, errors, and model behavior. | Good interpretation with limited depth. | Limited or superficial interpretation. | No meaningful interpretation. |
-| 🧪 Experimental validation | Proper data splitting, reproducibility, and model comparison. | Adequate validation with minor issues. | Basic or incomplete validation. | No proper validation. |
-| ☁️ Cloud deployment | Fully functional, accessible, robust, and efficient system. | Functional deployment with minor issues. | Partial or unstable deployment. | No functional deployment. |
-| 💻 User Interface (UI/UX) | Intuitive, clear, and fully functional interface well integrated with the model. | Functional interface with good usability. | Basic or unclear interface. | No functional interface. |
-| 🔗 System integration | Complete end-to-end pipeline working seamlessly. | Functional integration with minor issues. | Partial integration. | No integration between components. |
-| 📦 GitHub repository & reproducibility | Complete, well-organized repository with clean code, documentation, and a **step-by-step deployment guide** that allows any user to run the system locally without issues. | Repository is functional with documentation, but deployment instructions are partially incomplete or unclear. | Repository exists but lacks clear structure or reproducibility; deployment is difficult. | No repository, or not functional/reproducible. |
-| ⚖️ Ethical analysis | Deep reflection on bias, risks, and responsible AI use. | Identifies relevant ethical aspects. | Superficial ethical reflection. | No ethical considerations. |
-| 🧩 Justification of decisions | All decisions are clearly justified and well supported. | Adequate justification with some weaknesses. | Limited justification. | No justification provided. |
-| 📁 Code quality and documentation | Clean, well-organized, modular, and well-documented code following best practices. | Well-structured code with basic documentation. | Disorganized or poorly documented code. | Poor or missing code. |
-| 📈 Innovation / added value | Includes meaningful enhancements (XAI, model comparison, advanced features). | Includes some additional features. | Minimal innovation. | No added value. |
-| 🤖 Use of generative AI | Critical, validated, and improved use of AI tools (🟢). | Appropriate use with partial validation (🟡). | Dependent or uncritical use (🔴/🟡). | Misuse or lack of understanding (🔴). |
+| 🧠 Individual mastery of the topic (10%) | Demonstrates complete understanding of the system (data, model, metrics, deployment, and UI). Clear and in-depth explanations. | Good overall understanding with minor inaccuracies. | Partial understanding of the system. | Does not demonstrate understanding of the topic. |
+| 🎤 Individual participation (5%) | Active, clear, and well-structured participation using appropriate technical language. | Clear participation with moderate depth. | Limited or unclear participation. | Minimal or no participation. |
+| ❓ Depth of answers to questions (10%) | Answers are analytical, well-justified, and demonstrate critical thinking. | Answers are correct with adequate reasoning. | Partial answers with noticeable gaps. | Unable to answer or answers incorrectly. |
+| 🧠 Technical rigor of the model (5%)| Strong justification of architecture, hyperparameters, and technical decisions. | Adequate justification with minor gaps. | Superficial justification. | No technical justification. |
+| 📊 Results analysis (5%)| Deep interpretation of metrics, errors, and model behavior. | Good interpretation with limited depth. | Limited or superficial interpretation. | No meaningful interpretation. |
+| 🧪 Experimental validation (5%)| Proper data splitting, reproducibility, and model comparison. | Adequate validation with minor issues. | Basic or incomplete validation. | No proper validation. |
+| ☁️ Cloud deployment (10%)| Fully functional, accessible, robust, and efficient system. | Functional deployment with minor issues. | Partial or unstable deployment. | No functional deployment. |
+| 💻 User Interface (UI/UX) (5%)| Intuitive, clear, and fully functional interface well integrated with the model. | Functional interface with good usability. | Basic or unclear interface. | No functional interface. |
+| 🔗 System integration (5%) | Complete end-to-end pipeline working seamlessly. | Functional integration with minor issues. | Partial integration. | No integration between components. |
+| 📦 GitHub repository & reproducibility (20%) | Complete, well-organized repository with clean code, documentation, and a **step-by-step deployment guide** that allows any user to run the system locally without issues. | Repository is functional with documentation, but deployment instructions are partially incomplete or unclear. | Repository exists but lacks clear structure or reproducibility; deployment is difficult. | No repository, or not functional/reproducible. |
+| ⚖️ Ethical analysis (5%) | Deep reflection on bias, risks, and responsible AI use. | Identifies relevant ethical aspects. | Superficial ethical reflection. | No ethical considerations. |
+| 🧩 Justification of decisions (5%) | All decisions are clearly justified and well supported. | Adequate justification with some weaknesses. | Limited justification. | No justification provided. |
+| 📁 Code quality and documentation (5%) | Clean, well-organized, modular, and well-documented code following best practices. | Well-structured code with basic documentation. | Disorganized or poorly documented code. | Poor or missing code. |
+| 📈 Innovation / added value (5%) | Includes meaningful enhancements (XAI, model comparison, advanced features). | Includes some additional features. | Minimal innovation. | No added value. |
+| 🤖 Use of generative AI (5%)| Critical, validated, and improved use of AI tools (🟢). | Appropriate use with partial validation (🟡). | Dependent or uncritical use (🔴/🟡). | Misuse or lack of understanding (🔴). |
 
 ---
 
