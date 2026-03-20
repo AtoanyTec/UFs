@@ -134,7 +134,7 @@ project/
 - Recall  
 - F1-score  
 - Confusion Matrix  
-- (Optional) ROC-AUC  
+- ROC-AUC  
 
 ---
 
