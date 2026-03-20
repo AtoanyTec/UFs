@@ -45,8 +45,6 @@ The use of generative AI will be evaluated based on **critical thinking and resp
 
 ---
 
----
-
 ## 🗂️ 3. Project Structure
 
 project/  
