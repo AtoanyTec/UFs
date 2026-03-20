@@ -175,3 +175,32 @@ project/
 
 ---
 
+## 📊 11. Rúbrica de Evaluación – Presentación Final (Proyecto CNN + Cloud + UI)
+
+| Criterio | Excelente (95–100) | Satisfactorio (85–94) | Básico (75–84) | Insuficiente (<75) |
+|----------|--------------------|------------------------|----------------|--------------------|
+| 🧠 Dominio individual del tema | Dominio completo del sistema (datos, modelo, métricas, deployment y UI). Explica con claridad y profundidad. | Buen dominio general con pequeñas imprecisiones. | Comprensión parcial del sistema. | No demuestra dominio del tema. |
+| 🎤 Participación individual | Participación activa, clara, estructurada y con lenguaje técnico adecuado. | Participación clara pero con menor profundidad. | Participación limitada o poco clara. | Participación mínima o nula. |
+| ❓ Respuestas a preguntas (profundidad) | Respuestas analíticas, justificadas y con pensamiento crítico. | Respuestas correctas con razonamiento adecuado. | Respuestas parciales o con dudas. | No responde correctamente. |
+| 🧠 Rigor técnico del modelo | Justificación sólida de arquitectura, hiperparámetros y decisiones técnicas. | Justificación adecuada con algunos vacíos. | Justificación superficial. | Sin justificación técnica. |
+| 📊 Análisis de resultados | Interpretación profunda de métricas, errores y comportamiento del modelo. | Buena interpretación con menor profundidad. | Interpretación limitada. | No interpreta resultados. |
+| 🧪 Validación experimental | Uso correcto de splits, comparación de modelos y reproducibilidad. | Validación adecuada con algunos detalles faltantes. | Validación básica o incompleta. | Sin validación adecuada. |
+| ☁️ Deployment en la nube | Sistema funcional, accesible, robusto y eficiente. | Deployment funcional con detalles menores. | Deployment parcial o inestable. | No hay deployment funcional. |
+| 💻 Interfaz de usuario (UI/UX) | Interfaz intuitiva, clara, funcional y bien integrada con el modelo. | Interfaz funcional con buena usabilidad. | Interfaz básica o poco clara. | No hay interfaz funcional. |
+| 🔗 Integración del sistema | Flujo completo (end-to-end) bien integrado y sin errores. | Integración funcional con pequeños fallos. | Integración parcial. | Componentes aislados sin integración. |
+| ⚖️ Análisis ético | Reflexión profunda sobre sesgos, riesgos y uso responsable de IA. | Identifica aspectos éticos relevantes. | Reflexión superficial. | No considera aspectos éticos. |
+| 🧩 Justificación de decisiones | Todas las decisiones están claramente justificadas y fundamentadas. | Justificación adecuada con algunas debilidades. | Justificación limitada. | No justifica decisiones. |
+| 📁 Código y documentación | Código limpio, organizado, documentado y repositorio profesional. | Código bien estructurado con documentación básica. | Código desorganizado o poco documentado. | Código deficiente o inexistente. |
+| 📈 Innovación / valor agregado | Incluye mejoras relevantes (XAI, comparación de modelos, features extra). | Incluye algunos elementos adicionales. | Poca innovación. | Sin valor agregado. |
+| 🤖 Uso de IA generativa | Uso crítico, validado y mejorado de herramientas de IA (🟢). | Uso adecuado con validación parcial (🟡). | Uso dependiente o poco crítico (🔴/🟡). | Uso inadecuado o sin comprensión (🔴). |
+
+---
+
+## 📝 Notas
+
+- La evaluación es **individual**, aunque el proyecto sea en equipo.
+- Se realizarán **preguntas individuales** para validar el dominio real del estudiante.
+- Se espera evidencia de un **sistema funcional completo (modelo + nube + UI)**.
+- El enfoque principal es **pensamiento crítico + implementación real + responsabilidad en IA**.
+
+---
