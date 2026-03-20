@@ -204,19 +204,21 @@ project/
 | ☁️ Cloud deployment | Fully functional, accessible, robust, and efficient system. | Functional deployment with minor issues. | Partial or unstable deployment. | No functional deployment. |
 | 💻 User Interface (UI/UX) | Intuitive, clear, and fully functional interface well integrated with the model. | Functional interface with good usability. | Basic or unclear interface. | No functional interface. |
 | 🔗 System integration | Complete end-to-end pipeline working seamlessly. | Functional integration with minor issues. | Partial integration. | No integration between components. |
+| 📦 GitHub repository & reproducibility | Complete, well-organized repository with clean code, documentation, and a **step-by-step deployment guide** that allows any user to run the system locally without issues. | Repository is functional with documentation, but deployment instructions are partially incomplete or unclear. | Repository exists but lacks clear structure or reproducibility; deployment is difficult. | No repository, or not functional/reproducible. |
 | ⚖️ Ethical analysis | Deep reflection on bias, risks, and responsible AI use. | Identifies relevant ethical aspects. | Superficial ethical reflection. | No ethical considerations. |
 | 🧩 Justification of decisions | All decisions are clearly justified and well supported. | Adequate justification with some weaknesses. | Limited justification. | No justification provided. |
-| 📁 Code quality and documentation | Clean, well-organized, and well-documented code with a professional repository. | Well-structured code with basic documentation. | Disorganized or poorly documented code. | Poor or missing code. |
+| 📁 Code quality and documentation | Clean, well-organized, modular, and well-documented code following best practices. | Well-structured code with basic documentation. | Disorganized or poorly documented code. | Poor or missing code. |
 | 📈 Innovation / added value | Includes meaningful enhancements (XAI, model comparison, advanced features). | Includes some additional features. | Minimal innovation. | No added value. |
 | 🤖 Use of generative AI | Critical, validated, and improved use of AI tools (🟢). | Appropriate use with partial validation (🟡). | Dependent or uncritical use (🔴/🟡). | Misuse or lack of understanding (🔴). |
 
 ---
 
-### 📝 Notes
+## 📝 Notes
 
 - Evaluation is **individual**, even though the project is team-based.  
 - **Individual questions** will be asked to assess true understanding.  
 - A fully functional system (**model + cloud + UI**) is expected.  
+- Students must provide a **GitHub repository with clear instructions to run the system locally (deployment reproducibility is mandatory)**.  
 - The focus is on **critical thinking, real-world implementation, and responsible AI use**.
 
 ---
