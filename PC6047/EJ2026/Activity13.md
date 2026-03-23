@@ -57,7 +57,7 @@ Include:
 
 ---
 
-### 2. 📊 Visual Summary (Optional but recommended)
+### 2. 📊 Visual Summary (individual)
 Choose one:
 - Concept map
 - Diagram
@@ -67,7 +67,7 @@ Choose one:
 
 ---
 
-### 3. 🎤 Mini Presentation (In class or recorded)
+### 3. 🎤 Mini Presentation (In class)
 **Duration:** 3–5 minutes
 
 Explain:
