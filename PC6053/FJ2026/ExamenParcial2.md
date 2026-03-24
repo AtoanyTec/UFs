@@ -15,6 +15,11 @@ Desarrollar un sistema IoT utilizando un **ESP32**, un **sensor PIR** y **LEDs**
 
 ---
 
+## 📚 Material de apoyo
+Para ayudarte durante el examen, revisa las **diapositivas 83 a la 109** de la presentación del curso, donde se explica la integración con **Arduino IoT Cloud** y el uso del **sensor PIR**.
+
+---
+
 ## 🧠 Descripción del reto
 
 Debes diseñar e implementar un sistema que:
