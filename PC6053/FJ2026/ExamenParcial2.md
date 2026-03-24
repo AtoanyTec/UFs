@@ -127,11 +127,4 @@ Responder:
 | **Video evidencia** | Completo y claro | Falta algún elemento | Poco claro | No evidencia funcionamiento |
 | **Explicación técnica** | Respuestas completas y bien fundamentadas | Buenas pero superficiales | Incompletas | Incorrectas |
 
----
-
-## 🚀 Nota para el estudiante
-Este examen evalúa tu capacidad de:
-- Integrar hardware + software  
-- Comprender sistemas IoT  
-- Implementar lógica de control  
-- Explicar técnicamente tu solución  
+--- 
