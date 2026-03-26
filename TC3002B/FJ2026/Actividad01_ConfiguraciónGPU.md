@@ -120,7 +120,7 @@ Cada estudiante deberá entregar un documento en formato **PDF o Markdown** que 
 
 ## 📊 Rúbrica de evaluación (100 puntos)
 
-| Criterio | Excelente (100-90) | Bueno (89-80) | Suficiente (79-70) | Insuficiente (<70) |
+| Criterio | Excelente (100-95) | Bueno (94-85) | Suficiente (84-75) | Insuficiente (<75) |
 |----------|------------------|---------------|---------------------|-------------------|
 | Configuración de GPU | GPU correctamente configurada y validada | GPU funcional con detalles menores | GPU parcialmente funcional | No funciona |
 | Evidencia visual | Clara, completa y bien documentada | Clara pero incompleta | Poco clara o parcial | No hay evidencia |
