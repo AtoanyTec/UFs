@@ -13,6 +13,12 @@ Configurar correctamente una GPU para ejecutar modelos de redes neuronales convo
 
 ---
 
+## ⚙️ Sugerencias
+
+Si vas a trabajar en las computadoras del laboratorio o en tu computadora personal, se sugiere que utilices anaconda 🐍
+
+---
+
 ## ⚙️ Opciones para realizar la actividad
 
 Cada estudiante deberá elegir **UNA** de las siguientes opciones:
