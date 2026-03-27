@@ -125,10 +125,8 @@ Piensa en esta actividad no solo como “entrenar un modelo”, sino como una op
 ---
 
 ## 🧾 Formato de entrega
-- Subir un solo archivo en **PDF** o **Markdown**
+- Subir un solo archivo en **PDF**
 - Nombre sugerido del archivo:  
   `Actividad_LeNet_Nombre_Apellido.pdf`  
-  o  
-  `Actividad_LeNet_Nombre_Apellido.md`
 
 ---
