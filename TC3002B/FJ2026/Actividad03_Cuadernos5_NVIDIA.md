@@ -26,7 +26,7 @@ Deberás:
 
 ✅ El objetivo es que **realmente comprendas cómo funcionan las CNNs y cómo se programan**.
 
-> 💡 Este tipo de aprendizaje práctico es clave para tu desarrollo como ingeniero(a). Cometer errores y resolverlos por tu cuenta es parte esencial del proceso.
+> 💡 Este tipo de aprendizaje práctico es clave para tu desarrollo como ingenierox. Cometer errores y resolverlos por tu cuenta es parte esencial del proceso.
 
 ---
 
