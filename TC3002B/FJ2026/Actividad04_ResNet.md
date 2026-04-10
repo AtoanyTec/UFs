@@ -8,7 +8,7 @@ Más allá de ejecutar el código, deberás **analizar los resultados obtenidos 
 ---
 
 ## 🧪 Descripción de la actividad
-Se te proporcionará un **código base** para implementar una red neuronal convolucional **ResNet50**.  
+Se te proporcionará un **[código base](https://drive.google.com/file/d/1xmnyglkhr4E-wvWGDQYCpMvudOOAqcOj/view?usp=sharing)** para implementar una red neuronal convolucional **ResNet50**.  
 
 Tu tarea será:
 1. Ejecutar el entrenamiento del modelo durante **10 épocas**.
