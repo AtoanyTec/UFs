@@ -24,7 +24,7 @@ En esta actividad, deberán:
 
 ## ⚙️ Posibles mejoras (ejemplos)
 
-Pueden considerar (no limitativo):
+Pueden considerar:
 
 - 🔧 Ajuste de hiperparámetros:
   - Learning rate
@@ -87,9 +87,9 @@ Además:
 
 ---
 
-## 🧾 Entregables (OBLIGATORIO)
+## 🧾 Entregables
 
-📌 Documento en PDF o Markdown que incluya:
+📌 Documento en PDF que incluya:
 
 ### 1. Análisis del modelo inicial
 - Métricas
