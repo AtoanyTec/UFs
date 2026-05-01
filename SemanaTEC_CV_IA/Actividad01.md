@@ -1,7 +1,7 @@
 # 🧪 Actividad: Optimización de CV con Inteligencia Artificial
 
 ## 🎯 Objetivo
-Que el estudiante sea capaz de **analizar, mejorar y adaptar su CV** utilizando herramientas de Inteligencia Artificial, considerando criterios reales de sistemas ATS y procesos de reclutamiento.
+**Analizar, mejorar y adaptar su CV** utilizando herramientas de Inteligencia Artificial, considerando criterios reales de sistemas ATS y procesos de reclutamiento.
 
 ---
 
