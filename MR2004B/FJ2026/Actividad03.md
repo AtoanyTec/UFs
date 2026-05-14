@@ -52,6 +52,7 @@ Deberás entregar los siguientes archivos:
 |---|---|---|---|---|---|
 | Funcionamiento de la cuenta regresiva | La cuenta regresiva del 5 al 0 funciona correctamente y con tiempos adecuados. | La secuencia funciona con pequeños errores de tiempo o visualización. | La secuencia funciona parcialmente o presenta varios errores. | La cuenta regresiva no funciona correctamente. | 25% |
 | Uso de puertos A y B | Los puertos A y B están correctamente configurados y conectados al display de 7 segmentos. | Existe un pequeño error en configuración o conexión. | El uso de puertos presenta varios errores funcionales. | Los puertos están mal utilizados o no funcionan. | 15% |
+| Código fuente | El código funciona. | El código funciona parcialmente. | El código tiene algunos errores. | No entregó código. | 20% |
 | Archivo binario (HxD) | El archivo binario corresponde perfectamente al programa desarrollado. | Presenta pequeños errores menores. | El archivo tiene inconsistencias importantes. | El archivo es incorrecto o no funciona. | 10% |
 | Simulación en Proteus | La simulación funciona correctamente y demuestra el comportamiento esperado. | La simulación funciona con pequeños detalles incorrectos. | La simulación funciona parcialmente. | La simulación no funciona. | 15% |
 | Video explicativo | Explica claramente línea por línea el código y la arquitectura del microcontrolador. | La explicación es clara pero incompleta en algunos puntos. | La explicación es limitada o poco clara. | No explica correctamente el funcionamiento. | 15% |
