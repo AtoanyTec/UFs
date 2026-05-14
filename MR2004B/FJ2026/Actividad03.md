@@ -6,6 +6,39 @@ Programar el simulador de microcontrolador de 4 bits para visualizar una **cuent
 
 ---
 
+## 🧠 Importante: Parte fundamental de la actividad
+
+En esta actividad no solamente se espera que logren hacer funcionar la cuenta regresiva. También se espera que desarrollen habilidades fundamentales de ingeniería relacionadas con la **resolución de problemas** y el **pensamiento crítico**.
+
+Durante el desarrollo del programa es completamente normal encontrar errores ⚠️. De hecho, parte del objetivo de la actividad es que aprendan a:
+
+- Identificar errores en el programa o en la simulación.
+- Analizar posibles causas del problema.
+- Revisar el comportamiento del microcontrolador paso a paso.
+- Comprender qué hace cada línea del código.
+- Corregir errores de manera lógica y estructurada.
+
+Si algo no funciona correctamente, no intenten cambiar instrucciones al azar. Lo que deben hacer es analizar cuidadosamente:
+
+- Qué instrucción se está ejecutando.
+- Qué valor tienen los registros.
+- Qué datos se envían a los puertos.
+- Qué debería ocurrir y qué está ocurriendo realmente.
+- En qué parte del proceso aparece el error.
+
+💡 Esto forma parte de su formación como ingenieros, ya que en la vida profesional constantemente tendrán que resolver problemas reales de manera científica y estructurada, encontrando las causas de los errores mediante observación, análisis y pensamiento crítico.
+
+🚀 No se desesperen si el programa no funciona a la primera. Es completamente normal. La programación y el diseño de sistemas digitales requieren paciencia, concentración y análisis.
+
+✅ Sean pacientes.
+✅ Trabajen paso a paso.
+✅ Analicen línea por línea.
+✅ Confíen en el proceso de aprendizaje.
+
+
+
+--- 
+
 ## 📝 Instrucciones para los estudiantes
 
 En esta actividad deberás desarrollar un programa en el simulador de microcontrolador de 4 bits que muestre una cuenta regresiva desde el número **5 hasta el 0** en un display de **7 segmentos**. Programar un bucle con alguna de las instrucciones de **Salto**.
