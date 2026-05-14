@@ -30,10 +30,10 @@ Si algo no funciona correctamente, no intenten cambiar instrucciones al azar. Lo
 
 🚀 No se desesperen si el programa no funciona a la primera. Es completamente normal. La programación y el diseño de sistemas digitales requieren paciencia, concentración y análisis.
 
-✅ Sean pacientes.
-✅ Trabajen paso a paso.
-✅ Analicen línea por línea.
-✅ Confíen en el proceso de aprendizaje.
+✅ Sean pacientes.   
+✅ Trabajen paso a paso.   
+✅ Analicen línea por línea.   
+✅ Confíen en el proceso de aprendizaje.   
 
 
 
