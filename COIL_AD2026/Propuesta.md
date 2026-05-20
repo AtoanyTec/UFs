@@ -88,6 +88,14 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 | Bioenergética | Estudio de la transformación de energía química durante la fermentación y producción de ATP en condiciones anaerobias. |
 | Introducción al metabolismo | Comprensión general de rutas metabólicas como glucólisis y fermentación, así como su relación con las variables monitoreadas mediante sensores. |
 
-
+## 7. Componentes Electrónicos
+- Arduino UNO o MKR WiFi 1010
+- Sensor de temperatura
+- Sensor de humedad
+- Sensor de gas CO₂
+- Sensor de pH
+- Pantalla LCD/OLED
+- LEDs indicadores
+- Módulo WiFi
 
 
