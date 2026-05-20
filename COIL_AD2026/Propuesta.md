@@ -112,6 +112,8 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - Video presentación individual en Padlet
 - Definición del proceso de fermentación a utilizar
 
+---
+
 ### Semana 2 (Diseño Experimental y Bioquímico) - Actividad Colaborativa
 #### Actividades
 - Investigación sobre fermentación.
@@ -123,6 +125,8 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - Documento de diseño experimental.
 - Variables y objetivos definidos.
 
+---
+
 ### Semana 3 (Desarrollo Tecnológico) - Actividad Colaborativa
 #### Actividades
 - Programación Arduino.
@@ -132,6 +136,8 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 #### Entregables
 - Código preliminar.
 - Circuito funcional básico.
+
+---
 
 ### Semana 4 (Integración IoT y Monitoreo) - Actividad Colaborativa
 #### Actividades
@@ -143,6 +149,8 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - Dashboard IoT funcional.
 - Base de datos experimental.
 
+---
+
 ### Semana 5 (Análisis Interdisciplinario) - Actividad Colaborativa
 #### Actividades
 - Interpretación bioquímica de resultados.
@@ -152,6 +160,8 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 #### Entregables
 - Análisis experimental.
 - Discusión interdisciplinaria.
+
+---
 
 ### Semana 6 (Presentación Final Internacional) - Reflexión
 #### Actividades
@@ -164,4 +174,6 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - Video demostrativo.
 - Reporte técnico-científico.
 - Video de reflexión individual en Padlet
+
+---
 
