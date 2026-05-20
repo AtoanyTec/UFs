@@ -98,4 +98,16 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - LEDs indicadores
 - Módulo WiFi
 
+## 8. Cronograma de Actividades
 
+### Semana 1 - Rompehielos
+#### Actividades
+- Presentación entre universidades.
+- Formación de equipos internacionales.
+- Introducción cultural y académica.
+- Introducción al proyecto y objetivos.
+
+#### Entregables
+- Equipos definidos
+- Video presentación individual en Padlet
+- Definición del proceso de fermentación a utilizar
