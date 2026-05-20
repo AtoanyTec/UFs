@@ -48,9 +48,45 @@ Desarrollar un sistema inteligente basado en Arduino e IoT para monitorear varia
 - Diseñar hipótesis experimentales.
 - Relacionar variables experimentales con procesos enzimáticos y metabólicos.
 
+### Competencias Internacionales
+- Trabajar en equipos multiculturales.
+- Comunicar resultados científicos y tecnológicos.
+- Resolver problemas interdisciplinarios.
+- Desarrollar habilidades de colaboración internacional.
 
+## 5. Descripción General del Proyecto
+Los estudiantes formarán equipos internacionales integrados por estudiantes de ambas universidades.
 
+Cada equipo desarrollará un prototipo experimental utilizando Arduino y sensores electrónicos para monitorear variables relacionadas con un proceso de fermentación biológica.
 
+El sistema podrá medir:
+
+- Temperatura
+- Humedad
+- pH
+- Concentración de CO₂
+- Tiempo de fermentación
+
+Los datos serán analizados desde una perspectiva:
+
+- Tecnológica
+- Experimental
+- Bioquímica.
+
+Finalmente, los equipos presentarán una propuesta funcional y un análisis interdisciplinario del proceso monitoreado.
+
+## 6. Relación con la Bioquímica
+| Tema de Bioquímica | Relación con el Proyecto |
+|---|---|
+| Química ácidos-bases | Monitoreo de variaciones de pH durante el proceso de fermentación y análisis del efecto de la acidez en la actividad metabólica de los microorganismos. |
+| Glúcidos | Estudio del consumo de azúcares como fuente de energía durante la fermentación y su relación con la producción de CO₂ y metabolitos. |
+| Lípidos | Análisis del impacto de compuestos lipídicos en membranas celulares y metabolismo microbiano durante procesos fermentativos. |
+| Nucleótidos y ácidos nucleicos | Comprensión del papel del ADN y ARN en la regulación y reproducción de los microorganismos involucrados en la fermentación. |
+| Proteínas | Relación entre proteínas celulares y procesos metabólicos necesarios para la actividad biológica de las levaduras o bacterias utilizadas. |
+| Enzimas, catálisis, cinética y regulación | Estudio de la actividad enzimática responsable de las reacciones de fermentación y análisis de factores que afectan la velocidad de reacción metabólica. |
+| Vitaminas y coenzimas | Análisis de la función de vitaminas y coenzimas como moléculas auxiliares en reacciones metabólicas y procesos energéticos celulares. |
+| Bioenergética | Estudio de la transformación de energía química durante la fermentación y producción de ATP en condiciones anaerobias. |
+| Introducción al metabolismo | Comprensión general de rutas metabólicas como glucólisis y fermentación, así como su relación con las variables monitoreadas mediante sensores. |
 
 
 
