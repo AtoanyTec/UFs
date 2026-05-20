@@ -212,3 +212,21 @@ Se espera que los estudiantes:
 - Comprendan la importancia del trabajo multidisciplinario
 - Apliquen conocimientos teóricos en un problema real
 
+Asimismo, el proyecto podrá generar:
+
+- Evidencias de internacionalización,
+- Innovación educativa,
+- Posibles publicaciones académicas,
+- Participación en congresos educativos STEM.
+
+## 11. Beneficios para Ambas Universidades
+- Fortalecimiento de experiencias COIL.
+- Desarrollo de proyectos interdisciplinarios.
+- Vinculación internacional entre estudiantes y profesores.
+- Integración de ingeniería y ciencias biológicas.
+- Promoción de aprendizaje basado en proyectos.
+
+## 12. Conclusión
+La propuesta “BioLab IoT” permitirá desarrollar una experiencia educativa interdisciplinaria e internacional que combine bioquímica, automatización y tecnologías IoT mediante un proyecto práctico y colaborativo de 6 semanas.
+
+El proyecto fomentará competencias científicas, tecnológicas e interculturales alineadas con los retos globales actuales y promoverá el aprendizaje significativo mediante la integración de teoría, experimentación y desarrollo tecnológico.
