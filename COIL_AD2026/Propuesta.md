@@ -186,3 +186,29 @@ La experiencia se desarrollará mediante:
 - Análisis conjunto de resultados
 - Presentaciones internacionales
 
+Se fomentará el intercambio académico, cultural, científico y tecnológico
+
+## 10. Entregables Finales
+### Técnicos
+- Código fuente Arduino
+- Circuito electrónico
+- Dashboard IoT
+- Prototipo funcional
+
+### Científicos
+- Reporte experimental
+- Interpretación bioquímica
+- Discusión de resultados
+
+### Internacionalización
+- Video reflexión intercultural
+- Presentación conjunta internacional
+
+## Resultados Esperados
+Se espera que los estudiantes:
+- Integren conocimientos de ingeniería y bioquímica
+- Desarrollen competencias técnicas y científicas
+- Fortalezcan habilidades interculturales
+- Comprendan la importancia del trabajo multidisciplinario
+- Apliquen conocimientos teóricos en un problema real
+
