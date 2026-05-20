@@ -227,6 +227,6 @@ Asimismo, el proyecto podrá generar:
 - Promoción de aprendizaje basado en proyectos.
 
 ## 13. Conclusión
-La propuesta “BioLab IoT” permitirá desarrollar una experiencia educativa interdisciplinaria e internacional que combine bioquímica, automatización y tecnologías IoT mediante un proyecto práctico y colaborativo de 6 semanas.
+La propuesta “BIoTLab” permitirá desarrollar una experiencia educativa interdisciplinaria e internacional que combine bioquímica, automatización y tecnologías IoT mediante un proyecto práctico y colaborativo de 6 semanas.
 
 El proyecto fomentará competencias científicas, tecnológicas e interculturales alineadas con los retos globales actuales y promoverá el aprendizaje significativo mediante la integración de teoría, experimentación y desarrollo tecnológico.
