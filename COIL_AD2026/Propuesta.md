@@ -204,7 +204,7 @@ Se fomentará el intercambio académico, cultural, científico y tecnológico
 - Video reflexión intercultural
 - Presentación conjunta internacional
 
-## Resultados Esperados
+## 11. Resultados Esperados
 Se espera que los estudiantes:
 - Integren conocimientos de ingeniería y bioquímica
 - Desarrollen competencias técnicas y científicas
@@ -219,14 +219,14 @@ Asimismo, el proyecto podrá generar:
 - Posibles publicaciones académicas,
 - Participación en congresos educativos STEM.
 
-## 11. Beneficios para Ambas Universidades
+## 12. Beneficios para Ambas Universidades
 - Fortalecimiento de experiencias COIL.
 - Desarrollo de proyectos interdisciplinarios.
 - Vinculación internacional entre estudiantes y profesores.
 - Integración de ingeniería y ciencias biológicas.
 - Promoción de aprendizaje basado en proyectos.
 
-## 12. Conclusión
+## 13. Conclusión
 La propuesta “BioLab IoT” permitirá desarrollar una experiencia educativa interdisciplinaria e internacional que combine bioquímica, automatización y tecnologías IoT mediante un proyecto práctico y colaborativo de 6 semanas.
 
 El proyecto fomentará competencias científicas, tecnológicas e interculturales alineadas con los retos globales actuales y promoverá el aprendizaje significativo mediante la integración de teoría, experimentación y desarrollo tecnológico.
