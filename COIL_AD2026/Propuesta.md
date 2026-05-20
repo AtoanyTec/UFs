@@ -177,3 +177,12 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 
 ---
 
+## Metodología COIL
+La experiencia se desarrollará mediante:
+
+- Dos reuiniones virtuales internacionales (rompehielos y reflexión) síncronas
+- Trabajo colaborativo en línea asíncrono
+- Actividades interdisciplinarias
+- Análisis conjunto de resultados
+- Presentaciones internacionales
+
