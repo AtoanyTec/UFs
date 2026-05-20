@@ -100,7 +100,7 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 
 ## 8. Cronograma de Actividades
 
-### Semana 1 - Rompehielos
+### Semana 1 (Integración COIL e Introducción) - Rompehielos 
 #### Actividades
 - Presentación entre universidades.
 - Formación de equipos internacionales.
@@ -111,3 +111,57 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 - Equipos definidos
 - Video presentación individual en Padlet
 - Definición del proceso de fermentación a utilizar
+
+### Semana 2 (Diseño Experimental y Bioquímico) - Actividad Colaborativa
+#### Actividades
+- Investigación sobre fermentación.
+- Diseño de hipótesis experimentales.
+- Definición de variables a medir.
+- Selección de sensores.
+
+### Entregables
+- Documento de diseño experimental.
+- Variables y objetivos definidos.
+
+### Semana 3 (Desarrollo Tecnológico) - Actividad Colaborativa
+#### Actividades
+- Programación Arduino.
+- Integración de sensores.
+- Pruebas iniciales de adquisición de datos.
+
+#### Entregables
+- Código preliminar.
+- Circuito funcional básico.
+
+### Semana 4 (Integración IoT y Monitoreo) - Actividad Colaborativa
+#### Actividades
+- Implementación de visualización de datos.
+- Monitoreo experimental.
+- Registro de datos.
+
+#### Entregables
+- Dashboard IoT funcional.
+- Base de datos experimental.
+
+### Semana 5 (Análisis Interdisciplinario) - Actividad Colaborativa
+#### Actividades
+- Interpretación bioquímica de resultados.
+- Discusión de comportamiento metabólico.
+- Comparación de resultados entre equipos.
+
+#### Entregables
+- Análisis experimental.
+- Discusión interdisciplinaria.
+
+### Semana 6 (Presentación Final Internacional) - Reflexión
+#### Actividades
+- Presentación internacional de proyectos.
+- Demostración funcional.
+- Reflexión intercultural y académica.
+
+#### Entregables
+- Presentación final.
+- Video demostrativo.
+- Reporte técnico-científico.
+- Video de reflexión individual en Padlet
+
