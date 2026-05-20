@@ -177,7 +177,7 @@ Finalmente, los equipos presentarán una propuesta funcional y un análisis inte
 
 ---
 
-## Metodología COIL
+## 9. Metodología COIL
 La experiencia se desarrollará mediante:
 
 - Dos reuiniones virtuales internacionales (rompehielos y reflexión) síncronas
