@@ -99,7 +99,7 @@ Calcule:
 Considere:
 
 - Voltaje de barrera del diodo.
-- Resistencia dinámica del diodo $(\(r_d\))$ proporcionada por el profesor o la hoja de datos.
+- Resistencia dinámica del diodo $(\(r_d\))$ igual a 10 ohms.
 
 Calcule:
 
