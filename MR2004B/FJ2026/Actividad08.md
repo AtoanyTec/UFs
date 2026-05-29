@@ -27,10 +27,14 @@ Esta actividad permitirá comprender las diferencias entre los modelos teóricos
 
 ### Parte 1. Construcción del circuito
 
-1. Arme el circuito mostrado en la figura proporcionada por el profesor.
+1. Arme el circuito mostrado en la figura.
 2. Verifique cuidadosamente la polaridad del diodo antes de energizar el circuito.
 3. Solicite la revisión del profesor antes de conectar la fuente de alimentación.
 4. Energice el circuito utilizando el voltaje especificado.
+
+
+<img width="409" height="405" alt="image" src="https://github.com/user-attachments/assets/e1b3b2b1-7af5-4946-8d5e-7d455ae0ba26" />
+
 
 ---
 
@@ -42,19 +46,19 @@ Utilizando el multímetro, mida y registre los siguientes valores:
 
 Mida el voltaje entre el ánodo y el cátodo del diodo.
 
-**Variable:** \(V_F\)
+**Variable:** $\(V_F\)$
 
 #### 2. Corriente del diodo
 
 Mida la corriente que circula por el circuito.
 
-**Variable:** \(I_F\)
+**Variable:** $\(I_F\)$
 
 #### 3. Voltaje en la resistencia limitadora
 
 Mida la caída de voltaje en la resistencia.
 
-**Variable:** \(V_R\)
+**Variable:** $\(V_R\)$
 
 Registre todas las mediciones en una tabla de resultados.
 
@@ -68,12 +72,12 @@ Realice los cálculos del circuito utilizando los siguientes modelos:
 
 Considere:
 
-- \(V_F = 0V\)
+- $\(V_F = 0V\)$
 
 Calcule:
 
-- Corriente del diodo \(I_F\)
-- Voltaje en la resistencia \(V_R\)
+- Corriente del diodo $\(I_F\)$
+- Voltaje en la resistencia $\(V_R\)$
 
 ---
 
@@ -81,12 +85,12 @@ Calcule:
 
 Considere:
 
-- \(V_F = 0.7V\) para un diodo de silicio
+- $\(V_F = 0.7V\)$ para un diodo de silicio
 
 Calcule:
 
-- Corriente del diodo \(I_F\)
-- Voltaje en la resistencia \(V_R\)
+- Corriente del diodo $\(I_F\)$
+- Voltaje en la resistencia $\(V_R\)$
 
 ---
 
@@ -95,13 +99,13 @@ Calcule:
 Considere:
 
 - Voltaje de barrera del diodo.
-- Resistencia dinámica del diodo (\(r_d\)) proporcionada por el profesor o la hoja de datos.
+- Resistencia dinámica del diodo $(\(r_d\))$ proporcionada por el profesor o la hoja de datos.
 
 Calcule:
 
-- Voltaje del diodo \(V_F\)
-- Corriente \(I_F\)
-- Voltaje en la resistencia \(V_R\)
+- Voltaje del diodo $\(V_F\)$
+- Corriente $\(I_F\)$
+- Voltaje en la resistencia $\(V_R\)$
 
 ---
 
@@ -111,9 +115,9 @@ Complete una tabla similar a la siguiente:
 
 | Parámetro | Medido | Modelo Ideal | Modelo Práctico | Modelo Completo |
 |------------|---------|---------|---------|---------|
-| Voltaje del diodo \(V_F\) | | | | |
-| Corriente \(I_F\) | | | | |
-| Voltaje en la resistencia \(V_R\) | | | | |
+| Voltaje del diodo $\(V_F\)$ | | | | |
+| Corriente $\(I_F\)$ | | | | |
+| Voltaje en la resistencia $\(V_R\)$ | | | | |
 
 ---
 
