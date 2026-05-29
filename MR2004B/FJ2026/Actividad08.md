@@ -1,4 +1,4 @@
-# Actividad: Análisis Experimental de un Diodo Utilizando los Modelos Ideal, Práctico y Completo
+# Actividad: Análisis Experimental de un Diodo
 
 ## 🎯 Objetivo
 
