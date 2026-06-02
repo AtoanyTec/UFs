@@ -1,8 +1,8 @@
-# Actividad: Análisis y Medición de un Transistor BJT en Polarización Fija
+# Actividad 11: Análisis y Medición de un Transistor BJT
 
 ## 🎯 Objetivo
 
-Analizar el funcionamiento de un transistor BJT NPN en configuración de polarización fija, calculando y verificando experimentalmente las corrientes y voltajes principales del circuito.
+Analizar el funcionamiento de un transistor BJT NPN, calculando y verificando experimentalmente las corrientes y voltajes principales del circuito.
 
 ---
 
@@ -27,6 +27,9 @@ Construye el circuito mostrado en la figura utilizando los siguientes valores:
 - VBB = 6 V
 - VCC = 9 V
 - βDC = 90
+
+<img width="696" height="521" alt="image" src="https://github.com/user-attachments/assets/f513192e-7bf9-4f03-b019-91425968e7dd" />
+
 
 ---
 
