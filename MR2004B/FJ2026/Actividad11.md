@@ -102,8 +102,4 @@ Utilizando el multímetro, mide:
 | Mediciones experimentales | 50% |
 | **Total** | **100%** |
 
----
 
-## 💡 Recomendaciones
-
-Durante la práctica es normal encontrar diferencias entre los valores teóricos y experimentales. Si los resultados no coinciden, no te desesperes. Analiza el circuito de manera sistemática, verifica conexiones, polaridades y mediciones. La capacidad de identificar errores, encontrar sus causas y corregirlos es una habilidad fundamental en la formación de un ingeniero. Utiliza el pensamiento crítico y el método científico para justificar cada resultado obtenido.
