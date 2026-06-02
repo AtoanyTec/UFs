@@ -81,30 +81,16 @@ Utilizando el multímetro, mide:
 
 ---
 
-### Parte 4. Análisis de resultados
-
-Responde las siguientes preguntas:
-
-1. ¿Qué diferencia existe entre los valores calculados y medidos?
-2. ¿A qué se deben las diferencias observadas?
-3. ¿Se encuentra el transistor en región activa, corte o saturación? Justifica tu respuesta.
-4. ¿Qué ocurriría si se incrementa el valor de RB?
-5. ¿Qué ocurriría si se disminuye el valor de RC?
-
----
 
 ## 📄 Entregables
 
-### Reporte en formato PDF que incluya:
+### Evidencia en PDF que incluya:
 
 - Portada
-- Objetivo
 - Desarrollo de cálculos
 - Evidencia fotográfica del circuito armado
 - Tabla de resultados (calculados y medidos)
 - Cálculo del porcentaje de error
-- Respuestas a las preguntas de análisis
-- Conclusiones individuales
 
 ---
 
@@ -112,11 +98,8 @@ Responde las siguientes preguntas:
 
 | Criterio | Porcentaje |
 |-----------|-----------|
-| Cálculos teóricos correctos | 30% |
-| Implementación correcta del circuito | 20% |
-| Mediciones experimentales | 20% |
-| Análisis y discusión de resultados | 20% |
-| Presentación y calidad del reporte | 10% |
+| Cálculos teóricos correctos | 50% |
+| Mediciones experimentales | 50% |
 | **Total** | **100%** |
 
 ---
