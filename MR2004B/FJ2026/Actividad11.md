@@ -50,9 +50,9 @@ Antes de armar el circuito, calcula los siguientes parámetros:
 - Utiliza el modelo práctico del transistor.
 - Considera:
   
-  \[
+  $\[
   V_{BE}=0.7V
-  \]
+  \]$
 
 - Emplea las ecuaciones vistas en clase para determinar cada parámetro.
 
