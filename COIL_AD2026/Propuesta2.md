@@ -26,7 +26,7 @@ El proyecto consiste en el desarrollo de una plataforma capaz de recopilar, inte
 
 ## Participación de los estudiantes de Medicina
 
-Los estudiantes de Medicina tendrán un papel central en el proyecto al aportar los conocimientos clínicos y bioquímicos necesarios para comprender la relevancia de cada variable asociada al riesgo cardiovascular. Sus responsabilidades incluirán:
+Los estudiantes de Medicina aportarán los conocimientos clínicos y bioquímicos necesarios para comprender la relevancia de cada variable asociada al riesgo cardiovascular. Sus responsabilidades incluirán:
 
 - Diseñar los instrumentos de recolección de datos clínicos.
 - Justificar la importancia de cada variable desde una perspectiva médica y bioquímica.
