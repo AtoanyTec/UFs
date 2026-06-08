@@ -21,7 +21,7 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 <img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/d74247f9-8e8b-42d7-a663-a8de5f1c8e6c" />
 
 
-3. Seleccione un valor comercial para $\(R_C\)$.
+3. Seleccione un valor comercial para $\(R_C\)$ en un rango de [470 y 2.2k].
 
 4. Seleccione un valor comercial para $\(R_B\)$.
 
