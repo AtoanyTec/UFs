@@ -49,12 +49,7 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
    V_{CE}
    \]$
 
-8. Determine la región de operación del transistor:
-   - Corte
-   - Activa
-   - Saturación
-
-9. Justifique su respuesta con base en los valores obtenidos de $\(I_B\)$, $\(I_C\)$ y $\(V_{CE}\)$.
+8. Justifique su respuesta con base en los valores obtenidos de $\(I_B\)$, $\(I_C\)$ y $\(V_{CE}\)$.
 
 ## 📦 Entregables
 
