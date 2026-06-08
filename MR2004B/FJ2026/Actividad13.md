@@ -4,14 +4,14 @@
 
 Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor común para que opere en la **región de corte**.
 
-## Datos
+## 📋 Datos
 
 - $\(V_{CC}=12V\)$
 - $\(V_{BB}=0.5V\)$
 - $\(V_{BE(on)}\approx 0.7V\)$
 - Transistor: P2N2222A
 
-## Actividades
+## 📝 Actividades
 
 1. Dibuje el circuito con:
    - Una resistencia \(R_C\) conectada entre $\(V_{CC}\)$ y el colector.
@@ -53,7 +53,7 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 
 9. Justifique su respuesta con base en los valores obtenidos de $\(I_B\)$, $\(I_C\)$ y $\(V_{CE}\)$.
 
-## Entregables
+## 📦 Entregables
 
 - Circuito esquemático.
 - Simulación en proteus donde se visualice la medicón de $\(V_{CE}\)$.
