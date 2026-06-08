@@ -55,6 +55,6 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 
 - Circuito esquemático.
 - Simulación en proteus donde se visualice la medicón de $\(V_{CE}\)$.
-- Cálculo de $\(R_B\)$ y $\(R_C\)$.
+- Valores de $\(R_B\)$ y $\(R_C\)$.
 - Cálculo de $\(I_B\)$, $\(I_C\)$ y $\(V_{CE}\)$.
 - Conclusión indicando la región de operación del transistor.
