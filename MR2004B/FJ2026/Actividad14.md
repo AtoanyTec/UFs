@@ -43,7 +43,7 @@ $\[
 I_C=10mA
 \]$
 
-Determine el valor de \(R_C\) necesario para obtener el punto de operación deseado.
+Determine el valor de $\(R_C\)$ necesario para obtener el punto de operación deseado.
 
 ### 4️⃣ Calcule la corriente de base
 
