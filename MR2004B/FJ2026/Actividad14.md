@@ -22,6 +22,9 @@ Incluya los siguientes elementos:
 - 🔹 Una resistencia $\(R_B\)$ conectada entre $\(V_{BB}\)$ y la base.
 - 🔹 El emisor conectado a tierra (GND).
 
+<img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/12c0fd41-09b7-4909-aa00-01f72eb93442" />
+
+
 ### 2️⃣ Diseñe el punto de operación
 
 Para que el transistor opere en la región activa, ubique el punto Q aproximadamente en el centro de la recta de carga.
