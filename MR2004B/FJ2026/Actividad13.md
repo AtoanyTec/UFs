@@ -18,23 +18,26 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
    - Una resistencia \(R_B\) conectada entre $\(V_{BB}\)$ y la base.
    - El emisor conectado a tierra.
 
-2. Seleccione un valor comercial para $\(R_C\)$.
+<img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/d74247f9-8e8b-42d7-a663-a8de5f1c8e6c" />
 
-3. Seleccione un valor comercial para $\(R_B\)$.
 
-4. Verifique si la unión base-emisor está polarizada directamente comparando:
+3. Seleccione un valor comercial para $\(R_C\)$.
+
+4. Seleccione un valor comercial para $\(R_B\)$.
+
+5. Verifique si la unión base-emisor está polarizada directamente comparando:
 
    $\[
    V_{BB} \quad \text{y} \quad V_{BE(on)}
    \]$
 
-5. Calcule la corriente de base utilizando:
+6. Calcule la corriente de base utilizando:
 
    $\[
    I_B=\frac{V_{BB}-V_{BE}}{R_B}
    \]$
 
-6. Determine la corriente de colector:
+7. Determine la corriente de colector:
 
   $\[
    I_C
