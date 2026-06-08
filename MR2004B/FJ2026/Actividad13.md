@@ -23,7 +23,7 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 
 3. Seleccione un valor comercial para $\(R_C\)$ en un rango de [470 y 2.2k].
 
-4. Seleccione un valor comercial para $\(R_B\)$.
+4. Seleccione un valor 10k para $\(R_B\)$.
 
 5. Verifique si la unión base-emisor está polarizada directamente comparando:
 
