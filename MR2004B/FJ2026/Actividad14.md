@@ -74,15 +74,8 @@ $\[
 V_{CE}=V_{CC}-I_CR_C
 \]$
 
-### 8️⃣ Identifique la región de operación
 
-Seleccione una de las siguientes opciones:
-
-- ⛔ Corte
-- 📈 Activa
-- 🔛 Saturación
-
-### 9️⃣ Justifique su respuesta
+### 8️⃣ Justifique su respuesta
 
 Explique por qué el transistor se encuentra en la región activa utilizando los valores obtenidos de:
 
