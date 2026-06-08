@@ -36,7 +36,7 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 
 6. Determine la corriente de colector:
 
-  $ \[
+  $\[
    I_C
    \]$
 
