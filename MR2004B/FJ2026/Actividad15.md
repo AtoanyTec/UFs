@@ -97,12 +97,3 @@ Explique por qué el transistor se encuentra en saturación utilizando los valor
 
 ✅ Conclusión indicando la región de operación del transistor.
 
-
-
-4. ¿Por qué la región de saturación es útil cuando el transistor trabaja como interruptor?
-
-💡 **Pista:** En saturación, el transistor se comporta como un interruptor cerrado, por lo que:
-
-\[
-V_{CE}\approx V_{CE(sat)}
-\]
