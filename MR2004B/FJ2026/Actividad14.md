@@ -35,7 +35,7 @@ $\[
 V_{CEQ}\approx \frac{V_{CC}}{2}
 \]$
 
-### 3️⃣ Calcule el valor de \(R_C\)
+### 3️⃣ Calcule el valor de $\(R_C\)$
 
 Considere una corriente de colector de:
 
