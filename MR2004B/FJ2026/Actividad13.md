@@ -1,6 +1,6 @@
-# Ejercicio: Diseño de un transistor P2N2222A en corte
+# 🔌 Ejercicio: Diseño de un transistor P2N2222A en corte
 
-## Objetivo
+## 🎯 Objetivo
 
 Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor común para que opere en la **región de corte**.
 
