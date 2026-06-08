@@ -24,6 +24,10 @@ Incluya:
 - 🔹 Una resistencia $\(R_B\)$ conectada entre $\(V_{BB}\)$ y la base.
 - 🔹 El emisor conectado a tierra (GND).
 
+
+<img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/a0e41fc5-6c55-4df2-a99a-c08e91892414" />
+
+
 ### 2️⃣ Calcule el valor de $\(R_C\)$
 
 Utilice:
