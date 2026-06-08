@@ -14,8 +14,8 @@ Diseñar un circuito con un transistor **P2N2222A** en configuración de emisor 
 ## 📝 Actividades
 
 1. Dibuje el circuito con:
-   - Una resistencia \(R_C\) conectada entre $\(V_{CC}\)$ y el colector.
-   - Una resistencia \(R_B\) conectada entre $\(V_{BB}\)$ y la base.
+   - Una resistencia $\(R_C\)$ conectada entre $\(V_{CC}\)$ y el colector.
+   - Una resistencia $\(R_B\)$ conectada entre $\(V_{BB}\)$ y la base.
    - El emisor conectado a tierra.
 
 <img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/d74247f9-8e8b-42d7-a663-a8de5f1c8e6c" />
