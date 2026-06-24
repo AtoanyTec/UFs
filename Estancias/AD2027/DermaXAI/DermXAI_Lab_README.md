@@ -63,10 +63,10 @@ en Inteligencia Artificial Explicable que combine **alta precisión**,
 
 ## 📚 Etapa 1 --- Capacitación
 
--   Revisión bibliográfica
--   Deep Learning
--   XAI
--   Dermatología
+-   Revisión bibliográfica   
+-   Deep Learning   
+-   XAI   
+-   Dermatología   
 
 **Entregables** - Reporte del estado del arte - Presentación
 
@@ -188,12 +188,12 @@ Los estudiantes seleccionados serán contactados por correo electrónico.
 
 # 📊 Criterios de evaluación
 
-  Criterio                Peso
-  --------------------- ------
-  Motivación               35%
-  Entrevista               35%
-  Programación e IA        20%
-  Historial académico      10%
+| Criterio | Peso |
+|-----------|-----:|
+| Motivación e interés por la investigación | **35%** |
+| Entrevista | **35%** |
+| Conocimientos básicos de programación e Inteligencia Artificial | **20%** |
+| Historial académico | **10%** |
 
 ------------------------------------------------------------------------
 
