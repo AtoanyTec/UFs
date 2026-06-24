@@ -45,17 +45,17 @@ en Inteligencia Artificial Explicable que combine **alta precisión**,
 
 # 🛠 Tecnologías que utilizarás
 
-  Tecnología        Uso
-  ----------------- ------------------------------------
-  🐍 Python         Desarrollo del proyecto
-  🔥 PyTorch        Entrenamiento de redes neuronales
-  🖼️ ResNet50       Modelo base de clasificación
-  ⚡ SimCLR         Aprendizaje contrastivo
-  🌡️ Grad-CAM       Explicaciones visuales
-  🧠 TCAV           Explicaciones basadas en conceptos
-  ☁️ Google Colab   Entrenamiento en GPU
-  🌿 Git & GitHub   Control de versiones
-  🤗 Hugging Face   Gestión de datasets y modelos
+| Tecnología | Uso |
+|------------|-----|
+| 🐍 **Python** | Desarrollo del proyecto |
+| 🔥 **PyTorch** | Entrenamiento de redes neuronales |
+| 🖼️ **ResNet50** | Modelo base de clasificación |
+| ⚡ **SimCLR** | Aprendizaje contrastivo |
+| 🌡️ **Grad-CAM** | Explicaciones visuales |
+| 🧠 **TCAV** | Explicaciones basadas en conceptos |
+| ☁️ **Google Colab** | Entrenamiento utilizando GPU en la nube |
+| 🌿 **Git & GitHub** | Control de versiones y colaboración |
+| 🤗 **Hugging Face** | Gestión de datasets y modelos preentrenados |
 
 ------------------------------------------------------------------------
 
